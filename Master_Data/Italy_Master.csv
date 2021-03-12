@@ -1,0 +1,51 @@
+SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,CONCAT_ADDRESS
+CDM,ICON,C16007,28001,,Italy,"Cardiology - Amyloidosis Research & Treatment Center, Fondazione IRCCS Policlinico San Matteo",,Pavia,27100,ACTIVE,Viale Golgi 19  
+CDM,ICON,C25001,28001,,Italy,Azienda Sanitaria Ospedaliera S.Giovanni Battista (Molinette),Italy,Torino,10126,ACTIVE,Ospedale S.Giovanni Battista (Molinette) Dermatologia 2 Corso Bramante 88/90
+CDM,ICON,C25001,28003,,Italy,Ist.Ematologia E Oncologia Medica L.E A.Seragnoli,,Bologna,40138,ACTIVE,"Azienda Ospedaliero-Universitaria, Policlinico S.Orsola-Malpighi, Via Massarenti 9 Istituto di Ematologia ""L. e  A.Seragnoli"" Via Massarenti 9"
+CDM,ICON,C25002,28001,,Italy,"Clinica di Oncoematologia Pediatrica, Azienda Ospedaliera-Universita di Padova",Italy,Padova,35128,ACTIVE,"Via Giustiniani,3  "
+CDM,ICON,C25003,,,Italy,EMATOLOGIA 1,,Genova,16132,ACTIVE,"IRCCS AOU SAN MARTINO IST Largo R. Benzi, 10 monoblocco 11° piano lato ponente"
+CDM,ICON,C25001,28004,,Italy,Azienda Ospedaliera Universitaria Careggi,Italy,Firenze,50134,ACTIVE,A.O.U. Careggi Ematologia Pad. 16 Largo Brambilla 3
+CDM,ICON,C25003,,,Italy,Clinica Ematologica Ospedale Policlinico San Martino IRCCS,GE,Genova,16132,ACTIVE,"IRCCS AOU S. Martino-IST, Largo Rosanna Benzi 10  "
+CDM,ICON,C25003,28002,,Italy,Pharmacy,Italy,Napoli,80131,ACTIVE,"Azienda Ospedaliera Universitaria ""Federico II"" Via Sergio Pansini 5 padiglione 24"
+CDM,ICON,C25003,28002,,Italy,Radiology,Napoli,Italy,80131,ACTIVE,"Azienda Ospedaliera Universitaria ""Federico II"" Via Sergio Pansini 5 "
+CDM,ICON,C25003,28004,,Italy,Comitato Etico Indipendente Cagliari,,Cagliari,9124,ACTIVE,Via Ospedale 54  
+CDM,ICON,C25003,28004,,Italy,"Local Laboratory- Ospedale Oncologico di Riferimento Regionale ""Armando Businco""",,Cagliari,9121,ACTIVE,Via Edward Jenner  
+CDM,ICON,C25003,28008,,Italy,Clinica Di Ematologia - Ospedali Riuniti Di Ancona,,Torrette Di Ancona,60020,ACTIVE,Via Conca 71  
+CDM,ICON,C25003,28009,,Italy,Comitato Etico IRCCS I.F.O.,,Roma,144,ACTIVE,Via Elio Chianesi 53  
+CDM,ICON,C25003,28013,,Italy,Comitato Etico Indipendente INT Milano,,Milano,20133,ACTIVE,Via Giacomo Venezian 1  
+CDM,ICON,C16007,28001,,Italy,Comitato Di Bioetica,Pavia,Pavia,27100,ACTIVE,"c/o Direzione Scientifica (Padiglone 10B) Viale Golgi, 19 "
+CDM,ICON,C25003,28002,,Italy,Azienda Ospedaliero Universitaria Federico II di Napoli,Campania,Napoli,80131,ACTIVE,"Policlinico Federico II, via S. Pansini 5 Via Sergio Pansini 5 "
+CDM,ICON,C25003,28002,,Italy,Universita degli Studi di Napoli Federico II,Napoli,Napoli,80131,ACTIVE,Via Pansini  5 Via Sergio Pansini 5 
+CDM,ICON,C25003,28004,,Italy,UO Ematologia E CTMO Ospedale Oncologico A Businco,,Cagliari,9121,ACTIVE,Via E. Jenner 1  
+CDM,ICON,C25003,28005,,Italy,Comitato Etico Università Cattolica Sacro Cuore,,Roma,168,ACTIVE,Largo A. Gemelli 8  
+CDM,ICON,C25003,28005,,Italy,Dipartimento di Bioimaging e Scienze Radiologiche,,Roma,168,ACTIVE,"Policlinico Universitario A. Gemelli - Università Cattolica S. Cuore Largo A. Gemelli, 8 "
+CDM,ICON,C16007,28001,,Italy,ERT Shipment Address - Fondazione IRCC Policlinico San Matteo Centro Amiloidosi,,Pavia,27100,ACTIVE,Padiglione Forlanini 3° piano Piazzale Golgi 19 
+CDM,ICON,C25002,28002,,Italy,Osppedale Bambin gesu,Rome,Rome,165,ACTIVE,San¿Onofrio 4  
+CDM,ICON,C25002,28002,,Italy,S.C. Farmacia Ospedaliera IRCCS Ospedale Pediatrico Bambino Gesù,Italy,Rome,165,ACTIVE,"Piazza Sant'Onofrio, 4  "
+CDM,ICON,C25003,,,Italy,IRCCS - Azienda Ospedaliera Universitaria - IST San Martino,Genova,Genova,16132,ACTIVE,Largo Rosanna Benzi 10  
+CDM,ICON,HGT-MLD-071,36,,Italy,Unita Operativa Di Epidemiologia,,Roma,165,ACTIVE,"Osp. Bambino Gesù, P.Zza S. Onofrio, 165  "
+CDM,IQVIA,161302,161302-501,1-1V0B3CR,Italy,Azienda Ospedaliero Universitaria Pisana,Pisa,Pisa,56126,Dropped,Via Roma 67  
+CDM,ICON,C25003,28009,,Italy,Laboratorio Analisi del Dipartimento di Ematologia Istituto Regina Elena,Italy,Rome,144,ACTIVE,Regina Elena Cancer Institute Via Elio Chianesi 53 
+CDM,ICON,C25003,28010,,Italy,S.C Ematologia Aso S.Croce E Carle,Italy,Cuneo,12100,ACTIVE,Cuneo Via M.Cappino 26  
+CDM,ICON,C25003,28011,,Italy,IRCCS Centro di Riferimento Oncologico della Basilicata,,Rionero in Volture,85028,ACTIVE,Dipartimento Onco-Ematologico Via Padre Pio 1 
+CDM,ICON,C25003,28012,,Italy,Istituto clinico HUMANITAS - HUMANITAS Cancer Center,,Rozzano ¿ Milano,20089,ACTIVE,"Head of Hematology Department Via Manzoni, 56 "
+CDM,ICON,C25003,28012,,Italy,Servizio Farmacia - Istituto Clinico Humanitas,,Rozzano (MI),20089,ACTIVE,"Via Manzoni, 56 Via Manzoni, 56 "
+CDM,ICON,C25003,28013,,Italy,Fondazione IRCCS Istituto Nazionale Dei Tumori,,Milano,20133,ACTIVE,Via Venezian 1  
+CDM,IQVIA,71102,383,1-2OX1HYL,Italy,Azienda Ospedaliera Pediatrica Santobono Pausillipon,Napoli,Napoli,80122,Enrollment Open,"Via Posillipo, 226  "
+CDM,IQVIA,71301,386,1-2XP5W0X,Italy,Fondazione Policlinico Universitario Agostino Gemelli IRCCS,Roma,Roma,168,Closed,Servizio malattie emorragiche e trombotiche Largo gemelli 8 Ala J piano 3 
+CDM,IQVIA,161301,161301-051,1-2PH8CNB,Italy,Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia,Brescia,Brescia,25123,Dropped,Piazzale Spedali Civili S/N  
+CDM,IQVIA,161302,161302-500,1-1UX7Y8E,Italy,Azienda Ospedaliero Universitaria Ospedali Riuniti,Torrette di Ancona,Ancona,60126,Dropped,"Via Conca, 71 ITA1671 "
+CDM,IQVIA,161403,281,1-1JNRSH1,Italy,Azienda Ospedaliera Città della Salute e della Scienza di Torino,Torino,Torino,10126,Enrollment Open,Corso Spezia 60  
+CDM,IQVIA,161403,282,1-1RBBRAC,Italy,Azienda Ospedaliero-Universitaria Santa Maria della Misericordia,Udine,Udine,33100,Enrollment Open,P.le S.Maria della Misericordia 15  
+CDM,IQVIA,161403,283,1-1QG1FDL,Italy,IRCCS Ospedale Casa Sollievo della Sofferenza,San Giovanni Rotondo,Foggia,71013,Enrollment Closed,Viale Cappuccini 1 Liver Unit  IRCCS San Giovanni Rotondo 
+CDM,ICON,C25001,28002,,Italy,Istituto Di Ricovero E Cura A Carattere Scientifico (National Cancer Insititute),Pordenone,Aviano,33081,ACTIVE,Via Franco Gallini 2 Diprtiemento di Oncoematologia Via F.Gallini 2
+CDM,ICON,C25003,28007,,Italy,Farmacia Ospedaliera,15121,Alessandria,15121,ACTIVE,"A.O SS Antonio e Biagio e C. Arrigo Via Venezia, 16 Piano terra"
+CDM,IQVIA,161505,285,1-2O2TDLJ,Italy,Azienda Ospedaliera Universitaria Policlinico G. Martino,Messina,Messina,98122,Enrollment Open,"Via Consolare Valeria,1  "
+CDM,IQVIA,161505,284,1-2O2TDKL,Italy,Azienda Ospedaliera Universitaria Policlinico Tor Vergata,Roma,Roma,133,Essential Documents in place,"Viale Oxford, 81  Azienda Ospedaliera Univ Pol Tor Vergata - Dermatologia"
+CDM,IQVIA,201501,815,1-2HR1Y0H,Italy,Fondazione IRCCS CA' Granda Ospedale Maggiore Policlinico,Milano,Milano,20122,Enrollment On-Hold,"Via Francesco Sforza, 28  "
+CDM,IQVIA,AD-4833/TOMM40_301,5072,1-1HOO26E,Italy,Azienda Ospedaliera di Perugia Ospedale S. Maria della Misericordia,,,,ACTIVE,  
+CDM,ICON,C25002,,,Italy,"Istituto Nazionale Tumori, Milan",Milano,,20133,ACTIVE,Via G. Venezian 1  
+CDM,ICON,C25002,28002,,Italy,Centro PET-TAC,,Roma,168,ACTIVE,"Facoltà di Medicina e Chirurgia ""A. Gemelli"" Largo F. Vito, 1 "
+CDM,ICON,C25003,,,Italy,Azienda Ospedaliero - Universitaria Policlinico di Modena,Modena,Modena,41124,ACTIVE,"Via DeL Pozzo, 71  "
+CDM,ICON,C25003,28010,,Italy,Laboratorio di Ematologia,,Cuneo,12100,ACTIVE,"Azienda Ospedaliera S. Croce e Carle Via m. Coppino, 26 piano seminterrato"
+CDM,ICON,C25003,28010,,Italy,Ospedale Civile Di Cuneo Santa Croce E Carle,Cuneo,Cuneo,12100,ACTIVE,Divisione Di Cardiologia - Utic  
