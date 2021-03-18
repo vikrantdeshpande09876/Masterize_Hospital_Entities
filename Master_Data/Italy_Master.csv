@@ -1,296 +1,580 @@
 SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,CONCAT_ADDRESS
-1,CDM,ICON,C16007,28001,,Italy,cardiology  amyloidosis research  treatment center fondazione irccs policlinico san matteo,,pavia,27100,ACTIVE,viale golgi 19
-2,CDM,ICON,C25001,28001,,Italy,azienda sanitaria ospedaliera sgiovanni battista molinette,italy,torino,10126,ACTIVE,ospedale sgiovanni battista molinettedermatologia 2corso bramante 8890
-514,CDM,PPD,C16021,28113,,Italy,azienda ospedaliero universitaria policlinico vittorio emanuele,sicilia,catania,95123,Active - No Longer Recruiting,via santa sofia 78
-4,CDM,ICON,C25002,28001,,Italy,clinica di oncoematologia pediatrica azienda ospedalierauniversita di padova,italy,padova,35128,ACTIVE,via giustiniani3
-5,CDM,ICON,C25003,,,Italy,ematologia 1,,genova,16132,ACTIVE,irccs aou san martino istlargo r benzi 10monoblocco 11° piano lato ponente
-515,CDM,PPD,C14023,1-43W27DH,,Italy,asst papa giovanni xxiii  azienda ospedaliera papa giovanni xxiii,lombardia,bergamo,24128,Disqualified,largo barozzi 1
-3,CDM,ICON,C25001,28003,,Italy,istematologia e oncologia medica le aseragnoli,,bologna,40138,ACTIVE,azienda ospedalierouniversitaria policlinico sorsolamalpighi via massarenti 9istituto di ematologia l e  aseragnolivia massarenti 9
-7,CDM,ICON,C25001,28003,,Italy,istituto di ematologia seragnoli,province bologna,bologna,40138,ACTIVE,policlinico santorsola malpighi via massarenti 9istituto di ematologia l e  aseragnolivia massarenti 9
-8,CDM,ICON,C25001,28003,,Italy,policlinico sorsolamalpighi uo dermatologia  university of bologna,bo,bologna,40138,ACTIVE,via massarenti 1istituto di ematologia l e  aseragnolivia massarenti 9
-9,CDM,ICON,C25001,28004,,Italy,azienda ospedaliera universitaria careggi,italy,firenze,50134,ACTIVE,aou careggiematologia pad 16largo brambilla 3
-11,CDM,ICON,C25003,,,Italy,clinica ematologica ospedale policlinico san martino irccs,ge,genova,16132,ACTIVE,irccs aou s martinoist largo rosanna benzi 10
-520,CDM,PPD,C14023,28009,,Italy,grande ospedale metropolitano bianchimelacrinomorelli,,reggio calabria,89100,Withdrawn,via g melacrino
-12,CDM,ICON,C25003,28002,,Italy,pharmacy,italy,napoli,80131,ACTIVE,azienda ospedaliera universitaria federico iivia sergio pansini 5padiglione 24
-14,CDM,ICON,C25003,28004,,Italy,comitato etico indipendente cagliari,,cagliari,09124,ACTIVE,via ospedale 54
-525,CDM,PPD,C14023,28001,,Italy,azienda sanitaria ospedaliera s luigi gonzaga,,orbassano,10043,Withdrawn,regione gonzole 10
-15,CDM,ICON,C25003,28004,,Italy,local laboratory ospedale oncologico di riferimento regionale armando businco,,cagliari,09121,ACTIVE,via edward jenner
-528,CDM,PPD,C16010,28007,,Italy,ospedale s eugenio,lazio,roma,144,Closed,piazzale umanesimo 10
-18,CDM,ICON,C25003,28008,,Italy,clinica di ematologia  ospedali riuniti di ancona,,torrette di ancona,60020,ACTIVE,via conca 71
-19,CDM,ICON,C25003,28009,,Italy,comitato etico irccs ifo,,roma,00144,ACTIVE,via elio chianesi 53
-530,CDM,PPD,C16029,1-107UW9N,,Italy,la maddalena  casa di cura,,palermo,90146,Disqualified,via san lorenzo colli 312doncoematologia
-21,CDM,ICON,C25003,28013,,Italy,comitato etico indipendente int milano,,milano,20133,ACTIVE,via giacomo venezian 1
-23,CDM,ICON,C16007,28001,,Italy,comitato di bioetica,pavia,pavia,27100,ACTIVE,co direzione scientifica padiglone 10bviale golgi 19
-24,CDM,ICON,C25003,28002,,Italy,azienda ospedaliero universitaria federico ii di napoli,campania,napoli,80131,ACTIVE,policlinico federico ii via s pansini 5via sergio pansini 5
-536,CDM,PPD,C16029,1-Y2IF0C,,Italy,ospedale casa sollievo della sofferenza irccs,puglia,san giovanni rotondo,71013,Disqualified,viale cappuccini 1
-25,CDM,ICON,C25003,28002,,Italy,universita degli studi di napoli federico ii,napoli,napoli,80131,ACTIVE,via pansini  5via sergio pansini 5
-27,CDM,ICON,C25003,28004,,Italy,uo ematologia e ctmo ospedale oncologico a businco,,cagliari,09121,ACTIVE,via e jenner 1
-28,CDM,ICON,C25003,28005,,Italy,comitato etico università cattolica sacro cuore,,roma,00168,ACTIVE,largo a gemelli 8
-29,CDM,ICON,C25003,28005,,Italy,dipartimento di bioimaging e scienze radiologiche,,roma,00168,ACTIVE,policlinico universitario a gemelli  università cattolica s cuorelargo a gemelli 8
-30,CDM,ICON,C16007,28001,,Italy,ert shipment address  fondazione ircc policlinico san matteo centro amiloidosi,,pavia,27100,ACTIVE,padiglione forlanini 3° pianopiazzale golgi 19
-31,CDM,ICON,C25002,28002,,Italy,osppedale bambin gesu,rome,rome,00165,ACTIVE,san¿onofrio 4
-32,CDM,ICON,C25002,28002,,Italy,sc farmacia ospedaliera irccs ospedale pediatrico bambino gesù,italy,rome,00165,ACTIVE,piazza santonofrio 4
-33,CDM,ICON,C25003,,,Italy,irccs  azienda ospedaliera universitaria  ist san martino,genova,genova,16132,ACTIVE,largo rosanna benzi 10
-34,CDM,ICON,HGT-MLD-071,036,,Italy,unita operativa di epidemiologia,,roma,00165,ACTIVE,osp bambino gesù pzza s onofrio 165
-544,CDM,PPD,C16019,1-2VCRO9,,Italy,aou maggiore della carità,piemonte,novara,28100,Disqualified,corso mazzini 18struttura complessa a direzione universitaria ematologia
-36,CDM,IQVIA,161302,161302-501,1-1V0B3CR,Italy,azienda ospedaliero universitaria pisana,pisa,pisa,56126,Dropped,via roma 67
-42,CDM,ICON,C25003,28009,,Italy,laboratorio analisi del dipartimento di ematologia istituto regina elena,italy,rome,00144,ACTIVE,regina elena cancer institutevia elio chianesi 53
-43,CDM,ICON,C25003,28010,,Italy,sc ematologia aso scroce e carle,italy,cuneo,12100,ACTIVE,cuneo via mcappino 26
-1068,CDM,PPD,SHP634-401,401513,,Italy,università di pisa,toscana,pisa,56126,Disqualified,via roma 67dipartimento di medicina interna  istituto di reumatologia clinica
-44,CDM,ICON,C25003,28011,,Italy,irccs centro di riferimento oncologico della basilicata,,rionero in volture,85028,ACTIVE,dipartimento oncoematologicovia padre pio 1
-556,CDM,PPD,C16017,28003,,Italy,irccs giovanni paolo ii istituto oncologico,puglia,bari,70124,Closed,via orazio flacco 65
-46,CDM,ICON,C25003,28012,,Italy,istituto clinico humanitas  humanitas cancer center,,rozzano ¿ milano,20089,ACTIVE,head of hematology departmentvia manzoni 56
-47,CDM,ICON,C25003,28012,,Italy,servizio farmacia  istituto clinico humanitas,,rozzano mi,20089,ACTIVE,via manzoni 56via manzoni 56
-561,CDM,PPD,C16029,28005,,Italy,ospedale oncologico regionale a businco,,cagliari,09121,Withdrawn,via e jenner 1uo ematologia e centro trapianti di midollo osseo
-48,CDM,ICON,C25003,28013,,Italy,fondazione irccs istituto nazionale dei tumori,,milano,20133,ACTIVE,via venezian 1
-1071,CDM,PPD,SHP630-001,1-SM524V,,Italy,asst santi paolo e carlo  azienda universitariapolo universitario san paolo,lombardia,milano,20142,Disqualified,via a di rudini 8
-52,CDM,IQVIA,071102,383,1-2OX1HYL,Italy,azienda ospedaliera pediatrica santobono pausillipon,napoli,napoli,80122,Enrollment Open,via posillipo 226
-53,CDM,IQVIA,071301,386,1-2XP5W0X,Italy,fondazione policlinico universitario agostino gemelli irccs,roma,roma,00168,Closed,servizio malattie emorragiche e trombotiche largo gemelli 8ala j piano 3
-54,CDM,IQVIA,161301,161301-051,1-2PH8CNB,Italy,azienda socio sanitaria territoriale degli spedali civili di brescia,brescia,brescia,25123,Dropped,piazzale spedali civili sn
-55,CDM,IQVIA,161302,161302-500,1-1UX7Y8E,Italy,azienda ospedaliero universitaria ospedali riuniti,torrette di ancona,ancona,60126,Dropped,via conca 71ita1671
-56,CDM,IQVIA,161403,281,1-1JNRSH1,Italy,azienda ospedaliera città della salute e della scienza di torino,torino,torino,10126,Enrollment Open,corso spezia 60
-57,CDM,IQVIA,161403,282,1-1RBBRAC,Italy,azienda ospedalierouniversitaria santa maria della misericordia,udine,udine,33100,Enrollment Open,ple smaria della misericordia 15
-58,CDM,IQVIA,161403,283,1-1QG1FDL,Italy,irccs ospedale casa sollievo della sofferenza,san giovanni rotondo,foggia,71013,Enrollment Closed,viale cappuccini 1liver unit  irccs san giovanni rotondo
-59,CDM,ICON,C25001,28002,,Italy,istituto di ricovero e cura a carattere scientifico national cancer insititute,pordenone,aviano,33081,ACTIVE,via franco gallini 2diprtiemento di oncoematologiavia fgallini 2
-1083,CDM,PPD,TAK-079-1005,28503,,Italy,irccs aou san martino,liguria,genova,16132,Submitted,largo daneo  3dipartimento di neuroscienze riabilitazione oftalmologia genetica e scienze maternoinfantili
-61,CDM,ICON,C25003,,,Italy,farmacia antiblastici ufa,,genova,16132,ACTIVE,irccs aou san martino istlargo r benzi 10ex isolamento piano 2°
-567,CDM,PPD,C16029,1-YFS7I1,,Italy,istituto europeo di oncologia,lombardia,milan,20141,Disqualified,via ripamonti 435
-566,CDM,PPD,C16029,28017,,Italy,azienda ospedaliera ospedali riuniti marche nord,marche,pesaro,61122,Close-Out Ready,via lombroso 1uoc ematologia e centro trapianti
-1088,CDM,PPD,TAK-079-1004,28405,,Italy,azienda sanitaria universitaria giuliano isontina asugi,,trieste,34125,Active - Recruiting,piazza dellospitale 1
-572,CDM,PPD,C16029,28019,,Italy,azienda ospedaliera cardinale g panico,lecce,tricase,73039,Withdrawn,via san pio x 4
-64,CDM,ICON,C25003,28007,,Italy,farmacia ospedaliera,15121,alessandria,15121,ACTIVE,ao ss antonio e biagio e c arrigovia venezia 16piano terra
-578,CDM,PPD,C16019,1-4KXEL1,,Italy,istituto nazionale per lo studio e la cura dei tumori fondazione giovanni pascale,campania,napoli,80131,Disqualified,via mariano semmola
-581,CDM,PPD,C16029,1-ZD12II,,Italy,ospedale civile dellannunziata,calabria,cosenza,87100,Disqualified,via felice migliori
-582,CDM,PPD,C21015,1-1FGBZ1,,Italy,fondazione del piemonte per l�oncologia irccs,piemonte,candiolo,10060,Disqualified,strada provinciale 142 km 395
-1095,CDM,PPD,TAK-079-1004,28403,,Italy,azienda ospedaliera di rilievo nazionale e di alta specializzazione garibaldi,sicilia,catania,95122,Active - Not Yet Recruiting,via palermo 636uoc ematologia
-71,CDM,IQVIA,161505,285,1-2O2TDLJ,Italy,azienda ospedaliera universitaria policlinico g martino,messina,messina,98122,Enrollment Open,via consolare valeria1
-1097,CDM,PPD,SHP675-301,1-78GKRLT,,Italy,ospedale guglielmo da saliceto,,piacenza,29100,Disqualified,via taverna 49
-72,CDM,IQVIA,161505,284,1-2O2TDKL,Italy,azienda ospedaliera universitaria policlinico tor vergata,roma,roma,00133,Essential Documents in place,viale oxford 81azienda ospedaliera univ pol tor vergata  dermatologia
-73,CDM,IQVIA,201501,815,1-2HR1Y0H,Italy,fondazione irccs ca granda ospedale maggiore policlinico,milano,milano,20122,Enrollment On-Hold,via francesco sforza 28
-74,CDM,IQVIA,241501,121,1-2SW0CRE,Italy,azienda ospedaliera nazionale santi antonio e biagio e cesare arrigo,alessandria,alessandria,15100,Prematurely Closed,via venezia 16
-1101,CDM,PPD,SHP647-221,1-5WSAUCA,,Italy,nuovo ospedale civile s agostinoestense di baggiovara,emiliaromagna,modena località baggiovara,41126,Disqualified,via giardini 1355
-78,CDM,IQVIA,C14011,28001,1-5I78FK,Italy,ospedale santeugenio,,,,,
-79,CDM,IQVIA,C14012,28007,1-55L4S3,Italy,ospedale oncologico armando businco,,,,,
-76,CDM,IQVIA,AD-4833/TOMM40_301,5072,1-1HOO26E,Italy,azienda ospedaliera di perugia ospedale s maria della misericordia,,,,ACTIVE,
-590,CDM,PPD,C16029,28006,,Italy,arcispedale santa maria nuova,emiliaromagna,reggio emilia,42123,Close-Out Ready,via risorgimento 80struttura complessa di  ematologia
-82,CDM,IQVIA,C14012,28006,1-5ESI7L,Italy,istituto tumori giovanni paolo ii irccs ospedale oncologico bari,,,,,
-83,CDM,IQVIA,C14012,28009,1-79JDJN,Italy,ospedale degli infermi,,,,,
-80,CDM,IQVIA,C14012,28001,1-4CFR1O,Italy,azienda ospedaliera universitaria policlinico santorsola malpighi,,,,,
-81,CDM,IQVIA,C14012,28004,1-4CFQYJ,Italy,azienda ospedaliero universitaria consorziale policlinico di bari,,,,,
-86,CDM,ICON,C25001,28002,,Italy,cro instituto nazionale tumori di aviano,pordenone,aviano,33081,ACTIVE,divisione di oncologia medica avia pedemontana occidentale 12via fgallini 2
-599,CDM,PPD,C21015,1-1FGBYJ,,Italy,presidio ospedaliero san donato,toscana,arezzo,52100,Disqualified,via nenni 20
-600,CDM,PPD,FOS,206,,Italy,sc neurofisiopatologia  perugia,,perugia,06122,Disqualified,località santandrea delle frattecardiologia
-84,CDM,IQVIA,C14018,28103,1-12JD71Z,Italy,azienda socio sanitaria territoriale niguarda grande ospedale metropolitano niguarda,,,,,
-85,CDM,IQVIA,C25004,28002,1-272ZSD5,Italy,azienda ospedaliera universitaria policlinico santorsola malpighi,bologna,bologna,40138,Enrollment Closed,via massarenti 9policlinico sorsolamalpighipoli building 11
-601,CDM,PPD,FOS,089,,Italy,azienda ospedaliera pugliese ciaccio,calabria,catanzaro,88100,Active - Recruiting,viale pio xunità operativa di pediatria  ambulatorio di pediatria genetica
-92,CDM,ICON,C25002,28002,,Italy,centro pettac,,roma,00168,ACTIVE,facoltà di medicina e chirurgia a gemellilargo f vito 1
-90,CDM,IQVIA,C26002,28004,1-19MCI5P,Italy,azienda ospedaliero universitaria san martino,,,,,
-606,CDM,PPD,FOS,265,,Italy,careggi university hospital,firenze,firenze,85,Disqualified,viale morgagni
-602,CDM,PPD,FOS,194,,Italy,ospedale ss annunziata,,cento,44042,Active - Recruiting,via vicini 2centro per la diagnosi e cura malattie dell intestino
-95,CDM,ICON,C25003,,,Italy,azienda ospedaliero  universitaria policlinico di modena,modena,modena,41124,ACTIVE,via del pozzo 71
-97,CDM,ICON,C25003,,,Italy,dip di medicina diagnostica clinica e di sanita pubblica,modena,modena,41124,ACTIVE,aou di modena  policlinico  via del pozzo 71
-99,CDM,ICON,C25003,28010,,Italy,laboratorio di ematologia,,cuneo,12100,ACTIVE,azienda ospedaliera s croce e carlevia m coppino 26piano seminterrato
-100,CDM,ICON,C25003,28010,,Italy,ospedale civile di cuneo santa croce e carle,cuneo,cuneo,12100,ACTIVE,divisione di cardiologia  utic
-102,CDM,ICON,C25003,28010,,Italy,sc farmacia,,cuneo,12100,ACTIVE,ospedale a carlevia a carle 5
-105,CDM,IQVIA,MLN0002-3026,28006,1-1QW26BV,Italy,azienda ospedaliero universitaria policlinico paolo giaccone,,,,,
-108,CDM,ICON,HGT-MLD-071,036,,Italy,farmacia ospedale bambino gesu,roma gianicolo,roma,00146,ACTIVE,roma gianicolo  padiglione santonofrio i pianoviale ferdinando baldelli 41magazzino dispositivi medici
-622,CDM,PPD,C16029,1-YWQSRJ,,Italy,ospedale san maurizio,,bolzano,39100,Disqualified,via lorenz bohler 5
-110,CDM,IQVIA,071102,381,1-2OWUCZM,Italy,ospedale pediatrico bambino gesù,roma,roma,00165,Enrollment Open,piazza sant onofrio 43° piano stanza k5
-112,CDM,IQVIA,MLN0002-3028,7067,1-1IZNK4H,Italy,azienda ospedaliera universitaria federico ii,,,,,
-626,CDM,PPD,C21015,1-121J0Q,,Italy,ospedale livorno,,livorno,57100,Withdrawn,viale alfieri 36
-114,CDM,IQVIA,161505,291,1-34DE82E,Italy,casa di cura del policlinico,milano,milano,20144,Essential Documents in place,via dezza 49
-115,CDM,IQVIA,161505,292,1-37QD605,Italy,azienda ospedaliera universitaria policlinico umberto i  università di roma la sapienza,roma,roma,00161,Selected,via delluniversità 30
-116,CDM,IQVIA,MLN0002SC-3027,28007,1-1SDWVUH,Italy,istituto clinico humanitas,,,,,
-629,CDM,PPD,C21015,1-121J47,,Italy,asst di cremona  azienda socio sanitaria territoriale di cremona,lombardia,cremona,26100,Withdrawn,viale concordia 1
-120,CDM,IQVIA,201601,814,1-307DIET,Italy,presidio ospedaliero di castelfranco veneto,castelfranco veneto,treviso,31033,Enrollment Closed,via dei carpani 16
-124,CDM,IQVIA,241501,127,1-2W55UUT,Italy,istituto clinico humanitas,rozzano,milano,20089,Enrollment Open,via manzoni 56
-127,CDM,IQVIA,MA25101,28011,1-1H9XUWB,Italy,azienda ospedaliera universitaria policlinico tor vergata,,,,,
-128,CDM,IQVIA,MLN0002-3026,28004,1-1QTX8KE,Italy,azienda ospedaliera ospedale cannizzaro,,,,,
-129,CDM,IQVIA,MLN0002-3026,28009,1-1QTX8Z9,Italy,azienda ospedaliera di padova,,,,,
-130,CDM,IQVIA,MLN0002-3026,28014,1-1QTX99T,Italy,seconda università degli studi di napoli,,,,,
-132,CDM,IQVIA,MLN0002SC-3027,28003,1-1S4J6Q1,Italy,azienda ospedaliera vincenzo cervello,,,,,
-133,CDM,IQVIA,MLN0002SC-3027,28010,1-1SEAF9V,Italy,irccs policlinico san donato,,,,,
-136,CDM,IQVIA,C25004,28005,1-272ZSEH,Italy,fondazione irccs policlinico san matteo,pavia,pavia,27100,Enrollment Closed,piazzale golgi19
-650,CDM,PPD,IOS,166,,Italy,presidio policlinico di monserrato,sardegna,monserrato,09042,Active - Recruiting,ss 554 bivio per sestu
-140,CDM,IQVIA,MA25101,28008,1-1CK8NH7,Italy,arcispedale s maria nuova azienda ospedaliera di reggio emilia,,,,,
-652,CDM,PPD,MLN0002-3024,1-8E2ICFM,,Italy,hospital virgen de la concha,zamora,zamora,49022,Void,avenida requejo 35
-141,CDM,IQVIA,MLN0002-3026,28001,1-1QTXXAQ,Italy,irccs ospedale casa sollievo della sofferenza,,,,,
-142,CDM,IQVIA,MLN0002-3026,28011,1-1QTX8LX,Italy,aou policlinico di modena,,,,,
-656,CDM,PPD,MACS-2014-100795,1-F0O9QW,,Italy,asst nord milano  irccs multimedica sesto san giovanni,lombardia,sesto san giovanni,20099,Disqualified,via milanese 300
-146,CDM,IQVIA,MLN0002SC-3027,28018,1-1T9RCRY,Italy,azienda socio sanitaria territoriale fatebenefratelli presidio ospedale sacco,,,,,
-658,CDM,PPD,MACS-2014-100795,1-F0O9SP,,Italy,università campus bio medico di roma,,roma,00128,Disqualified,via alvaro del portillo 21
-151,CDM,ICON,C25003,,,Italy,centro oncologico modenese,,modena,41124,ACTIVE,aou policlinico di modenavia del pozzo 71
-154,CDM,IQVIA,MLN0002SC-3030,28002,1-26CTGZ5,Italy,azienda ospedaliera san camillo forlanini,roma,roma,00152,Enrollment Open,circonvallazione gianicolese 87
-155,CDM,IQVIA,MLN0002SC-3030,28003,1-26CTH0E,Italy,azienda ospedaliera vincenzo cervello,palermo,palermo,90146,Enrollment Open,via trabucco 180
-667,CDM,PPD,MACS-2014-100795,1-F0S7ZY,,Italy,azienda ospedaliera santandrea,,roma,00189,Disqualified,via di grottarossa 1035
-669,CDM,PPD,MLN0002-3024,1-7I0U9CE,,Italy,clinica pediatrica e malattie rare,,cagliari,09121,Disqualified,via jenner
-156,CDM,ICON,C25001,28002,,Italy,centro di riferimento oncologico irccs di aviano,,aviano pn,33081,ACTIVE,centro di riferimento oncologico irccs di avianodiprtiemento di oncoematologiavia fgallini 2
-1183,CDM,PRA,AP24534-14-203,355,1-1FD38K5,Italy,azienda ospedaliera san gerardo di monza,monza e brianza,monza,20090,Activated,via pergolesi 33unit  di ricerca clinica  sezione di ematologia
-162,CDM,ICON,C25001,28005,,Italy,irccs irst meldola,italy,meldola,47014,ACTIVE,irccs irst meldola
-164,CDM,ICON,C25003,,,Italy,uo laboratorio analisi centrale,,grenova,16132,ACTIVE,largo r benzi 10monoblocco 1° piano
-165,CDM,ICON,C25003,,,Italy,uoc farmacia,,genova,16132,ACTIVE,irccs aou san martino  istlargo r benzi 10pad maragliano  piano fondi  magazzino specialità medicinali
-166,CDM,ICON,C25003,28001,,Italy,centro ricerche cliniche  istituto di ematologia l e a seragnoli,,bologna,40138,ACTIVE,aou di bolognavia massarenti 9pad 16 ingresso b
-676,CDM,PPD,HOS,131,,Italy,azienda ospedaliera g rummo,,benevento,82032,Disqualified,via dellangelo 1istituto di genetica medica
-1188,CDM,PRA,AP26113-13-301,598,1-1FC2ATK,Italy,azienda ospedaliera san gerardo di monza,milano,milano,20900,Activated,struttura complessa oncologia medicaazienda ospedaliera sgerardo monzavia pergolesi 33
-169,CDM,ICON,C25003,28005,,Italy,university of sacred heart policlinico a gemelli,rome,rome,00168,ACTIVE,largo agostino gemelli 8
-170,CDM,ICON,C25003,28007,,Italy,azienda ospedaliera nazionale ss antonio e biagio e cesare arrigo sc ematologia,italy,alessandria,15121,ACTIVE,via venezia 16via venezia 16pad fiandesio 3â° piano
-682,CDM,PPD,MLN0002-3024,1-7K1AWJH,,Italy,irccs materno infantile burlo garofolo  incipit  pin,friulivenezia giulia,trieste,34137,Disqualified,via dellistria 651laboratorio di diagnostica avanzata e traslazionale
-684,CDM,PPD,MLN0002-3025,3025-28003,,Italy,universita degli studi di padova,veneto,padova,35122,Qualified,via 8 febbraio 2
-1190,CDM,PRA,Brigatinib-1001,28003,1-1KJDA0E,Italy,policlinico santorsola malpighi,bologna,bologna,40138,Activated,unita operativa medicina internavia albertoni 15
-1191,CDM,PRA,AP24534-14-203,687,1-1FD38E4,Italy,aoui  ospedale policlinico giambattista rossi di borgo roma,verona,verona,37134,Activated,dipartimento di ematologiapiazzale l e a scuro 10
-175,CDM,ICON,C25003,28001,,Italy,comitato etico indipendentebologna,,bologna,40138,ACTIVE,via albertoni 15via massarenti 9pad 8
-176,CDM,ICON,C25003,28001,,Italy,radiologia,,bologna,40138,ACTIVE,via massarenti 9pad 15pad 8
-688,CDM,PPD,FOS,025,,Italy,ortona hospital,,ortona,66026,Disqualified,contrada s liberataunita operative di nefrologia e dialisi
-689,CDM,PPD,MLN9708_101,6538014,,Italy,ospedale san giovanni bosco,piemonte,torino,10154,Closed,piazza del donatore di sangue 3
-1197,CDM,PRA,AP26113-13-301,631,1-1FC4W2Q,Italy,azienda ospedaliera santandrea,pisa,pisa,56100,Closed,ospedale santa chiaravia roma 67
-177,CDM,ICON,C25003,28002,,Italy,azienda ospedaliera universitaria federico ii,,napoli,80131,ACTIVE,dipartimento di biochimica e biotechnologie medichevia sergio pansini 5
-1201,CDM,PRA,Brigatinib-3001,28015,1-1L6OLO8,Italy,istituto scientifico universitario san raffaele,milano,milano,20132,Activated,unit operativa di oncologia medicavia olgettina 60
-180,CDM,ICON,C25003,28008,,Italy,clinica di ematologia,,torrette di ancona,60020,ACTIVE,ospedali riuniti di anconavia conca 71
-693,CDM,PPD,FOS,029,,Italy,ospedale di belcolle,lazio,viterbo,01100,Active - Recruiting,strada sammartinese
-696,CDM,PPD,FOS,1-1BBQ1YH,,Italy,ospedale “infermi” rimini,,rimini,47923,Withdrawn,via luigi settembrini
-1205,CDM,PRA,AP26113-13-301,479,1-1FA47VI,Italy,azienda unita sanitaria locale di ravenna,ravenna,ravenna,48121,Activated,uoc oncologia medicapoliclinico ravennaviale randi 5
-1204,CDM,PRA,AP26113-13-301,478,1-1FA47KM,Italy,istituto tumori napoli fondazione g pascale,napoli,napoli,80131,Activated,oncologia medica toraco polmonarevia mariano semmola
-699,CDM,PPD,FOS,276,,Italy,università degli studi di torino,,torino,10126,Active - Recruiting,corso dogliotti 14sc endocrinologia diabetologia e metabolismo  udipartimento di scienze mediche
-1212,CDM,PRA,C31005,28006,1-1BVWP7N,Italy,istituto di ricovero e cura a carattere scientifico istituto oncologico veneto,padova,padova,35128,Closed,oncologia medica 1istituto oncologico veneto iov irccsvia gattamelata 64
-189,CDM,ICON,C25003,28004,,Italy,ospedale oncologico businco ematologia e ctmo,italy,cagliari,09121,ACTIVE,7° piano ala b via edward jenner 1
-702,CDM,PPD,MACS-2014-100795,1-F0O9M3,,Italy,ospedale sandro pertini,lazio,roma,00157,Disqualified,via dei monti tiburtini 385
-703,CDM,PPD,MACS-2014-100795,1-F0O9P3,,Italy,ospedale s maria goretti,lazio,latina,04100,Disqualified,via guido reni 87
-193,CDM,ICON,C25003,28010,,Italy,comitato etico ao cuneo,,cuneo,12100,ACTIVE,via monte zovetto 18
-1219,CDM,PRA,SYR-322_309,28005,1-1FLIUDV,Italy,ospedale policlinico ss annunziata,chieti,chieti,66100,Activated,universita degli studi azienda asl chieti  clinica pediatricavia dei vestini 5
-1223,CDM,PRA,TAK-041-2001,Spalletta,1-1L8J9VL,Italy,fondazione santa lucia  istituto di ricovero e cura a carattere scientifico,,roma,00179,Dropped,via ardeatina 306354
-712,CDM,PPD,MLN0002-3024,1-DTUQSTL,,Italy,azienda usl di bologna,emiliaromagna,bologna,40133,Eligible for Participation,largo bartolo nigrisoli 2
-1225,CDM,PRA,C31004,28009a,1-1G0DYG2,Italy,presidio ospedaliero di lugo,ravenna,ravenna,48100,Closed,ausl di ravennaoncologia medicaviale randi 5
-201,CDM,IQVIA,MLN0002SC-3030,28010,1-26CTH2C,Italy,irccs policlinico san donato,san donato milanese,milano,20097,Enrollment Open,piazza edmondo malan 2
-205,CDM,IQVIA,161403,287,1-2AM52CF,Italy,azienda socio sanitaria territoriale  sette laghi presidio ospedale di circolo e fondazione macchi,varese,varese,21100,Dropped,viale borri 57
-717,CDM,PPD,MLN0002-3024,3024-28002,,Italy,sapienza university of rome,lazio,rome,00161,Qualified,viale regina elena 324pediatric gastroenterology unit
-207,CDM,IQVIA,201501,816,1-2HR1Y16,Italy,ospedale san bortolo di vicenza,vicenza,vicenza,36100,Dropped,viale rodolfi 37
-1229,CDM,PRA,C34004,28008,1-1C8DFRH,Italy,azienda grande ospedale metropolitano bianchi melacrino morelli,reggio calabria,reggio calabria,89100,Dropped,unit opertiva di ematologiavia melacrino 21
-1235,CDM,PRA,Vedolizumab-3035,28004,1-1LL109B,Italy,policlinico universitario di catania,catania,catania,95124,Activated,divisione di ematologiaunita di trapianto di midollovia santa sofia 78
-1236,CDM,PRA,Vedolizumab-3035,28006,1-1LV4U3W,Italy,ospedale mazzoni,marche,ascoli piceno,63100,Activated,via degli iris 6
-215,CDM,IQVIA,241501,116,1-2SW0CM2,Italy,azienda ospedaliera di catanzaro puglieseciaccio,catanzaro,catanzaro,88100,Enrollment Open,viale pio x 10
-217,CDM,IQVIA,261203,543,1-1XGPK58,Italy,azienda ospedaliera universitaria policlinico  vittorio emanuele presidio ferrarotto alessi,catania,catania,95124,Enrollment Open,via g clementi 36
-219,CDM,IQVIA,AD-4833/TOMM40_301,5073,1-1K5OXTT,Italy,sdn istituto di ricerca diagnostica e nucleare,,,,ACTIVE,
-221,CDM,IQVIA,C14012,28008,1-6J6MKG,Italy,ospedale santa maria delle croci,,,,,
-222,CDM,IQVIA,C14012,28010,1-79JDNR,Italy,istituto scientifico romagnolo per lo studio e la cura dei tumori,,,,,
-1247,CDM,PRA,AP26113-13-301,767,1-1FA42D2,Italy,policlinico universitario campus biomedico,roma,roma,00128,Activated,dipto oncologia medicavia alvaro del portillo 200
-223,CDM,IQVIA,C14018,28106,1-13Y8376,Italy,azienda ospedalierouniversitaria sluigi gonzaga,,,,,
-734,CDM,PPD,MLN9708_101,1-3Q6AQJ,,Italy,irccs istituto auxologico italiano,lombardia,milano,20149,Disqualified,via spagnoletto 3
-1250,CDM,PRA,Ponatinib-3001,28007,1-1L9MVJG,Italy,azienda usl della romagna,ravenna,ravenna,48121,Activated,uo ematologiaviale vincenzo randi 5
-738,CDM,PPD,P2002,1-5PK159O,,Italy,ospedale santa maria della misericordia di perugia,umbria,perugia,06156,Disqualified,piazza menghinistruttura complessa di ematologia con trapianto di midollo osseo
-227,CDM,IQVIA,MA25101,28013,1-2E15W7B,Italy,azienda ospedaliera universitaria integrata di verona,,,,,
-741,CDM,PPD,NSMM-5001,1-MNRKTB,,Italy,universita degli studi la sapienza,lazio,rome,00161,Disqualified,viale del policlinico 155centro di ematologia
-230,CDM,IQVIA,MLN0002-3028,7069,1-1GCK4YN,Italy,azienda ospedaliera san camillo forlanini,,,,,
-231,CDM,IQVIA,161403,290,1-2HRAI1S,Italy,fondazione istituto neurologico casimiro mondino,pavia,pavia,27100,Enrollment Open,via mondino 2
-1257,CDM,PRA,Brigatinib-2002,28008,1-1KAJK4O,Italy,azienda ospedaliero  universitaria san luigi gonzaga,torino,orbassano,10043,Activated,scdu malattie apparato respiratorio 5 ad indirizzo oncologicovia regione gonzole 10
-1258,CDM,PRA,C31004,28010,1-1C5QLJS,Italy,spedali civili di brescia,brescia,brescia,25123,Closed,unit di ostetricia e ginecologiapiazza spedali civili 1
-1260,CDM,PRA,C34004,28001,1-1C86O4M,Italy,azienda ospedaliera papa giovanni xxiii,lombardia,bergamo,24127,Closed,usc ematologiapiazza organizzazione mondiale della sanit 1torre 6  4 piano
-1261,CDM,PRA,C34004,28006,1-1C86NZY,Italy,azienda ospedalierouniversitaria,novara,novara,28100,Closed,struttura complessa direzione universitaria ematologia scdu ematologiacorso mazzini 18
-237,CDM,IQVIA,161505,294,1-4JCFA4M,Italy,ospedale clinicizzato ss annunziata,chieti,chieti,66013,Dropped,via dei vestini
-243,CDM,IQVIA,MLN1117-1501,28004,1-1Q01HT9,Italy,azienda ospedaliera universitaria careggi,,,,,
-1268,CDM,PRA,TAK-041-2001,Muratori,1-1L8J9UC,Italy,irccs istituto delle scienze neurologiche di bologna,bologna,bologna,40139,Dropped,via altura 3
-1270,CDM,PPD,Vedolizumab-4005,1-RSAUHN,,Italy,asst fatebenefratelli sacco  ospedale fatebenefratelli e oftalmico,lombardia,milano,20121,Disqualified,corso di porta nuova 23
-246,CDM,IQVIA,AD-4833/TOMM40_301,5042,1-182PII4,Italy,irccs centro san giovanni di dio fatebenefratelli,,,,ACTIVE,
-1274,CTMS,,C14006,TBD-300296422,,Italy,ospedale santanna,,,,Not Selected,
-1275,CTMS,,C14006,TBD-300296408,,Italy,instituto ospedaliero fondazione poliambulanza,,,,Not Selected,
-1276,CTMS,,Sardi - Italy,Sardi - Italy,,Italy,meyer childrens hospital,,,,Active,
-1277,CTMS,,C14006,TBD-300296409,,Italy,ospedale policlinico santorsola malpighi,,,,Not Selected,
-1278,CTMS,,C14006,TBD-300296423,,Italy,ente ospedaliero ospedali galliera,,,,Not Selected,
-252,CDM,IQVIA,071301,385,1-2FNHRB8,Italy,umberto i pol di romauniversità di roma la sapienza,roma,roma,00161,Closed,via benevento 6dipartimento di ematologia clinical trial service piano 1
-1281,CDM,PPD,Vedolizumab-4005,1-SY43ZF,,Italy,ospedali riuniti azienda ospedaliero universitaria,puglia,foggia,71122,Disqualified,viale luigi pinto1
-1282,CDM,PPD,Vedolizumab-4005,1-SY43ZR,,Italy,azienda complesso ospedaliero s filippo neri,lazio,rome,00135,Disqualified,via giovanni martinotti 20
-260,CDM,IQVIA,281102,010,1-2V4MDJ3,Italy,azienda socio sanitaria territoriale papa giovanni xxiii presidio papa giovanni xxiii,bergamo,bergamo,24127,Enrollment Open,piazza oms 1neurologia
-1286,CDM,PRA,AP24534-14-203,511,1-1FD38FM,Italy,centro di ematologia policlinico umberto i universita sapienza di roma,roma,roma,00161,Activated,dipartimento di biotecnologie cellulari ed ematologiasezione di ematologiavia benevento 6
-1288,CDM,PRA,AP26113-13-301,476,1-1FB8FX2,Italy,azienda ospedaliera di perugia,perugia,perugia,06132,Activated,sc oncologia medicavia gdottori 1
-268,CDM,IQVIA,SHP643-303,171,1-4S0PDZR,Italy,ospedale mauriziano umberto i,torino,torino,10128,Dropped,largo filippo turati62
-1292,CTMS,,X25015,001-IIS,,Italy,istituto di ematologia e oncologia medica,,,,Active,
-270,CDM,IQVIA,TAK-390MR_108,5008,1-1CMUXME,Italy,ospedale pediatrico bambino gesù,,,,,
-1295,CTMS,,X25029,001-IIS,,Italy,universita di bologna,,,,Under Consideration,
-1294,CTMS,,X25010,001-IIS,,Italy,istituto nazionale tumori milan,,,,Active,
-785,CDM,PPD,Pevonedistat-2001,w1-IPDFFV,,Italy,universita degli studi di modena e reggio emilia  modena,emiliaromagna,modena,41121,Disqualified,via universita 4
-1299,CDM,PRA,AP26113-13-301,477,1-1FAP7PO,Italy,azienda ospedaliera san giuseppe moscati,avellino,avellino,83100,Activated,uo di oncologia medicacontrada amoretta
-1302,CDM,PRA,C31004,28005,1-1C5O1GU,Italy,ente ospedaliero ospedali galliera,genova,genova,16128,Closed,via mura delle cappuccine 1416128 genova
-1306,CTMS,PPD,C21004,28003,,Italy,centro di riferimento oncologico,,,,Closed,
-798,CDM,PPD,Pevonedistat-3001,1-16QY945,,Italy,azienda ulss 3 serenissima,veneto,venezia,30100,Void,via paccagnella 11uo di ematologia
-287,CDM,IQVIA,MLN1117-1501,28001,1-1MZDHGC,Italy,azienda socio sanitaria territoriale di cremona istituti ospitalieri di cremona,,,,,
-1311,CTMS,PPD,C21004,28007,,Italy,azienda ospedaliera santandrea,,,,Closed,
-294,CDM,IQVIA,241501,120,1-2SW2WMS,Italy,ospedale m bufalini,cesena,forli  cesena,47028,Dropped,viale ghirotti 286
-1319,CTMS,,X16008,001-IIS,,Italy,university of torino,,,,Active,
-295,CDM,IQVIA,241501,123,1-2SW0CJ5,Italy,ospedale san giovanni bosco,napoli,napoli,80144,Dropped,via fm briganti 255
-1323,CTMS,PPD,C21004,,,Italy,ospedale di cattinara,,,,Declined Participation,
-1324,CDM,PRA,Vedolizumab-3035,28008,1-1LL00NS,Italy,azienda ospedaliero universitaria ospedali riuniti di ancona,ancona,ancona,60126,Closed,via conca 71torrette
-1329,CTMS,PPD,C21005,28009,,Italy,policlinico universitario a gemelli,,,,Closed,
-1330,CTMS,PPD,C21004,28002,,Italy,azienda ospedaliera universitaria san giovanni battista,,,,Closed,
-307,CDM,IQVIA,SHP643-303,166,1-4S2B7HV,Italy,azienda ospedaliera di cagliari  presidio monserrato,monserrato,cagliari,09042,Selected,ss 554 km 4500
-308,CDM,IQVIA,MLN1117-1501,28003,1-1MZEQ29,Italy,ospedale vito fazzi,,,,,
-309,CDM,IQVIA,AD-4833/TOMM40_301,5071,1-1I6FJ8G,Italy,azienda ospedaliera card g panico,,,,ACTIVE,
-1333,CTMS,PPD,C21005,28006,,Italy,ospedali riuniti di bergamo azienda ospedaliera,,,,Withdrawn,
-1335,CTMS,PPD,C21005,28010,,Italy,fondazione del piemonte per oncologia ircc,,,,Closed,
-1336,CTMS,,C14006,TBD-300296407,,Italy,ospedale versilia,,,,Not Selected,
-1342,CTMS,PPD,C21013,1-1LM1W4T,,Italy,presidio ospedaliero  san donato,,,,Declined Participation,
-831,CDM,PPD,Ponatinib-1501,28002,,Italy,fondazione mbbm monza e brianza per il bambino e la sua mamma  co centro maria letizia verga,lombardia,monza,20900,Approved,via cadoreclinica pediatrica
-1343,CTMS,PPD,C23003,28405,,Italy,azienda policlinico umberto i,,,,Closed,
-322,CDM,IQVIA,TED-R13-002,0701,1-3JX5BL9,Italy,ospedale monsignor raffaele dimiccoli,barletta,bari,70051,Regulatory Green Light,viale ippocrate 15
-1348,CTMS,PPD,C23003,1-19UXOAR,,Italy,ospedale infantile regina margherita,,,,Withdrawn,
-1349,CTMS,Quintiles,MLN1117-1003,28005,,Italy,iov  istituto oncologico veneto irccs,,,,Selected,
-326,CDM,PPD,3004,1-CKH0TP,,Italy,fondazione irccs di rilievo nazionale istituto nazionale neurologico carlo besta,,milano,20133,Disqualified,via celoria 11
-327,CDM,PPD,3004,1-CKH0U2,,Italy,asst di monza  azienda ospedaliera san gerardo,lombardia,monza,20900,Disqualified,via donizetti 106
-328,CDM,IQVIA,TAK-743-3001,167,1-553RSKR,Italy,azienda ospedaliera universitaria oo rr s giovanni di dio e ruggi daragona,salerno,salerno,84131,Selected,via s leonardo
-167,CDM,ICON,C25003,28001,,Italy,investigational drug service,,bologna,40138,ACTIVE,aou di bolognavia massarenti 9pad19
-1351,CTMS,PPD,C21013,1-1LLX8PY,,Italy,maggiore della carita,,,,Withdrawn,
-842,CDM,PPD,Pevonedistat-3001,1-1CT0MND,,Italy,la sapienza  university,,rome,198,Void,via panama 12
-844,CDM,PPD,SHP-001-801,1-60ZRWU,,Italy,ospedale san giuseppe,firenze,empoli,50053,Disqualified,viale giovanni boccaccio
-333,CDM,PPD,3004,1-CKH0V5,,Italy,ospedale misericordia e dolce azienda usl 4 prato,veneto,treviso,31100,Disqualified,piazza ospedale 1
-1358,CTMS,PPD,C21004,28011,,Italy,fondazione centro san raffaele del monte tabor,,,,Closed,
-337,CDM,PPD,3004,1-CSNNHF,,Italy,istituti ortopedici rizzoli,emiliaromagna,bologna,40136,Disqualified,via pupilli 1
-340,CDM,PPD,Alofisel-5003,1-3DBC2M5,,Italy,asst fatebenefratelli sacco  ospedale luigi sacco,lombardia,milano,20157,Eligible for Participation,via giovanni battista grassi 74
-342,CDM,IQVIA,C26003,28001,1-19MEVHU,Italy,ospedale mater salutis,,,,,
-855,CDM,PPD,SHP-608-002,1-1Z2UH6,,Italy,consiglio nazionale delle ricerche cnr,,naples,80131,Disqualified,via pietro castellino 111
-1368,CTMS,Quintiles,MLN1117-1003,28004,,Italy,azienda ospedaliera istituti ospitalieri di cremona,,,,Selected,
-1369,CTMS,Quintiles,MLN1117-1003,28006,,Italy,fondazione poliambulanza istituto ospedaliero,,,,Selected,
-858,CDM,PPD,SHP607-202,154,,Italy,presidio ospedaliero di treviso ca foncello,,treviso,31100,Active - Recruiting,piazzale ospedale 1uoc terapia intensiva neonatale
-1370,CTMS,PPD,C23003,1-1C3KTYR,,Italy,azienda ospedaliera a meyer,,,,Withdrawn,
-1371,CTMS,PPD,C23003,28402,,Italy,azienda ospedaliera di rilievo nazionale a cardarelli,,,,Closed,
-346,CDM,PPD,3004,1-CTPRCS,,Italy,azienda ospedaliera cannizzaro,sicilia,catania,95126,Disqualified,via messina 829
-351,CDM,IQVIA,C34001,28003,1-2NB9B0I,Italy,ospedale san raffaele,milano,milano,20132,Closed,via olgettina 60
-352,CDM,IQVIA,C14018,58801,1-12JEDMR,Italy,presidio ospedaliero di livorno,,,,,
-353,CDM,IQVIA,C25004,28006,1-2VG1OK9,Italy,azienda ospedaliero universitaria ospedale pediatrico meyer,firenze,firenze,50139,Enrollment Closed,viale pieraccini 6
-863,CDM,PPD,SHP-608-002,1-1Z2UG0,,Italy,istituto dermopatico dellimmacolata irccs,,rome,00167,Disqualified,via dei monti di creta 104
-868,CDM,PPD,SHP607-202,1-15LNM1I,,Italy,asst fatebenefratelli sacco  ospedale dei bambini vittore buzzi  incipit  pin,,milano,20154,Disqualified,via castelvetro 32
-870,CDM,PPD,Pevonedistat-2001,w1-IPDFHL,,Italy,azienda ospedaliera universitaria di sassari,sardegna,sassari,07100,Disqualified,viale san pietro 12universita degli studi di sassari istituto di ematologia
-358,CDM,IQVIA,TAK-831-2002,28003,1-45LSMHS,Italy,azienda socio sanitaria territoriale degli spedali civili di brescia presidio spedali civili,brescia,brescia,25124,Enrollment Open,ple spedali civili 1
-361,CDM,IQVIA,TAK-994-1501,28001,1-4YD1T6M,Italy,università di bolognaclinica neurologicadipartimento di scienze neurologiche,bologna,bologna,40123,Selected,irccs isnb uoc clinica neurologica ospedale bellaria
-362,CDM,IQVIA,TAK-994-1501,28004,1-53TBA6U,Italy,irccs oasi maria ss,troina,enna,94018,Selected,via conte ruggero 73
-363,CDM,PPD,Alofisel-5004,1-3QGRYGN,,Italy,azienda ospedale università padova  dipartimento salute della donna e del bambino  incipit  pin,veneto,padova,35128,Disqualified,via giustiniani 2uoc gastroenterologia
-876,CDM,PPD,SHP-616-211,1-JAW4BR,,Italy,ospedale binaghi,,cagliari,09126,Disqualified,via island guadazzonis 2
-364,CDM,PPD,Alofisel-5004,604,,Italy,complesso integrato columbus,roma,roma,00168,Closed,via g moscati 31unità operativa di medicina interna e gastroenterologia
-375,CDM,PPD,3004,1-CKH0SZ,,Italy,azienda ospedaliera cannizzaro,,,,Disqualified,
-394,CDM,PPD,3004,1-CKH0SN,,Italy,azienda ospedaliera ospedale san carlo,cagliari,cagliari,09134,Disqualified,piazzale ricchi 1
-405,CDM,PPD,Alofisel-5003,28001,,Italy,azienda ospedaliero universitaria di bologna  policlinico s orsola malpighi,emiliaromagna,bologna,40138,Active - Recruiting,via pietro albertoni 15
-930,CDM,PPD,Pevonedistat-3001,1-16QY8YG,,Italy,azienda ospedalierouniversitaria di ferrara  arcispedale sant anna,ferrara,cona,44124,Disqualified,via aldo moro 8
-419,CDM,PPD,C14023,28006,,Italy,azienda ospedaliero universitaria san giovanni battista di torino,,torino,10126,Withdrawn,via genova 3
-422,CDM,PPD,Brigatinib-1002,1-61FJUOY,,Italy,istituto g gaslini ospedale pediatrico irccs  incipit  pin,liguria,genoa,16147,Disqualified,largo gerolamo gaslini 5
-424,CDM,IQVIA,TAK-994-1501,28003,1-53CJ2HN,Italy,ospedale san raffaele san raffaele turro,milano,milano,20127,Selected,via stamira dancona 20
-425,CDM,PPD,C16010,28004,,Italy,aorn a cardarelli,campania,naples,80131,Active - No Longer Recruiting,via antonio cardarelli 9
-948,CDM,PPD,SHP-001-801,1-65YYR1,,Italy,azienda ospedaliera di padova,hessen,wiesbaden,65199,Disqualified,ludwigerhardstrasse 100
-436,CDM,PPD,C14023,1-439NRCU,,Italy,centro di riferimento oncologico,pordenone,aviano,,Void,via franco gallini 2
-955,CDM,PPD,SHP625-306,1-1K8MME6,,Italy,istituto mediterraneo per i trapianti e terapie ad alta specializzazione ismett,,palermo,90127,Disqualified,via ernesto tricomi 5
-957,CDM,PPD,SHP630-001,1-SQ8O4X,,Italy,fondazione gb bietti per lo sudio e la ricerca in oftalmologiapresidio ospedaliero britannico,,roma,198,Disqualified,via livenza 3
-450,CDM,PPD,C16010,28005,,Italy,azienda ospedaliera s maria di terni,umbria,terni,5100,Active - No Longer Recruiting,viale tristano di jaonnuccio 1
-963,CDM,PPD,SHP634-401,401510,,Italy,universita di firenze dipartimento di chirurgia e medicina traslazionale dcmt,firenze,firenze,50139,Active - Recruiting,viale pieraccini 6dipartimento di medicina generale
-965,CDM,PPD,SHP-616-211,1-L9UKXR,,Italy,asst della valle olona  azienda ospedaliera s antonio abate di gallarate,varese,gallarate,21013,Disqualified,via pastori 4
-454,CDM,PPD,Brigatinib-1002,1-61DPFPZ,,Italy,aou delluniversità degli studi della campania luigi vanvitelli,,napoli,80138,Disqualified,vico luigi de crecchio 7
-967,CDM,PPD,SHP647-221,1-5WSAUF6,,Italy,irccs saverio de bellis,,castellana grotte,70013,Disqualified,via turi 27
-968,CDM,PPD,SHP675-301,1-3P63B74,,Italy,asst santi paolo e carlo  ospedale san carlo borromeo,lombardia,milano,20153,Disqualified,via pio ii 3
-456,CDM,IQVIA,TAK-831-2002,28001,1-45LSMQM,Italy,azienda ospedaliera universitaria università degli studi della campania “luigi vanvitelli”,napoli,napoli,80138,Enrollment Open,largo madonna delle grazie 1
-467,CDM,PPD,C16019,28915,,Italy,presidio ospedaliero di pescara,abruzzo,pescara,65100,Closed,via fonte romana 8
-468,CDM,PPD,3004,1-CKH0W7,,Italy,presidio ospedaliero vito fazzi,lecce,lecce,73100,Disqualified,piazza filippo muratore
-469,CDM,PPD,3004,1-CKH0TC,,Italy,e o ospedali galliera,liguria,genova,16128,Disqualified,mura delle cappuccine 14
-471,CDM,PPD,Alofisel-5003,1-3DBC2NY,,Italy,azienda ospedaliera ordine mauriziano di torino,piemonte,turin,10128,Disqualified,via ferdinando magellano 1
-987,CDM,PPD,SHP675-301,1-78GKRL4,,Italy,azienda ulss n 7 pedemontana  ospedale san bassiano,,bassano del grappa,36061,Disqualified,via dei lotti 40
-995,CDM,PPD,SHP675-301,1-7GM66PH,,Italy,centro ricerche cliniche di verona,veneto,verona,37124,Eligible for Participation,piazzale la scuro 10co policlinico gb rossi
-483,CDM,PPD,C16019,1-2R71DN,,Italy,azienda sanitaria ospedaliera s croce e carle,piemonte,cuneo,12100,Disqualified,via m coppino 26struttura complessa ematologia
-1009,CDM,PPD,SHP-616-211,1-JAW4D7,,Italy,ospedale di fidenza,emiliaromagna,fidenza,43036,Disqualified,via don enrico tincati 5 località vaio
-497,CDM,PPD,C16019,28911,,Italy,ospedale infermi di rimini,emiliaromagna,rimini,47900,Active - No Longer Recruiting,via settembrini 2dipartimento di oncologia e oncoematologia
-1014,CDM,PPD,SHP-616-211,1-JAW4CH,,Italy,fondazione istituto g giglio di cefal,,cefalù,90015,Disqualified,contrada pietrapollastra
-506,CDM,PPD,C16021,1-98EA40,,Italy,ospedale santa maria delle croci,ravenna,ravenna,48100,Disqualified,viale randi 5uo ematologia
-1021,CDM,PPD,SYR-322-309,1-11ASLUA,,Italy,presidio ospedaliero giovanni di cristina,,palermo,,Disqualified,piazza p montalto 2
+1,CDM,ICON,C16007,28001,,Italy,"Cardiology - Amyloidosis Research & Treatment Center, Fondazione IRCCS Policlinico San Matteo",,Pavia,27100,ACTIVE,Viale Golgi 19
+2,CDM,ICON,C25001,28001,,Italy,Azienda Sanitaria Ospedaliera S.Giovanni Battista (Molinette),Italy,Torino,10126,ACTIVE,Ospedale S.Giovanni Battista (Molinette)Dermatologia 2Corso Bramante 88/90
+3,CDM,ICON,C25001,28003,,Italy,Ist.Ematologia E Oncologia Medica L.E A.Seragnoli,,Bologna,40138,ACTIVE,"Azienda Ospedaliero-Universitaria, Policlinico S.Orsola-Malpighi, Via Massarenti 9Istituto di Ematologia ""L. e  A.Seragnoli""Via Massarenti 9"
+4,CDM,ICON,C25002,28001,,Italy,"Clinica di Oncoematologia Pediatrica, Azienda Ospedaliera-Universita di Padova",Italy,Padova,35128,ACTIVE,"Via Giustiniani,3"
+5,CDM,ICON,C25003,,,Italy,EMATOLOGIA 1,,Genova,16132,ACTIVE,"IRCCS AOU SAN MARTINO ISTLargo R. Benzi, 10monoblocco 11° piano lato ponente"
+7,CDM,ICON,C25001,28003,,Italy,Istituto di Ematologia Seragnoli,Province Bologna,Bologna,40138,ACTIVE,"Policlinico Sant'Orsola Malpighi, Via Massarenti 9Istituto di Ematologia ""L. e  A.Seragnoli""Via Massarenti 9"
+1032,CDM,PPD,SHP620-302,609,,Italy,Ospedale Dell'Angelo,Venezia,Venezia Mestre,30174,Closed,Via Paccagnella  11U.O. Ematologia
+9,CDM,ICON,C25001,28004,,Italy,Azienda Ospedaliera Universitaria Careggi,Italy,Firenze,50134,ACTIVE,A.O.U. CareggiEmatologia Pad. 16Largo Brambilla 3
+1033,CDM,PPD,SHP620-302,614,,Italy,Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico,,Milano,20122,Active - Recruiting,"Via Francesco Sforza 35U.O.C. Ematologia 1 e Centro Trapianti, Policlinico di Milano"
+11,CDM,ICON,C25003,,,Italy,Clinica Ematologica Ospedale Policlinico San Martino IRCCS,GE,Genova,16132,ACTIVE,"IRCCS AOU S. Martino-IST, Largo Rosanna Benzi 10"
+1035,CDM,PPD,SHP620-302,607,,Italy,Azienda Ospedaliera Universitaria Careggi,,Firenze,50134,Active - Recruiting,Largo Brambilla 3SOD Terapia Cellulare e Medicina Trasfusionale
+8,CDM,ICON,C25001,28003,,Italy,Policlinico S.Orsola-Malpighi U.O. Dermatologia - University of Bologna,Bo,Bologna,40138,ACTIVE,"Via Massarenti, 1Istituto di Ematologia ""L. e  A.Seragnoli""Via Massarenti 9"
+14,CDM,ICON,C25003,28004,,Italy,Comitato Etico Indipendente Cagliari,,Cagliari,09124,ACTIVE,Via Ospedale 54
+12,CDM,ICON,C25003,28002,,Italy,Pharmacy,Italy,Napoli,80131,ACTIVE,"Azienda Ospedaliera Universitaria ""Federico II""Via Sergio Pansini 5padiglione 24"
+15,CDM,ICON,C25003,28004,,Italy,"Local Laboratory- Ospedale Oncologico di Riferimento Regionale ""Armando Businco""",,Cagliari,09121,ACTIVE,Via Edward Jenner
+18,CDM,ICON,C25003,28008,,Italy,Clinica Di Ematologia - Ospedali Riuniti Di Ancona,,Torrette Di Ancona,60020,ACTIVE,Via Conca 71
+19,CDM,ICON,C25003,28009,,Italy,Comitato Etico IRCCS I.F.O.,,Roma,00144,ACTIVE,Via Elio Chianesi 53
+21,CDM,ICON,C25003,28013,,Italy,Comitato Etico Indipendente INT Milano,,Milano,20133,ACTIVE,Via Giacomo Venezian 1
+23,CDM,ICON,C16007,28001,,Italy,Comitato Di Bioetica,Pavia,Pavia,27100,ACTIVE,"c/o Direzione Scientifica (Padiglone 10B)Viale Golgi, 19"
+24,CDM,ICON,C25003,28002,,Italy,Azienda Ospedaliero Universitaria Federico II di Napoli,Campania,Napoli,80131,ACTIVE,"Policlinico Federico II, via S. Pansini 5Via Sergio Pansini 5"
+25,CDM,ICON,C25003,28002,,Italy,Universita degli Studi di Napoli Federico II,Napoli,Napoli,80131,ACTIVE,Via Pansini  5Via Sergio Pansini 5
+1050,CDM,PPD,SHP620-303,612,,Italy,Istituto Europeo Di Oncologia,Milano,Milano,20141,Close-Out Ready,Via Ripamonti 435Divisione di Ematoncologia Clinica
+27,CDM,ICON,C25003,28004,,Italy,UO Ematologia E CTMO Ospedale Oncologico A Businco,,Cagliari,09121,ACTIVE,Via E. Jenner 1
+28,CDM,ICON,C25003,28005,,Italy,Comitato Etico Università Cattolica Sacro Cuore,,Roma,00168,ACTIVE,Largo A. Gemelli 8
+29,CDM,ICON,C25003,28005,,Italy,Dipartimento di Bioimaging e Scienze Radiologiche,,Roma,00168,ACTIVE,"Policlinico Universitario A. Gemelli - Università Cattolica S. CuoreLargo A. Gemelli, 8"
+30,CDM,ICON,C16007,28001,,Italy,ERT Shipment Address - Fondazione IRCC Policlinico San Matteo Centro Amiloidosi,,Pavia,27100,ACTIVE,Padiglione Forlanini 3° pianoPiazzale Golgi 19
+31,CDM,ICON,C25002,28002,,Italy,Osppedale Bambin gesu,Rome,Rome,00165,ACTIVE,San¿Onofrio 4
+32,CDM,ICON,C25002,28002,,Italy,S.C. Farmacia Ospedaliera IRCCS Ospedale Pediatrico Bambino Gesù,Italy,Rome,00165,ACTIVE,"Piazza Sant'Onofrio, 4"
+33,CDM,ICON,C25003,,,Italy,IRCCS - Azienda Ospedaliera Universitaria - IST San Martino,Genova,Genova,16132,ACTIVE,Largo Rosanna Benzi 10
+34,CDM,ICON,HGT-MLD-071,036,,Italy,Unita Operativa Di Epidemiologia,,Roma,00165,ACTIVE,"Osp. Bambino Gesù, P.Zza S. Onofrio, 165"
+35,CDM,IQVIA,071301,380,1-2FNHRD1,Italy,Azienda Ospedaliera Universitaria Careggi,Firenze,Firenze,50134,Closed,"Largo Brambilla, 3Padiglione 14/B - Primo Piano"
+36,CDM,IQVIA,161302,161302-501,1-1V0B3CR,Italy,Azienda Ospedaliero Universitaria Pisana,Pisa,Pisa,56126,Dropped,Via Roma 67
+42,CDM,ICON,C25003,28009,,Italy,Laboratorio Analisi del Dipartimento di Ematologia Istituto Regina Elena,Italy,Rome,00144,ACTIVE,Regina Elena Cancer InstituteVia Elio Chianesi 53
+43,CDM,ICON,C25003,28010,,Italy,S.C Ematologia Aso S.Croce E Carle,Italy,Cuneo,12100,ACTIVE,Cuneo Via M.Cappino 26
+44,CDM,ICON,C25003,28011,,Italy,IRCCS Centro di Riferimento Oncologico della Basilicata,,Rionero in Volture,85028,ACTIVE,Dipartimento Onco-EmatologicoVia Padre Pio 1
+1068,CDM,PPD,SHP634-401,401513,,Italy,Università Di Pisa,Toscana,Pisa,56126,Disqualified,Via Roma 67Dipartimento Di Medicina Interna - Istituto Di Reumatologia Clinica
+46,CDM,ICON,C25003,28012,,Italy,Istituto clinico HUMANITAS - HUMANITAS Cancer Center,,Rozzano ¿ Milano,20089,ACTIVE,"Head of Hematology DepartmentVia Manzoni, 56"
+45,CDM,ICON,C25003,28011,,Italy,Pharmacy- IRCCS Centro di Riferimento Oncologico della Basilicata,,Rionero in Vulture,85028,ACTIVE,Via Padre Pio 1Via Padre Pio 1
+47,CDM,ICON,C25003,28012,,Italy,Servizio Farmacia - Istituto Clinico Humanitas,,Rozzano (MI),20089,ACTIVE,"Via Manzoni, 56Via Manzoni, 56"
+48,CDM,ICON,C25003,28013,,Italy,Fondazione IRCCS Istituto Nazionale Dei Tumori,,Milano,20133,ACTIVE,Via Venezian 1
+1071,CDM,PPD,SHP630-001,1-SM524V,,Italy,ASST Santi Paolo e Carlo - Azienda Universitaria-Polo Universitario San Paolo,Lombardia,Milano,20142,Disqualified,Via A. Di Rudini 8
+52,CDM,IQVIA,071102,383,1-2OX1HYL,Italy,Azienda Ospedaliera Pediatrica Santobono Pausillipon,Napoli,Napoli,80122,Enrollment Open,"Via Posillipo, 226"
+1077,CDM,PPD,TAK-079-1005,1-5D6R9DK,,Italy,Azienda USL di Bologna,,Bologna,40139,Disqualified,"Via Altura 3Ospedale Bellaria, Building G"
+53,CDM,IQVIA,071301,386,1-2XP5W0X,Italy,Fondazione Policlinico Universitario Agostino Gemelli IRCCS,Roma,Roma,00168,Closed,Servizio malattie emorragiche e trombotiche Largo gemelli 8Ala J piano 3
+54,CDM,IQVIA,161301,161301-051,1-2PH8CNB,Italy,Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia,Brescia,Brescia,25123,Dropped,Piazzale Spedali Civili S/N
+55,CDM,IQVIA,161302,161302-500,1-1UX7Y8E,Italy,Azienda Ospedaliero Universitaria Ospedali Riuniti,Torrette di Ancona,Ancona,60126,Dropped,"Via Conca, 71ITA1671"
+56,CDM,IQVIA,161403,281,1-1JNRSH1,Italy,Azienda Ospedaliera Città della Salute e della Scienza di Torino,Torino,Torino,10126,Enrollment Open,Corso Spezia 60
+57,CDM,IQVIA,161403,282,1-1RBBRAC,Italy,Azienda Ospedaliero-Universitaria Santa Maria della Misericordia,Udine,Udine,33100,Enrollment Open,P.le S.Maria della Misericordia 15
+59,CDM,ICON,C25001,28002,,Italy,Istituto Di Ricovero E Cura A Carattere Scientifico (National Cancer Insititute),Pordenone,Aviano,33081,ACTIVE,Via Franco Gallini 2Diprtiemento di OncoematologiaVia F.Gallini 2
+1083,CDM,PPD,TAK-079-1005,28503,,Italy,IRCCS AOU San Martino,Liguria,Genova,16132,Submitted,"Largo Daneo  3Dipartimento di Neuroscienze, Riabilitazione, Oftalmologia, Genetica e Scienze Materno-Infantili"
+61,CDM,ICON,C25003,,,Italy,FARMACIA ANTIBLASTICI (UFA),,Genova,16132,ACTIVE,"IRCCS AOU SAN MARTINO ISTLargo R. Benzi, 10Ex isolamento, piano 2°"
+58,CDM,IQVIA,161403,283,1-1QG1FDL,Italy,IRCCS Ospedale Casa Sollievo della Sofferenza,San Giovanni Rotondo,Foggia,71013,Enrollment Closed,Viale Cappuccini 1Liver Unit  IRCCS San Giovanni Rotondo
+1087,CDM,PPD,SHP634-401,401514,,Italy,Università Campus Bio Medico Di Roma,,Roma,00128,Active - Recruiting,"Via Alvaro del Portillo, 200Dipartimento di Oncologia Medica"
+1088,CDM,PPD,TAK-079-1004,28405,,Italy,Azienda Sanitaria Universitaria Giuliano Isontina (ASUGI),,Trieste,34125,Active - Recruiting,Piazza dell'Ospitale 1
+64,CDM,ICON,C25003,28007,,Italy,Farmacia Ospedaliera,15121,Alessandria,15121,ACTIVE,"A.O SS Antonio e Biagio e C. ArrigoVia Venezia, 16Piano terra"
+65,CDM,ICON,C25003,28008,,Italy,Comitato Etico Ospedali Riuniti Ancona,,Ancona,60126,ACTIVE,Via Conca 71
+1095,CDM,PPD,TAK-079-1004,28403,,Italy,Azienda Ospedaliera Di Rilievo Nazionale E Di Alta Specializzazione Garibaldi,Sicilia,Catania,95122,Active - Not Yet Recruiting,"Via Palermo, 636U.O.C. Ematologia"
+1096,CDM,PPD,SHP675-301,1-3P69UMH,,Italy,Università Degli Studi Di Torino,Piemonte,Torino,10123,Disqualified,"Corso Dogliotti 14SCDU Endocrinologia, Diabetologia e Metabolismo"
+1097,CDM,PPD,SHP675-301,1-78GKRLT,,Italy,Ospedale Guglielmo Da Saliceto,,Piacenza,29100,Disqualified,Via Taverna 49
+71,CDM,IQVIA,161505,285,1-2O2TDLJ,Italy,Azienda Ospedaliera Universitaria Policlinico G. Martino,Messina,Messina,98122,Enrollment Open,"Via Consolare Valeria,1"
+72,CDM,IQVIA,161505,284,1-2O2TDKL,Italy,Azienda Ospedaliera Universitaria Policlinico Tor Vergata,Roma,Roma,00133,Essential Documents in place,"Viale Oxford, 81Azienda Ospedaliera Univ Pol Tor Vergata - Dermatologia"
+76,CDM,IQVIA,AD-4833/TOMM40_301,5072,1-1HOO26E,Italy,Azienda Ospedaliera di Perugia Ospedale S. Maria della Misericordia,,,,ACTIVE,
+1101,CDM,PPD,SHP647-221,1-5WSAUCA,,Italy,Nuovo Ospedale Civile S. Agostino-Estense di Baggiovara,Emilia-Romagna,"Modena, Località Baggiovara",41126,Disqualified,"Via Giardini, 1355"
+78,CDM,IQVIA,C14011,28001,1-5I78FK,Italy,Ospedale Sant'Eugenio,,,,,
+79,CDM,IQVIA,C14012,28007,1-55L4S3,Italy,Ospedale Oncologico Armando Businco,,,,,
+80,CDM,IQVIA,C14012,28001,1-4CFR1O,Italy,Azienda Ospedaliera Universitaria Policlinico Sant'Orsola Malpighi,,,,,
+81,CDM,IQVIA,C14012,28004,1-4CFQYJ,Italy,Azienda Ospedaliero Universitaria Consorziale Policlinico di Bari,,,,,
+82,CDM,IQVIA,C14012,28006,1-5ESI7L,Italy,Istituto Tumori Giovanni Paolo II IRCCS Ospedale Oncologico Bari,,,,,
+83,CDM,IQVIA,C14012,28009,1-79JDJN,Italy,Ospedale degli Infermi,,,,,
+84,CDM,IQVIA,C14018,28103,1-12JD71Z,Italy,Azienda Socio Sanitaria Territoriale Niguarda (Grande Ospedale Metropolitano Niguarda),,,,,
+1108,CDM,PPD,TAK-007-2001,1-9KOYQ13,,Italy,Ist.Ematologia E Oncologia Medica L.E A.Seragnoli,Emilia-Romagna,Bologna,40138,Potential,Via Massarenti 9IDS-Investigational Drug Service
+86,CDM,ICON,C25001,28002,,Italy,C.R.O. Instituto Nazionale Tumori Di Aviano,Pordenone,Aviano,33081,ACTIVE,"Divisione Di Oncologia Medica AVia Pedemontana Occidentale, 12Via F.Gallini 2"
+1111,CDM,PPD,TAK-079-1004,28401,,Italy,A.O.U. Maggiore della Carità,Piemonte,Novara,20100,Active - Recruiting,Corso Mazzini 18Struttura Complessa Ematologia
+85,CDM,IQVIA,C25004,28002,1-272ZSD5,Italy,Azienda Ospedaliera Universitaria Policlinico Sant'Orsola Malpighi,Bologna,Bologna,40138,Enrollment Closed,"Via Massarenti, 9Policlinico S.Orsola-MalpighiPoli, Building 11"
+89,CDM,IQVIA,C26002,28003,1-1AT8N2I,Italy,Azienda Ospedaliero Universitaria Pisana,,,,,
+90,CDM,IQVIA,C26002,28004,1-19MCI5P,Italy,Azienda Ospedaliero Universitaria San Martino,,,,,
+1113,CDM,PPD,TAK-079-1005,1-5D7EP3D,,Italy,Azienda Policlinico Umberto I,Lazio,Roma,00185,Disqualified,Viale Università 30Dipartimento Di Neuroscienze
+92,CDM,ICON,C25002,28002,,Italy,Centro PET-TAC,,Roma,00168,ACTIVE,"Facoltà di Medicina e Chirurgia ""A. Gemelli""Largo F. Vito, 1"
+1115,CDM,PPD,SYR-322-309,1-IQQBW3,,Italy,Istituto G Gaslini Ospedale Pediatrico IRCCS - INCIPIT - PIN,,Genova,16147,Disqualified,Via Gaslini 5
+94,CDM,ICON,C25003,,,Italy,Azienda Ospedaliera Universitaria - IST San Martino,genoa,Genova,16132,ACTIVE,"Via Benedetto XV, 7"
+95,CDM,ICON,C25003,,,Italy,Azienda Ospedaliero - Universitaria Policlinico di Modena,Modena,Modena,41124,ACTIVE,"Via DeL Pozzo, 71"
+1120,CDM,PPD,TAK-788-3001,1-52QPCBX,,Italy,Azienda Ospedaliero Universitaria Di Bologna - Policlinico S Orsola Malpighi,,Bologna,40138,Disqualified,Via Albertoni 15
+97,CDM,ICON,C25003,,,Italy,"Dip. di Medicina Diagnostica, Clinica e di Sanita Pubblica",Modena,Modena,41124,ACTIVE,AOU di Modena - Policlinico - Via del Pozzo 71
+99,CDM,ICON,C25003,28010,,Italy,Laboratorio di Ematologia,,Cuneo,12100,ACTIVE,"Azienda Ospedaliera S. Croce e CarleVia m. Coppino, 26piano seminterrato"
+100,CDM,ICON,C25003,28010,,Italy,Ospedale Civile Di Cuneo Santa Croce E Carle,Cuneo,Cuneo,12100,ACTIVE,Divisione Di Cardiologia - Utic
+1124,CDM,PPD,TAK-788-3001,28007,,Italy,AORN Dei Colli- Ospedale Monaldi Napoli,Campania,Napoli,80131,Active - No Longer Recruiting,Via Leonardo BianchiUOC diPneumotisiologia
+102,CDM,ICON,C25003,28010,,Italy,S.C. Farmacia,,Cuneo,12100,ACTIVE,"Ospedale A. CarleVia A. Carle, 5"
+105,CDM,IQVIA,MLN0002-3026,28006,1-1QW26BV,Italy,Azienda Ospedaliero Universitaria Policlinico Paolo Giaccone,,,,,
+106,CDM,IQVIA,MLN0002-3026,28015,1-1QTXXBR,Italy,Azienda Ospedaliera Universitaria Policlinico G. Martino,,,,,
+107,CDM,IQVIA,MLN0002-3026,28016,1-1QTXX9U,Italy,Azienda Ospedaliera Universitaria Policlinico Sant'Orsola Malpighi,,,,,
+108,CDM,ICON,HGT-MLD-071,036,,Italy,Farmacia Ospedale Bambino Gesu,Roma (Gianicolo),Roma,00146,ACTIVE,"Roma (Gianicolo) - Padiglione Sant'Onofrio I pianoViale Ferdinando Baldelli, 41Magazzino dispositivi Medici"
+1133,CDM,PPD,SYR-322-309,1-U6ZHG4,,Italy,IRCCS Istituto Auxologico Italiano,,Oggebbio,28824,Disqualified,Strada Cadorna 90
+110,CDM,IQVIA,071102,381,1-2OWUCZM,Italy,Ospedale Pediatrico Bambino Gesù,Roma,Roma,00165,Enrollment Open,Piazza Sant Onofrio 43° piano. Stanza K5
+1134,CDM,PPD,TAK-007-2001,1-87ARZ4Q,,Italy,Istituto Clinico Humanitas,Lombardia,Rozzano (MI),20089,Potential,"Via Manzoni, 56Unità Operativa Medicina Nucleare"
+112,CDM,IQVIA,MLN0002-3028,7067,1-1IZNK4H,Italy,"Azienda Ospedaliera Universitaria ""Federico II""",,,,,
+113,CDM,IQVIA,MLN0002-3028,7077,1-1IZNK7N,Italy,Azienda Ospedaliera Universitaria Policlinico Sant'Orsola Malpighi,,,,,
+114,CDM,IQVIA,161505,291,1-34DE82E,Italy,Casa di Cura del Policlinico,Milano,Milano,20144,Essential Documents in place,via Dezza 49
+115,CDM,IQVIA,161505,292,1-37QD605,Italy,Azienda Ospedaliera Universitaria Policlinico Umberto I - Università di Roma La Sapienza,Roma,Roma,00161,Selected,"Via dell'Università, 30"
+116,CDM,IQVIA,MLN0002SC-3027,28007,1-1SDWVUH,Italy,Istituto Clinico Humanitas,,,,,
+117,CDM,IQVIA,MLN0002SC-3027,28013,1-1SLZO0G,Italy,Azienda Ospedaliero Universitaria Consorziale Policlinico di Bari,,,,,
+1143,CDM,PPD,TAK-079-1005,1-5D6R9CJ,,Italy,Azienda Ospedaliero-Universitaria di Ferrara - Arcispedale Sant' Anna,Ferrara,"Cona, Ferrara",44124,Disqualified,"Via Aldo Moro, 8U.O. di Oncologia Clinica"
+120,CDM,IQVIA,201601,814,1-307DIET,Italy,Presidio Ospedaliero di Castelfranco Veneto,Castelfranco Veneto,Treviso,31033,Enrollment Closed,"Via dei Carpani, 16"
+122,CDM,IQVIA,241501,117,1-2SW0CP7,Italy,Azienda Ospedaliera di Padova,Padova,Padova,35128,Selected,"Via Roma, 67"
+1147,CDM,PPD,TAK-079-1005,28504,,Italy,Azienda Ospedaliera Universitaria Careggi,,Firenze,50139,Active - Not Yet Recruiting,"Largo Palagi, 1Neurologia"
+123,CDM,IQVIA,241501,118,1-2SW0CKJ,Italy,Azienda Ospedaliero Universitaria Policlinico Paolo Giaccone,Palermo,Palermo,90127,Enrollment Open,"Via del Vespro, 129"
+124,CDM,IQVIA,241501,127,1-2W55UUT,Italy,Istituto Clinico Humanitas,Rozzano,Milano,20089,Enrollment Open,"Via Manzoni, 56"
+126,CDM,IQVIA,MA25101,28002,1-16XOP1H,Italy,Fondazione IRCCS Istituto Nazionale dei Tumori,,,,,
+127,CDM,IQVIA,MA25101,28011,1-1H9XUWB,Italy,Azienda Ospedaliera Universitaria Policlinico Tor Vergata,,,,,
+128,CDM,IQVIA,MLN0002-3026,28004,1-1QTX8KE,Italy,Azienda Ospedaliera Ospedale Cannizzaro,,,,,
+129,CDM,IQVIA,MLN0002-3026,28009,1-1QTX8Z9,Italy,Azienda Ospedaliera di Padova,,,,,
+130,CDM,IQVIA,MLN0002-3026,28014,1-1QTX99T,Italy,Seconda Università degli Studi di Napoli,,,,,
+131,CDM,IQVIA,MLN0002-3026,28017,1-1QTX8XG,Italy,Azienda Ospedaliero Universitaria Pisana,,,,,
+132,CDM,IQVIA,MLN0002SC-3027,28003,1-1S4J6Q1,Italy,Azienda Ospedaliera Vincenzo Cervello,,,,,
+133,CDM,IQVIA,MLN0002SC-3027,28010,1-1SEAF9V,Italy,I.R.C.C.S Policlinico San Donato,,,,,
+134,CDM,IQVIA,MLN0002SC-3027,28015,1-1T6AYU9,Italy,Azienda Ospedaliera Universitaria Policlinico G. Martino,,,,,
+135,CDM,IQVIA,AD-4833/TOMM40_301,5047,1-182PIJI,Italy,Azienda Ospedaliera Universitaria Policlinico Umberto I - Università di Roma La Sapienza,,,,ACTIVE,
+1155,CDM,PPD,TAK-079-1005,28502,,Italy,Azienda Ospedaliera Sant'andrea,Lazio,Roma,189,Active - Not Yet Recruiting,Via di Grottarossa 1035-1039U.O.C. Neurologia
+137,CDM,IQVIA,C26002,28002,1-1AT8NOL,Italy,Fondazione IRCCS Istituto Nazionale dei Tumori,,,,,
+138,CDM,IQVIA,MA25101,28001,1-16XN0RO,Italy,Azienda Ospedaliera Universitaria Policlinico Sant'Orsola Malpighi,,,,,
+139,CDM,IQVIA,MA25101,28007,1-1EUTXM7,Italy,Fondazione IRCCS Policlinico San Matteo,,,,,
+140,CDM,IQVIA,MA25101,28008,1-1CK8NH7,Italy,Arcispedale S. Maria Nuova Azienda Ospedaliera di Reggio Emilia,,,,,
+141,CDM,IQVIA,MLN0002-3026,28001,1-1QTXXAQ,Italy,IRCCS Ospedale Casa Sollievo della Sofferenza,,,,,
+142,CDM,IQVIA,MLN0002-3026,28011,1-1QTX8LX,Italy,A.O.U. Policlinico di Modena,,,,,
+143,CDM,IQVIA,MLN0002-3028,7070,1-1GCK4XV,Italy,Azienda Ospedaliera di Padova,,,,,
+144,CDM,IQVIA,MLN0002SC-3027,28009,1-1SDWY8V,Italy,Azienda Ospedaliera di Padova,,,,,
+145,CDM,IQVIA,MLN0002SC-3027,28012,1-1SORUMZ,Italy,"Azienda Ospedaliera Universitaria ""Federico II""",,,,,
+146,CDM,IQVIA,MLN0002SC-3027,28018,1-1T9RCRY,Italy,Azienda Socio Sanitaria Territoriale Fatebenefratelli (Presidio Ospedale Sacco),,,,,
+147,CDM,ICON,C25001,28004,,Italy,Az. Ospedaliera Universitaria Careggi,50134,Firenze,50134,ACTIVE,FierzeFLItaly
+148,CDM,IQVIA,MLN0002SC-3030,28005,1-26CTGW3,Italy,Azienda Ospedaliera Universitaria Careggi,Firenze,Firenze,50141,Dropped,Largo Brambilla 3
+149,CDM,IQVIA,MLN0002SC-3030,28013,1-26CTH0T,Italy,Azienda Ospedaliero Universitaria Consorziale Policlinico di Bari,Bari,Bari,80100,Dropped,Piazza Giulio Cesare
+150,CDM,IQVIA,MLN0002SC-3030,28018,1-26CTGZK,Italy,Azienda Socio Sanitaria Territoriale Fatebenefratelli (Presidio Ospedale Sacco),Milano,Milano,20157,Enrollment Open,"Via G. B. Grassi, 74Padiglione 20-UO Farmacia"
+151,CDM,ICON,C25003,,,Italy,Centro Oncologico Modenese,,Modena,41124,ACTIVE,"A.O.U. Policlinico di ModenaVia del Pozzo, 71"
+154,CDM,IQVIA,MLN0002SC-3030,28002,1-26CTGZ5,Italy,Azienda Ospedaliera San Camillo Forlanini,Roma,Roma,00152,Enrollment Open,"Circonvallazione Gianicolese, 87"
+155,CDM,IQVIA,MLN0002SC-3030,28003,1-26CTH0E,Italy,Azienda Ospedaliera Vincenzo Cervello,Palermo,Palermo,90146,Enrollment Open,"Via Trabucco, 180"
+156,CDM,ICON,C25001,28002,,Italy,Centro di riferimento Oncologico IRCCS di Aviano,,Aviano (PN),33081,ACTIVE,Centro di riferimento Oncologico IRCCS di AvianoDiprtiemento di OncoematologiaVia F.Gallini 2
+1182,CDM,PPD,TAK-981-1501,28003,,Italy,Azienda Ospedaliera Città della Salute e della Scienza di Torino,Piemonte,Torino,10124,Qualified,"Via Ventimiglia, 3Dipartimento Di Discipline Ginecologiche E Ostetriche"
+159,CDM,ICON,C25003,,,Italy,IRCCS Azienda Ospedaliera Universitaria San Martino,Italy,Genova,16132,ACTIVE,"Clinica Ematologica - Monoblocco, 11Largo Benzi 10"
+1183,CDM,PRA,AP24534-14-203,355,1-1FD38K5,Italy,Azienda Ospedaliera San Gerardo di Monza,MONZA E BRIANZA,Monza,20090,Activated,Via Pergolesi 33Unit  di Ricerca Clinica  Sezione di Ematologia
+161,CDM,ICON,C25001,28001,,Italy,Azienda Ospedaliera San Giovanni Battista (Presidio Molinette),Italy,Torino,10126,ACTIVE,Via Cherasco 23Dermatologia 2Corso Bramante 88/90
+162,CDM,ICON,C25001,28005,,Italy,IRCCS IRST MELDOLA,Italy,Meldola,47014,ACTIVE,IRCCS IRST MELDOLA
+1185,CDM,PRA,AP24534-14-203,530,1-1FD38IN,Italy,Azienda Ospedaliero - Universitaria Policlinico - Vittorio Emanuele,CATANIA,Catania,95124,Closed,Divisone Di Ematologia Pad DVia Citelli 6
+164,CDM,ICON,C25003,,,Italy,UO Laboratorio Analisi Centrale,,Grenova,16132,ACTIVE,"Largo R. Benzi, 10Monoblocco 1° piano"
+165,CDM,ICON,C25003,,,Italy,UOC FARMACIA,,Genova,16132,ACTIVE,"IRCCS AOU SAN MARTINO - ISTLargo R. Benzi, 10Pad. Maragliano - Piano fondi - Magazzino Specialità Medicinali"
+166,CDM,ICON,C25003,28001,,Italy,"Centro Ricerche Cliniche - Istituto di Ematologia ""L. e A. Seragnoli""",,Bologna,40138,ACTIVE,"A.O.U. di BolognaVia Massarenti, 9Pad. 16 Ingresso B"
+1188,CDM,PRA,AP26113-13-301,598,1-1FC2ATK,Italy,Azienda Ospedaliera San Gerardo di Monza,MILANO,Milano,20900,Activated,Struttura Complessa Oncologia MedicaAzienda Ospedaliera SGerardo MonzaVia Pergolesi 33
+1190,CDM,PRA,Brigatinib-1001,28003,1-1KJDA0E,Italy,Policlinico Sant'Orsola Malpighi,BOLOGNA,Bologna,40138,Activated,Unita Operativa Medicina InternaVia Albertoni 15
+1191,CDM,PRA,AP24534-14-203,687,1-1FD38E4,Italy,AOUI - Ospedale Policlinico Giambattista Rossi di Borgo Roma,VERONA,Verona,37134,Activated,Dipartimento di EmatologiaPiazzale L e A Scuro 10
+170,CDM,ICON,C25003,28007,,Italy,Azienda Ospedaliera Nazionale SS Antonio e Biagio e Cesare Arrigo- SC Ematologia,Italy,Alessandria,15121,ACTIVE,"Via Venezia 16Via Venezia, 16Pad. Fiandesio, 3Â° Piano"
+167,CDM,ICON,C25003,28001,,Italy,Investigational Drug Service,,Bologna,40138,ACTIVE,"A.O.U. di BolognaVia Massarenti, 9Pad.19"
+169,CDM,ICON,C25003,28005,,Italy,University of Sacred Heart Policlinico A. Gemelli,Rome,Rome,00168,ACTIVE,Largo Agostino Gemelli 8
+1197,CDM,PRA,AP26113-13-301,631,1-1FC4W2Q,Italy,Azienda Ospedaliera Sant'Andrea,PISA,Pisa,56100,Closed,Ospedale Santa ChiaraVia Roma 67
+1193,CDM,PRA,AP26113-13-301,624,1-1FA47NM,Italy,Centro di Riferimento Oncologico di Aviano,PORDENONE,AVIANO,33081,Activated,Oncologia MedicaCentro Oncologico AvianoVia Gallini 2
+175,CDM,ICON,C25003,28001,,Italy,Comitato Etico Indipendente_Bologna,,Bologna,40138,ACTIVE,"Via Albertoni 15Via Massarenti, 9Pad. 8"
+176,CDM,ICON,C25003,28001,,Italy,Radiologia,,Bologna,40138,ACTIVE,"Via Massarenti, 9Pad. 15Pad. 8"
+177,CDM,ICON,C25003,28002,,Italy,"Azienda Ospedaliera Universitaria ""Federico II""",,Napoli,80131,ACTIVE,Dipartimento di Biochimica e Biotechnologie MedicheVia Sergio Pansini 5
+1201,CDM,PRA,Brigatinib-3001,28015,1-1L6OLO8,Italy,Istituto Scientifico Universitario San Raffaele,MILANO,Milano,20132,Activated,Unit Operativa di Oncologia MedicaVia Olgettina 60
+1203,CDM,PRA,AP26113-13-301,475,1-1GE4VC0,Italy,Azienda Ospedaliero - Universitaria Policlinico - Vittorio Emanuele,CATANIA,Catania,95123,Closed,UOC Oncologia MedicaVia Santa Sofia 78
+1202,CDM,PRA,Brigatinib-3001,28012,1-1L6OLKH,Italy,Ospedale Santa Maria delle Croci,RAVENNA,Ravenna,48121,Activated,Via Alcide De Gasperi 8
+181,CDM,ICON,C25003,28008,,Italy,Clinica Ematologica - A.O.U. Ospedali Riuniti di Ancona,Palermo,Torrette Ancona,60121,ACTIVE,"Via Conca, 71"
+180,CDM,ICON,C25003,28008,,Italy,Clinica di Ematologia,,Torrette di Ancona,60020,ACTIVE,Ospedali Riuniti di AnconaVia Conca 71
+1205,CDM,PRA,AP26113-13-301,479,1-1FA47VI,Italy,Azienda Unita Sanitaria Locale di Ravenna,RAVENNA,Ravenna,48121,Activated,UOC Oncologia MedicaPoliclinico RavennaViale Randi 5
+1204,CDM,PRA,AP26113-13-301,478,1-1FA47KM,Italy,Istituto Tumori Napoli Fondazione G. Pascale,NAPOLI,Napoli,80131,Activated,Oncologia Medica Toraco PolmonareVia Mariano Semmola
+1212,CDM,PRA,C31005,28006,1-1BVWP7N,Italy,Istituto di Ricovero e Cura a Carattere Scientifico Istituto Oncologico Veneto,PADOVA,Padova,35128,Closed,Oncologia Medica 1Istituto Oncologico veneto IOV IRCCSVia Gattamelata 64
+189,CDM,ICON,C25003,28004,,Italy,Ospedale Oncologico Businco Ematologia e CTMO,Italy,Cagliari,09121,ACTIVE,"7° piano ALA B Via Edward Jenner, 1"
+193,CDM,ICON,C25003,28010,,Italy,Comitato Etico A.O. Cuneo,,Cuneo,12100,ACTIVE,Via Monte Zovetto 18
+1217,CDM,PRA,SYR-322_309,28001,1-1FHVG22,Italy,Ospedale Pediatrico Bambino Gesu,ROMA,Roma,00146,Activated,EndocrinologiaViale di San Paolo 15
+1218,CDM,PRA,SYR-322_309,28006,1-1FL9DT0,Italy,Azienda Ospedaliero Universitaria Policlinico Paolo Giaccone,PALERMO,Palermo,,Activated,Azienda Ospedaliera Universitaria Policlinico Paolo GiacconeVia Del Vespro 129
+1219,CDM,PRA,SYR-322_309,28005,1-1FLIUDV,Italy,Ospedale Policlinico SS Annunziata,CHIETI,Chieti,66100,Activated,Universita Degli Studi Azienda ASL Chieti  Clinica PediatricaVia Dei Vestini 5
+1220,CDM,PRA,TAK-041-2001,Galderisi,1-1L8CZDV,Italy,Azienda Ospedaliera Universitaria Universita della Campania Luigi Vanvitelli,NAPOLI,Napoli,80138,Dropped,Via Santa Maria di Costantinopoli 104
+1223,CDM,PRA,TAK-041-2001,Spalletta,1-1L8J9VL,Italy,Fondazione Santa Lucia - Istituto di Ricovero e Cura a Carattere Scientifico,,Roma,00179,Dropped,Via Ardeatina 306354
+1225,CDM,PRA,C31004,28009a,1-1G0DYG2,Italy,Presidio Ospedaliero di Lugo,RAVENNA,Ravenna,48100,Closed,AUSL di RavennaOncologia MedicaViale Randi 5
+201,CDM,IQVIA,MLN0002SC-3030,28010,1-26CTH2C,Italy,I.R.C.C.S Policlinico San Donato,San Donato Milanese,Milano,20097,Enrollment Open,Piazza Edmondo Malan 2
+1229,CDM,PRA,C34004,28008,1-1C8DFRH,Italy,Azienda Grande Ospedale Metropolitano Bianchi Melacrino Morelli,REGGIO CALABRIA,Reggio Calabria,89100,Dropped,Unit Opertiva di EmatologiaVia Melacrino 21
+205,CDM,IQVIA,161403,287,1-2AM52CF,Italy,Azienda Socio Sanitaria Territoriale  Sette Laghi (Presidio Ospedale di Circolo e Fondazione Macchi),Varese,Varese,21100,Dropped,Viale Borri 57
+207,CDM,IQVIA,201501,816,1-2HR1Y16,Italy,Ospedale San Bortolo di Vicenza,Vicenza,Vicenza,36100,Dropped,"Viale Rodolfi, 37"
+1233,CDM,PRA,TAK-906-2002,28006,1-1LDDM4N,Italy,Azienda Ospedaliero-Universitaria di Ferrara,FERRARA,Ferrara,44100,Closed,Corso Giovecca 203
+1234,CDM,PRA,Vedolizumab-3035,28001,1-1LL00II,Italy,Presidio Ospedaliero di Pescara,PESCARA,Pescara,65125,Activated,Dipartimento di EmatologiaVia Fonte Romana 8
+1235,CDM,PRA,Vedolizumab-3035,28004,1-1LL109B,Italy,Policlinico Universitario di Catania,CATANIA,Catania,95124,Activated,Divisione di EmatologiaUnita di Trapianto di MidolloVia Santa Sofia 78
+1236,CDM,PRA,Vedolizumab-3035,28006,1-1LV4U3W,Italy,Ospedale Mazzoni,MARCHE,Ascoli Piceno,63100,Activated,Via Degli Iris 6
+1237,CDM,PRA,Vedolizumab-3035,28003,1-1LMS7LS,Italy,Azienda Grande Ospedale Metropolitano Bianchi Melacrino Morelli,CALABRIA,Reggio Calabria,89122,Activated,Centro Unico Regionale Trapianti di Cellule Staminali e Terapie CellulariVia G Melacrino
+1238,CDM,PRA,Vedolizumab-3035,28009,1-1LL00ER,Italy,Istituto Clinico Humanitas Humanitas Cancer Center,MILANO,Milano,20089`,Activated,UO Oncologia Medica ed Ematologia  Humanitas Cancer CenterVia Manzoni 56
+215,CDM,IQVIA,241501,116,1-2SW0CM2,Italy,"Azienda Ospedaliera di Catanzaro ""Pugliese-Ciaccio""",Catanzaro,Catanzaro,88100,Enrollment Open,"Viale Pio X, 10"
+217,CDM,IQVIA,261203,543,1-1XGPK58,Italy,"Azienda Ospedaliera Universitaria ""Policlinico - Vittorio Emanuele"" (Presidio Ferrarotto Alessi)",Catania,Catania,95124,Enrollment Open,"Via G. Clementi, 36"
+218,CDM,IQVIA,AD-4833/TOMM40_301,5043,1-182URSD,Italy,Policlinico Universitario Agostino Gemelli,,,,ACTIVE,
+219,CDM,IQVIA,AD-4833/TOMM40_301,5073,1-1K5OXTT,Italy,SDN Istituto di Ricerca Diagnostica e Nucleare,,,,ACTIVE,
+220,CDM,IQVIA,C14012,28005,1-4LBKWF,Italy,Policlinico Universitario Agostino Gemelli,,,,,
+221,CDM,IQVIA,C14012,28008,1-6J6MKG,Italy,Ospedale Santa Maria delle Croci,,,,,
+222,CDM,IQVIA,C14012,28010,1-79JDNR,Italy,Istituto Scientifico Romagnolo Per Lo Studio e La Cura Dei Tumori,,,,,
+223,CDM,IQVIA,C14018,28106,1-13Y8376,Italy,Azienda Ospedaliero-Universitaria S.Luigi Gonzaga,,,,,
+224,CDM,IQVIA,C14018,28107,1-141DKD4,Italy,Azienda Ospedaliera di Perugia Ospedale S. Maria della Misericordia,,,,,
+225,CDM,IQVIA,C14018,28108,1-16LU6GM,Italy,Azienda Ospedaliero Universitaria di Parma,,,,,
+1242,CDM,PRA,Brigatinib-3001,28014,1-1L6OLPH,Italy,Azienda Policlinico San Martino,GENOVA,Genova,16132,Activated,Oncologia Medica ALargo Rosanna Benzi 10
+227,CDM,IQVIA,MA25101,28013,1-2E15W7B,Italy,Azienda Ospedaliera Universitaria Integrata di Verona,,,,,
+228,CDM,IQVIA,MLN0002-3026,28010,1-1QTX9AX,Italy,I.R.C.C.S Policlinico San Donato,,,,,
+229,CDM,IQVIA,MLN0002-3026,28018,1-1QTX8X1,Italy,Azienda Socio Sanitaria Territoriale Fatebenefratelli (Presidio Ospedale Sacco),,,,,
+230,CDM,IQVIA,MLN0002-3028,7069,1-1GCK4YN,Italy,Azienda Ospedaliera San Camillo Forlanini,,,,,
+1247,CDM,PRA,AP26113-13-301,767,1-1FA42D2,Italy,Policlinico Universitario Campus Bio-Medico,ROMA,ROMA,00128,Activated,Dipto Oncologia MedicaVia Alvaro del Portillo 200
+1250,CDM,PRA,Ponatinib-3001,28007,1-1L9MVJG,Italy,Azienda USL della Romagna,RAVENNA,Ravenna,48121,Activated,UO EmatologiaViale Vincenzo Randi 5
+1257,CDM,PRA,Brigatinib-2002,28008,1-1KAJK4O,Italy,Azienda Ospedaliero - Universitaria San Luigi Gonzaga,TORINO,Orbassano,10043,Activated,SCDU Malattie Apparato Respiratorio 5 ad Indirizzo oncologicoVia Regione Gonzole 10
+1258,CDM,PRA,C31004,28010,1-1C5QLJS,Italy,Spedali Civili di Brescia,BRESCIA,Brescia,25123,Closed,Unit di Ostetricia e GinecologiaPiazza Spedali Civili 1
+231,CDM,IQVIA,161403,290,1-2HRAI1S,Italy,Fondazione Istituto Neurologico Casimiro Mondino,Pavia,Pavia,27100,Enrollment Open,"Via Mondino, 2"
+1260,CDM,PRA,C34004,28001,1-1C86O4M,Italy,Azienda Ospedaliera Papa Giovanni XXIII,LOMBARDIA,Bergamo,24127,Closed,USC EmatologiaPiazza Organizzazione Mondiale della Sanit 1Torre 6  4 Piano
+1261,CDM,PRA,C34004,28006,1-1C86NZY,Italy,Azienda Ospedaliero-Universitaria,NOVARA,Novara,28100,Closed,Struttura Complessa Direzione Universitaria Ematologia SCDU EmatologiaCorso Mazzini 18
+235,CDM,IQVIA,161505,288,1-2O2TDJH,Italy,Azienda Socio Sanitaria Territoriale Niguarda (Grande Ospedale Metropolitano Niguarda),Milano,Milano,20162,Dropped,"Piazza Ospedale Maggiore, 3"
+1263,CDM,PRA,Ponatinib-3001,28004,1-1L9MVI7,Italy,Arcispedale Santa Maria Nuova,REGGIO NELLA EMILIA,Reggio Emilia,42123,Activated,Viale Risorgimento 80
+237,CDM,IQVIA,161505,294,1-4JCFA4M,Italy,Ospedale Clinicizzato SS. Annunziata,Chieti,Chieti,66013,Dropped,Via dei Vestini
+1265,CDM,PRA,Vedolizumab-3035,28002,1-1LL50CP,Italy,Azienda Ospedaliera Policlinico di Bari,BARI,Bari,70124,Closed,Dipart di EmatologiaPiazza Giulio Cesare 11
+1262,CDM,PRA,Ponatinib-3001,28001,1-1KR0TZH,Italy,Ospedale dell'Angelo,VENEZIA,Mestre,30174,Activated,Dipartimento di EmatologiaVia Don Federico Tosatto 147
+243,CDM,IQVIA,MLN1117-1501,28004,1-1Q01HT9,Italy,Azienda Ospedaliera Universitaria Careggi,,,,,
+244,CDM,IQVIA,MLN1117-1501,28006,1-1P38K6B,Italy,Azienda Ospedaliero Universitaria Pisana,,,,,
+1268,CDM,PRA,TAK-041-2001,Muratori,1-1L8J9UC,Italy,IRCCS Istituto delle Scienze Neurologiche di Bologna,BOLOGNA,Bologna,40139,Dropped,Via Altura 3
+246,CDM,IQVIA,AD-4833/TOMM40_301,5042,1-182PII4,Italy,IRCCS Centro San Giovanni di Dio Fatebenefratelli,,,,ACTIVE,
+1270,CDM,PPD,Vedolizumab-4005,1-RSAUHN,,Italy,ASST Fatebenefratelli Sacco - Ospedale Fatebenefratelli e Oftalmico,Lombardia,Milano,20121,Disqualified,Corso di Porta Nuova 23
+248,CDM,IQVIA,161403,289,1-1N8ME54,Italy,Azienda Ospedaliero Universitaria San Martino,Genova,Genova,16132,Enrollment Open,Largo Paolo Daneo 3
+1273,CDM,PPD,Vedolizumab-4005,1-RSAUK5,,Italy,Azienda Ospedaliera San Camillo Forlanini,,,,Disqualified,
+1274,CTMS,,C14006,TBD-300296422,,Italy,Ospedale Sant'Anna,,,,Not Selected,
+251,CDM,IQVIA,071301,381,1-2SMK13T,Italy,Ospedale Pediatrico Bambino Gesù,Rome,Roma,00165,Closed,"Piazza sant’onofrio 4Padiglione Giovanni Paolo 2, 3 Piano, Stanza K5"
+1275,CTMS,,C14006,TBD-300296408,,Italy,Instituto Ospedaliero Fondazione Poliambulanza,,,,Not Selected,
+1276,CTMS,,Sardi - Italy,Sardi - Italy,,Italy,Meyer Children's Hospital,,,,Active,
+1277,CTMS,,C14006,TBD-300296409,,Italy,Ospedale Policlinico Sant'Orsola Malpighi,,,,Not Selected,
+1278,CTMS,,C14006,TBD-300296423,,Italy,Ente Ospedaliero Ospedali Galliera,,,,Not Selected,
+252,CDM,IQVIA,071301,385,1-2FNHRB8,Italy,Umberto I Pol. di Roma-Università di Roma La Sapienza,Roma,Roma,00161,Closed,Via Benevento 6Dipartimento di ematologia Clinical Trial Service Piano -1
+1281,CDM,PPD,Vedolizumab-4005,1-SY43ZF,,Italy,Ospedali Riuniti Azienda Ospedaliero Universitaria,Puglia,Foggia,71122,Disqualified,"Viale Luigi Pinto,1"
+1282,CDM,PPD,Vedolizumab-4005,1-SY43ZR,,Italy,Azienda Complesso Ospedaliero S Filippo Neri,Lazio,Rome,00135,Disqualified,"Via Giovanni Martinotti, 20"
+253,CDM,IQVIA,MLN0002SC-3030,28012,1-26CTGWI,Italy,"Azienda Ospedaliera Universitaria ""Federico II""",Napoli,Napoli,80131,Closed,Via Pansini 5Edificio 16 piano IV
+260,CDM,IQVIA,281102,010,1-2V4MDJ3,Italy,Azienda Socio Sanitaria Territoriale Papa Giovanni XXIII (Presidio Papa Giovanni XXIII),Bergamo,Bergamo,24127,Enrollment Open,"Piazza OMS, 1Neurologia"
+261,CDM,IQVIA,C14011,28002,1-5I784R,Italy,Azienda Ospedaliero Universitaria San Martino,,,,,
+262,CDM,IQVIA,C14012,28011,1-B9O29R,Italy,Azienda Ospedaliera Universitaria Careggi,,,,,
+1286,CDM,PRA,AP24534-14-203,511,1-1FD38FM,Italy,Centro di Ematologia Policlinico Umberto I Universita Sapienza di Roma,ROMA,Roma,00161,Activated,Dipartimento di Biotecnologie Cellulari ed EmatologiaSezione di EmatologiaVia Benevento 6
+1288,CDM,PRA,AP26113-13-301,476,1-1FB8FX2,Italy,Azienda Ospedaliera di Perugia,PERUGIA,Perugia,06132,Activated,SC Oncologia MedicaVia GDottori 1
+1289,CDM,PPD,Vedolizumab-4013,1-MINGQI,,Italy,Ospedale Santa Maria Delle Croci,,Ravenna,48100,Disqualified,Viale Vincenzo Randi 5Croci
+1291,CDM,PPD,Vedolizumab-4013,28002,,Italy,Azienda Ospedaliera San Camillo Forlanini,Lazio,Rome,152,Withdrawn,Circonvallazione Gianicolense 87Department of Gastroenterology
+1292,CTMS,,X25015,001-IIS,,Italy,Istituto di Ematologia e Oncologia Medica,,,,Active,
+1293,CTMS,,X14023,001-IIS,,Italy,Fondazione IRCCS Istituto Nazionale Dei Tumori,,,,Active,
+270,CDM,IQVIA,TAK-390MR_108,5008,1-1CMUXME,Italy,Ospedale Pediatrico Bambino Gesù,,,,,
+271,CDM,IQVIA,MA25101,28004,1-18ROO8V,Italy,Azienda Ospedaliera Universitaria Careggi,,,,,
+272,CDM,IQVIA,MA25101,28005,1-198JRGY,Italy,A.O.U. Policlinico di Modena,,,,,
+1294,CTMS,,X25010,001-IIS,,Italy,"Istituto Nazionale Tumori, Milan",,,,Active,
+1295,CTMS,,X25029,001-IIS,,Italy,Universita Di Bologna,,,,Under Consideration,
+275,CDM,IQVIA,MLN0002-3026,28002,1-1QTX8JZ,Italy,Azienda Ospedaliera San Camillo Forlanini,,,,,
+276,CDM,IQVIA,MLN0002-3026,28003,1-1QR1AMY,Italy,Azienda Ospedaliera Vincenzo Cervello,,,,,
+277,CDM,IQVIA,MLN0002-3026,28008,1-1QTX8ZO,Italy,Azienda Ospedaliero Universitaria San Martino,,,,,
+1296,CDM,PRA,AP24534-14-203,689,1-1FD38LX,Italy,Azienda Ospedaliera Ospedali Riuniti Marche Nord,PESARO E URBINO,Pesaro,61122,Closed,Via Lombroso 1
+1299,CDM,PRA,AP26113-13-301,477,1-1FAP7PO,Italy,Azienda Ospedaliera San Giuseppe Moscati,AVELLINO,Avellino,83100,Activated,UO di Oncologia MedicaContrada Amoretta
+280,CDM,IQVIA,MLN0002-3028,7065,1-1GCK53H,Italy,IRCCS Ospedale Casa Sollievo della Sofferenza,,,,,
+281,CDM,IQVIA,MLN0002SC-3027,28002,1-1S4GB5A,Italy,Azienda Ospedaliera San Camillo Forlanini,,,,,
+1302,CDM,PRA,C31004,28005,1-1C5O1GU,Italy,Ente Ospedaliero Ospedali Galliera,GENOVA,Genova,16128,Closed,Via Mura delle Cappuccine 1416128 Genova
+1306,CTMS,PPD,C21004,28003,,Italy,Centro di Riferimento Oncologico,,,,Closed,
+1307,CTMS,PPD,C21004,28008,,Italy,Azienda Ospedaliera San Camillo Forlanini,,,,Closed,
+279,CDM,IQVIA,161403,284,1-1OTQTW5,Italy,Azienda Ospedaliera Universitaria Policlinico Tor Vergata,Rome,Roma,00133,Enrollment Open,Viale Oxford 81
+287,CDM,IQVIA,MLN1117-1501,28001,1-1MZDHGC,Italy,Azienda Socio Sanitaria Territoriale di Cremona (Istituti Ospitalieri di Cremona),,,,,
+288,CDM,IQVIA,MLN1117-1501,28005,1-1MZEQ3R,Italy,Azienda Ospedaliero Universitaria di Parma,,,,,
+1311,CTMS,PPD,C21004,28007,,Italy,Azienda Ospedaliera Sant'Andrea,,,,Closed,
+290,CDM,IQVIA,C14011,28003,1-5I7897,Italy,Azienda Ospedaliera Vincenzo Cervello,,,,,
+291,CDM,IQVIA,C14011,28004,1-7683DJ,Italy,Azienda Ospedaliero-Universitaria S. Luigi Gonzaga,,,,,
+1312,CDM,PRA,C34004,28004,1-1C872YU,Italy,Azienda Ospedaliera Universitaria Citta della Salute e della Scienza di Torino,PIEMONTE,Torino,10126,Dropped,Struttura Complessa di EmatologiaCorso Bramante 8890
+1313,CTMS,,X25002,001-IIS,,Italy,Istituto di Ematologia e Oncologia Medica,,,,Active,
+294,CDM,IQVIA,241501,120,1-2SW2WMS,Italy,Ospedale M. Bufalini,Cesena,Forli - Cesena,47028,Dropped,Viale Ghirotti 286
+1314,CTMS,,X25008,001-IIS,,Italy,Istituto di Ematologia e Oncologia Medica,,,,Active,
+296,CDM,IQVIA,C14012,28003,1-4CFQXD,Italy,Azienda Ospedaliera Città della Salute e della Scienza di Torino,,,,,
+1318,CDM,PRA,Ponatinib-3001,28013,1-1KR0TX1,Italy,Azienda Ospedaliera Vito Fazzi,LECCE,Lecce,73100,Activated,Unit Operativa di EmatologiaPiazza Filippo Muratore 1
+1319,CTMS,,X16008,001-IIS,,Italy,University of Torino,,,,Active,
+1322,CDM,PRA,TAK-906-2002,28003,1-1KDOQ25,Italy,Azienda Ospedaliero-Universitaria Pisana Ospedale Cisanello,PISA,Pisa,56124,Closed,Unit Operativa GastroenteroligaVia Paradisa 2
+1323,CTMS,PPD,C21004,,,Italy,Ospedale di Cattinara,,,,Declined Participation,
+301,CDM,IQVIA,C26003,28002,1-1ATCWUP,Italy,Fondazione IRCCS Istituto Nazionale dei Tumori,,,,,
+1324,CDM,PRA,Vedolizumab-3035,28008,1-1LL00NS,Italy,Azienda Ospedaliero Universitaria Ospedali Riuniti di Ancona,ANCONA,Ancona,60126,Closed,Via Conca 71Torrette
+1325,CTMS,,X25003,001-IIS,,Italy,Azienda Ospedaliero-Universitaria di Modena Policlinico,,,,Active,
+1326,CTMS,PPD,C21005,28003,,Italy,Centro di Riferimento Oncologico,,,,Closed,
+1327,CTMS,PPD,C21005,28005,,Italy,Azienda Ospedaliero-Universitaria di Bologna - Policlinico S.Orsola-Malpighi,,,,Closed,
+1328,CTMS,PPD,C21005,28008,,Italy,Azienda Ospedaliera San Camillo Forlanini,,,,Closed,
+1329,CTMS,PPD,C21005,28009,,Italy,Policlinico Universitario A Gemelli,,,,Closed,
+308,CDM,IQVIA,MLN1117-1501,28003,1-1MZEQ29,Italy,Ospedale Vito Fazzi,,,,,
+309,CDM,IQVIA,AD-4833/TOMM40_301,5071,1-1I6FJ8G,Italy,Azienda Ospedaliera Card. G. Panico,,,,ACTIVE,
+1330,CTMS,PPD,C21004,28002,,Italy,Azienda Ospedaliera- Universitaria San Giovanni Battista,,,,Closed,
+311,CDM,IQVIA,C14012,28002,1-4CFR01,Italy,A.O.U. Policlinico di Modena,,,,,
+1331,CTMS,PPD,C21004,28009,,Italy,Policlinico Universitario A Gemelli,,,,Withdrawn,
+1332,CTMS,PPD,C21005,28002,,Italy,Azienda Ospedaliera- Universitaria San Giovanni Battista,,,,Closed,
+1333,CTMS,PPD,C21005,28006,,Italy,Ospedali Riuniti di Bergamo Azienda Ospedaliera,,,,Withdrawn,
+1334,CTMS,PPD,C21005,28004,,Italy,Azienda Ospedaliero-Universitaria di Modena Policlinico,,,,Declined Participation,
+1335,CTMS,PPD,C21005,28010,,Italy,Fondazione del Piemonte per Oncologia IRCC,,,,Closed,
+1336,CTMS,,C14006,TBD-300296407,,Italy,Ospedale Versilia,,,,Not Selected,
+318,CDM,IQVIA,TAK-390MR_108,5019,1-1CMRM6L,Italy,"Azienda Ospedaliera Universitaria ""Federico II""",,,,,
+1337,CTMS,PPD,C21005,28007,,Italy,Azienda Ospedaliera Sant'Andrea,,,,Closed,
+320,CDM,IQVIA,MA25101,28009,1-1EWRJG7,Italy,Azienda Socio Sanitaria Territoriale Papa Giovanni XXIII (Presidio Papa Giovanni XXIII),,,,,
+321,CDM,IQVIA,MA25101,28010,1-1H65YKW,Italy,"Azienda Ospedaliera Universitaria ""Policlinico - Vittorio Emanuele"" (Presidio Ferrarotto Alessi)",,,,,
+322,CDM,IQVIA,TED-R13-002,0701,1-3JX5BL9,Italy,Ospedale Monsignor Raffaele Dimiccoli,Barletta,Bari,70051,Regulatory Green Light,"Viale Ippocrate, 15"
+1338,CTMS,Covance,AD-4833/TOMM40_302,8003,,Italy,IRCCS Centro San Giovanni di Dio Fatebenefratelli,,,,Closed,
+1339,CTMS,Covance,AD-4833/TOMM40_302,8004,,Italy,Umberto I Policlinico di Roma-Università di Roma La Sapienza,,,,Closed,
+1340,CTMS,PPD,C21005,,,Italy,Azienda Ospedaliero-Universitaria di Udine,,,,Declined Participation,
+1341,CTMS,,X25007,001-IIS,,Italy,Azienda Ospedaliera Universitaria San Martino,,,,Active,
+1342,CTMS,PPD,C21013,1-1LM1W4T,,Italy,Presidio Ospedaliero  San Donato,,,,Declined Participation,
+1343,CTMS,PPD,C23003,28405,,Italy,Azienda Policlinico Umberto I,,,,Closed,
+1344,CTMS,PPD,C23003,1-1BLJ2ST,,Italy,Fondazione del Piemonte per Oncologia IRCC,,,,Withdrawn,
+1345,CTMS,PPD,C23003,28401,,Italy,Azienda Ospedaliera di Padova,,,,Closed,
+1346,CTMS,PPD,C23003,28403,,Italy,Istituto Nazionale Tumori Regina Elena,,,,Withdrawn,
+1347,CTMS,PPD,C23003,28406,,Italy,Ospedale Pediatrico Bambino Gesu',,,,Withdrawn,
+1348,CTMS,PPD,C23003,1-19UXOAR,,Italy,Ospedale Infantile Regina Margherita,,,,Withdrawn,
+1349,CTMS,Quintiles,MLN1117-1003,28005,,Italy,IOV - Istituto Oncologico Veneto IRCCS,,,,Selected,
+1350,CTMS,Quintiles,MLN1117-1003,28003,,Italy,Fondazione IRCCS Istituto Nazionale Dei Tumori,,,,Selected,
+336,CDM,IQVIA,MLN0002-3026,28007,1-1QTX8OZ,Italy,Istituto Clinico Humanitas,,,,,
+337,CDM,PPD,3004,1-CSNNHF,,Italy,Istituti Ortopedici Rizzoli,Emilia-Romagna,Bologna,40136,Disqualified,Via Pupilli 1
+1353,CTMS,Quintiles,TAK-390MR_207,7047,,Italy,Azienda Ospedaliero-Universitaria Consorziale Pol. di Bari,,,,Early Terminated,
+1354,CTMS,Quintiles,TAK-390MR_207,7065,,Italy,Azienda Ospedaliera Universitaria Policlinico G. Martino,,,,Closed,
+1355,CTMS,PPD,C21004,28004,,Italy,Azienda Ospedaliero-Universitaria di Modena Policlinico,,,,Withdrawn,
+1356,CTMS,PPD,C21004,28001,,Italy,Maggiore della Carita,,,,Closed,
+342,CDM,IQVIA,C26003,28001,1-19MEVHU,Italy,Ospedale Mater Salutis,,,,,
+1358,CTMS,PPD,C21004,28011,,Italy,Fondazione Centro San Raffaele del Monte Tabor,,,,Closed,
+1359,CTMS,Quintiles,MLN1117-1003,28001,,Italy,Ospedale Mater Salutis,,,,Selected,
+1360,CTMS,Quintiles,MLN1117-1003,28002,,Italy,Fondazione IRCCS Policlinico San Matteo,,,,Selected,
+1361,CTMS,PPD,C21013,1-1LM1VQB,,Italy,Istituto Scientifico Romagnolo per lo Studio  e la Cura dei Tumori - IRST,,,,Withdrawn,
+1362,CTMS,PPD,C21005,28001,,Italy,Maggiore della Carita,,,,Closed,
+1363,CTMS,PPD,C23003,1-1BCDA0S,,Italy,"Istituto Nazionale Tumori, Milan",,,,Withdrawn,
+1364,CTMS,PPD,C23003,1-1BCDAD5,,Italy,Ospedale Infantile Regina Margherita,,,,Withdrawn,
+1365,CTMS,PPD,C23003,1-1CC5S0F,,Italy,"Istituto Nazionale Tumori, Milan",,,,Withdrawn,
+1366,CTMS,PPD,C23003,1-1DFMPA5,,Italy,Policlinico Universitario A Gemelli,,,,Withdrawn,
+352,CDM,IQVIA,C14018,58801,1-12JEDMR,Italy,Presidio Ospedaliero di Livorno,,,,,
+1368,CTMS,Quintiles,MLN1117-1003,28004,,Italy,Azienda Ospedaliera Istituti Ospitalieri di Cremona,,,,Selected,
+1369,CTMS,Quintiles,MLN1117-1003,28006,,Italy,Fondazione Poliambulanza Istituto Ospedaliero,,,,Selected,
+355,CDM,IQVIA,MLN0002-3028,7068,1-1GCK4WD,Italy,Istituto Clinico Humanitas,,,,,
+356,CDM,IQVIA,MLN0002-3028,7076,1-1PYGKYC,Italy,Policlinico Universitario Agostino Gemelli,,,,,
+348,CDM,PPD,Alofisel-5004,1-3QGRYFN,,Italy,Azienda Ospedaliera San Camillo Forlanini,Lazio,Roma,00152,Disqualified,Circonvallazione Gianicolense 87U.O.S.D. Malattie Intestinali Croniche
+358,CDM,IQVIA,TAK-831-2002,28003,1-45LSMHS,Italy,Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia (Presidio Spedali Civili),Brescia,Brescia,25124,Enrollment Open,"P.le Spedali Civili, 1"
+359,CDM,IQVIA,MLN0002SC-3027,28001,1-1SEBMZI,Italy,IRCCS Ospedale Casa Sollievo della Sofferenza,,,,,
+360,CDM,IQVIA,MLN0002SC-3027,28016,1-1T3Z317,Italy,Azienda Ospedaliera Universitaria Policlinico Sant'Orsola Malpighi,,,,,
+361,CDM,IQVIA,TAK-994-1501,28001,1-4YD1T6M,Italy,Università di Bologna-Clinica Neurologica-Dipartimento di Scienze Neurologiche,Bologna,Bologna,40123,Selected,"IRCCS ISNB, UOC Clinica Neurologica, Ospedale Bellaria"
+362,CDM,IQVIA,TAK-994-1501,28004,1-53TBA6U,Italy,IRCCS Oasi Maria SS,Troina,Enna,94018,Selected,"Via Conte Ruggero, 73"
+363,CDM,PPD,Alofisel-5004,1-3QGRYGN,,Italy,Azienda Ospedale Università Padova - Dipartimento Salute della Donna e del Bambino - INCIPIT - PIN,Veneto,Padova,35128,Disqualified,"Via Giustiniani, 2UOC Gastroenterologia"
+364,CDM,PPD,Alofisel-5004,604,,Italy,Complesso Integrato Columbus,Roma,Roma,00168,Closed,"Via G. Moscati, 31Unità Operativa di Medicina Interna e Gastroenterologia"
+73,CDM,IQVIA,201501,815,1-2HR1Y0H,Italy,Fondazione IRCCS CA' Granda Ospedale Maggiore Policlinico,Milano,Milano,20122,Enrollment On-Hold,"Via Francesco Sforza, 28"
+368,CDM,PPD,Brigatinib-1002,1-6188XKI,,Italy,ASST di Monza - Azienda Ospedaliera San Gerardo,Lombardia,Monza,20052,Disqualified,Via Giovanbattista Pergolesi 33
+371,CDM,IQVIA,MA25101,28006,1-1AHYUKB,Italy,Azienda Ospedaliero Universitaria Consorziale Policlinico di Bari,,,,,
+372,CDM,IQVIA,MLN0002-3026,28005,1-1QTXXA9,Italy,Azienda Ospedaliera Universitaria Careggi,,,,,
+373,CDM,IQVIA,MLN0002-3026,28013,1-1QTRKTE,Italy,Azienda Ospedaliero Universitaria Consorziale Policlinico di Bari,,,,,
+374,CDM,IQVIA,MA25101,28003,1-17SCOIX,Italy,Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia (Presidio Spedali Civili),,,,,
+375,CDM,PPD,3004,1-CKH0SZ,,Italy,Azienda Ospedaliera Cannizzaro,,,,Disqualified,
+74,CDM,IQVIA,241501,121,1-2SW0CRE,Italy,Azienda Ospedaliera Nazionale Santi Antonio e Biagio e Cesare Arrigo,Alessandria,Alessandria,15100,Prematurely Closed,"Via Venezia, 16"
+377,CDM,PPD,Alofisel-5004,601,,Italy,Istituto Clinico Humanitas,,Rozzano,20089,Closed,Via Manzoni 56Divisione di Gastroenterologia
+378,CDM,IQVIA,MA25101,28012,1-1P9BS14,Italy,Azienda Ospedaliero-Universitaria S. Luigi Gonzaga,,,,,
+379,CDM,IQVIA,MLN0002-3026,28012,1-1QTX97B,Italy,"Azienda Ospedaliera Universitaria ""Federico II""",,,,,
+381,CDM,PPD,Brigatinib-1002,1-61DPFSP,,Italy,Azienda Ospedale Università Padova - Dipartimento Salute della Donna e del Bambino - INCIPIT - PIN,,Padua,35128,Potential,Via Nicolo Giustiniani 3
+382,CDM,IQVIA,MLN0002-3028,7071,1-1GCK51Z,Italy,I.R.C.C.S Policlinico San Donato,,,,,
+383,CDM,PPD,Alofisel-5003,1-3DBC2LF,,Italy,Istituto Clinico Humanitas,Lombardia,Rozzano,20089,Disqualified,Via Alessandro Manzoni 56
+386,CDM,IQVIA,MLN0002SC-3027,28004,1-1RYG9FT,Italy,Azienda Ospedaliera Ospedale Cannizzaro,,,,,
+389,CDM,IQVIA,MLN0002SC-3027,28011,1-1SEBN2P,Italy,A.O.U. Policlinico di Modena,,,,,
+390,CDM,IQVIA,MLN0002SC-3027,28019,1-1SDWY9A,Italy,Policlinico Universitario Agostino Gemelli,,,,,
+393,CDM,IQVIA,MLN0002SC-3030,28017,1-26CTGZZ,Italy,Azienda Ospedaliero Universitaria Pisana,Pisa,Pisa,56124,Dropped,"AOUP sede Cisanello, Edificio 10 , piano terrastanza 3. Via Paradisa 2"
+394,CDM,PPD,3004,1-CKH0SN,,Italy,Azienda Ospedaliera Ospedale San Carlo,Cagliari,Cagliari,09134,Disqualified,"Piazzale Ricchi, 1"
+400,CDM,PPD,C14023,1-439NR9Z,,Italy,ASST di Monza - Azienda Ospedaliera San Gerardo,,Monza,20900,Disqualified,"Via Pergolesi, 33"
+405,CDM,PPD,Alofisel-5003,28001,,Italy,Azienda Ospedaliero Universitaria Di Bologna - Policlinico S Orsola Malpighi,Emilia-Romagna,Bologna,40138,Active - Recruiting,Via Pietro Albertoni 15
+414,CDM,IQVIA,MLN1117-1501,28002,1-1MZEQ4I,Italy,Presidio Ospedaliero di Livorno,,,,,
+416,CDM,PPD,C14023,28008,,Italy,Azienda Ospedaliera Universitaria Integrata Di Verona,Veneto,Verona,37134,Withdrawn,Piazzale L. A. Scuro 10
+419,CDM,PPD,C14023,28006,,Italy,Azienda Ospedaliero Universitaria San Giovanni Battista Di Torino,,Torino,10126,Withdrawn,Via Genova 3
+422,CDM,PPD,Brigatinib-1002,1-61FJUOY,,Italy,Istituto G Gaslini Ospedale Pediatrico IRCCS - INCIPIT - PIN,Liguria,Genoa,16147,Disqualified,Largo Gerolamo Gaslini 5
+423,CDM,PPD,Brigatinib-1002,1-65ISVU2,,Italy,Istituto G Gaslini Ospedale Pediatrico IRCCS - INCIPIT - PIN,,Genova,16147,Potential,Via Gerolamo Gaslini 5Dipartimento di Scienze Pediatriche Generali e Specialistiche
+424,CDM,IQVIA,TAK-994-1501,28003,1-53CJ2HN,Italy,Ospedale San Raffaele (San Raffaele Turro),Milano,Milano,20127,Selected,"Via Stamira D'Ancona, 20"
+425,CDM,PPD,C16010,28004,,Italy,AORN A Cardarelli,Campania,Naples,80131,Active - No Longer Recruiting,Via Antonio Cardarelli 9
+426,CDM,PPD,C14023,ABCDE,,Italy,Azienda Ospedaliera Universitaria Federico II,Campania,Napoli,80131,Disqualified,"Via Pansini, 5"
+433,CDM,IQVIA,TAK-390MR_108,5007,1-1HYOHQX,Italy,Umberto I Pol. di Roma-Università di Roma La Sapienza,,,,,
+436,CDM,PPD,C14023,1-439NRCU,,Italy,Centro Di Riferimento Oncologico,Pordenone,Aviano,,Void,Via Franco Gallini 2
+450,CDM,PPD,C16010,28005,,Italy,Azienda Ospedaliera S Maria Di Terni,Umbria,Terni,5100,Active - No Longer Recruiting,"Viale Tristano Di Jaonnuccio, 1"
+451,CDM,IQVIA,TAK-831-2002,28004,1-45LSMH9,Italy,Azienda Ospedaliera Città della Salute e della Scienza di Torino,Torino,Torino,10124,Enrollment Open,Via Cherasco 11
+452,CDM,IQVIA,TAK-390MR_108,5024,1-1FVI931,Italy,Policlinico Universitario Agostino Gemelli,,,,,
+453,CDM,PPD,C16006,28004,,Italy,IRCCS Ospedale Oncologico Basilicata,Potenza,Rionero In Vulture,85028,Disqualified,"Via Provinciale, 8"
+454,CDM,PPD,Brigatinib-1002,1-61DPFPZ,,Italy,AOU dell'Università degli Studi della Campania Luigi Vanvitelli,,Napoli,80138,Disqualified,Vico Luigi De Crecchio 7
+456,CDM,IQVIA,TAK-831-2002,28001,1-45LSMQM,Italy,Azienda Ospedaliera Universitaria- Università degli Studi della Campania “Luigi Vanvitelli”,Napoli,Napoli,80138,Enrollment Open,Largo Madonna delle Grazie 1
+295,CDM,IQVIA,241501,123,1-2SW0CJ5,Italy,Ospedale San Giovanni Bosco,Napoli,Napoli,80144,Dropped,"Via F.M. Briganti, 255"
+463,CDM,PPD,C16019,28906,,Italy,Istituto Scientifico Romagnolo Per Lo Studio E La Cura Dei Tumori IRST - PPDS,,Meldola,47014,Closed,irst
+464,CDM,PPD,C16019,28910,,Italy,ASST Grande Ospedale Metropolitano Niguarda - Presidio Ospedaliero Ospedale Niguarda Ca' Granda,Lombardia,Milano,20162,Active - No Longer Recruiting,"P.zza Ospedale Maggiore, 3S.C. Ematologia"
+467,CDM,PPD,C16019,28915,,Italy,Presidio Ospedaliero di Pescara,Abruzzo,Pescara,65100,Closed,"Via Fonte Romana, 8"
+468,CDM,PPD,3004,1-CKH0W7,,Italy,Presidio Ospedaliero Vito Fazzi,Lecce,Lecce,73100,Disqualified,Piazza Filippo Muratore
+469,CDM,PPD,3004,1-CKH0TC,,Italy,E O Ospedali Galliera,Liguria,Genova,16128,Disqualified,"Mura Delle Cappuccine, 14"
+470,CDM,PPD,3004,1-CUIQJ1,,Italy,Azienda Ospedaliera Universitaria Senese,,Siena,53100,Disqualified,Viale Mario Bracci 16
+471,CDM,PPD,Alofisel-5003,1-3DBC2NY,,Italy,Azienda Ospedaliera Ordine Mauriziano di Torino,Piemonte,Turin,10128,Disqualified,"Via Ferdinando Magellano, 1"
+474,CDM,PPD,Alofisel-5003,28004,,Italy,Fondazione Policlinico Universitario A Gemelli,,Rome,,Active - Not Yet Recruiting,Largo A. Gemelli 8UOC Medicina Interna e Gastroenterologia
+480,CDM,PPD,Alofisel-5004,607,,Italy,AOU dell'Università degli Studi della Campania Luigi Vanvitelli,,Napoli,80138,Closed,"Piazza Luigi Miraglia, 2"
+483,CDM,PPD,C16019,1-2R71DN,,Italy,Azienda Sanitaria Ospedaliera S. Croce e Carle,Piemonte,Cuneo,12100,Disqualified,Via M. Coppino 26Struttura Complessa Ematologia
+484,CDM,PPD,C16021,1-8AIFDY,,Italy,Azienda Ospedaliera Ospedali Riuniti Villa Sofia-Cervello,,Palermo,90146,Disqualified,Via Trabucco 180Unità Operativa di Ematologia con UTMO - Dipartimento di Ematologia e Oncologia
+493,CDM,PPD,C14023,1-43W27D4,,Italy,Azienda Sanitaria Universitaria Integrata di Udine - PO Universitario Santa Maria della Misericordia,Udine,Udine,33100,Disqualified,Piazzale S. Maria della Misericordia
+496,CDM,PPD,C16019,28901,,Italy,Azienda Ospedaliera Città della Salute e della Scienza di Torino,Piemonte,Torino,10126,Active - No Longer Recruiting,"Via Genova, 3Unità Operativa Ematologia 1"
+497,CDM,PPD,C16019,28911,,Italy,Ospedale Infermi di Rimini,Emilia-Romagna,Rimini,47900,Active - No Longer Recruiting,"Via Settembrini, 2Dipartimento di Oncologia e Oncoematologia"
+500,CDM,PPD,C16019,1-4KV8R1,,Italy,Istituto Nazionale Dei Tumori,Milano,Milano,20133,Disqualified,"Via Venezian, 1Dipartimento di Ematologia e Oncoematologia pediatrica"
+503,CDM,PPD,C16019,28903,,Italy,Azienda Ospedaliero Universitaria Di Bologna - Policlinico S Orsola Malpighi,,Bologna,40138,Active - No Longer Recruiting,"Via Massarenti, 9Dipartimento di Ematologia e Scienze Oncologiche L. e A. Seragnoli"
+506,CDM,PPD,C16021,1-98EA40,,Italy,Ospedale Santa Maria Delle Croci,Ravenna,Ravenna,48100,Disqualified,Viale Randi 5U.O. Ematologia
+513,CDM,PPD,C16021,28109,,Italy,IRCCS Az. Osp. Universitaria San Martino- IST,,Genova,16132,Active - No Longer Recruiting,"Largo Rosanna Benzi, 10Clinica  Ematologica - Padiglione ex-isolamento"
+514,CDM,PPD,C16021,28113,,Italy,Azienda Ospedaliero Universitaria Policlinico Vittorio Emanuele,Sicilia,Catania,95123,Active - No Longer Recruiting,"Via Santa Sofia, 78"
+515,CDM,PPD,C14023,1-43W27DH,,Italy,ASST Papa Giovanni XXIII - Azienda Ospedaliera Papa Giovanni XXIII,Lombardia,Bergamo,24128,Disqualified,"Largo Barozzi, 1"
+306,CDM,IQVIA,281102,032,1-513DZO4,Italy,Azienda Ospedaliera Universitaria Policlinico Umberto I - Università di Roma La Sapienza,Rome,Roma,00161,Selected,Viale Del Policlinico 151
+520,CDM,PPD,C14023,28009,,Italy,Grande Ospedale Metropolitano Bianchi-Melacrino-Morelli,,Reggio Calabria,89100,Withdrawn,Via G. Melacrino
+521,CDM,PPD,C14023,28010,,Italy,Fondazione Policlinico Universitario A Gemelli,,Roma,00168,Withdrawn,Largo Francesco Vito 1
+307,CDM,IQVIA,SHP643-303,166,1-4S2B7HV,Italy,Azienda Ospedaliera di Cagliari - Presidio Monserrato,Monserrato,Cagliari,09042,Selected,"SS 554 Km. 4,500"
+525,CDM,PPD,C14023,28001,,Italy,Azienda Sanitaria Ospedaliera S Luigi Gonzaga,,Orbassano,10043,Withdrawn,Regione Gonzole 10
+528,CDM,PPD,C16010,28007,,Italy,Ospedale S Eugenio,Lazio,Roma,144,Closed,"Piazzale Umanesimo, 10"
+529,CDM,PPD,C16010,28008,,Italy,Istituto Scientifico Romagnolo Per Lo Studio E La Cura Dei Tumori IRST - PPDS,,Meldola,47014,Active - No Longer Recruiting,"Via Piero Maroncelli, 40"
+530,CDM,PPD,C16029,1-107UW9N,,Italy,La Maddalena - Casa di Cura,,Palermo,90146,Disqualified,Via San Lorenzo Colli 312/dOncoematologia
+531,CDM,PPD,C16021,28112,,Italy,Azienda Ospedaliero Universitaria di Parma,Parma,Parma,43126,Active - No Longer Recruiting,"Via Gramsci, 14Dipartimento Onco-ematologico Internistico"
+532,CDM,PPD,C16011,28001,,Italy,Fondazione IRCCS Policlinico San Matteo di Pavia,Lombardia,Pavia,2710,Active - No Longer Recruiting,"Viale Golgi, 19Amyloidosis Research & Treatment Center"
+535,CDM,PPD,C16029,1-Y2IEYS,,Italy,Azienda Ospedaliera Universitaria Careggi,,Firenze,50134,Disqualified,"Largo Brambilla 3SOD Ematologia, Dipartimento ad Attività Integrata di Biomedica"
+536,CDM,PPD,C16029,1-Y2IF0C,,Italy,Ospedale Casa Sollievo Della Sofferenza IRCCS,Puglia,San Giovanni Rotondo,71013,Disqualified,Viale Cappuccini 1
+310,CDM,IQVIA,SHP655-201,603,1-4DNI45V,Italy,Fondazione Policlinico Universitario Agostino Gemelli IRCCS,Roma,Roma,00137,Enrollment Open,"via Tommaso Gargollo  24Largo Agostino Gemelli, 8"
+542,CDM,PPD,C16029,1-Y42CJ9,,Italy,Azienda Ospedaliero Universitaria Policlinico Vittorio Emanuele,Sicilia,Catania,95124,Disqualified,Via Salvatore Citelli 6
+544,CDM,PPD,C16019,1-2VCRO9,,Italy,A.O.U. Maggiore della Carità,Piemonte,Novara,28100,Disqualified,"Corso Mazzini, 18Struttura Complessa A Direzione Universitaria Ematologia"
+545,CDM,PPD,C16019,1-4KXM3S,,Italy,ASST Papa Giovanni XXIII - Azienda Ospedaliera Papa Giovanni XXIII,Lombardia,Bergamo,24127,Disqualified,Piazza OMS 1
+547,CDM,PPD,C16019,28908,,Italy,IRCCS Az. Osp. Universitaria San Martino- IST,,Genova,16132,Closed,"Largo Rosanna Benzi, 10Dipartimento di Medicina Interna - Clinica  Ematologica"
+549,CDM,PPD,C16029,1-Y42CJM,,Italy,Istituto Scientifico Romagnolo Per Lo Studio E La Cura Dei Tumori IRST - PPDS,,Meldola,47014,Disqualified,VIA MARONCELLI 40
+556,CDM,PPD,C16017,28003,,Italy,IRCCS Giovanni Paolo II Istituto Oncologico,Puglia,Bari,70124,Closed,"Via Orazio Flacco, 65"
+557,CDM,PPD,C16017,28004,,Italy,Azienda Ospedaliera S Maria Di Terni,Umbria,Perugia,06122,Closed,Via Brunamonti 51
+559,CDM,PPD,C16029,1-YWQSTQ,,Italy,La Maddalena - Casa di Cura,,Palermo,90146,Disqualified,Via San Lorenzo Colli 312/d
+561,CDM,PPD,C16029,28005,,Italy,Ospedale Oncologico Regionale A Businco,,Cagliari,09121,Withdrawn,"Via E. Jenner, 1U.O. Ematologia e Centro Trapianti di Midollo Osseo"
+564,CDM,PPD,C16029,28012,,Italy,Azienda Sanitaria Universitaria Integrata di Udine - PO Universitario Santa Maria della Misericordia,,Udine,33100,Closed,Piazzale Santa Maria Della MisericordiaClinica Di Ematologica
+566,CDM,PPD,C16029,28017,,Italy,Azienda Ospedaliera Ospedali Riuniti Marche Nord,Marche,Pesaro,61122,Close-Out Ready,Via Lombroso 1U.O.C. Ematologia e Centro Trapianti
+567,CDM,PPD,C16029,1-YFS7I1,,Italy,Istituto Europeo Di Oncologia,Lombardia,Milan,20141,Disqualified,Via Ripamonti 435
+568,CDM,PPD,C16029,1-YQOBY2,,Italy,Azienda Ospedaliera Ordine Mauriziano di Torino,Piemonte,Torino,10128,Disqualified,"Via Magellano,1S.C.D.U. Ematologia"
+569,CDM,PPD,C16029,1-YWQSSO,,Italy,"Azienda ULSS 8 ""Berica"" - Ospedale San Bortolo",Veneto,Vicenza,36100,Disqualified,Via Rodolfi 37U.O. Ematologia
+570,CDM,PPD,C16029,28003,,Italy,Istituto Scientifico Romagnolo Per Lo Studio E La Cura Dei Tumori IRST - PPDS,,Meldola,47014,Closed,Via Piero Maroncelli 40U.O. Oncologia Medica
+571,CDM,PPD,C16029,28011,,Italy,IRCCS Centro Di Riferimento Oncologico Della Basilicata,,Rionero in Vulture (PZ),85028,Close-Out Ready,Via Padre Pio 1
+572,CDM,PPD,C16029,28019,,Italy,Azienda Ospedaliera Cardinale G Panico,Lecce,Tricase,73039,Withdrawn,"Via San Pio X, 4"
+578,CDM,PPD,C16019,1-4KXEL1,,Italy,Istituto Nazionale Per Lo Studio E La Cura Dei Tumori Fondazione Giovanni Pascale,Campania,Napoli,80131,Disqualified,Via Mariano Semmola
+581,CDM,PPD,C16029,1-ZD12II,,Italy,Ospedale Civile Dell'annunziata,Calabria,Cosenza,87100,Disqualified,Via Felice Migliori
+582,CDM,PPD,C21015,1-1FGBZ1,,Italy,Fondazione del Piemonte per l�Oncologia (IRCCS),Piemonte,Candiolo,10060,Disqualified,Strada Provinciale 142 Km 3.95
+585,CDM,PPD,C16029,28004,,Italy,Ospedale Santa Maria Delle Croci,Emilia-Romagna,Ravenna,48100,Close-Out Ready,Viale Randi 5
+587,CDM,PPD,C16029,28015,,Italy,"Azienda ULSS 8 ""Berica"" - Ospedale San Bortolo",,Vicenza,36100,Close-Out Ready,"Via Rodolfi 37Ospedale S Botolo, U.O. Ematologia"
+588,CDM,PPD,C21015,1-121J57,,Italy,Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico,Lombardia,Milano,20122,Disqualified,"Via Della Commenda, 15"
+590,CDM,PPD,C16029,28006,,Italy,Arcispedale Santa Maria Nuova,Emilia-Romagna,Reggio Emilia,42123,Close-Out Ready,"Via Risorgimento, 80Struttura Complessa Di  Ematologia"
+594,CDM,PPD,C16021,28111,,Italy,Azienda Ospedaliera Universitaria Careggi,Toscana,Firenze,50139,Active - No Longer Recruiting,"Viale Pieraccini, 17Unità Operativa di Ematologia"
+596,CDM,PPD,C16019,28914,,Italy,ASST degli Spedali Civili di Brescia - Spedali Civili di Brescia - INCIPIT - PIN,Brescia,Brescia,25123,Closed,"Piazzale Spedali Civili, 1U.O. Ematologia"
+597,CDM,PPD,C21015,1-121J1B,,Italy,Azienda Ospedaliera Città della Salute e della Scienza di Torino,,,,Withdrawn,
+599,CDM,PPD,C21015,1-1FGBYJ,,Italy,Presidio Ospedaliero San Donato,Toscana,Arezzo,52100,Disqualified,Via Nenni 20
+600,CDM,PPD,FOS,206,,Italy,S.C. Neurofisiopatologia - Perugia,,Perugia,06122,Disqualified,Località Sant'Andrea Delle FratteCardiologia
+601,CDM,PPD,FOS,089,,Italy,Azienda Ospedaliera Pugliese Ciaccio,Calabria,Catanzaro,88100,Active - Recruiting,Viale Pio XUnità Operativa di Pediatria - Ambulatorio di Pediatria Genetica
+602,CDM,PPD,FOS,194,,Italy,Ospedale SS. Annunziata,,Cento,44042,Active - Recruiting,Via Vicini 2Centro per la Diagnosi e Cura Malattie dell' Intestino
+268,CDM,IQVIA,SHP643-303,171,1-4S0PDZR,Italy,Ospedale Mauriziano Umberto I,Torino,Torino,10128,Dropped,"Largo Filippo Turati,62"
+604,CDM,PPD,GOS,500,,Italy,Azienda Sanitaria Universitaria Integrata di Udine - PO Universitario Santa Maria della Misericordia,,Udine,33110,Active - Recruiting,"Piazzale S.Maria della Misericordia, 15Centro di Coordinamento Regionale delle Malattie Rare"
+605,CDM,PPD,FOS,132,,Italy,Fondazione Policlinico Universitario A Gemelli,,Roma,00168,Active - Recruiting,Largo Agostino Gemelli 8Dipartimento di Medicina Interna e Scienze Specialistiche
+606,CDM,PPD,FOS,265,,Italy,Careggi University Hospital,Firenze,Firenze,85,Disqualified,Viale Morgagni
+615,CDM,PPD,C16021,28114,,Italy,Azienda Ospedaliero Universitaria Ospedali Riuniti di Ancona-Umberto I G.M. Lancisi G. Salesi,,Ancona,60126,Active - No Longer Recruiting,via Conca 71Clinica di Ematologia - Unità di Trapianto di cellule staminali e terapia cellulare
+326,CDM,PPD,3004,1-CKH0TP,,Italy,Fondazione IRCCS Di Rilievo Nazionale Istituto Nazionale Neurologico Carlo Besta,,Milano,20133,Disqualified,"Via Celoria, 11"
+618,CDM,PPD,C16029,1-YFS7HB,,Italy,Istituto Nazionale Per Lo Studio E La Cura Dei Tumori Fondazione Giovanni Pascale,Napoli,Napoli,80131,Disqualified,Via SemmolaDipartimento di Oncoematolgia e trapianto di cellule staminali
+619,CDM,PPD,C16021,28103,,Italy,Azienda Ospedaliero Universitaria Pisana,Toscana,Pisa,50125,Active - No Longer Recruiting,Via Roma 67Unità Operativa Ematologia
+621,CDM,PPD,C16021,28116,,Italy,Azienda Ospedaliero Universitaria Consorziale Policlinico di Bari - INCIPIT - PIN,Puglia,Bari,70120,Withdrawn,Piazza Giulio Cesare 11Medicina Interna Universitaria G. Baccelli
+622,CDM,PPD,C16029,1-YWQSRJ,,Italy,Ospedale San Maurizio,,Bolzano,39100,Disqualified,"Via Lorenz Bohler, 5"
+327,CDM,PPD,3004,1-CKH0U2,,Italy,ASST di Monza - Azienda Ospedaliera San Gerardo,Lombardia,Monza,20900,Disqualified,"Via Donizetti, 106"
+625,CDM,PPD,C16029,28014,,Italy,Fondazione del Piemonte per l’Oncologia (IRCCS),Piemonte,Candiolo,10060,Closed,Strada Provinciale Di None 142
+626,CDM,PPD,C21015,1-121J0Q,,Italy,Ospedale Livorno,,Livorno,57100,Withdrawn,Viale Alfieri 36
+328,CDM,IQVIA,TAK-743-3001,167,1-553RSKR,Italy,Azienda Ospedaliera Universitaria OO. RR. S. Giovanni di Dio e Ruggi D'Aragona,Salerno,Salerno,84131,Selected,Via S. Leonardo
+629,CDM,PPD,C21015,1-121J47,,Italy,ASST di Cremona - Azienda Socio Sanitaria Territoriale di Cremona,Lombardia,Cremona,26100,Withdrawn,Viale Concordia 1
+638,CDM,PPD,FOS,257,,Italy,Azienda Ospedaliera Universitaria Federico II,,Napoli,80131,Active - Recruiting,Via Pansini 5Dipartimento di Patologia Sistematica
+642,CDM,PPD,C16029,1-YQOBXP,,Italy,Azienda Ospedaliero Universitaria Di Modena Policlinico,,Modena,41100,Disqualified,Via Del Pozzo 71S.S.D. Terapie Mirate in Oncoematologia e Osteoncologia
+332,CDM,PPD,3004,1-CKH0UF,,Italy,Azienda Ospedaliero Universitaria di Parma,Emilia-Romagna,Parma,43100,Disqualified,Vdct Gramsci 14
+648,CDM,PPD,HOS,015,,Italy,Istituto G Gaslini Ospedale Pediatrico IRCCS - INCIPIT - PIN,,Genova,16147,Disqualified,"Largo G. Gaslini 2Unita di Malattie Rare, Dipartimento di Pediatria"
+650,CDM,PPD,IOS,166,,Italy,Presidio Policlinico Di Monserrato,Sardegna,Monserrato,09042,Active - Recruiting,S.s. 554 Bivio Per Sestu
+652,CDM,PPD,MLN0002-3024,1-8E2ICFM,,Italy,Hospital Virgen de la Concha,Zamora,Zamora,49022,Void,Avenida Requejo 35
+333,CDM,PPD,3004,1-CKH0V5,,Italy,Ospedale Misericordia E Dolce Azienda USL 4 Prato,Veneto,Treviso,31100,Disqualified,"Piazza Ospedale, 1"
+1351,CTMS,PPD,C21013,1-1LLX8PY,,Italy,Maggiore della Carita,,,,Withdrawn,
+655,CDM,PPD,MLN9708_101,1-3Q5GPV,,Italy,Azienda Ospedaliera Universitaria Careggi,,,,Disqualified,
+656,CDM,PPD,MACS-2014-100795,1-F0O9QW,,Italy,ASST Nord Milano - IRCCS Multimedica Sesto San Giovanni,Lombardia,Sesto San Giovanni,20099,Disqualified,Via Milanese 300
+657,CDM,PPD,MACS-2014-100795,1-F0O9SC,,Italy,Fondazione Policlinico Universitario A Gemelli,,Roma,,Disqualified,Dipartimento di Scienze Mediche Medicina Interna e Angiologia
+658,CDM,PPD,MACS-2014-100795,1-F0O9SP,,Italy,Università Campus Bio Medico Di Roma,,Roma,00128,Disqualified,"Via Alvaro Del Portillo, 21"
+1352,CTMS,Quintiles,TAK-390MR_207,7044,,Italy,Ospedale Pediatrico Bambino Gesù,,,,Closed,
+667,CDM,PPD,MACS-2014-100795,1-F0S7ZY,,Italy,Azienda Ospedaliera Sant'andrea,,Roma,00189,Disqualified,Via di Grottarossa 1035
+669,CDM,PPD,MLN0002-3024,1-7I0U9CE,,Italy,Clinica Pediatrica e Malattie Rare,,Cagliari,09121,Disqualified,Via Jenner
+670,CDM,PPD,MLN0002-3024,1-7K1AWI6,,Italy,Azienda Ospedaliera Ospedali Riuniti Villa Sofia-Cervello,Sicilia,Palermo,90146,Disqualified,Piazza Salerno A CruillasDivisione Di Pediatria Ii - Servizio Di Talassemia
+675,CDM,PPD,HOS,024,,Italy,Azienda Ospedaliero Universitaria Ospedali Riuniti di Ancona-Umberto I G.M. Lancisi G. Salesi,Ancona,Ancona,60123,Closed,"Via Corridoni, 11Centro Regionale Di Diabetologia Pediatrica - Clinica Pediatrica"
+676,CDM,PPD,HOS,131,,Italy,Azienda Ospedaliera G Rummo,,Benevento,82032,Disqualified,Via Dell'Angelo 1Istituto di Genetica Medica
+679,CDM,PPD,MACS-2014-100795,1-F0O9RM,,Italy,Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico,,Milan,,Disqualified,U.O. di Endocrinologia e Diabetologia
+682,CDM,PPD,MLN0002-3024,1-7K1AWJH,,Italy,IRCCS Materno Infantile Burlo Garofolo - INCIPIT - PIN,Friuli-Venezia Giulia,Trieste,34137,Disqualified,"Via Dell'Istria, 65/1Laboratorio di Diagnostica Avanzata e Traslazionale"
+339,CDM,PPD,Alofisel-5003,1-3DBC2L2,,Italy,Università degli Studi di Napoli Federico II,Campania,Napoli,80138,Disqualified,"Corso Umberto, 40"
+684,CDM,PPD,MLN0002-3025,3025-28003,,Italy,Universita degli Studi di Padova,Veneto,Padova,35122,Qualified,"Via 8 Febbraio, 2"
+1357,CTMS,PPD,C21004,28010,,Italy,Fondazione del Piemonte per Oncologia IRCC,,,,Withdrawn,
+136,CDM,IQVIA,C25004,28005,1-272ZSEH,Italy,Fondazione IRCCS Policlinico San Matteo,Pavia,Pavia,27100,Enrollment Closed,"Piazzale Golgi,19"
+685,CDM,PPD,MLN9708_101,6538022,,Italy,Complesso Integrato Columbus,Lazio,Roma,00168,Closed,"Via G. Moscati, 31"
+688,CDM,PPD,FOS,025,,Italy,Ortona Hospital,,Ortona,66026,Disqualified,Contrada S LiberataUnita Operative di Nefrologia e Dialisi
+689,CDM,PPD,MLN9708_101,6538014,,Italy,Ospedale San Giovanni Bosco,Piemonte,Torino,10154,Closed,Piazza Del Donatore Di Sangue 3
+340,CDM,PPD,Alofisel-5003,1-3DBC2M5,,Italy,ASST Fatebenefratelli Sacco - Ospedale Luigi Sacco,Lombardia,Milano,20157,Eligible for Participation,"Via Giovanni Battista Grassi, 74"
+691,CDM,PPD,FOS,218,,Italy,Fondazione IRCCS Policlinico San Matteo di Pavia,,Pavia,27100,Closed,"Piazzale Golgi 2Centro Malattie Genetiche e Cardiovascolari, Laboratorio Genetica"
+692,CDM,PPD,FOS,008,,Italy,Azienda Ospedaliera Universitaria Careggi,,Firenze,50134,Disqualified,"Largo Brambilla, 3Dipartimento Scienze neurologiche e Pischiatriche"
+693,CDM,PPD,FOS,029,,Italy,Ospedale Di Belcolle,Lazio,Viterbo,01100,Active - Recruiting,Strada Sammartinese
+694,CDM,PPD,HOS,122,,Italy,Azienda Ospedaliero Universitaria A Meyer - INCIPIT - PIN,,Firenze,50139,Active - Recruiting,Viale Pieraccini 24Dipartimento di neuroscienze - Sezione di Malattie Metaboliche e muscolari ereditarie
+341,CDM,PPD,Alofisel-5003,28006,,Italy,Azienda Ospedaliera Universitaria Careggi,Toscana,Firenze,50134,Withdrawn,Viale Gaetano Pieraccini
+696,CDM,PPD,FOS,1-1BBQ1YH,,Italy,Ospedale “Infermi” Rimini,,Rimini,47923,Withdrawn,Via luigi settembrini
+699,CDM,PPD,FOS,276,,Italy,Università Degli Studi Di Torino,,Torino,10126,Active - Recruiting,"Corso Dogliotti 14S.C. Endocrinologia, Diabetologia e Metabolismo - U/Dipartimento di Scienze Mediche"
+702,CDM,PPD,MACS-2014-100795,1-F0O9M3,,Italy,Ospedale Sandro Pertini,Lazio,Roma,00157,Disqualified,Via Dei Monti Tiburtini 385
+703,CDM,PPD,MACS-2014-100795,1-F0O9P3,,Italy,Ospedale S Maria Goretti,Lazio,Latina,04100,Disqualified,Via Guido Reni 87
+704,CDM,PPD,MACS-2014-100795,1-F0O9PG,,Italy,Azienda Ospedaliera Dei Colli,Campania,Napoli,80131,Disqualified,Via Leonardo Bianchi
+707,CDM,PPD,MLN0002-3024,1-7K1AWHU,,Italy,Azienda Ospedaliero Universitaria A Meyer - INCIPIT - PIN,Toscana,Pisa,58126,Disqualified,Via Roma 67Oncoematologia E Trapianti
+708,CDM,PPD,MACS-2014-100795,1-F0S82E,,Italy,Presidio Policlinico Di Monserrato,,Monserrato,,Disqualified,"Strada Statale 554, KM. 4.500"
+711,CDM,PPD,MLN0002-3024,1-7K1AWHI,,Italy,Istituto G Gaslini Ospedale Pediatrico IRCCS - INCIPIT - PIN,Liguria,Genova,16147,Disqualified,"L. go G. Gaslini, 5Dipartimento di Ematologia e Oncologia Pediatrica"
+712,CDM,PPD,MLN0002-3024,1-DTUQSTL,,Italy,Azienda USL di Bologna,Emilia-Romagna,Bologna,40133,Eligible for Participation,LARGO BARTOLO NIGRISOLI 2
+713,CDM,PPD,HOS,071,,Italy,Azienda Ospedaliero Universitaria Di Bologna - Policlinico S Orsola Malpighi,,Bologna,40138,Active - Recruiting,Via Massarenti 11Dipartimento di Scienze Mediche e Chirurgiche
+715,CDM,PPD,HOS,107,,Italy,Azienda Ospedaliero Universitaria Policlinico Vittorio Emanuele,,Catania,95123,Active - Recruiting,Via Santa Sofia 78Dipartimento di  Pediatria
+717,CDM,PPD,MLN0002-3024,3024-28002,,Italy,Sapienza University of Rome,Lazio,Rome,00161,Qualified,Viale Regina Elena 324Pediatric Gastroenterology Unit
+346,CDM,PPD,3004,1-CTPRCS,,Italy,Azienda Ospedaliera Cannizzaro,Sicilia,Catania,95126,Disqualified,"Via Messina, 829"
+1161,CDM,PPD,TAK-079-1005,28501,,Italy,Fondazione IRCCS Di Rilievo Nazionale Istituto Nazionale Neurologico Carlo Besta,,Milan,20133,Active - Not Yet Recruiting,Via Giovanni Celoria 11U.O.C. NEUROLOGIA 4 - Neuroimmunologia e Malattie Neuromuscolari
+723,CDM,PPD,MLN0002-3025,3025-28002,,Italy,Sapienza University of Rome,Lazio,Roma,00185,Qualified,PIAZZALE ALDO MORO 5
+725,CDM,PPD,MACS-2014-100795,1-F0S81E,,Italy,Azienda Ospedaliera Universitaria Integrata Di Verona,Veneto,Verona,37126,Disqualified,"Piazzale Stefani, 1"
+731,CDM,PPD,MLN0002-3024,1-DTUQSTW,,Italy,Az Ospedaliera Universitaria Policlinico G Martino,Sicilia,Messina,98124,Disqualified,"via Consolare Valeria, 1U.O.C.  Farmacia"
+1367,CTMS,PPD,C21013,1-1LM1VTI,,Italy,Azienda Ospedaliera San Camillo Forlanini,,,,Withdrawn,
+734,CDM,PPD,MLN9708_101,1-3Q6AQJ,,Italy,IRCCS Istituto Auxologico Italiano,Lombardia,Milano,20149,Disqualified,Via Spagnoletto 3
+738,CDM,PPD,P2002,1-5PK159O,,Italy,Ospedale Santa Maria Della Misericordia Di Perugia,Umbria,Perugia,06156,Disqualified,Piazza MenghiniStruttura Complessa Di Ematologia Con Trapianto Di Midollo Osseo
+739,CDM,PPD,P2002,1-5PK15A1,,Italy,AORN A Cardarelli,,Napoli,80131,Disqualified,"Via A. Cardarelli, 9U.O.C. Ematologia"
+741,CDM,PPD,NSMM-5001,1-MNRKTB,,Italy,Universita' Degli Studi La Sapienza,Lazio,Rome,00161,Disqualified,Viale Del Policlinico 155Centro di Ematologia
+351,CDM,IQVIA,C34001,28003,1-2NB9B0I,Italy,Ospedale San Raffaele,Milano,Milano,20132,Closed,"Via Olgettina, 60"
+1370,CTMS,PPD,C23003,1-1C3KTYR,,Italy,Azienda Ospedaliera A Meyer,,,,Withdrawn,
+353,CDM,IQVIA,C25004,28006,1-2VG1OK9,Italy,Azienda Ospedaliero Universitaria Ospedale Pediatrico Meyer,Firenze,Firenze,50139,Enrollment Closed,"Viale Pieraccini, 6"
+1371,CTMS,PPD,C23003,28402,,Italy,Azienda Ospedaliera di Rilievo Nazionale A. Cardarelli,,,,Closed,
+762,CDM,PPD,P2002,1-5SR94QN,,Italy,Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico,,Milano,20122,Disqualified,Via Francesco Sforza 35Ematologia
+764,CDM,PPD,P2002,28006,,Italy,Ospedale Policlinico San Martino,,Genova,16132,Submitted,Largo Rosanna Benzi 10Clinica ematologica
+767,CDM,PPD,Pevonedistat-1016,1-3LK7HRG,,Italy,Ospedale Policlinico San Martino,Liguria,Genova,16132,Disqualified,Largo Rosanna Benzi 10Unità Operativa Clinica Ematologica
+775,CDM,PPD,P2002,28008,,Italy,La Maddalena - Casa di Cura,,Palermo,90145,Submitted,Via S.Lorenzo ColliUOC Ematologia e Trapianto di Midollo Osseo
+778,CDM,PPD,P2002,28012,,Italy,Grande Ospedale Metropolitano Bianchi-Melacrino-Morelli,Calabria,Reggio Calabria,89133,Active - Not Yet Recruiting,Viale EuropaU.O.C. di Ematologia
+780,CDM,PPD,Pevonedistat-1016,1-3P0OVO7,,Italy,Ospedale San Raffaele S.r.l. - PPDS,,Milano,20132,Disqualified,Via Olgettina 60Unità Operativa di Ematologia e Trapianto Midollo Osseo (UTMO)
+783,CDM,PPD,Pevonedistat-2001,28004,,Italy,Azienda Ospedaliero Universitaria San Giovanni Battista Di Torino,,Torino,10126,Active - No Longer Recruiting,"Via Genova, 3U.O. Ematologia 1"
+784,CDM,PPD,Pevonedistat-2001,w1-D8V3O7,,Italy,Fondazione IRCCS Policlinico San Matteo di Pavia,Pavia,Pavia,27100,Disqualified,"Viale Golgi, 19Dipartimento Oncoematologico"
+785,CDM,PPD,Pevonedistat-2001,w1-IPDFFV,,Italy,Universita degli Studi di Modena e Reggio Emilia - Modena,Emilia-Romagna,Modena,41121,Disqualified,Via Universita 4
+788,CDM,PPD,NSMM-5001,1-M5C16Z,,Italy,ASST Papa Giovanni XXIII - Azienda Ospedaliera Papa Giovanni XXIII,,Bergamo,24129,Disqualified,"Piazza OMS - Organizzazione Mondiale della Sanità, 1"
+790,CDM,PPD,NSMM-5001,28004,,Italy,Azienda Ospedaliero Universitaria Ospedali Riuniti di Ancona-Umberto I G.M. Lancisi G. Salesi,Ancona,Ancona,60020,Active - No Longer Recruiting,Via Conca 71Clinica Di Oncologia Medica
+794,CDM,PPD,Pevonedistat-2001,w1-IV1O4P,,Italy,Ospedale San Raffaele S.r.l. - PPDS,,Milano,20132,Disqualified,Via Olgettina 60Isituto Scientifico Universitario San Raffaele
+797,CDM,PPD,Pevonedistat-3001,1-16QY8VX,,Italy,Fondazione PTV Policlinico Tor Vergata,,Rome,00168,Void,Viale Oxford 81Divisione di Ematologia
+798,CDM,PPD,Pevonedistat-3001,1-16QY945,,Italy,Azienda ULSS 3 Serenissima,Veneto,Venezia,30100,Void,Via Paccagnella 11U.O. di Ematologia
+799,CDM,PPD,Pevonedistat-3001,1-16QY95V,,Italy,Fondazione Policlinico Universitario A Gemelli,Roma,Roma,00168,Void,"Largo A. Gemelli, 8Unità Terapia Intesiva Cardiologica E Subintensiva"
+804,CDM,PPD,Pevonedistat-3001,1-17Y2S7N,,Italy,Fondazione Policlinico Universitario A Gemelli,Liguria,Rome,00168,Disqualified,Largo Agostino Gemelli 8Divisione di Ematologia
+806,CDM,PPD,Pevonedistat-3001,1-17Y2SFD,,Italy,Fondazione PTV Policlinico Tor Vergata,,Roma,00133,Disqualified,"Viale Oxford 81U.O.C Ematologia, Dipartimento di Medicina"
+816,CDM,PPD,P2002,1-5PK15BU,,Italy,Azienda Ospedaliero Universitaria Pisana,Toscana,Pisa,56127,Disqualified,Via Roma 67UO Ematologia
+817,CDM,PPD,P2002,1-5PK15C7,,Italy,Fondazione PTV Policlinico Tor Vergata,,Roma,133,Disqualified,Via Oxford 133U.O.S.D. Patologie Mieloproliferative
+831,CDM,PPD,Ponatinib-1501,28002,,Italy,Fondazione MBBM (MONZA E BRIANZA PER IL BAMBINO E LA SUA MAMMA) - c/o Centro Maria Letizia Verga,Lombardia,Monza,20900,Approved,Via CadoreClinica Pediatrica
+833,CDM,PPD,SHP-001-801,004,,Italy,IRCCS Ospedale Pediatrico Bambino Ges� - INCIPIT - PIN,,Fiumicino,00050,Closed,"Via Torre di Palidoro, snc"
+842,CDM,PPD,Pevonedistat-3001,1-1CT0MND,,Italy,La Sapienza  University,,Rome,198,Void,Via Panama 12
+844,CDM,PPD,SHP-001-801,1-60ZRWU,,Italy,Ospedale San Giuseppe,Firenze,Empoli,50053,Disqualified,Viale Giovanni Boccaccio
+849,CDM,PPD,SHP-001-801,1-6108WJ,,Italy,Istituto G Gaslini Ospedale Pediatrico IRCCS - INCIPIT - PIN,,Genoa,16147,Disqualified,Largo Gaslini 3
+855,CDM,PPD,SHP-608-002,1-1Z2UH6,,Italy,Consiglio Nazionale delle Ricerche (CNR),,Naples,80131,Disqualified,Via Pietro Castellino 111
+858,CDM,PPD,SHP607-202,154,,Italy,Presidio Ospedaliero Di Treviso Ca' Foncello,,Treviso,31100,Active - Recruiting,"Piazzale Ospedale, 1U.O.C. Terapia Intensiva Neonatale"
+859,CDM,PPD,SHP607-203,152,,Italy,Istituto G Gaslini Ospedale Pediatrico IRCCS - INCIPIT - PIN,Genova,Genova,16147,Approved,"Via Gerolamo Gaslini, 5 Padiglione N 12"
+862,CDM,PPD,SHP607-203,1-CNLQ9UD,,Italy,Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico,Lombardia,Milano,20121,Potential,"Via Pace 9Dipartimento Medicina Interna, Centro Emofilia E Trombosi Angelo Bianchi Bonomi,"
+863,CDM,PPD,SHP-608-002,1-1Z2UG0,,Italy,Istituto Dermopatico Dell'immacolata IRCCS,,Rome,00167,Disqualified,Via dei Monti di Creta 104
+864,CDM,PPD,SHP620-302,1-B8RE1D7,,Italy,Grande Ospedale Metropolitano Bianchi-Melacrino-Morelli,Calabria,Reggio Calabria,89124,Disqualified,Via Ospedali Riuniti Vallone Petrara
+868,CDM,PPD,SHP607-202,1-15LNM1I,,Italy,ASST Fatebenefratelli Sacco - Ospedale dei Bambini Vittore Buzzi - INCIPIT - PIN,,Milano,20154,Disqualified,Via Castelvetro 32
+870,CDM,PPD,Pevonedistat-2001,w1-IPDFHL,,Italy,Azienda Ospedaliera Universitaria Di Sassari,Sardegna,Sassari,07100,Disqualified,"Viale San Pietro 12Universita degli Studi di Sassari, Istituto di Ematologia"
+871,CDM,PPD,SHP607-202,1-15LNM6D,,Italy,Azienda Ospedaliera Universitaria Senese,,Siena,53100,Disqualified,Viale Bracci 36
+876,CDM,PPD,SHP-616-211,1-JAW4BR,,Italy,Ospedale Binaghi,,Cagliari,09126,Disqualified,Via Island Guadazzonis 2
+880,CDM,PPD,Pevonedistat-2001,w1-D8QGIL,,Italy,ASST di Cremona - Azienda Socio Sanitaria Territoriale di Cremona,,Cremona,26100,Disqualified,"Viale Concordia, 1Unità Operativa di Ematologia"
+881,CDM,PPD,SHP611-201,121,,Italy,IRCCS Ospedale Pediatrico Bambino Gesù - INCIPIT - PIN,,Rome,00165,Active - Recruiting,Piazza Sant Onofrio 4Dipartimento Pediatrie Specialistiche U.O.C. Patologia Metabolica
+887,CDM,PPD,Pevonedistat-3001,1-16QY90Y,,Italy,IRCCS Ospedale Pediatrico Bambino Gesù - INCIPIT - PIN,Roma,Roma,00165,Void,"Piazza S. Onofrio, 4UOC Farmacia Ospedaliera"
+891,CDM,PPD,Pevonedistat-2001,w1-D8V3M1,,Italy,Ospedale Casa Sollievo Della Sofferenza IRCCS,Foggia,San Giovanni Rotondo,71013,Disqualified,Viale Cappuccini 1Unità Operativa Complessa Di Oncologia - Dipartimento Di Onco-Ematologia
+895,CDM,PPD,Pevonedistat-2001,w1-D8QGPE,,Italy,Azienda Ospedaliera Santi Antonio Biagio E Cesare Arrigo,,Alessandria,15100,Disqualified,Via Venezia 16SC Ematologia
+896,CDM,PPD,Pevonedistat-2001,w1-D8UZQ2,,Italy,Azienda ULSS 3 Serenissima,Venezia,Zelarino,20174,Disqualified,Via Paccagnella 11Unità Operativa Complessa Ematologia
+899,CDM,PPD,Pevonedistat-2001,w1-IPDFGL,,Italy,Istituto Nazionale Tumori Regina Elena,Lazio,Rome,00144,Disqualified,Via Elio Chianesi 53Istituti Fisioterapici Ospitalieri
+900,CDM,PPD,Pevonedistat-2001,w1-IPDFGY,,Italy,Fondazione PTV Policlinico Tor Vergata,Lazio,Rome,00133,Disqualified,Viale Oxford 81Azienda Ospedaliera Universitaria Policlinico Tor Vergata
+904,CDM,PPD,Pevonedistat-3001,1-16QY93S,,Italy,Azienda Ospedaliera Santi Antonio Biagio E Cesare Arrigo,Piemonte,Allessandria - AL,15100,Void,Via Venezia 18Struttura Complessa Oncologia - Dipartimento Oncoematologico
+911,CDM,PPD,SHP-616-211,1-JAW4DX,,Italy,Ospedale Policlinico San Martino,,Genova,16132,Disqualified,"Largo Daneo, 3"
+916,CDM,PPD,SHP620-303,1-TJ7MKF,,Italy,ASST degli Spedali Civili di Brescia - Spedali Civili di Brescia - INCIPIT - PIN,,Brescia,25123,Disqualified,"Via del Medolo, 2"
+920,CDM,PPD,SHP620-302,611,,Italy,Fondazione Policlinico Universitario A Gemelli,,Roma,00168,Active - Not Yet Recruiting,"Largo A. Gemelli, 8Unità Operativa Complessa Ematologia"
+922,CDM,PPD,Pevonedistat-3001,1-17Y2SF0,,Italy,Fondazione IRCCS Policlinico San Matteo di Pavia,,Pavia,27100,Disqualified,Viale Camillo Golgi 19SC Ematologia
+930,CDM,PPD,Pevonedistat-3001,1-16QY8YG,,Italy,Azienda Ospedaliero-Universitaria di Ferrara - Arcispedale Sant' Anna,Ferrara,Cona,44124,Disqualified,Via Aldo Moro 8
+934,CDM,PPD,Ponatinib-1501,1-5VWOTZI,,Italy,Azienda Ospedaliero Universitaria A Meyer - INCIPIT - PIN,Toscana,Firenze,50139,Disqualified,Viale Pieraccini 24Dipartimento Oncoematologia
+936,CDM,PPD,Pevonedistat-3001,1-186CPFW,,Italy,Azienda ULSS 3 Serenissima,Veneto,Venezia,30174,Disqualified,Via Don Federico Tosatto 147
+938,CDM,PPD,Pevonedistat-3001,28004,,Italy,IRCCS Centro Di Riferimento Oncologico Della Basilicata,,Rionero in Vulture (PZ),85028,Active - No Longer Recruiting,Via Padre Pio 1U.O Ematologia e Trapianto di Cellule Staminali
+947,CDM,PPD,SHP620-303,608,,Italy,Azienda Ospedaliero Universitaria di Parma,,Parma,43126,Closed,"Via Gramsci, 14U.O. Ematologia e Centro Trapianti di Midollo Osseo"
+948,CDM,PPD,SHP-001-801,1-65YYR1,,Italy,Azienda Ospedaliera Di Padova,Hessen,Wiesbaden,65199,Disqualified,Ludwig-Erhard-Strasse 100
+952,CDM,PPD,SHP625-306,1-1K8MA7Q,,Italy,Azienda Policlinico Umberto I,,Roma,00161,Disqualified,"Viale Regina Elena, 326"
+955,CDM,PPD,SHP625-306,1-1K8MME6,,Italy,Istituto Mediterraneo Per I Trapianti E Terapie Ad Alta Specializzazione (ismett),,Palermo,90127,Disqualified,Via Ernesto Tricomi 5
+957,CDM,PPD,SHP630-001,1-SQ8O4X,,Italy,Fondazione G.B. Bietti Per Lo Sudio E La Ricerca In Oftalmologia-Presidio Ospedaliero Britannico,,Roma,198,Disqualified,Via Livenza 3
+963,CDM,PPD,SHP634-401,401510,,Italy,"Universita di Firenze, Dipartimento di Chirurgia e Medicina Traslazionale (DCMT)",Firenze,Firenze,50139,Active - Recruiting,Viale Pieraccini 6Dipartimento Di Medicina Generale
+965,CDM,PPD,SHP-616-211,1-L9UKXR,,Italy,ASST della Valle Olona - Azienda Ospedaliera S. Antonio Abate di Gallarate,Varese,Gallarate,21013,Disqualified,"Via Pastori, 4"
+966,CDM,PPD,SHP647-221,1-5WSAUEG,,Italy,Azienda Ospedaliero Universitaria Pisana,Toscana,Pisa,56124,Disqualified,"Via Paradisa, 25"
+967,CDM,PPD,SHP647-221,1-5WSAUF6,,Italy,IRCCS Saverio de Bellis,,Castellana Grotte,70013,Disqualified,"Via Turi, 27"
+968,CDM,PPD,SHP675-301,1-3P63B74,,Italy,ASST Santi Paolo e Carlo - Ospedale San Carlo Borromeo,Lombardia,Milano,20153,Disqualified,Via Pio II 3
+972,CDM,PPD,SHP675-301,1-3P69UMU,,Italy,Azienda Ospedale Università Padova - Dipartimento Salute della Donna e del Bambino - INCIPIT - PIN,,Padova,35128,Disqualified,Via Giustiniani 2U.O. Nefrologia e Dialisi
+976,CDM,PPD,SHP647-221,1-6MOFZW3,,Italy,Azienda Ospedaliera San Camillo Forlanini,Lombardia,Milano,20100,Potential,Via F. Sforza 28
+987,CDM,PPD,SHP675-301,1-78GKRL4,,Italy,Azienda ULSS n. 7 Pedemontana - Ospedale San Bassiano,,Bassano del Grappa,36061,Disqualified,Via dei Lotti 40
+988,CDM,PPD,SHP675-301,1-78GKRMV,,Italy,Azienda Ospedaliera Universitaria Integrata Di Verona,Verona,Verona,37126,Disqualified,Piazzale Aristide Stefani 1
+991,CDM,PPD,SHP675-301,1-8C33IEC,,Italy,Azienda Ospedaliera Universitaria Careggi,Emilia-Romagna,Bologna,50134,Disqualified,Largo Brambilla 3SOD Malattie Emorragiche e della Coagulazione
+995,CDM,PPD,SHP675-301,1-7GM66PH,,Italy,Centro Ricerche Cliniche Di Verona,Veneto,Verona,37124,Eligible for Participation,"Piazzale L.a. Scuro, 10C/o Policlinico G.b. Rossi"
+996,CDM,PPD,SHP675-301,280,,Italy,ASST di Monza - Azienda Ospedaliera San Gerardo,,Monza,20900,Qualified,via Pergolesi 33Clinica Nefrologica
+997,CDM,PPD,SHP620-302,1-1EA1W21,,Italy,Azienda Ospedaliero Universitaria Di Bologna - Policlinico S Orsola Malpighi,,Bologna,40138,Disqualified,Via Massarenti 9Complesso Didattico A. Murri  Bologna
+1005,CDM,PPD,SHP607-202,153,,Italy,Azienda Ospedaliera Città della Salute e della Scienza di Torino,,Torino,10126,Withdrawn,Corso Spezia 60Ospedale Ostetrico Ginecologico Sant'Anna
+1009,CDM,PPD,SHP-616-211,1-JAW4D7,,Italy,Ospedale Di Fidenza,Emilia-Romagna,Fidenza,43036,Disqualified,"Via Don Enrico Tincati, 5, Località Vaio"
+1014,CDM,PPD,SHP-616-211,1-JAW4CH,,Italy,Fondazione Istituto G. Giglio di Cefal,,Cefalù,90015,Disqualified,Contrada Pietrapollastra
+1021,CDM,PPD,SYR-322-309,1-11ASLUA,,Italy,Presidio Ospedaliero Giovanni Di Cristina,,Palermo,,Disqualified,"Piazza P. Montalto, 2"
+1022,CDM,PPD,SHP620-302,1-B8RE1DJ,,Italy,Azienda Ospedaliera Ospedali Riuniti Marche Nord,Marche,Pesaro,61100,Disqualified,Via LombrosoUnità Operativa Ematologia
+1023,CDM,PPD,SYR-322-309,1-TNAHFA,,Italy,Azienda Ospedaliera Universitaria Integrata Di Verona,,Verona VR,37129,Disqualified,"Via S. Francesco, 22"
