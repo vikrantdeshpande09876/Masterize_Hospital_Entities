@@ -4,10 +4,10 @@
 
 # DOCSTRING: Deduplicates an incoming dataset, and creates an output /Raw_Scores/country_Score_Features.csv
 
-processBatch <- function(df){
+processBatch <- function(country_df){
   tryCatch({
     # Generate the match-scores for n(n-1)/2 candidate-pairs using the levenshtein stringComparison algorithm. Returns a list of pair-wise scores, input dataframes, and average-frequencies of unique values.
-    data_candidate_pairs_freqs=compare_dedup(df, strcmp = TRUE, strcmpfun = levenshteinSim, exclude=c("SR_NUM"))
+    data_candidate_pairs_freqs=compare_dedup(country_df, strcmp = TRUE, strcmpfun = levenshteinSim, exclude=c("SR_NUM"))
     
     # Extract the pair-wise scores and delete the entire output-list to free up RAM
     candidate_pairs=data_candidate_pairs_freqs$pairs
@@ -15,7 +15,7 @@ processBatch <- function(df){
     
     # Impute scores wherever NA with 0
     candidate_pairs[is.na(candidate_pairs)]=0
-    print(paste("NRows=",nrow(candidate_pairs),", Columns are "))
+    print(paste("N_combinations=",nrow(candidate_pairs),", Columns are "))
     print(names(candidate_pairs))
     
     print("Scaling up column scores if threshold crossed")
@@ -38,10 +38,7 @@ processBatch <- function(df){
     candidate_pairs=subset(candidate_pairs, NUM_OF_MATCHES_FOUND>=TOTAL_MATCHES_THRESHOLD)
     # View(candidate_pairs)
     
-    end=Sys.time()
-    print(end-start)
-    
-    write_df_to_csv(df=candidate_pairs, root_dir = TARGET_DIRECTORY, curr_country = curr_country, file_suffix = "_Score_Features.csv", index_flag = FALSE)
+    return (candidate_pairs)
     
   },
   error=function(e){
@@ -817,6 +814,313 @@ compare.linkage <- function(dataset1, dataset2, blockfld=FALSE, phonetic=FALSE,
   ret$frequencies=apply(rbind(dataset1,dataset2),2,
                         function(x) 1/length(unique(x)))
   ret$type="linkage"
+  class(ret)="RecLinkData"
+  return(ret)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Original Version for single data set
+# Requires that both have the same format
+
+compare.dedup <- function(dataset, blockfld=FALSE, phonetic=FALSE,
+                          phonfun=soundex, strcmp=FALSE,strcmpfun=jarowinkler, exclude=FALSE, 
+                          identity=NA, n_match=NA, n_non_match=NA)
+{
+  # various catching of erronous input
+  if (!is.data.frame(dataset) && !is.matrix(dataset))
+    stop ("Illegal format of dataset")
+  ndata=nrow(dataset) # number of records
+  nfields=ncol(dataset)
+  if (ndata<2) 
+    stop ("dataset must contain at least two records")
+  if (is.character(strcmp))
+    strcmp <- match(strcmp, colnames(dataset))
+  if (!is.numeric(strcmp) && !is.logical(strcmp))
+    stop ("strcmp must be numeric or a single logical value")
+  if (is.character(phonetic))
+    phonetic <- match(phonetic, colnames(dataset))
+  if (!is.numeric(phonetic) && !is.logical(phonetic))
+    stop ("phonetic must be numeric or a single logical value")
+  if (is.character(exclude))
+    exclude <- match(exclude, colnames(dataset))
+  if (!is.numeric(exclude) && !isFALSE(exclude))
+    stop ("exclude must be numeric or FALSE")
+  if (!isFALSE(strcmp) && any(is.na(strcmp) | strcmp <= 0 | strcmp > nfields))
+    stop ("phonetic contains out of bounds index")
+  if (!isFALSE(phonetic) && any(is.na(phonetic) | phonetic <= 0 | phonetic > nfields))
+    stop ("phonetic contains out of bounds index")
+  if (!isFALSE(exclude) && any(is.na(exclude) | exclude <= 0 | exclude > nfields))
+    stop ("phonetic contains out of bounds index")
+  if (!is.na(n_match) && !is.numeric(n_match))
+    stop ("Illegal type for n_match!")
+  if (!is.na(n_non_match) && !is.numeric(n_non_match))
+    stop ("Illegal type for n_match!")
+  
+  if(!identical(blockfld, FALSE))
+  {
+    if (!is.list(blockfld) && !is.null(blockfld)) blockfld <- list(blockfld)
+    if (!all(sapply(blockfld, function(x) class(x) %in% c("character", "integer", "numeric"))))
+      stop("blockfld has wrong format!")
+    blockfld <- lapply(blockfld, 
+                       function(x) {if (is.character(x)) match(x, colnames(dataset)) else (x)})
+    if(any(unlist(blockfld) <= 0 | unlist(blockfld) > nfields))
+      stop("blockfld countains out-of-bounds value!")
+  }
+  
+  if(!identical(identity,NA))
+  {
+    if(length(identity)!=nrow(dataset))
+    {
+      stop("Length of identity vector does not match number of records!")
+    }
+  }
+  
+  # ensure dataset is a data frame and has column names
+  ret=list()  # return object
+  ret$data=as.data.frame(dataset)
+  dataset=as.matrix(dataset, rownames.force=FALSE)
+  dataset[dataset==""]=NA # label missing values
+  dataset=as.data.frame(dataset)
+  ret=list()  # return object
+  ret$data=dataset
+  full_data=as.matrix(dataset)
+  
+  # keep phonetics for blocking fields
+  if (is.numeric(phonetic))
+  {
+    phonetic_block=intersect(phonetic,unlist(blockfld))
+  }
+  if (is.numeric(exclude))
+  {        
+    # adjust indices to list of included fields
+    if (is.numeric(phonetic)) 
+    {
+      phonetic=setdiff(phonetic,exclude)
+      phonetic=sapply(phonetic,function(x) return (x-length(which(exclude<x))))
+    }
+    if (is.numeric(strcmp))
+    {
+      strcmp=setdiff(strcmp,exclude)
+      strcmp=sapply(strcmp,function(x) return (x-length(which(exclude<x))))       
+    }
+  }
+  # issue a warning if both phonetics and string metric are used on one field
+  if ((length(intersect(phonetic,strcmp))>0 && !isFALSE(strcmp) && !isFALSE(phonetic)) ||
+      (isTRUE(strcmp) && !isFALSE(phonetic)) ||
+      (isTRUE(phonetic) && !isFALSE(strcmp)))
+  {
+    warning(sprintf("Both phonetics and string metric are used on some fields",length(intersect(phonetic,strcmp))))
+  }
+  
+  if (!is.function(phonfun))
+  {
+    stop("phonfun is not a function!")
+  }
+  
+  if (!is.function(strcmpfun))
+  {
+    stop("strcmpfun is not a function!")
+  }
+  
+  
+  # print("blocking beginnt")
+  pair_ids=matrix(as.integer(0),nrow=0,ncol=2) # each row holds indices of one record pair
+  if (isFALSE(blockfld))
+  {
+    if (is.na(n_match) || is.na(n_non_match))
+    {
+      pair_ids=t(unorderedPairs(ndata))
+    } else
+    {
+      tempdat=data.frame(id=1:ndata,identity=identity)
+      # Determine matches by join with identity vector
+      pairs=merge(x=tempdat,y=tempdat,by=2)
+      # limit to unordered pairs 
+      match_ids=as.matrix(pairs[as.integer(pairs[,2])<as.integer(pairs[,3]),2:3], rownames.force=FALSE)
+      n_available_matches=nrow(match_ids)
+      n_available_non_matches=ndata*(ndata-1)/2 - n_available_matches
+      if (n_available_matches < n_match && n_available_non_matches < n_non_match)
+      {
+        warning(sprintf("Only %d matches and %d non-matches!",
+                        n_available_matches, n_available_non_matches))
+        # return all pairs
+        pair_ids=t(unorderedPairs(ndata))
+      } else 
+      {
+        # draw required number
+        if (n_match>n_available_matches)
+        {
+          warning(sprintf("Only %d matches!",n_available_matches))
+          # in this case no sampling from match_ids
+        } else
+        {
+          s=sample(nrow(match_ids),n_match)
+          match_ids=match_ids[s,]
+        }
+        
+        if (n_non_match > n_available_non_matches)
+        {
+          warning(sprintf("Only %d non-matches!",n_available_non_matches))
+          all_pairs=t(unorderedPairs(ndata))
+          is_match=(identity[all_pairs[,1]]==identity[all_pairs[,2]])
+          non_match_ids=all_pairs[!is_match,]
+          pair_ids=rbind(match_ids,non_match_ids)
+        } else
+        {
+          # pairs already drawn are marked in A
+          # drawing unordered pairs follows: Steven S. Skiena: The algorithm
+          # design manual, 250-251.
+          A=list()
+          for (i in 1:n_non_match)
+          {
+            repeat
+            {
+              d1=sample(ndata,1)
+              d2=sample(ndata,1)
+              # If a match has been drawn, try again
+              if (identical(identity[d1],identity[d2]))
+              {
+                next
+              }
+              if (d1==d2)
+                next
+              if (d1 > d2)
+              {
+                sorted_id=c(d2,d1)
+              } else
+              {
+                sorted_id=c(d1,d2)
+              }
+              # If the pair has been drawn already, try again 
+              if (!is.null(A[[paste(sorted_id,collapse=" ")]]))
+              {
+                next
+              }
+              # mark pair as already drawn
+              A[[paste(sorted_id,collapse=" ")]]=sorted_id
+              break
+            }
+          }
+          non_match_ids=matrix(unlist(A),ncol=2,nrow=n_non_match,byrow=TRUE)
+          pair_ids=rbind(match_ids,non_match_ids)
+          rm(match_ids,non_match_ids,A)
+        }
+      }
+    }
+  } else # with blocking
+  { 
+    for (blockelem in blockfld) # loop over blocking definitions
+    {
+      if (isTRUE(phonetic))
+      {
+        block_data=phonfun(dataset)
+      } else if (is.numeric(phonetic))
+      {
+        block_data=dataset
+        block_data[,phonetic_block]=phonfun(dataset[,phonetic_block])
+      } else
+      {
+        block_data=dataset
+      }
+      # for each record, concatenate values in blocking fields
+      # do.call is faster than a former apply solution
+      blockstr <- do.call(paste, as.data.frame(block_data[,blockelem]))
+      # exclude pairs with NA in blocking variable
+      # (paste just converts to "NA")
+      for (i in blockelem)
+      {
+        is.na(blockstr)=is.na(block_data[,i])
+      }
+      rm(block_data)
+      id_vec=tapply(1:ndata,blockstr,function(x) if(length(x)>1) return(x))
+      id_vec=deleteNULLs(id_vec)
+      id_vec=makeBlockingPairs(id_vec)
+      rm(blockstr)
+      # reshape vector and attach to matrix of record pairs
+      if (nrow(id_vec)>0)
+        pair_ids=rbind(pair_ids,id_vec)
+      rm(id_vec)
+    }
+    # return empty data frame if no pairs are obtained
+    if (length(pair_ids)==0)
+    {
+      stop("No pairs generated. Check blocking criteria.")
+    }
+    pair_ids <- data.table(pair_ids)
+    setkeyv(pair_ids, names(pair_ids))
+    #    browser()
+    pair_ids <- as.matrix(pair_ids[,1, by=names(pair_ids)], rownames.force=FALSE)[,1:2, drop=FALSE]
+    #    pair_ids=as.matrix(unique(as.data.frame(pair_ids)), rownames.force=FALSE)  # runs faster with data frame
+  } # end else
+  
+  
+  # remove excluded fields
+  if (is.numeric(exclude))
+  {        
+    dataset=dataset[,-exclude, drop = FALSE]  # remove excluded columns
+  }  
+  
+  # apply phonetic code                                                         
+  if (!isFALSE(phonetic)) # true, if phonetic is TRUE or not a logical value
+  {
+    if (isTRUE(phonetic)) # true, if phonetic is a logical value and TRUE
+    {    
+      dataset=soundex(dataset)
+    } else # phonetic is not a logical value
+      dataset[,phonetic]=soundex(dataset[,phonetic])
+  }
+  
+  left <- dataset[pair_ids[,1],,drop=FALSE]
+  right <- dataset[pair_ids[,2],,drop=FALSE]
+  # matrix to hold comparison patterns
+  patterns=matrix(0,ncol=ncol(left),nrow=nrow(left)) 
+  if (isTRUE(strcmp))
+  {
+    patterns=strcmpfun(as.matrix(left, rownames.force=FALSE),as.matrix(right, rownames.force=FALSE))
+  } else if (is.numeric(strcmp)) 
+  {
+    patterns[,-strcmp]=(as.matrix(left[,-strcmp], rownames.force=FALSE)==as.matrix(right[,-strcmp], rownames.force=FALSE))*1
+    patterns[,strcmp]=strcmpfun(as.matrix(left[,strcmp], rownames.force=FALSE),
+                                as.matrix(right[,strcmp], rownames.force=FALSE)) #*1
+  } else
+  {
+    patterns=(left==right)*1
+  }
+  rm(left)
+  rm(right)
+  
+  is_match=identity[pair_ids[,1]]==identity[pair_ids[,2]] # Matching status of pairs
+  ret$pairs=as.data.frame(
+    cbind(pair_ids,
+          patterns,
+          is_match)) # Matches
+  
+  if (is.numeric(exclude))
+  {
+    colnames(ret$pairs)=c("id1","id2",colnames(ret$data)[-exclude],"is_match")
+  } else
+  {
+    colnames(ret$pairs)=c("id1","id2",colnames(ret$data),"is_match")
+  }
+  rownames(ret$pairs)=NULL
+  
+  ret$frequencies=apply(dataset,2,function(x) 1/length(unique(x)))
+  ret$type="deduplication"
   class(ret)="RecLinkData"
   return(ret)
 }

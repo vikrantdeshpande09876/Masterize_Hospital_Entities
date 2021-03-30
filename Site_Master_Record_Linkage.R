@@ -117,11 +117,21 @@ if (!is.loaded(BINARIES_NAME)){
 
 
 # Experimental: To increase allocated RAM size and invoke garbage-collector
-if (memory.limit()!=4000){
-  memory.limit(size=4000)
-}
+# if (memory.limit()!=4000){
+#   memory.limit(size=4000)
+# }
 gc()
 
 
 # Deduplicate the incoming dataset, and create an output /Raw_Scores/country_Score_Features.csv file
-processBatch(country_df)
+candidate_pairs=processBatch(country_df)
+for (i in 1:nrow(candidate_pairs)){
+  candidate_pairs[i,'SR_NUM_1']=country_df[candidate_pairs[i,'SR_NUM_1'],1]
+  candidate_pairs[i,'SR_NUM_2']=country_df[candidate_pairs[i,'SR_NUM_2'],1]
+}
+
+#View(candidate_pairs)
+end=Sys.time()
+print(end-start)
+
+write_df_to_csv(df=candidate_pairs, root_dir = TARGET_DIRECTORY, curr_country = curr_country, file_suffix = "_Score_Features.csv", index_flag = FALSE)
