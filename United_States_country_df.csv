@@ -1,0 +1,1001 @@
+SR_NUM,CONCAT_ADDRESS,SITE_NAME,STATE,CITY,POSTAL_CODE
+1,621 rose street,celerion lincoln,ne,lincoln,68502
+2,2420 west baseline road,celerion phoenix,az,tempe,85283
+3,621 rose street,celerion lincoln,ne,lincoln,68502
+4,50 huntingdon pike,fox chase cancer center irb,pennsylvania,rockledge,19001
+5,800 washington streetbox 245,laboratory shipment address  tufts medical center,massachusetts,boston,02111
+6,1 gustave l levy placebox 1079,mount sinai medical center,new york,new york,10029
+7,820 harrison avenuefgh building  room 2011,cancer clinical trials program  boston medical center,massachusetts,boston,02118
+8,100 first street suite 204,hackensack umc,new jersey,hackensack,07601
+9,3459 fifth avenuesuite e626,investigational drug services ids,pennsylvania,pittsburgh,15213
+10,200 lothrop street,university of pittsburg medical center,pennsylvania,pittsburg,15213
+11,1250 first avenuebox 55,memorial sloankettering  pharmacy,new york,new york,10065
+12,900 blake wilbur dr w1006,stanford cancer institute,california,palo alto,94304
+13,investigational drug services300 pasteur driveroom ho302 mc 5616,stanford university medical center,california,stanford,94305
+14,251 e huronlc700,pharmacy dept  northwestern university hospital,illinois,chicago,60611
+15,2202 wilshire blvd,tower st johns imaging,california,santa monica,90403
+16,1275 york avenue,memorial sloan  kettering cancer center,new york,new york,10021
+17,13123 east 16th avenuebox b115,childrens hospital colorado,colorado,aurora,80045
+18,john theurer cancer center92 second st 4th floor  rm 482,hackensack university medical center,new jersey,hackensack,07601
+19,705 riley hospital drive,indiana university riley hospital for children,indiana,indianapolis,462025225
+20,2335 e kashian lanesuite 301,infusion unit,california,fresno,93701
+21,2130 e illinois st,inpatient pharmacy,california,fresno,93701
+22,30 prospect avenue,john theurer cancer center at hackensack university medical center,new jersey,hackensack,07601
+23,lonetree medical office10240 park meadows drive,kaiser permanente,colorado,lonetree,80205
+24,3900 rainbow blvd,kansas university medical center,,kansas city,66205
+25,2335 kashiansuite 150,local laboratory,california,fresno,93701
+26,10101 woodloch forest,mckesson  usoncologyresearch central regulatory and project management,texas,the woodlands,77380
+27,173 ashley ave,medical university of south carolina,south carolina,charleston,29425
+28,136 mountainview blvd,memorial sloankettering cancer center mskcc  basking ridge,new jersey,basking ridge,079203444
+29,200 hawthorne lane,novant oncology research institute nori,north carolina,charlotte,28204
+30,200 hawthorne ln,novant oncology research institute nori,north carolina,charlotte,28204
+31,the university of alabama at birmingham701 20th street south1170 administration bldg,office of sponsored programs,alabama,birmingham,352940111
+32,320 w 10th ave starling loving hall,ohio state university medical center,ohio,columbus,43210
+33,2300 shawnee mission parkway,university of kansas cancer center,kansas,westwood,66205
+34,3901 rainbow blvd,university of kansas human subjects committee,kansas,kansas city,66160
+35,3901 rainbow boulevard mail stop 3007,university of kansas medical center,kansas,kansas city,66160
+36,800 e 28th st,virginia piper cancer institute,minnesota,minneapolis,
+37,800 east 28th streetliver and pancreas clinic,virginia piper cancer institute,minnesota,minneapolis,55407
+38,660 south euclid avenue campus box 8007,washington university in saint louis,missouri,st louis,63110
+39,660 south euclid avenue,washington university school of medicine,missouri,st louis,63110
+40,wirb,wirb,,,
+41,2420 west baseline road,celerion phoenix,az,tempe,85283
+42,medical oncology333 cottman avenue,fox chase cancer center,pennsylvania,philadelphia,19111
+43,7600 central avenue,radiology  cardiology  jeanes hospital,pennsylvania,philadelphia,19111
+44,800 washington streetbox 817,tufts medical center inc,massachusetts,boston,02111
+45,87 east canfield second floorhw04ho,wayne state university,michigan,detroit,48201
+46,820 harrison avenuefgh2,imi contact address  boston medical center,massachusetts,boston,02118
+47,1019 39th avenue sesuite 120,western irb,washington,puyallup,98374
+48,875 blake wilbur driveclinic b,stanford cancer center,ca 94305,stanford,94304
+49,820 harrison avenue fgh building 3rd floor820 harrison avenuefgh building  2nd floor,boston university medical center,massachusetts,boston,02118
+50,2020 santa monica blvd suite 500,ucla hematologyoncology santa monica,california,santa monica,90404
+51,moffitt cancer center12902 magnolia drive,moffitt cancer center  research institute,florida,tampa,33612
+52,b502 james cancer hospital 460 w 10th avenue,clinical trials processing laboratory,ohio,columbus,43210
+53,715 tank farm road,coastal integrative cancer care,california,san luis obispo,93401
+54,2330 shawnee mission parkwayms 5003,correlative lab university of kansas cancer center,kansas,westwood,66205
+55,2823 fresno st,ctradilology department,california,fresno,93721
+56,200 high park ave,goshen hospital irb,indiana,goshen,46526
+57,200 high park avenue,indiana university health goshen center for cancer,indiana,goshen,46526
+58,205 east 64th street,infusion area,new york,ny,10065
+59,2330 shawnee mission pky ms 5020,investigational drug service u kansas hospital,kansas,westwood,66205
+60,iuscc room c2102550 n university blvd,investigational drug services,indiana,indianapolis,46202
+61,205 e 64th street,memorial sloan kettering cancer center,new york,new york,10065
+62,1000 n village ave,memorial sloankettering cancer center,new york,rockville centre,115701000
+63,136 mountain view blvd,memorial sloankettering cancer center  basking ridge,new jersey,basking ridge,07920
+64,19 hagood avesuite 701,musc hcc clinical trials office,south carolina,charleston,29425
+65,novant oncology research institute noricharlotte200 hawthorne ln,novant oncology research institute noricharlotte,ns,charlotte,28204
+66,3931 louisiana avenue south,park nicollet institute  oncology research,minnesota,st louis park,55426
+67,1000 n village avenue,satellite site memorial sloankettering rockville centre,new york,rockville centre,11570
+68,20 prospect avenue,the cancer center hackensack university medical center,new jersey,hackensack,07601
+69,3100 plaza properties blvd the mark h zangmeister center,the mark h zangmeister centermid ohio oncologyhematology inc,ohio,columbus,43219
+70,8700 north green hills rd,the university of kansas cancer center,missouri,kansas city,64154
+71,2335 e kashian lane,ucsf fresnooncology associates,california,fresno,93701
+72,1824 6th avenue southwti 110t1,university of alabama at birmingham,alabama,birmingham,35294
+73,1824 6th avenue south wti 110t1,university of alabama at birmingham,alabama,birmingham,35294
+74,660 south euclid avecampus box 8124,washington university school of medicine,missouri,st louis,63110
+75,200 first st sw201 building rm 460,mayo clinic irb,minnesota,rochester,55905
+76,2151 n harbor blvd601 elmwood avenue box 704,st jude hospital yorba linda dba st joseph heritage healthcare,california,fullerton,92835
+77,james p wilmot cancer center601 elmwood avenue box 704,university of rochester,new york,rochester,14642
+78,1 medical center drivepo box 9162,west virginia university,west virginia,morgantown,26506
+79,1 medical center drive ¿ box 8110,west virginia university hospitals  mary babb randolph cancer center,west virginia,morgantown,265068110
+80,10945 le conte ave 3360,translational research in oncology us trious,california,los angeles,90095
+81,johns hopkins universityschool of medicine550 n broadway suite 805,division of hematologic malignancies,maryland,baltimore,21205
+82,john hopkins hospital401 n broadway,sidney kimmel comprehensive cancer center,maryland,baltimore,21231
+83,department of lymphoma and myelomathe university of texas1515 holcombe blvd unit 429,md anderson cancer center ut,texas,houston,77030
+84,1155 presslerunit 367,md anderson cancer center local lab,texas,houston,77030
+85,22 south greene streetroom n9e14,university of maryland medical center pharmacy,maryland,baltimore,21201
+86,4100 john r street hw04ho,karmanos cancer institute,michigan,detroit,48201
+87,6841 south eastern avenue,om medical,nevada,las vegas,89119
+88,3400 spruce street16 penn tower,abramson cancer center,pennsylvania,philadelphia,19104
+89,3400 spruce st16 penn tower,hospital of the university of pennsylvania,pennsylvania,philadelphia,19104
+90,3400 civic center boulevard16 penn tower,university of pennsylvania,pennsylvania,philadelphia,19104
+91,3400 spruce street3 gates building,university of pennsylvania,pennsylvania,philadelphia,19104
+92,3400 spruce street 3 gates building16 penn tower,university of pennsylvania,pennsylvania,philadelphia,19104
+93,1400 south orange ave mp 780,orlando health inc,florida,orlando,32806
+94,1400 south orange avenue,orlando health inc,florida,orlando,32806
+95,3000 el camino realfive palo alto sq 4th floor,stanford university research,california,palo alto,94306
+96,450 brookline avpo box 849168,dana farberharvard cancer center,massachusetts,boston,02215
+97,450 brookline avenue,dana farberharvard cancer center,massachusetts,boston,02215
+98,1475 nw 12th avesuite 2306b,university of miami sylvester comprehensive cancer investigational pharmacy,florida,miami,33136
+99,1120 northwest 14th street,university of miami miller school of medicinedon soffer clinical research center,florida,miami,33136
+100,450 brookline av po box 849168,dana farberharvard cancer center,massachusetts,boston,02215
+101,983040 nebraska medical centersection of hematologyoncology987680 nebraska medical center,university of nebraska medical center,nebraska,omaha,681983040
+102,825 eastlake avenue east g4940,seattle cancer care alliance,washington,seattle,98109
+103,1043 elm avenue,tori  pacific shores medical group,california,long beach,90813
+104,1375 roberts drive,infusion center2baptist medical center,florida,jacksonville,32250
+105,1235 san marco blvd,infusion center3,florida,jacksonville,32258
+106,250 25th avenue northsuite 900,sarah cannon cancer center,tennessee,nashville,37203
+107,3322 west end avenuesuite 900,sarah cannon research institute,tennessee,nashville,37203
+108,250 25th avenue northsuite 900,tennessee oncology,tennessee,nashville,37203
+109,1500 east medical center driveroom b2d400room 4316,university of michiganresearch pharmacy,michigan,ann arbor,48109
+110,clinical cancer centerdivision of hematology and oncology9200 w wisconsin ave,froedtert hospital and the medical college of wisconsin,wisconsin,milwaukee,53226
+111,wirb,wirb,oh,cincinnati,45242
+112,1441 eastlake averoom 2407,pharmacylacusc for county patients,california,los angeles,90033
+113,1441 eastlake averoom 2409b,pharmacyusc norris campus,california,los angeles,90033
+114,181 south buena vista street4th floor,east valley hematology oncology med group  disney family cancer center,california,burbank,91505
+115,15031 rinaldi street4th floor,providence holy cross medical centernorth valley hematology oncology medical group,california,mission hills,91345
+116,3800 reservoir rd nwm7103,research pharmacy,district of columbia,washington,20007
+117,714 doctors drive,eng  satellite site,florida,englewood,34223
+118,551 north cattlemen roadsuite 100b,florida cancer specialists central monitoring sar,florida,sarasota,34232
+119,1970 golf street,sad  satellite site,florida,sarasota,34236
+120,15681 new hampshire court,sum  satellite site,florida,fort myers,33906
+121,836 sunset lake blvdsuite 101,vhp  satellite site,florida,venice,34285
+122,1201 camino de salud ne admin bldng 2nd floor,new mexico cancer care alliance  unm cancer center,new mexico,albuquerque,87131
+123,1201 camino de salud ne,university of new mexico,new mexico,albuquerque,87106
+124,wirb,wirb,nm,albuquerque,87131
+125,407 e 61st strr110,weill cornell medical college irb,new york,new york,10065
+126,603 north wilmot roadsuite 151,arizona oncology associates pc,arizona,suite 151 tucson,85710
+127,4420 lake boone trailsuite 200,rex cancer center,north carolina,raleigh,27607
+128,ucd dept of pathology,local laboratory,california,sacramento,95817
+129,235 north breiel boulevard,signal point clinical research center llc,ohio,middletown,45042
+130,4860 y street,ucd department of radiology,california,sacramento,95817
+131,4501 x st rm 3003,university of california davis health system,california,sacramento,958172229
+132,605 glenwood drsuite 200,chattanooga oncology hematology care,tennessee,chattanooga,37404
+133,250  25th ave northsuite 200,sarah cannon research institute  tennessee oncology,tennessee,nashville,37203
+134,401 college street,vcu virginia commonwealth university massey cancer center,virginia,richmond,23298
+135,800 washington street800 washington stsouth 7 room 7127 box  245,tufts medical center,massachusetts,boston,02111
+136,3231 south national avenueste 1000,mercy research,missouri,springfield,65807
+137,wirb,wirb,tn,knoxville,37909
+138,13501 park vista blvd ste 160,us oncology research investigational product center,texas,fort worth,76177
+139,2280 opitz boulevard,virginia cancer specialists pc,virginia,woodbridge,22191
+140,3 crossing boulevard,new york oncology hematology,new york,clifton park,12065
+141,2420 west baseline road,celerion phoenix,az,tempe,85283
+142,200 1st street south west,imi contact address  mayo clinic,minnesota,rochester,55905
+143,200 1st street south westgonda 10178,pharmacy  mayo clinic,minnesota,rochester,55905
+144,neely center800 washington streetbox 245,ert shipment address  tufts medical center,massachusetts,boston,02111
+145,25 harvard streetproger building,pharmacy  tufts medical center,massachusetts,boston,02111
+146,1 gustave l levy placebox 1185,laboratory shipment address  tbd,new york,new york,10029
+147,icahn building1425 madison avenue3rd floor ws11280,research group fedex address  mount sinai medical center,new york,new york,10029
+148,clinical trials office4160 john r hpob 711intraoffice mailcode hpo7ct,imi contact address  karmanos cancer institute,michigan,detroit,48201
+149,4160 john r street suite 711hp07ct,regulatory  karmanos cancer institute clinical trials office,michigan,detroit,48201
+150,hackensack university medical center92 second st,john theurer cancer center,new jersey,hackensack,07601
+151,100 first street,john theurer cancer ctr at humc,new jersey,hackensack,07601
+152,1 south park street 7th  floor,university of wisconsin madison uw school of medicine and public health,wisconsin,madison,53715
+153,2420 west baseline road,celerion phoenix,az,tempe,85283
+154,621 rose street,celerion lincoln,ne,lincoln,68502
+155,333 cottman avenue,fox chase cancer center,pennsylvania,philadelphia,19111
+156,imi contact address  tbdproger building,imi contact address  tbd,ma,boston,02111
+157,800 washington street7th floor,monitoring  neely center for clinical cancer research tufts medical center,massachusetts,boston,02111
+158,clinical trials office4160 john r hpob 711intraoffice mailcode hpo7ct,laboratory shipment address  karmanos cancer institute,michigan,detroit,48201
+159,4100 john rweo1ph,pharmacy  karmanos cancer institute investigational drug service,michigan,detroit,48201
+160,1515 holcombe blvd,the university of texas md anderson cancer center,texas,houston,77030
+161,presby south tower3rd floor suite 3765dermatology department,university of pittsburgh medical center,pennsylvania,pittsburgh,15213
+162,710 n fairbanks ct842131,laboratory  northwestern university hospital,illinois,chicago,60611
+163,757 westwood plaza,ronald regan ucla medical center,california,los angeles,90095
+164,2020 santa monica blvd,ucla medical centresanta monica hematology and oncology,california,santa monica,90404
+165,10945 le conte avenue,ucla school of medicine,california,los angeles,90095
+166,hematology  oncology2401 gillham rd,childrens mercy hospital,missouri,kansas city,64108
+167,111 east 210th street,albert einstein college of medicine aecom  montefiore medical center mmc  moses division,new york,bronx,10467
+168,800 east 28th street,allina health system dba virginia piper cancer institute,minnesota,minneapolis,55407
+169,325 west 15 st,beth israel comprehensive cancer center,new york,new york,10011
+170,333 cottman avenue,fox chase cancer center,pennsylvania,philadelphia,19111
+171,200 high park ave,goshen health center for cancer care,indiana,goshen,46526
+172,535 barnhill drive rt380,indiana university simon cancer center,indiana,indianapolis,46202
+173,north pavilion n34701802 sixth ave south,investigational drug services,alabama,birmingham,35249
+174,university of kansas hospitalwestwood cancer center2330 shawnee mission parkway ms 5020,investigational drug services,kansas,westwood,66205
+175,1010 n kansas,kansas university school of medicinewichita,kansas,wichita,672143199
+176,92 second street,lab northern new jersey cancer associates,new jersey,hackensack,07601
+177,777 north broadway,memorial sloan kettering sleepy hollow,new jersey,sleepy hollow,10591
+178,200 hawthorne ln,presbyterian medical center dept of pharmacy,north carolina,charlotte,28204
+179,460 west 10th avenue,the ohio state university james cancer hospital,ohio,columbus,43210
+180,the kirklin clinic cancer center2000 sixth avenue south,the university of alabama at birmingham lab,alabama,birmingham,35249
+181,155 n fresno st,ucsffresno clinical research centers,california,fresno,93701
+182,1000 east 101st terrace,university of kansas cancer center,missouri,kansas city,64131
+183,4350 shawnee mission parkway,university of kansas clinical research center,kansas,fairway,662052528
+184,4350 shawnee mission parkway,university of kansas hospital,kansas,fairway,66205
+185,8700 green hills road,university of kansas medical center,missouri,kansas city,64131
+186,4921 parkview place suite 7f,washington university infusion center pharmacy,missouri,st louis,63110
+187,808 north 39th ave,yakima valley memorial hospitalnorth star lodge cancer center,washington,yakima,98902
+188,3 crossing blvd,ny oncology hematology,new york,clifton park,12065
+189,10101 woodloch forest drive,us oncology inc irb,texas,the woodlands,77380
+190,301 seton parkway,texas oncologyseton williamson,texas,round rock,78665
+191,13501 park vista blvd ste 160,us oncology research investigational product center,texas,fort worth,76177
+192,4100 john r street,karmanos cancer institute,michigan,detroit,48201
+193,1021 morehead medial center,carolinas health care systems,north carolina,charlotte,28204
+194,600 hospital dr,lci monroe,north carolina,monroe,28112
+195,1034 north 500 west,utah cancer specialists provo office,utah,provo,84604
+196,7910 w jefferson blvd,fort wayne medical oncologyhematology inc,indiana,fort wayne,46804
+197,9128 n lindbergh dr,bleeding and clotting disorders institute,peoria,illinois,61615
+198,401 east chestnut streetsuite 460,u of l  physicians pulmonology,louisville,kentucky,40202
+199,601 elmwood avenue box 667601 elmwood avenue box 704,golisano childrens hospitaluniversity of rochester medical center,new york,rochester,14642
+200,101 east wood street,gibbs cancer center  research institute,south carolina,spartanburg,29303
+201,10th floor research officeone saint francis drive,saint francis hospital,south carolina,greenville,29601
+202,1515 holcombe blvdinvestigational pharmacy servicesrm b14392,md anderson cancer center investigational pharmacy services,texas,houston,77030
+203,4100 john r street,karmanos cancer institute,michigan,detroit,48201
+204,wirb,wirb,nv,las vegas,89169
+205,1043 elm avenue,tori  pacific shores medical group,california,long beach,90813
+206,mmc 480 mayo420 delaware st se,university of minnesota medicine hematology office,minnesota,minneapolis,55455
+207,300 pasteur dr,stanford university school of medicine phamacy,california,stanford,94305
+208,450 brookline av po box 849168,dana farberharvard cancer center,massachusetts,boston,02215
+209,450 brookline ave os229,dfci office for human research studies,massachusetts,boston,02115
+210,450 brookline avpo box 849168,dana farberharvard cancer center,massachusetts,boston,02215
+211,2160 south first avenue bldg 112,cardinal bernardin cancer centerloyola university medical center,illinois,maywood,60153
+212,2160 south first ave,loyola university irb,illinois,maywood,60153
+213,2160 south first ave 54067,loyola university medical center outpatient center,illinois,maywood,60153
+214,department of pharmaceutical services662 gayley avenueroom b504a,ronald reagan ucla medical center department of pharmaceutical services ip shipment,california,los angeles,909956984
+215,2020 santa monica blvdsuite 600,ucla department of medicine hematologyoncology,california,santa monica,90404
+216,2825 santa monica boulevardsuite 600,university of california los angeles,california,santa monica,90404
+217,wirb,wirb,nd,bismarck,58501
+218,540 west pueblo street540 west pueblo st,sansum clinic,california,santa barbara,93105
+219,cancer center of santa barbara 540 west pueblo street540 west pueblo st,santa barbara hematology oncology medical group inc,california,santa barbara,93108
+220,wirb,wirb,wa,seattle,98109
+221,2000 circle of hopesuite 6405,huntsman cancer institute,utah,salt lake city,84112
+222,7015 ac skinner pkwy,cancer specialists of north florida,florida,jacksonville,32256
+223,10945 le conte ave 3360,translational research in oncology us trious,california,los angeles,90095
+224,1045 east 3900 south,jean brown research,utah,salt lake city,84124
+225,501 south buena vista street4th floor,pharmacy providence saint joseph medical center,california,burbank,91505
+226,750 n lake shore dr 7th floor,northwestern univ officeprotection of subjects,illinois,chicago,60611
+227,3840 broadway,bdy  satellite site,florida,fort myers,33901
+228,22395 edgewater drive,pch  satellite site,florida,port charlotte,33980
+229,525 e 68th street,weill cornell medical college,new york,new york,10065
+230,1720 s bellaire st 701,colorado cancer research program,colorado,denver,80222
+231,pacific shores medical group19582 beach blvdsuite 212,huntington beach satellite,california,huntington beach,92648
+232,1043 elm avenue1043 elm avenue suite 104,tori  pacific shores medical group,california,long beach,90813
+233,605 glenwood drivesuite 200,tennessee oncology  chattanooga,tennessee,chattanooga,37404
+234,621 rose street,celerion lincoln,ne,lincoln,68502
+235,621 rose street,celerion lincoln,ne,lincoln,68502
+236,200 1st street south westmayo w10 hematology,ert shipment address  mayo clinic,minnesota,rochester,55905
+237,200 1st street south west,mayo clinic,minnesota,rochester,55905
+238,610 old york road,budgetscontracts  fox chase cancer center,pennsylvania,jenkintown,19046
+239,333 cottman avenuew08,pharmacy  fox chase cancer center,pennsylvania,philadelphia,19111
+240,4100 john rhw04ho,barbara ann karmanos cancer institute,michigan,detroit,48201
+241,clinical trials office4160 john r hpob 711intraoffice mailcode hpo7ct,ert shipment address  karmanos cancer institute,michigan,detroit,48201
+242,820 harrison avenuefgh2,ert shipment address  boston medical center,massachusetts,boston,02118
+243,333 cottman avew08,ert shipment address  fox chase cancer center,pennsylvania,philadelphia,19111
+244,imi contact address  tbd,imi contact address  tbd,pa,philadelphia,19111
+245,800 washington streetbox 817,budget  contract  office of clinical research administration tufts medical center,massachusetts,boston,02111
+246,800 washington streetbox 245,regulatory  neely center for clinical cancer research tufts medical center,massachusetts,boston,02111
+247,one gustave l levy placebox 1119,budgetcontract contact address  mount sinai school of medicine tisch cancer institute,new york,new york,10029
+248,1450 madison avenueannenberg b2 room 206,pharmacy  mount sinai medical center inpatient pharmacy,new york,new york,10029
+249,4160 john r hpob 711intraoffice mailcode hpo7ct,clinical trials office  karmanos cancer institute,michigan,detroit,48201
+250,820 harrison avenuefgh2,laboratory shipment address  boston medical center,massachusetts,boston,02118
+251,88 east newton stmoakley  3,pharmacy  boston medical center,massachusetts,boston,02118
+252,2055 s fremont streetsuite 1000,mercy clinic  cancer  hematology,missouri,springfield,65804
+253,2055 s fremont aveste 1000,mercy research,missouri,springfield,65804
+254,wirbste 1000,wirb,mo,springfield,65804
+255,10101 woodloch forest drive,us oncology inc irb,texas,the woodlands,77380
+256,13501 park vista blvd ste 160,us oncology research investigational product center,texas,fort worth,76177
+257,4101 james casey st ste 100,texas oncology  medical city dallas,texas,austin,787451145
+258,13501 park vista blvd ste 160,us oncology research investigational product center,texas,fort worth,76177
+259,9555 sw barnes road,northwest cancer specialists pc,oregon,portland,97225
+260,265 n broadway,northwest cancer specialists rose quarter office,oregon,portland,97227
+261,631 professional drive,gwinnett hospital system inc center for cancer care ,georgia,lawrenceville,30046
+262,2940 e banner gateway dr ste 450,dr shakeela bahadur md office of,arizona,gilbert,85234
+263,wirb,wirb,az,gilbert,85234
+264,9500 gilman dr mc 0052,ucsd human research protections program,california,la jolla,920930052
+265,100 medical park dr suite 110,lci concord,north carolina,concord,28025
+266,500 university drive,penn state hershey medical center,pennsylvania,hershey,170330850
+267,333 cottman avenue,fox chase cancer center,pennsylvania,philadelphia,19111
+268,4004 pioneer woods dr,nebraska hematologyoncology nho  lincoln,nebraska,lincoln,68506
+269,38385 700 e,utah cancer specialists,utah,salt lake city,821106
+270,11100 euclid ave,rainbow babies and childrens hospital,cleveland,ohio,44106
+271,171 ashley avenue msc 908,medical university of south carolina,charleston,south carolina,29425
+272,medical cntr blvd,comprehensive cancer center of wake forest university,winston salem,north carolina,27157
+273,13199 e montview blvdsuite 100,university of colorado hemophilia  thrombosis center,aurora,colorado,80045
+274,100 n mario capecchi dr,primary childrens medical center,salt lake city,utah,84113
+275,medical center blvd,comprehensive cancer center of wake forest university,winston salem,north carolina,27157
+276,282 washington street,connecticut childrens medical center,hartford,connecticut,06106
+277,621 rose street,celerion lincoln,ne,lincoln,68502
+278,621 rose street,celerion lincoln,ne,lincoln,68502
+279,333 cottman avenuep2011,laboratory shipment address  fox chase cancer center,pennsylvania,philadelphia,19111
+280,800 washington streetproger building,tufts medical center,massachusetts,boston,02111
+281,800 washington stproger building,tufts medical center neely center for clinical cancer research,massachusetts,boston,02111
+282,87 e canfield  3rd floorhw04ho,ups fedex or reliable delivery address for karmanos cancer institute,michigan,detroit,48201
+283,830 harrison avenuemoakley  3,boston medical center,massachusetts,boston,02118
+284,820 harrison avemoakley  3,boston university school of medicine  cancer research center,massachusetts,boston,021182905
+285,13001 e 17th place,university pittsburgh medical center,pennsylvania,pittsburgh,15213
+286,1275 york avenue,memorial sloankettering cancer center,new york,new york,10065
+287,875 blake wilbur drive,stanford cancer center,new jersey,stanford,94305
+288,780 welch road cj220d,stanford university medical center,california,palo alto,943045779
+289,676 n saint clair,northwestern memorial hospital,illinois,chicago,60611
+290,88 east newton street820 harrison avenuefgh building  2nd floor,ids pharmacy,massachusetts,boston,02118
+291,11000 kinross ave ste 102,office for protection of research subjects,california,los angeles,900951694
+292,drug information centerdept of pharmaceutical services662 galey ave r504a,ronald regan ucla medical center,california,los angeles,90095
+293,2000 6th ave sotkc 3rd floor,uab department of dermatology,alabama,birmingham,35233
+294,1981 marcus avenuesuite 210lake success,brany,new york,newyork city,11042
+295,1825 eastchester road 2s53,cancer clinical trials office montefiore medical center  weiler,new york,bronx,10461
+296,7360 west deschutes avenue,columbia basin hematology and oncology,washington,kennewick,99336
+297,100 first street,john theurer cancer ctr at humc,new jersey,hackensack,07601
+298,92 2nd st,john thurer cancer center at hackensack,new jersey,hackensack,07601
+299,7360 west deschutes ave,kadlec clinic hematology and oncology,washington,kennewick,99336
+300,10240 park meadows driveoncology department,kaiser permanente colorado  lonetree,colorado,lonetree,80124
+301,1000 n village avenue,memorial sloan kettering cancer center rockville centre,new york,rockville centre,11570
+302,777 north broadway,memorial sloan kettering sleepy hollow,new york,sleepy hollow,10591
+303,111 east 210th streethofheimer 100,montefiore medical center albert einstein college of medicine,new york,bronx,10467
+304,200 hawthorne lane,novanth health presbyterian medical center,north carolina,charlotte,28204
+305,320 w 10th ave,ohio state university medical center,ohio,columbus,43210
+306,1867 e fir ave,petnuclear department,california,fresno,93720
+307,2823 fresno st,site pharmacy,california,fresno,93721
+308,2330 shawnee mission pkwy,the university of kansas hospital ukh,kansas,westwood,662052005
+309,301 university boulevard,the university of texas medical branch utmb,texas,galveston,775551115
+310,1824 6th avenue south,uab comprehensive cancer centerwallace tumor institute,alabama,birmingham,35294
+311,2335 e kashian lanesuite 301,ucsf fresno,california,fresno,93701
+312,1824 6th avenue south,university of alabama at birmingham,alabama,birmingham,352943300
+313,660 s euclid avenue campus box 8056,washington university in saint louis,missouri,saint louis,63110
+314,660 s euclid ave campus box 8089,washington university school of medicine,missouri,saint louis,63110
+315,660 s euclid ave campus box 8072,washington university school of medicine,missouri,st louis,63310
+316,621 rose street,celerion lincoln,ne,lincoln,68502
+317,621 rose street,celerion lincoln,ne,lincoln,68502
+318,2420 west baseline road,celerion phoenix,az,tempe,85283
+319,621 rose street,celerion lincoln,ne,lincoln,68502
+320,200 1st street south west,laboratory shipment address  mayo clinic,minnesota,rochester,55905
+321,200 1st street sw201 building room 460,mayo clinic institutional review board,minnesota,rochester,55905
+322,tufts medical centertufts university irb office800 washington street box 817,tufts medical center irb,massachusetts,boston,02111
+323,one gustave l levy placebox 1030,ert shipment address  mount sinai school of medicine the zena and michael a wiener cardiovascular institute,new york,new york,100296574
+324,imi contact address  tbdbox 1079,imi contact address  tbd,ny,new york,10029
+325,one gustave l levy placebox 1120,mount sinai medical center irb,new york,new york,10029
+326,one gustave l levy placebox 1410,research group mailing address  mount sinai school of medicine tisch cancer institute,new york,new york,10029
+327,12901 bruce b downs blvdmdc 28,university of south florida  parent,tampa,florida,33612
+328,3901 rainbow boulevard,university of kansas medical center research institute inc,kansas city,kansas,66160
+329,12631 e 17th averm 5505,regents of the university of colorado,aurora,colorado,80045
+330,6411 fannin streetrpv 314,university texas physicians car,houston,texas,77030
+331,1120 nw 14th street – crb 13th floor 1310d84suite 3400,university of miami miller school of medicine,miami,florida,33136
+332,4940 eastern av301 buildingsuite 4500,johns hopkins university,baltimore,maryland,21224
+333,1115 kinwest parkwaysuite 100,allergy asthma  immunology clinic,irving,texas,75063
+334,200 s manchester avesuite 110,university of californiairvine,orange,california,92868
+335,717 delaware st sesuite 246,university of minnesota,minneapolis,minnesota,55414
+336,260 stetson streetsuite 2300,university of cincinnati,cincinnati,ohio,452670525
+337,840 us highway 1suite 250,allergy associates of palm beaches,north palm beach,florida,33408
+338,200 old country rd,montefiore medical center prime,bronx,new york,11501
+339,88 tioga avenuesuite 102,corning center for clinical research,corning,new york,14830
+340,​ 595 chapel hill drive ste 102,​pikes peak allergy and asthma,colorado springs,colorado,80920
+341,20 20th street southnhb 206,university of alabama medical center,birmingham,alabama,35294
+342,11212 waples mill roadsuite 103,o  o alpan llc,fairfax,virginia,22030
+343,2500 vanderbilt beach rd ste 1103,care one health center​,naples,florida,34109
+344,1113 gillespie neurosciences blvduniversity of california irvineinstitute of  clinical and translational services,university of california irvine medical center,irvine,california,92697
+345,​2251 west eldorado parkway suite 150,​mckinney allergy and asthma center,mckinney,texas,75070
+346,900 e southlake blvd ste 300,texas regional asthma allergy center,southlake,texas,76092
+347,100 e mainsuite 101,greater austin allergy asthma  immunology,round rock,texas,786645226
+348,1600 nw 10th avenuermsb  7th floor,university of miami miller school of medicine,miami,florida,33136
+349,1600 medical center drivesuite 4500,marshall university medical center,charleston,west virginia,25701
+350,1400 tullie road ne,emory healthcare,atlanta,georgia,30329
+351,one gustave l levy place mt sinai medical center,icahn school of medicine at mount sinai,new york,new york,10029
+352,one perkins square,childrens hospital medical center of akron,akron,ohio,44308
+353,wirb,wirb,wa,seattle,98101
+354,601 elmwood ave box 704601 elmwood avenue box 704,university of rochester medical center urmc  wilmot cancer institute wci james p wilmot cancer center,new york,rochester,14642
+355,wirb601 elmwood avenue box 704,wirb,ny,rochester,14642
+356,po box 9260,ctru,west virginia,morgantown,26056
+357,2151 north harbor boulevard,st jude heritage medical group virginia k crosson cancer center,california,fullerton,92835
+358,6670 bertnerr12107,the methodist hospital research institute,houston,texas,77030
+359,401 east river parkway 227 vcrc,regents of the university of minnesota,minneapolis,minnesota,55455
+360,1919 e thomas rdphoenix childrens hospital,phoenix childrens hospital,phoenix,arizona,85016
+361,96 jonathan lucas streetcsb 816 msc 630,medical university of south carolina musc,charleston,south carolina,29425
+362,500 w thomas rd suite 300,barrow neurological institute,phoenix,arizona,85013
+363,846 service roadmichign state universitydepartment of radiology,michigan state university,east lansing,michigan,48824
+364,19 east 98th streetsuite 9d box 1078,mount sinai medical center,new york,new york,10029
+365,3181 sw sam jackson park rdmail code cdrcp,oregon health  science university,portland,oregon,97239
+366,3800 reservoir rd nwphc building 7th floor,georgetown university hospitalmedstar,washington,district of columbia,20007
+367,200 hawkins drivedepartment of pediatrics 2jcp,university of iowa hospitals  clinics,iowa city,iowa,52242
+368,11100 euclid avenue b700,university hospitals cleveland medical center,cleveland,ohio,44106
+369,1130 nw 22nd avenue suite 150,ohsu knight cancer institute  portland,portland,oregon,97210
+370,2200 childrens way 6141 dot,cleveland clinic,nashville,tennessee,37232
+371,11100 euclid aveste 3001,rainbow babies and childrens hospital,cleveland,ohio,44106
+372,1600 sw archer rd,uf health shands hospital,gainesville,florida,32610
+373,282 washington stsuite 4b,connecticut childrens medical center,hartford,connecticut,06106
+374,3624 market streetsuite 560w,university of pennsylvania health system,philadelphia,pennsylvania,19104
+375,1601 sw archer road rm hd204po box 100298,university of florida  shands,gainesville,florida,32610
+376,525 e 68th strm p695,weill cornell medical college wcmc  judith jaffe multiple sclerosis center jjmsc,new york,new york,10065
+377,295 chipeta way suite 1s100,primary childrens medical center,salt lake city,utah,84108
+378,texas children’s hospitalmc19345c,texas childrens hospital,houston,texas,77030
+379,3333 burnet avenue mlc 7004,cincinnati childrens hospital medical center,cincinnati,ohio,45229
+380,100 medical drive,hannibal clinic,hannibal,missouri,63401
+381,11100 euclid avenue  1202,the cleveland clinic foundation,cleveland,ohio,44106
+382,10833 le conte avenuechs 37131,ucla medical center,los angeles,california,90095
+383,9300 campus point dr mc 7381division of pulmonary critical care  sleep medicine,university of california san diego medical center,la jolla,california,920377381
+384,500 west thomas rd suite 500,dignity health,phoenix,arizona,85013
+385,1138 lexington roadsuite 230,central kentucky pulmonary medicine,georgetown,kentucky,40324
+386,18503 pines blvdsuite 300,dbc research corp,pembroke pines,florida,33025
+387,,neuropsychiatric research center of southwest florida,,,
+388,,quest,,,
+389,,roper st francis healthcare,,,
+390,,crilifetree,,,
+391,,progressive medical research,,,
+392,,gregory a kirk md llc,,,
+393,1300 jackson street,national jewish health,denver,colorado,80206
+394,5841 south maryland avenuemc 6076,university of chicago medical center,chicago,illinois,60637
+395,,alzheimers research and treatment center,,,
+396,101 east wood street,spartanburg regional medical center,south carolina,spartanburg,29303
+397,barbara ann karmanos cancer institute,wayne state university,michigan,detroit,48201
+398,722 west 168th street4th floor room 749ny,pharmacy,ny,new york,10032
+399,3730 south eastern avenue,comprehensive cancer centers of nevada,nevada,las vegas,89169
+400,orlando,anderson cancer center orlando,florida,orlando,32806
+401,55 fruit street,massachusetts general hospital,massachusetts,boston,02114
+402,1475 nw 12th avenue,university of miami hospital  clinics,florida,miami,33136
+403,450 brookline ave os229,dfci office for human research studies,massachusetts,boston,02115
+404,po box 849168,harvard medical school,massachusetts,boston,022849168
+405,2160 first avenue,loyola university medical center,illinois,maywood,60153
+406,1441 eastlake avesuite 600,university of california los angeles,california,los angeles,90033
+407,2020 santa monica boulevardsuite 600,university of california los angeles,california,santa monica,90404
+408,2040 viborg road540 west pueblo st,samsum clinic satellite site,california,solvang,93463
+409,1100 fairview avenue northbpx 25080,fred hutchinson cancer research center,washington,seattle,98109
+410,university of utah2000 circle of hope,huntsman cancer institute,utah,salt lake city,84112
+411,14546 st augustine rd,infusion center4,florida,jacksonville,32258
+412,2 shircliff way,infusion center7,florida,jacksonville,32204
+413,2 shircliff way,integrated community oncology network,florida,jacksonville,32204
+414,3050 mack roadsuite 300,oncology hematolgy carehpx,ohio,fairfield,45014
+415,4350 malsbary rd,oncology hematology care inc,ohio,cincinnati,45242
+416,4350 malsbary road,usor  oncology hematology care,ohio,cincinnati,45242
+417,181 s buena vista st3rd floor,disney family cancer center  providence saint joseph medical center,california,burbank,91505
+418,181 south buena vista street 4th floor4th floor,east valley hematology oncology medical group,california,burbank,91505
+419,501 south buena vista street4th floor,providence st joseph medical center cancer research center,california,burbank,915054866
+420,676 n st clair st,northwestern university  robert h lurie comprehensive cancer center at northwestern,illinois,chicago,60611
+421,3410 worth streetsuite 300,annette c and harold c simmons transplant institute,texas,dallas,75246
+422,3900 reservioir rd nwsw 104 medical dental building,georgetown univ oncology irbmedstar hri,district of columbia,washington,20007
+423,,tower cancer research foundation,,,
+424,,tower cancer research foundation,,,
+425,,heartland regional medical center dba cancer care st joseph mosaic life care,,,
+426,,st francis cancer center,,,
+427,,kansas city cancer center,,,
+428,,upmc hillman cancer center,,,
+429,,rocky mountain cancer centers llp,,,
+430,,missouri cancer associates,,,
+431,,neurostudiesnet llc,,,
+432,,great lakes clinical trials,,,
+433,,summit research network oregon inc,,,
+434,2015 uppergate drsuite w340b,emory university school of medicine,atlanta,georgia,30324
+435,9333 genesee avenuesuite 310,ucsd medical center  la jolla,san diego,california,92121
+436,300 longwood ave farley 4 room 4943,boston childrens hospital,boston,massachusetts,021155724
+437,,carle foundation dba carle cancer center,,,
+438,georgetown university3900 reservoir  rd nwlr 3,pre clinical science building,district of columbia,washington,20007
+439,4415 metro parkway,florida cancer specialists  research institute,florida,fort myers,33916
+440,1201 camino de salud ne,university of new mexico cancer center,new mexico,albuquerque,87106
+441,525 e 68th st,center for lymphoma and myelomaweill cornell medical college wcmc,new york,new york,100654870
+442,1720 s bellaire st703 denver,colorado community irb,co,co,80222
+443,2555 s downing st,porter adventist hospital  porter cancer care center  cypress hematology and oncology,colorado,denver,80222
+444,4501 x street bldg 30,uc davis comprehensive cancer center,california,sacramento,95817
+445,pacific shores medical group16300 sand canyon avesuite 207,irvine satellite,california,irvine,92618
+446,2708 e willow st1043 elm avenue suite 104,liberty pacific medical imaging,california,signal hill,90755
+447,pacific shores medical group1043 elm avenue suite 104,pacific shores medical group main,california,long beach,90813
+448,1043 elm aveste 104,pet scanpacific shores medical group,california,long beach,90813
+449,pacific shores medical group 1043 elm avenue suite 1041043 elm avenue suite 104,tori  pacific shores medical group,california,long beach,90813
+450,,wilshire oncology medical group,,,
+451,,scri  tennessee oncology,,,
+452,,oncologyhematology care clinical trials llc,,,
+453,,south carolina oncology associates pa,,,
+454,,duluth clinic,,,
+455,,sharp healthcare  parent,,,
+456,,central indiana cancer centers,,,
+457,,swedish cancer insitute medical oncology,,,
+458,,nebraska methodist hospital,,,
+459,,signal point clinical research center,,,
+460,,md anderson cancer center,,,
+461,,california pacific medical center,,,
+462,,md anderson cancer center orlando,,,
+463,,abington memorial hospital,,,
+464,,cedars sinai,,,
+465,,comprehensive cancer centers of nevada,,,
+466,,kaiser permanente medical center  northern california,,,
+467,,memorial cancer institute breast cancer treatment center,,,
+468,,hematology oncology assoc of greenwich llp,,,
+469,,winship cancer institute,,,
+470,,kaiser permanente northwest,,,
+471,,florida cancer specialists north,,,
+472,,texas oncology pa  wichita falls,,,
+473,,los angeles hematologyoncology medical group,,,
+474,,kalamazoo hematology  oncology,,,
+475,,central indiana cancer centers,,,
+476,,university of texas southwestern medical center,,,
+477,,baylor university medical center,,,
+478,,us oncology,,,
+479,,trious  investigational pharmacist,,,
+480,,tulsa cancer institute pllc,,,
+481,,cbcc global research,,,
+482,,orchard healthcare research inc,,,
+483,,fox chase cancer center,,,
+484,,hematology oncology pc,,,
+485,,dartmouthhitchcock medical center,,,
+486,,fox chase cancer center,,,
+487,,university of colorado anschutz medical campus,,,
+488,,henry ford hospital,,,
+489,,university of texas m d anderson cancer center  investigational cancer therapeutics,,,
+490,,the university of texas health science center at san antonio,,,
+491,,university of arizona,,,
+492,,the methodist hospital,,,
+493,,the west clinic,,,
+494,,university of iowa hospitals  clinics,,,
+495,,mary babb randolph cancer center,,,
+496,,duke university health system,,,
+497,,medical university of south carolina,,,
+498,,iu simon cancer center,,,
+499,,florida cancer specialists south,,,
+500,,nyu langone health – perlmutter cancer center,,,
+501,,suny upstate medical center,,,
+502,,mayo clinic,,,
+503,,memorial sloan kettering cancer center,,,
+504,,montefiore medical center prime,,,
+505,,university of wisconsinmadison,,,
+506,,university of washington  seattle cancer care alliance,,,
+507,,scri  tennessee oncology,,,
+508,,university of miami hospital  clinics umhc  dermatology clinic,,,
+509,,university of texas m d anderson cancer center,,,
+510,,peggy  charles stephenson oklahoma cancer ctr,,,
+511,,mary crowley cancer research centers,,,
+512,,winship cancer institute,,,
+513,,tennessee oncology st thomas location,,,
+514,,fox chase cancer center,,,
+515,,case western reserve university,,,
+516,,clinical investigations branch,,,
+517,,emory university,,,
+518,,dana farber cancer institute,,,
+519,,saint vincents hospital and medical center,,,
+520,,oncology hematology care inc,,,
+521,,washington university,,,
+522,,medstar franklin square clinical research center,,,
+523,,university of wisconsinmadison,,,
+524,,university of chicago medical center,,,
+525,,mid ohio heart clinic inc,,,
+526,,duke university medical center,,,
+527,,berenson oncology,,,
+528,,tennessee oncology,,,
+529,,dartmouthhitchcock medical center,,,
+530,,h lee moffitt cancer center and research institute inc,,,
+531,,tennessee oncology,,,
+532,,vanderbilt university medical center,,,
+533,,danafarber cancer institute,,,
+534,,urology clinics of north texas pllc,,,
+535,1101 welch roadc3,stanford hospital  clinicsgeneral clinical research center,california,stanford,94305
+536,nmh  arkes pavilion676 n saint clair suite 850,northwestern university medicinehematology oncology,illinois,chicago,60611
+537,450 brookline ave,danafarber cancer institute,massachusetts,boston,022155450
+538,2401 gillham road,childrens mercy hospital,missouri,kansas city,64108
+539,800 e 28th st,abbott northwestern hospitalpharmacy department 11321,minnesota,minneapolis,55407
+540,one barnes jewish hospital plaza,barnes jewish hospital dept of laboratories,missouri,st louis,63110
+541,10 union square eastsuite 4c,beth israel medical center,new york,new york,10003
+542,86 jonathan lucas street,hollings cancer center medical university of south carolina,south carolina,charleston,29425
+543,535 barnhill drive,indiana university melvin and bren simon cancer center iuscc,indiana,indianapolis,46202
+544,535 barnhill drive,iu hospital division of hemonc,indiana,indianapolis,46202
+545,12th floor oncology2045 franklin st,kaiser permanente colorado  franklin,colorado,denver,80205
+546,4350 shawnee mission parkway,kansas city cancer center llc,kansas,fairway,66206
+547,3550 lutheran parkway,lutheran hematology and oncology,colorado,wheat ridge,80033
+548,1275 york avenue,memorial sloankettering cancer center,new york,nyc,10065
+549,1000 n village avenue,memorial sloankettering cancer center  rockville centre,new york,rockville centre,11570
+550,3100 plaza properties blvd,mid ohio oncologyhematology inc,ohio,columbus,43219
+551,1695 eastchester road,montefiore medical center,new york,bronx,10461
+552,650 ackerman road building one  third floor,ohio state university comprehensive cancer center,ohio,columbus,43202
+553,2711 randolph rd ste 100,oncology specialists of charlotte,north carolina,charlotte,282072027
+554,136 mountain view road,satellite sitememorial sloanketteringr basking ridge,new jersey,basking ridge,07920
+555,1000 10th ave suite 11c,st lukes roosevelt hospital center,new york,new york,10019
+556,2330 shawnee mission parkway ms 5003,university of kansas cancer center,kansas,westwood,66205
+557,department of oncology660 south euclid avecampus box 8056,washington university school of medicine regulatory,missouri,st louis,63110
+558,605 glenwood drivesuite 200,sarah cannon research institute at tennessee oncology,tennessee,chattanooga,37404
+559,25 harvard st so basement pharmacy800 washington stsouth 7 room 7127 box  245,tufts medical centerpharmacy,massachusetts,boston,02111
+560,1415 old weisgarber road,center for biomedical research,tennessee,knoxville,37909
+561,10101 woodloch forest drive,us oncology inc irb,texas,the woodlands,77380
+562,7901 lake manassas drive,virginia cancer specialists pc,virginia,gainesville,20155
+563,carol g simon cancer center 100 madison avenue  2nd floor,regional cancer care associates llc,new jersey,morristown,07962
+564,95 madison ave,summit medical group ¿ morristown oncology,new jersey,morristown,07960
+565,13501 park vista blvd ste 160fort worth,us oncology research investigational product center,76177,tx,12205
+566,10101 woodloch forest drive,us oncology inc irb,texas,the woodlands,77380
+567,8915 west golf road,cancer care  hematology specialists of chicagoland,illinois,niles,60714
+568,4411 medical drive,cancer care centers of south texas  medical center,texas,san antonio,78229
+569,6204 balcones dr,texas oncologyaustin central,texas,austin,78731
+570,13501 park vista blvd ste 160,us oncology research investigational product center,texas,fort worth,76177
+571,,michigan institute of urology pc,,,
+572,,urology san antonio research pa,,,
+573,,gu research network,,,
+574,,start center,,,
+575,,augusta university,,,
+576,,mayo clinic arizona,,,
+577,,oncology and hematology assoc of sw va inc,,,
+578,,millennium oncology,,,
+579,,montefiore medical center prime,,,
+580,100 first streetsuite 301,regional cancer care associates,hackensack,new jersey,07601
+581,,university of michigan comprehensive cancer center,,,
+582,1300 n 4th st,texas oncologylongview cancer center,texas,longview,75601
+583,2410 round rock ave,texas oncology  austin midtown,tennessee,austin,78705
+584,1401 medical parkway bsuite 412,texas oncology  cedar park,texas,cedar park,78613
+585,4101 james casey st,texas oncology  medical city dallas,texas,austin,78745
+586,12221 renfert way,texas oncologyaustin north,texas,austin,78758
+587,1401 medical parkway b,texas oncologycedar park,texas,cedar park,78613
+588,210 se 136th avenue,northwest cancer specialists,washington,vancouver,98684
+589,2940 e banner gateway drive,banner md anderson cancer center,arizona,gilbert,85234
+590,2946 e banner gateway dr,banner md anderson cancer center,arizona,gilbert,85234
+591,3960 health sciences dr,ucsd radiation oncology petct center,california,la jolla,92093
+592,1100 s tryon st ste 220,lci south tryon,north carolina,charlotte,28203
+593,500 university drive,penn state milton s hershey medical center,pennsylvania,hershey,17033
+594,wirb,wirb,in,fort wayne,46845
+595,3181 sw sam jackson park rdohsu brb 511 mailcode l592,ohsu hospital,portland,oregon,97239
+596,,summit research network oregon inc,,,
+597,,capstone clinical research inc,,,
+598,,clinical neuroscience solutions inc,,,
+599,,pharmacology research institute,,,
+600,,altea research institute las vegas,,,
+601,,frontier institute,,,
+602,,emory healthcare  the emory clinic,,,
+603,,northwestern university feinberg school of medicine,,,
+604,,westview clinical research,,,
+605,,research concierge llc,,,
+606,,mount sinai school of medicine,,,
+607,,invocare clinical research center,,,
+608,,rocky mountain gastroenterology,,,
+609,,texas digestive disease consultants  irving,,,
+610,,tyler research institute llc,,,
+611,,digestive health center pa,,,
+612,8733 watertown plank rd,comprehensive center for bleeding disorders,milwaukee,wisconsin,53226
+613,8326 naab road,indiana hemophilia and thrombosis center,indianapolis,indiana,46260
+614,982168 nebraska medical center,university of nebraska medical center,omaha,nebraska,68198
+615,13199 e montview blvdsuite 100,university of colorado health,aurora,colorado,80045
+616,2201 central avesuite 301,suncoast neuroscience and associates inc,st petersburg,florida,33713
+617,2480 professional court,neurology center of las vegas,las vegas,nevada,89128
+618,3601 w thirteen mile rdwbh research institute,william beaumont hospital,royal oak,michigan,480736769
+619,710 west 168th stsuite 204,nyu langone health – perlmutter cancer center,new york,new york,10032
+620,333 cedar street,yale university,new haven,connecticut,06520
+621,550 peachtree st neglenn building lobby level,emory university hospital  midtown,atlanta,georgia,30308
+622,,st louis center for clinical research,,,
+623,,cfagi llc,,,
+624,,atlanta gastroenterology specialists pc,,,
+625,8080 ravines edge courtsuite 200,optimed research ltd,columbus,ohio,43235
+626,7555 northside drive,national allergy asthma  urticaria centers of charleston pa,north charleston,south carolina,294204211
+627,1301 20th streetsuite  380,ucla school of medicine,santa monica,california,90404
+628,4200 west memorial roadsuite 501,allergy asthma and clinical research center,oklahoma city,oklahoma,73120
+629,3015 squalicum pkwysuite 180,bellingham asthma allergy  immunology clinic,bellingham,washington,98225
+630,282 washington stsuite 4b,connecticut childrens medical center,hartford,connecticut,06106
+631,105 spanish court,georgia pollens clinical research centers inc,albany,georgia,31707
+632,1695 eastchester rdsuite 505,montefiore medical center prime,bronx,new york,10461
+633,200 south mancester avenuesuite 110,university of californiairvine,orange,california,92868
+634,1959 ne pacific avenue suite aa103suite 613b,university of washington,seattle,washington,981956424
+635,846 service roadmichign state universitydepartment of radiology,michigan state university,east lansing,michigan,48824
+636,403 w adams blvd,orthopaedic hospital dba orthopaedic hemophilia treatment center,los angeles,california,90007
+637,8326 naab road,indiana hemophilia and thrombosis center,indianapolis,indiana,46260
+638,1600 sw archer road,university of florida,gainsville,florida,32610
+639,8733 watertown plank road,blood center of southeast wisconsin,milwaukee,wisconsin,53225
+640,30 north 1900 east1c026division of emergency medicine,university of utah health sciences center,salt lake city,utah,84132
+641,medical cntr blvd,comprehensive cancer center of wake forest university,winston salem,north carolina,27157
+642,3020 childrens way mc 5105,rady childrens hospital,san diego,california,921234282
+643,3701 broadway street,kaiser permanente oakland medical center,oakland,california,94611
+644,,gastroenterology associates of central georgia,,,
+645,,main line gastroenterology associates,,,
+646,,rush university medical center,,,
+647,,shafran gastroenterology center,,,
+648,,gastroenterology associates of tidewater,,,
+649,,dayton gastroenterology inc,,,
+650,,metropolitan gastroenterology group pc chevy chase clinical research,,,
+651,,oncologyhematology care clinical trials llc,,,
+652,,florida cancer specialists,,,
+653,,first urology research,,,
+654,,the urology center,,,
+655,,urology of virginia,,,
+656,,central ohio urology group,,,
+657,,devinetidewater urology ltd,,,
+658,,university of california at san francisco parent,,,
+659,,texas oncology pa,,,
+660,,university of california at san francisco parent,,,
+661,,yale cancer center,,,
+662,,eastchester center for cancer care,,,
+663,,ut southwestern medical center,,,
+664,,johns hopkins hospital,,,
+665,,baylor university medical center,,,
+666,800 ne 10th streetsuite 3029,university of oklahoma,oklahoma city,oklahoma,73104
+667,1 breakthrough way,alliance for childhood diseases,las vegas,nevada,89135
+668,5 tampa general circle hmt suite 300,tampa general hospital,tampa,florida,33606
+669,96 jonathan lucas streetcsb 816 msc 630,medical university of south carolina musc,charleston,south carolina,29425
+670,3019 lyndhurst drive,southeastern research center llc,winstonsalem,north carolina,27103
+671,8733 west 400 north,laporte county institute for clinical research inc,michigan city,indiana,46360
+672,,new york university medical center,,,
+673,,lipid research clinic  university of iowa,,,
+674,,crilifetree,,,
+675,4911 executive drive second floor,optimal research llc,peoria,illinois,61614
+676,,village clinical research inc,,,
+677,,northbrooke research center,,,
+678,,inactive summit research network seattle llc,,,
+679,,cnri  los angeles llc,,,
+680,,gulfcoast medical research center llc,,,
+681,,iresearch atlanta llc,,,
+682,,indago research  health center inc,,,
+683,,ips research company,,,
+684,,pillar clinical research llc,,,
+685,,cottononeil clinical research center digestive health,,,
+686,,medical research center of connecticut llc,,,
+687,,tellus clinical research inc,,,
+688,,long island clinical research associates,,,
+689,,atlanta gastroenterology specialists pc,,,
+690,,gastroenterology associates of western michigan plc,,,
+691,,facey medical foundation,,,
+692,,florida center for gastroenterology,,,
+693,,lenox hill hospital,,,
+694,,research concierge llc,,,
+695,,california medical research associates inc,,,
+696,,wcct global ph 1 unit,,,
+697,,chevy chase clinical research,,,
+698,,cambridge medical trials,,,
+699,,gastroenterology associates llc,,,
+700,,university of california san diego medical center,,,
+701,,university of washington school of medicine,,,
+702,,medical university of south carolina musc,,,
+703,,gastroenterology associates of western michigan plc,,,
+704,,gastroenterology group of naples,,,
+705,,baylor college of medicine,,,
+706,,university of southern californiakeck school of medicine,,,
+707,,alexian brothers medical center  neuroscience research institute,,,
+708,,cleveland clinic lou ruvo center for brain health,,,
+709,,banner sun health research institute,,,
+710,6655 travis streetsuite 400 hmc,gulf states hemophilia and thrombophilia center,houston,texas,770304009
+711,,arizona arthritis  rheumatology research pllc,,,
+712,,long island gastrointestinal research group llp,,,
+713,,aga clinical research associates llc,,,
+714,,arkansas primary care clinic pa,,,
+715,,research concierge llc,,,
+716,,options health research llc,,,
+717,,tyler research institute llc,,,
+718,424 harvard street seclinical and translational science institute,university of minnesota,minneapolis,minnesota,55455
+719,1750 west harrison streetprofessional building room 710,rush university medical center,chicago,illinois,60612
+720,,maryland oncology hematology pa,,,
+721,,pharma resource,,,
+722,,lalita pandit md,,,
+723,,santa barbara hematology oncology medical group inc,,,
+724,,coastal oncology pl,,,
+725,,upmc cancer center,,,
+726,,florida cancer specialists,,,
+727,,oncology care medical associates,,,
+728,,trio  antelope valley cancer center,,,
+729,,us oncology central research pharmacy,,,
+730,,us oncology central research pharmacy,,,
+731,,mid michigan physicians,,,
+732,,dartmouthhitchcock medical center,,,
+733,,providence saint joseph medical center,,,
+734,,cancer care associates medical group inc tori,,,
+735,,bay area cancer research group llc,,,
+736,,university of california at san francisco parent,,,
+737,,pharmaseek llc,,,
+738,,california cancer care inc,,,
+739,,university of washington school of medicine,,,
+740,,peggy  charles stephenson oklahoma cancer ctr,,,
+741,,florida cancer research institute,,,
+742,,alta bates summit comprehensive cancer center,,,
+743,,university of virginia health system,,,
+744,,north shore long island jewish medical center,,,
+745,,oregon health  science university,,,
+746,,university of north carolina at chapel hill,,,
+747,,providence health system,,,
+748,,promedica health system inc,,,
+749,,providence saint joseph medical center,,,
+750,,institute for drug devt cancer therapy  research ctr,,,
+751,,oklahoma university medical center,,,
+752,,memorial cancer institute breast cancer treatment center,,,
+753,,vanderbilt university medical center,,,
+754,,regents of the university of minnesota,,,
+755,,university of california davis health system,,,
+756,,university of texas health science center at san antonio,,,
+757,,mary crowley cancer research centers,,,
+758,,h lee moffitt cancer center and research institute inc,,,
+759,,tennessee oncology pllc chattanooga,,,
+760,,new york  presbyterianweill cornell medical center,,,
+761,,mayo clinic  rochester,,,
+762,,cancer center of central connecticut,,,
+763,,duke university medical center,,,
+764,,city of hope cancer center,,,
+765,,michigan state university,,,
+766,660 south euclid ave cb 811,washington university,st louis,missouri,63110
+767,,vanderbiltingram cancer center,,,
+768,,florida cancer specialists,,,
+769,,laura  issac perimutter cancer center,,,
+770,,university of colorado health,,,
+771,,northwest medical specialties pllc,,,
+772,,beth israel deaconess healthcare  sharon,,,
+773,,university of colorado cancer center,,,
+774,,texas oncology pa  tyler,,,
+775,,herbert irving comprehensive cancer center,,,
+776,,university hospitals of cleveland,,,
+777,,oklahoma university medical center,,,
+778,,start center,,,
+779,250 25th avenue n suite 200,scri  tennessee oncology,nashville,tennessee,37203
+780,600 north cattlemen roadsuite 200,florida cancer specialists sarasota fl,sarasota,florida,34232
+781,6446 main street opc floor 24the methodist hospital,the methodist hospital research institute,houston,texas,77030
+782,,university of alabama at birmingham,,,
+783,2101 n waldron street,hutchinson clinic,hutchinson,kansas,67502
+784,1085 north harbor blvd,anaheim clinical trials,anaheim,california,92801
+785,,collaborative neuroscience network llc,,,
+786,,cnri  san diego llc,,,
+787,,lake charles clinical trials llc,,,
+788,,futuresearch clinical trials lp,,,
+789,,midamerica clinical research llc,,,
+790,,clinical trials of america inc,,,
+791,,bayou city research ltd,,,
+792,,medical university of south carolina musc,,,
+793,,university of pennsylvania school of medicine,,,
+794,,pharmasite research inc,,,
+795,,manhattan behavioral medicine pllc,,,
+796,,allegiance research specialists llc,,,
+797,,ehrhardt clinical research llc,,,
+798,,gastroenterology associates of tidewater,,,
+799,,clinical research center of florida,,,
+800,,university of michigan,,,
+801,,gastroenterology consultants of south texas pa,,,
+802,,south florida research phase iiv,,,
+803,,university of louisville,,,
+804,,texas digestive disease consultants  dallas,,,
+805,,consultants for clinical research inc,,,
+806,,connecticut gi pc research division,,,
+807,,boston medical center,,,
+808,,gastroenterology center of the midsouth pc,,,
+809,,cottononeil clinical research center digestive health,,,
+810,,texas digestive disease consultants  southlake,,,
+811,,clinical research institute of michigan llc,,,
+812,,premier medical group of the hudson valley pc,,,
+813,,kindred medical institute for clinical trials llc,,,
+814,,rocky mountain clinical research llc,,,
+815,1400 pressler street,the university of texas md anderson cancer center,texas,houston,77030
+816,3708 fifth avenue medical arts building 5th floor,university of pittsburgh medical center,pennsylvania,pittsburgh,15213
+817,820 harrison avenuefgh building  2nd floorfgh building  2nd floor,boston university medical center,massachusetts,boston,02118
+818,820 harrison avenuefgh building2nd floor,laboratory supplies,massachusetts,boston,02118
+819,clinical trials contract officebox 95717010911 weyburn ave 3rd floor,david geffen school of medicine at ucla,california,los angeles,90024
+820,ucla medical center chs 42121,division of hematology  oncology,california,los angeles,90095
+821,10945 le conte avenue,ucla  university of california la,california,los angeles,90095
+822,10945 le conte ave ste 3360,ucla hematology oncology,california,los angeles,90095
+823,clinical research unit10945 le conte ave ste 3360,ucla medical center,california,los angeles,90095
+824,emory clinic building a1365 clifton rd ne suite 1100,emory university school of medicine,georgia,atlanta,30322
+825,14 penn tower,university of pennsylvania,pennsylvania,philadelphia,19104
+826,155 n fresno stsuite 290,community medical center irb,california,fresno,93701
+827,368 doan hall410 west 10th avenue,investigational drug service,ohio,columbus,43210
+828,boston  university820 harrison avenuefgh building  2nd floor,boston university,massachusetts,boston,02118
+829,820 harrison ave820 harrison avenuefgh building  2nd floor,boston university school of medicine  cancer research center,massachusetts,boston,021182905
+830,100 ucla medical plaza ste 550,ucla hematology oncology,california,los angeles,90095
+831,450 brookline avpo box 849168,dana farber cancer institute dfci,massachusetts,boston,02215
+832,100 first streetsuite 203,hackensack university medical center coordinator office,new jersey,hackensack,07601
+833,2160 south first ave 54067,loyola university medical center outpatient center,illinois,maywood,60153
+834,96 jonathan lucas street,medical university of south carolina  hollings cancer center,south carolina,charleston,29425
+835,500 westchester avenue,memorial sloankettering cancer center west harrison,new york,new york,10604
+836,111 e 210th street second floor,montefiore medical center,new york,bronx,10467
+837,320 w 10th avea350c starling loving hall,ohio state university medical center,ohio,columbus,43210
+838,beth israel medical center10 union square eastsuite 4b02,phillips ambulatory care center,new york,new york,10003
+839,1000 tenth avenue,st lukes  roosevelt hospital center,new york,new york,10019
+840,3100 plaza properties blvd,the mark h zangmeister centermid ohio oncologyhematology inc,ohio,columbus,43219
+841,university of alabama hospital619 south 19th streetsw bldg 2nd floor,the university of alabama at birmingham lab,alabama,birmingham,35249
+842,1802 sixth avenue southnorth pavilion 2565,university of alabama at birmingham,alabama,birmingham,35294
+843,1802 sixth avenue south 2540 north pavilion,university of alabama at birmingham comprehensive cancer center,alabama,birmingham,352943300
+844,1824 6th avenue southsuite 110,university of alabama at birmingham comprehensive cancer center,alabama,birmingham,35294
+845,610 third streetsuite 204,gastroenterology associates of central georgia,macon,georgia,31201
+846,1515 holcombe blvd,md anderson cancer center,texas,houston,77030
+847,1515 holcombe boulevard,the university of texas md anderson cancer center,texas,houston,77030
+848,3601 fifth avenue falk medical building  5th floor,university of pittsburgh medical center,pennsylvania,pittsburgh,15213
+849,university of pittsburgh medical center3708 fifth avenue 5th floormedical arts building,upmc medical arts building,pennsylvania,pittsburgh,15213
+850,1275 york avenue,memorial sloankettering,new york,new york,10065
+851,205 east 64th street,memorial sloankettering cancer center,new york,new york,10065
+852,1501 s california ave,research compliance office,california,palo alto,94304
+853,676 n saint clair st,northwestern university feinberg school of medicine,illinois,chicago,60611
+854,1100 9th ave,virginia mason medical center,washington,seattle,98101
+855,1201 9th ave d4crp,virginia mason medical center stcoor,washington,seattle,98101
+856,2330 shawnee mission parkway,university of kansas hospital,,westwood,ks 66205
+857,4350 shawnee mission parkwaysuite 1500 mail stop 6004,university of kansas hospital,ks 66205,fairway,66205
+858,800 e 28th st,virginia piper cancer institute,minneapolis,minneapolis,55407
+859,820 n chelan ave,wenatchee medical center,washington,wenatchee,98821
+860,111 e 210th st,yeshiva university  albert einstein college of medicine  montefiore medical center mmc,new york,bronx,104672401
+861,2336 santa monica blvd ste 301,ucla hematologyoncology santa monica,california,santa monica,90404
+862,department of pharmaceutical services757 westwood plaza room b524,ucla investigational pharmacy,california,los angeles,90095
+863,2825 santa monica blvd ste 200,uclajcccru,california,santa mnica,90404
+864,1515 holcombe blvd,childrens cancer hospital md anderson,texas,houston,77030
+865,1500 east duarte road,city of hope,california,duarte,910103000
+866,7360 w deschutes ave,columbia basin hematology and oncology,washington,kennewick,99336
+867,280 exempla circle,kaiser permanente  rock creek medical offices,colorado,lafayette,800263370
+868,975 sereno drive,kaiser permanente medical center,california,vallejo,94589
+869,30 prospect ave,lab hackensack university medical center department of pathology,new jersey,hackensack,07601
+870,200 first street sw,mayo clinic,minnesota,rochester,55905
+871,2151 n harbor blvd,st jude hospital yorba linda dba st joseph heritage healthcare,california,fullerton,92835
+872,wirb,wirb,ca,fullerton,92835
+873,550 north broadway suite 801c1650 orleans st,hematologic malignanciesjohns hopkins university,maryland,baltimore,212052020
+874,104 innovation drive,saint francis cancer center,south carolina,greenville,29607
+875,1500 e duarte rd,city of hope national medical center,california,duarte,91010
+876,22 south greene street,umgcc,maryland,baltimore,21201
+877,4100 john r,wayne state university  barbara ann karmanos cancer institute,michigan,detroit,48201
+878,10001 south eastern avenue,comprehensive cancer centers of nevada,nevada,henderson,890523908
+879,9280 w sunset road,comprehensive cancer centers of nevada,nevada,las vegas,89148
+880,3730 s eastern ave,comprehensive care centers of nevada,nevada,las vegas,89052
+881,6410 rockledge drivesuite 660,center for cancer and blood disorders,maryland,bethesda,20817
+882,800 welch rd  fc 2c63,clinical and translational research unit patient treatment location,california,palo alto,94304
+883,450 brookline ave,dana farber cancer institute boston childrens hospital,massachusetts,boston,02215
+884,92 second street 4th floor,john theurer cancer center hackensack university medical center,new jersey,hackensack,07601
+885,86 jonathan lucas street hcc 251,medical university of south carolina monitoring and sc address,south carolina,charleston,29425
+886,169 ashley avenue suite 161,medical university of south carolina investigational drug pharmacy,south carolina,charleston,29425
+887,96 jonathan lucas street,medical university of south carolina sctr research nexus,south carolina,charleston,29425
+888,650 commack rd,memorial sloankettering cancer center,new york,commack,117255404
+889,1275 york avenue,memorial sloankettering cancer center,new york,new york,10021
+890,633 3rd avenue ny ny 10016,monitoring will be performed at,,,
+891,320 west 10th avenue,ohio state university medical center,ohio,columbus,43210
+892,650 ackerman road,ohio state university medical center,ohio,columbus,43202
+893,100 first st,the john theurer cancer center,new jersey,hackensack,07601
+894,155 north fresno streetsuite 319,ucsf fresno  central lab kit shipments,california,fresno,93701
+895,1802 sixth avenue south 2555 north pavilion,university of alabama at birmingham comprehensive cancer center,alabama,birmingham,352943300
+896,13501 park vista blvd ste 160,us oncology research investigational product center,texas,fort worth,76177
+897,450 brookline avenuemayers 227,danafarber cancer institute,massachusetts,boston,02215
+898,10889 wilshire blvd ste 830suite 600,ucla human reserch protection program,california,los angeles,900951406
+899,23929 mcbean parkwaysuite 600,ucla santa clarita cancer center,california,valencia,913554466
+900,401 north 9th street,mid dakota clinic,north dakota,bismarck,58501
+901,200 hawkins drive200 hawkins drivec32 gh,holden comprehensive cancer center university of iowa hospitals and clinics,iowa,iowa city,52242
+902,wirb200 hawkins drivec32 gh,wirb,ia,iowa city,52242
+903,department of internal medicinesection of hematologyoncology987680 nebraska medical center,university of nebraska,nebraska,omaha,681987680
+904,wirb540 west pueblo st,wirb,ca,santa barbara,93108
+905,2520 elisha avenue,midwestern regional medical center,illinois,zion,60099
+906,9 san bartoria drive,local laboratory,florida,st augustine,32207
+907,4500 san pablo roaddavis bldg 519e2,mayo clinic,florida,jacksoncille,32224
+908,sarah cannon research institute scri250 25th avenue northsuite 110,sponsor monitoring central office,tennessee,nashville,37203
+909,250 25th avenue northsuite 900,tennesssee oncology  centennial clinic location,tennessee,nashville,372031625
+910,1275 york avenue,memorial sloan kettering cancer center,new york,new york,10065
+911,1275 york ave,mskcc irb,new york,new york,10065
+912,200 hawthorne lane,novant health clinical research ¿ oncology,north carolina,charlotte,28204
+913,4350 shawnee mission pkwysuite 1300,the university of kansas cancer center,kansas,fairway,66205
+914,808 north 39th avenue,us oncology,washington,yakima,98902
+915,10101 woodloch forest drive,us oncology inc irb,texas,the woodlands,77380
+916,cancer center1500 e medical center driveroom 4316,university of michigan,michigan,ann arbor,48109
+917,1500 e medical center drive1500 e medical center driveroom 4316,university of michigan health system umhs  university hospital university of michigan medical center,michigan,ann arbor,48109
+918,8701 watertown plank rd9200 w wisconsin ave,med college wisconsinfroedtert hosp irb,wisconsin,milwaukee,53226
+919,10101 woodloch forest drive,us oncology inc irb,texas,the woodlands,77380
+920,1441 eastlake averoom 2424,laboratory,california,los angeles,90033
+921,1441 eastlake avenueroom 7310e,university of southern california usc,california,los angeles,90033
+922,181 south buena vista street4th floor,roy and patricia disney family cancer center,california,burbank,91505
+923,251 east huron,pharmacy,il,chicago,lc700
+924,1708 cape coral pkwy wsuite 10,cay  satellite site,florida,cape coral,33914
+925,8931 colonial center drivesuite 300,col  satellite site,florida,fort myers,33905
+926,714 doctors drive,florida cancer specialists,florida,englewood,342233992
+927,4331 veronica s shoemaker boulevard,florida cancer specialists  south,florida,fort myers,33916
+928,4331 veronica s shoemaker blvdunit 15,florida cancer specialists main  reg binder and pharmacy rch,florida,fort myers,33916
+929,681 fourth ave n,npw  satellite site,florida,naples,34102
+930,1201 camino de salud ne,hematologic malignancies,new mexico,albuquerque,87106
+931,1201 camino de salud ne,new mexico cancer care alliance  unm cancer center,new mexico,albuquerque,87131
+932,525 e 68th streetroom k304,weill cornell medical college ip address,new york,new york,10065
+933,603 wilmot rdsuite 151,arizona oncology associateshope division,arizona,tucson,85704
+934,667 n wilmot rdsuite 151,radiology limited,arizona,tucson,85710
+935,wirbsuite 151,wirb,az,tucson,85704
+936,605 glenwood drivesuite 200,chattanooga oncology  hematology associates pc,tennessee,chattanooga,37404
+937,100 n humphreys blvdsuite 200,the west clinic pc dba west cancer center,tennessee,memphis,38120
+938,401 college street po box 980037,vcu massey cancer center,virginia,richmond,nbsp23298
+939,1235 east cherokee streetste 1000,mercy health springfield communities irb,missouri,springfield,65804
+940,1415 old weisgarber rd,center for biomedical research llc,tennessee,knoxville,37909
+941,13501 park vista blvd ste 160,us oncology research investigational product center,texas,fort worth,76177
+942,8915 w golf rd,illinois cancer specialiststhe us oncology network,illinois,niles,607145905
+943,720 southwest lane street,cottononeil clinical research center digestive health,topeka,kansas,66606
+944,112 gainsborough squaresuite 200,gastroenterology associates of tidewater,chesapeake,virginia,23320
+945,601 north flamingo roadsuite 309,brcr medical center inc,pembroke pines,florida,33028
+946,6209 west 12th street,arkansas primary care clinic pa,little rock,arkansas,72204
+947,1145 south utica suite 514,options health research llc,tulsa,oklahoma,74104
+948,5550 friendship boulevardsuite t90,metropolitan gastroenterology group pc chevy chase clinical research,chevy chase,maryland,20815
+949,3890 bienville blvd,digestive health center pa,ocean springs,mississippi,39564
+950,325 9th ave box 359775,university of washington school of medicine,seattle,washington,98104
+951,30795 23 mile roadsuite 206,clinical research institute of michigan llc,chesterfield,michigan,48047
+952,9103 jefferson hwy 2nd floor research,gastroenterology associates llc,baton rouge,louisiana,70809
+953,8250 bryan dairy road,florida center for gastroenterology,largo,florida,33777
+954,3205 fire road,aga clinical research associates llc,egg harbor township,new jersey,08234
+955,2990 e pacific coast hwy,westview clinical research,long beach,california,90804
+956,4403 old hartford road,research concierge llc,owensboro,kentucky,42303
+957,5300 elliott drsuite 201,huron gastroenterology associates,ypsilanti,michigan,48197
+958,520 east euclid ave,san antonio gastroenterology,san antonio,texas,78212
+959,1448 east common street,cancer care centers of south texas  new braunfels satellite location,texas,new braunfels,78130
+960,13501 park vista blvd ste 160,us oncology research investigational product center,texas,fort worth,76177
+961,13001400 north 4th st,texas oncology  longview,texas,longview,75601
+962,10101 woodloch forest drive,us oncology inc irb,texas,the woodlands,77380
+963,2410 round rock avenue,texas oncology,texas,round rock,78681
+964,12221 renfert waysuite 300,texas oncology  austin north,texas,austin,78758
+965,2410 round rock avenuesuite 150,texas oncology  round rock,texas,round rock,78681
+966,901 west 38th street,texas oncologyaustin midtown,texas,austin,78705
+967,10101 woodloch forest drive,us oncology inc irb,texas,the woodlands,77380
+968,9555 sw barnes rdsuite 150,northwest cancer specialists west office,oregon,portland,97225
+969,210 se 136th ave,vancouver cancer center,washington,vancouver,98686
+970,1700 tree lane,suburban hematologyoncology associates pc,georgia,snellville,300786756
+971,1021 morehead medical drive,levine cancer institute,north carolina,charlotte,28204
+972,2041 georgia ave nwtowers building,howard university hospital,district of columbia,washington,20060
+973,1100 9th ave level 2,virginia mason medical center vmmc  floyd and delores jones cancer institute,washington,seattle,
+974,1100 ninth avenue ms c2hem,virginia mason seattle main clinic,washington,seattle,98101
+975,200 first street southwest,mayo clinic,minnesota,rochester,55905
+976,211 white spruce blvd601 elmwood avenue box 704,regulatory review location,new york,rochester,14623
+977,rcb health sciences center,west viriginia university school of medicine,west virginia,morgantown,26506
+978,west medical pharmacy,west medical pharmacy,ca,fullerton,92835
+979,411 west highland boulevard,nature coast clinical research llc,inverness,florida,34452
+980,96 jonathan lucas blvdsuite 812 csb msc 630,medical university of south carolina musc,charleston,south carolina,29425
+981,1064 goodlette road,gastroenterology group of naples,naples,florida,34102
+982,9520 west palm lane suite 220,arizona arthritis  rheumatology research pllc,phoenix,arizona,85307
+983,310 east shore road,long island gastrointestinal research group llp,great neck,new york,11023
+984,29 rogers ct,rocky mountain clinical research llc,golden,colorado,80401
+985,5550 friendship boulevardsuite t90,metropolitan gastroenterology group pc chevy chase clinical research,chevy chase,maryland,20815
+986,10920 technology terrace,florida research institute,lakewood ranch,florida,34211
+987,mailstop h3pi925 seneca street,ids pharmacy,washington,seattle,98101
+988,1100 ninth avenue,virginia mason medical center,washington,seattle,98101
+989,benaroya research institute  virginia mason1201 ninth avenue,virginia mason medical center,washington,seattle,98101
+990,one medical center drive,wvu division of hematology  oncology mbrcc,west virginia,morgantown,26506
+991,department of pharmacy servicesthe harry and jeanette weinberg building at johns hopkins401 north broadway  room 2432,oncology investigational drug service,maryland,baltimore,21287
+992,eastside medical center 65 international drive,hematology and oncology associates of sc,south carolina,greenville,29615
+993,1400 holcombe blvdfc63063 unit 429,department of lymphoma  myeloma,texas,houston,77030
+994,1515 holcombe blvd,the university of texas md anderson cancer center,texas,houston,77030
+995,1515 holcombe boulevard,the university of texas md anderson cancer center,texas,houston,77030
+996,1 saint fancis dr,saint francis hospital,south carolina,greenville,29601
+997,one saint francis drive,saint francis hospital,south carolina,greenville,29651
+998,department of lymphoma and myelomathe university of texas1515 holcombe blvd unit 429,md anderson cancer center,texas,houston,77030
+999,1500 duarte rd,city of hope national medical center,california,duarte,910103000
+1000,1500 east duarte road,city of hope national medical center,california,duarte,91010

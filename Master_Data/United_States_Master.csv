@@ -1,0 +1,754 @@
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,CONCAT_ADDRESS
+1,CDM,CELERION,TAK-906-1007,58001,,United_States,Celerion Lincoln,NE,Lincoln,68502,Completed,621 Rose Street
+2,CDM,CELERION,TAK-925-1009,58001,,United_States,Celerion Phoenix,AZ,Tempe,85283,Completed,2420 West Baseline Road
+4,CDM,ICON,C16007,58016,,United_States,Fox Chase Cancer Center IRB,Pennsylvania,Rockledge,19001,ACTIVE,50 Huntingdon Pike
+5,CDM,ICON,C16007,58017,,United_States,Laboratory Shipment Address - Tufts Medical Center,Massachusetts,Boston,02111,ACTIVE,800 Washington StreetBox 245
+6,CDM,ICON,C16007,58020,,United_States,Mount Sinai Medical Center,New York,New York,10029,ACTIVE,1 Gustave L. Levy PlaceBox 1079
+7,CDM,ICON,C16007,58022,,United_States,Cancer Clinical Trials Program - Boston Medical Center,Massachusetts,Boston,02118,ACTIVE,820 Harrison AvenueFGH Building - Room 2011
+8,CDM,ICON,C25001,,,United_States,Hackensack UMC,New Jersey,Hackensack,07601,ACTIVE,"100 First Street, Suite 204"
+9,CDM,ICON,C25001,58003,,United_States,Investigational Drug Services (IDS),Pennsylvania,Pittsburgh,15213,ACTIVE,3459 Fifth AvenueSuite E626
+10,CDM,ICON,C25001,58003,,United_States,University of Pittsburg Medical Center,Pennsylvania,Pittsburg,15213,ACTIVE,200 Lothrop Street
+11,CDM,ICON,C25001,58004,,United_States,Memorial Sloan-Kettering - Pharmacy,New York,New York,10065,ACTIVE,1250 First AvenueBox 55
+12,CDM,ICON,C25001,58005,,United_States,Stanford Cancer Institute,California,Palo Alto,94304,ACTIVE,"900 Blake Wilbur Dr., W1006"
+13,CDM,ICON,C25001,58005,,United_States,Stanford University Medical Center,California,Stanford,94305,ACTIVE,"Investigational Drug Services300 Pasteur DriveRoom Ho302, M/C 5616"
+14,CDM,ICON,C25001,58006,,United_States,Pharmacy Dept. - Northwestern University Hospital,Illinois,Chicago,60611,ACTIVE,251 E. HuronLC-700
+15,CDM,ICON,C25001,58009,,United_States,Tower St. John's Imaging,California,Santa Monica,90403,ACTIVE,2202 Wilshire Blvd
+16,CDM,ICON,C25002,58002,,United_States,Memorial Sloan - Kettering Cancer Center,New York,New York,10021,ACTIVE,1275 York Avenue
+17,CDM,ICON,C25002,58003,,United_States,Children's Hospital Colorado,Colorado,Aurora,80045,ACTIVE,13123 East 16th AvenueBox B115
+18,CDM,ICON,C25003,,,United_States,Hackensack University Medical Center,New Jersey,Hackensack,07601,ACTIVE,John Theurer Cancer Center92 Second St. 4TH Floor  Rm 482
+19,CDM,ICON,C25003,,,United_States,Indiana University Riley Hospital for Children,Indiana,Indianapolis,46202-5225,ACTIVE,705 Riley Hospital Drive
+20,CDM,ICON,C25003,,,United_States,Infusion Unit,California,"Fresno,",93701,ACTIVE,2335 E Kashian LaneSuite 301
+21,CDM,ICON,C25003,,,United_States,Inpatient Pharmacy,California,Fresno,93701,ACTIVE,2130 E. Illinois St.
+22,CDM,ICON,C25003,,,United_States,John Theurer Cancer Center At Hackensack University Medical Center,New Jersey,Hackensack,07601,ACTIVE,30 Prospect Avenue
+23,CDM,ICON,C25003,,,United_States,Kaiser Permanente,Colorado,Lonetree,80205,ACTIVE,Lonetree Medical Office10240 Park Meadows Drive
+24,CDM,ICON,C25003,,,United_States,Kansas University Medical Center,,Kansas City,66205,ACTIVE,3900 Rainbow Blvd
+25,CDM,ICON,C25003,,,United_States,Local Laboratory,California,Fresno,93701,ACTIVE,2335 KashianSuite 150
+26,CDM,ICON,C25003,,,United_States,McKesson - USOncology-Research Central Regulatory and Project Management,Texas,The Woodlands,77380,ACTIVE,10101 Woodloch Forest
+27,CDM,ICON,C25003,,,United_States,Medical University of South Carolina,South Carolina,Charleston,29425,ACTIVE,173 Ashley Ave.
+28,CDM,ICON,C25003,,,United_States,Memorial Sloan-Kettering Cancer Center (MSKCC) - Basking Ridge,New Jersey,Basking Ridge,07920-3444,ACTIVE,136 Mountainview Blvd
+29,CDM,ICON,C25003,,,United_States,Novant Oncology Research Institute (Nori),North Carolina,Charlotte,28204,ACTIVE,200 Hawthorne Lane
+31,CDM,ICON,C25003,,,United_States,Office of Sponsored Programs,Alabama,Birmingham,35294-0111,ACTIVE,The University of Alabama at Birmingham701 20th Street South1170 Administration Bldg.
+32,CDM,ICON,C25003,,,United_States,Ohio State University Medical Center,Ohio,Columbus,43210,ACTIVE,"320 W. 10th Ave, Starling Loving Hall"
+33,CDM,ICON,C25003,,,United_States,University of Kansas Cancer Center,Kansas,Westwood,66205,ACTIVE,2300 Shawnee Mission Parkway
+35,CDM,ICON,C25003,,,United_States,University of Kansas Medical Center,Kansas,Kansas City,66160,ACTIVE,"3901 Rainbow Boulevard, Mail Stop 3007"
+36,CDM,ICON,C25003,,,United_States,Virginia Piper Cancer Institute,Minnesota,Minneapolis,,ACTIVE,800 E. 28th St
+37,CDM,ICON,C25003,,,United_States,Virginia Piper Cancer Institute,Minnesota,Minneapolis,55407,ACTIVE,800 East 28th StreetLiver and Pancreas Clinic
+38,CDM,ICON,C25003,,,United_States,Washington University in Saint Louis,Missouri,St. Louis,63110,ACTIVE,"660 South Euclid Avenue, Campus Box 8007"
+39,CDM,ICON,C25003,,,United_States,Washington University School of Medicine,Missouri,St. Louis,63110,ACTIVE,660 South Euclid Avenue
+40,CDM,ICON,C25003,,,United_States,WIRB,,,,ACTIVE,WIRB
+42,CDM,ICON,C16007,58016,,United_States,Fox Chase Cancer Center,Pennsylvania,Philadelphia,19111,ACTIVE,Medical Oncology333 Cottman Avenue
+43,CDM,ICON,C16007,58016,,United_States,Radiology & Cardiology - Jeanes Hospital,Pennsylvania,Philadelphia,19111,ACTIVE,7600 Central Avenue
+45,CDM,ICON,C16007,58021,,United_States,Wayne State University,Michigan,Detroit,48201,ACTIVE,"87 East Canfield, Second FloorHW04HO"
+46,CDM,ICON,C16007,58022,,United_States,IMI Contact Address - Boston Medical Center,Massachusetts,Boston,02118,ACTIVE,820 Harrison AvenueFGH-2
+47,CDM,ICON,C16007,58022,,United_States,Western IRB,Washington,Puyallup,98374,ACTIVE,1019 39th Avenue SESuite 120
+48,CDM,ICON,C25001,58005,,United_States,Stanford Cancer Center,CA 94305,Stanford,94304,ACTIVE,875 Blake Wilbur DriveClinic B
+49,CDM,ICON,C25001,58007,,United_States,Boston University Medical Center,Massachusetts,Boston,02118,ACTIVE,"820 Harrison Avenue, FGH Building 3rd Floor820 Harrison AvenueFGH Building - 2nd Floor"
+50,CDM,ICON,C25001,58009,,United_States,UCLA Hematology/Oncology Santa Monica,California,Santa Monica,90404,ACTIVE,"2020 Santa Monica Blvd, Suite 500"
+51,CDM,ICON,C25001,58010,,United_States,Moffitt Cancer Center & Research Institute,Florida,Tampa,33612,ACTIVE,Moffitt Cancer Center12902 Magnolia Drive
+52,CDM,ICON,C25003,,,United_States,Clinical Trials Processing Laboratory,Ohio,Columbus,43210,ACTIVE,"B502 James Cancer Hospital, 460 W. 10th Avenue"
+53,CDM,ICON,C25003,,,United_States,Coastal Integrative Cancer Care,California,San Luis Obispo,93401,ACTIVE,715 Tank Farm Road
+55,CDM,ICON,C25003,,,United_States,CT-Radilology Department,California,Fresno,93721,ACTIVE,2823 Fresno St.
+56,CDM,ICON,C25003,,,United_States,Goshen Hospital IRB,Indiana,Goshen,46526,ACTIVE,200 High Park Ave
+58,CDM,ICON,C25003,,,United_States,Infusion area,New York,NY,10065,ACTIVE,205 East 64th street
+60,CDM,ICON,C25003,,,United_States,Investigational Drug Services,Indiana,Indianapolis,46202,ACTIVE,"IUSCC, Room C2102550 N. University Blvd"
+62,CDM,ICON,C25003,,,United_States,Memorial Sloan-Kettering Cancer Center,New York,Rockville Centre,11570-1000,ACTIVE,1000 N Village Ave
+64,CDM,ICON,C25003,,,United_States,MUSC HCC Clinical Trials Office,South Carolina,Charleston,29425,ACTIVE,19 Hagood AveSuite 701
+65,CDM,ICON,C25003,,,United_States,Novant Oncology Research Institute (NORI)--Charlotte,NS,Charlotte,28204,ACTIVE,Novant Oncology Research Institute (NORI)--Charlotte200 Hawthorne Ln
+66,CDM,ICON,C25003,,,United_States,Park Nicollet Institute - Oncology research,Minnesota,St. Louis Park,55426,ACTIVE,3931 louisiana avenue south
+69,CDM,ICON,C25003,,,United_States,"The Mark H. Zangmeister Center-Mid Ohio Oncology/Hematology, Inc.",Ohio,Columbus,43219,ACTIVE,"3100 Plaza Properties Blvd, The Mark H. Zangmeister Center"
+70,CDM,ICON,C25003,,,United_States,The University of Kansas Cancer Center,Missouri,Kansas City,64154,ACTIVE,8700 North Green Hills Rd.
+71,CDM,ICON,C25003,,,United_States,UCSF Fresno-Oncology Associates,California,Fresno,93701,ACTIVE,2335 E Kashian Lane
+72,CDM,ICON,C25003,,,United_States,University of Alabama at Birmingham,Alabama,Birmingham,35294,ACTIVE,1824 6th Avenue SouthWTI 110-T1
+75,CDM,ICON,C25003,58002,,United_States,Mayo Clinic IRB,Minnesota,Rochester,55905,ACTIVE,200 First St SW201 Building Rm 4-60
+76,CDM,ICON,C25003,58004,,United_States,St. Jude Hospital Yorba Linda DBA St. Joseph Heritage Healthcare,California,Fullerton,92835,ACTIVE,"2151 N. Harbor Blvd.,601 Elmwood Avenue, Box 704"
+77,CDM,ICON,C25003,58004,,United_States,University of Rochester,New York,Rochester,14642,ACTIVE,"James P. Wilmot Cancer Center601 Elmwood Avenue, Box 704"
+78,CDM,ICON,C25003,58005,,United_States,West Virginia University,West Virginia,Morgantown,26506,ACTIVE,1 Medical Center DrivePO box 9162
+80,CDM,ICON,C25003,58006,,United_States,Translational Research in Oncology- US (TRIO-US),California,Los Angeles,90095,ACTIVE,10945 Le Conte Ave #3360
+81,CDM,ICON,C25003,58007,,United_States,Division of Hematologic Malignancies,Maryland,Baltimore,21205,ACTIVE,"Johns Hopkins UniversitySchool of Medicine550 N. Broadway, suite 805"
+82,CDM,ICON,C25003,58007,,United_States,Sidney Kimmel Comprehensive Cancer center,Maryland,"Baltimore,",21231,ACTIVE,John Hopkins Hospital401 N. Broadway
+83,CDM,ICON,C25003,58009,,United_States,"M.D. Anderson Cancer Center, UT",Texas,Houston,77030,ACTIVE,Department of Lymphoma and MyelomaThe University of Texas1515 Holcombe Blvd Unit 429
+84,CDM,ICON,C25003,58009,,United_States,MD Anderson Cancer Center Local Lab,Texas,Houston,77030,ACTIVE,1155 PresslerUnit 367
+85,CDM,ICON,C25003,58013,,United_States,University of Maryland Medical Center Pharmacy,Maryland,Baltimore,21201,ACTIVE,22 South Greene StreetRoom N9E14
+86,CDM,ICON,C25003,58014,,United_States,Karmanos Cancer Institute,Michigan,Detroit,48201,ACTIVE,"4100 John R Street, HW04HO"
+87,CDM,ICON,C25003,58016,,United_States,Om Medical,Nevada,Las Vegas,89119,ACTIVE,6841 South Eastern Avenue
+88,CDM,ICON,C25003,58018,,United_States,Abramson Cancer Center,Pennsylvania,Philadelphia,19104,ACTIVE,3400 Spruce Street16 Penn Tower
+90,CDM,ICON,C25003,58018,,United_States,University of Pennsylvania,Pennsylvania,Philadelphia,19104,ACTIVE,3400 Civic Center Boulevard16 Penn Tower
+93,CDM,ICON,C25003,58024,,United_States,"Orlando Health, Inc",Florida,Orlando,32806,ACTIVE,"1400 South Orange Ave, MP 780"
+95,CDM,ICON,C25003,58025,,United_States,Stanford University Research,California,Palo Alto,94306,ACTIVE,"3000 El Camino RealFive Palo Alto Sq, 4th Floor"
+96,CDM,ICON,C25003,58026,,United_States,Dana Farber/Harvard Cancer Center,Massachusetts,Boston,02215,ACTIVE,450 Brookline AvPO box 849168
+98,CDM,ICON,C25003,58029,,United_States,University of Miami Sylvester Comprehensive Cancer Investigational Pharmacy,Florida,Miami,33136,ACTIVE,1475 NW 12th AveSuite 2306B
+99,CDM,ICON,C25003,58029,,United_States,"University of Miami, Miller School of Medicine-Don Soffer Clinical Research Center",Florida,Miami,33136,ACTIVE,1120 Northwest 14th Street
+101,CDM,ICON,C25003,58036,,United_States,University of Nebraska Medical Center,Nebraska,Omaha,68198-3040,ACTIVE,983040 Nebraska Medical CenterSection of Hematology-Oncology987680 Nebraska Medical Center
+102,CDM,ICON,C25003,58038,,United_States,Seattle Cancer Care Alliance,Washington,Seattle,98109,ACTIVE,"825 Eastlake Avenue East, G4-940"
+103,CDM,ICON,C25003,58040,,United_States,Tori - Pacific Shores Medical Group,California,Long Beach,90813,ACTIVE,1043 Elm Avenue
+104,CDM,ICON,C25003,58042,,United_States,Infusion Center-2-Baptist Medical Center,Florida,Jacksonville,32250,ACTIVE,1375 Roberts Drive
+105,CDM,ICON,C25003,58042,,United_States,Infusion Center-3,Florida,Jacksonville,32258,ACTIVE,1235 San Marco Blvd
+106,CDM,ICON,C25003,58045,,United_States,Sarah Cannon Cancer Center,Tennessee,Nashville,37203,ACTIVE,250 25th avenue NorthSuite 900
+107,CDM,ICON,C25003,58045,,United_States,Sarah Cannon Research Institute,Tennessee,Nashville,37203,ACTIVE,3322 West End AvenueSuite 900
+109,CDM,ICON,C25003,58046,,United_States,University of Michigan-Research Pharmacy,Michigan,Ann Arbor,48109,ACTIVE,1500 East Medical Center DriveRoom B2D400Room 4316
+110,CDM,ICON,C25003,58047,,United_States,Froedtert Hospital and the Medical College of Wisconsin,Wisconsin,Milwaukee,53226,ACTIVE,"Clinical Cancer Center,Division of Hematology and Oncology9200 W. Wisconsin Ave"
+112,CDM,ICON,C25003,58049,,United_States,Pharmacy-LAC+USC for county patients,California,Los Angeles,90033,ACTIVE,1441 Eastlake AveRoom 2407
+114,CDM,ICON,C25003,58050,,United_States,East Valley Hematology Oncology Med Group - Disney Family Cancer Center,California,Burbank,91505,ACTIVE,181 South Buena Vista Street4th Floor
+115,CDM,ICON,C25003,58050,,United_States,Providence Holy Cross Medical Center(North Valley Hematology/ Oncology Medical Group),California,Mission Hills,91345,ACTIVE,15031 Rinaldi Street4th Floor
+116,CDM,ICON,C25003,58056,,United_States,Research Pharmacy,District Of Columbia,Washington,20007,ACTIVE,3800 Reservoir Rd NWM7103
+117,CDM,ICON,C25003,58057,,United_States,ENG - Satellite Site,Florida,Englewood,34223,ACTIVE,714 Doctors Drive
+118,CDM,ICON,C25003,58057,,United_States,Florida Cancer Specialists (Central Monitoring) [SAR],Florida,Sarasota,34232,ACTIVE,551 North Cattlemen RoadSuite 100-B
+119,CDM,ICON,C25003,58057,,United_States,SAD - Satellite Site,Florida,Sarasota,34236,ACTIVE,1970 Golf Street
+120,CDM,ICON,C25003,58057,,United_States,SUM - Satellite Site,Florida,Fort Myers,33906,ACTIVE,15681 New Hampshire Court
+121,CDM,ICON,C25003,58057,,United_States,VHP - Satellite Site,Florida,Venice,34285,ACTIVE,836 Sunset Lake BlvdSuite 101
+122,CDM,ICON,C25003,58058,,United_States,New Mexico Cancer Care Alliance - UNM Cancer Center,New Mexico,Albuquerque,87131,ACTIVE,"1201 Camino De Salud NE, Admin Bldng, 2nd Floor"
+123,CDM,ICON,C25003,58058,,United_States,University of New Mexico,New Mexico,Albuquerque,87106,ACTIVE,1201 Camino De Salud NE
+125,CDM,ICON,C25003,58061,,United_States,Weill Cornell Medical College IRB,New York,New York,10065,ACTIVE,407 E. 61st StRR110
+126,CDM,ICON,C25003,58064,,United_States,Arizona Oncology Associates PC,Arizona,Suite 151 Tucson,85710,ACTIVE,603 North Wilmot RoadSuite 151
+127,CDM,ICON,C25003,58066,,United_States,Rex Cancer Center,North Carolina,Raleigh,27607,ACTIVE,4420 Lake Boone TrailSuite 200
+128,CDM,ICON,C25003,58067,,United_States,Local Laboratory,California,Sacramento,95817,ACTIVE,UCD Dept. of Pathology
+129,CDM,ICON,C25003,58067,,United_States,"Signal Point Clinical Research Center, LLC",Ohio,Middletown,45042,ACTIVE,235 North Breiel Boulevard
+130,CDM,ICON,C25003,58067,,United_States,UCD Department of Radiology,California,Sacramento,95817,ACTIVE,4860 Y Street
+131,CDM,ICON,C25003,58067,,United_States,University Of California Davis Health System,California,Sacramento,95817-2229,ACTIVE,"4501 X St, Rm 3003"
+132,CDM,ICON,C25003,58070,,United_States,Chattanooga Oncology Hematology Care,Tennessee,Chattanooga,37404,ACTIVE,605 Glenwood Dr.Suite 200
+134,CDM,ICON,C25003,58073,,United_States,VCU (Virginia Commonwealth University) Massey Cancer Center,Virginia,Richmond,23298,ACTIVE,401 College Street
+135,CDM,ICON,C25003,58074,,United_States,Tufts Medical Center,Massachusetts,Boston,02111,ACTIVE,"800 Washington Street800 Washington StSouth 7, Room 7127 Box # 245"
+136,CDM,ICON,C25003,58077,,United_States,Mercy Research,Missouri,Springfield,65807,ACTIVE,3231 South National AvenueSte 1000
+138,CDM,ICON,C25003,58080,,United_States,"US Oncology Research, Investigational Product Center",Texas,Fort Worth,76177,ACTIVE,"13501 Park Vista Blvd, Ste 160"
+139,CDM,ICON,C25003,58080,,United_States,"Virginia Cancer Specialists, Pc",Virginia,Woodbridge,22191,ACTIVE,2280 Opitz Boulevard
+140,CDM,ICON,C25003,58083,,United_States,New York Oncology Hematology,New York,Clifton Park,12065,ACTIVE,3 Crossing Boulevard
+142,CDM,ICON,C16007,,,United_States,IMI Contact Address - Mayo Clinic,Minnesota,Rochester,55905,ACTIVE,200 1st Street South West
+143,CDM,ICON,C16007,,,United_States,Pharmacy - Mayo Clinic,Minnesota,Rochester,55905,ACTIVE,200 1st Street South WestGonda 10-178
+144,CDM,ICON,C16007,58017,,United_States,ERT Shipment Address - Tufts Medical Center,Massachusetts,Boston,02111,ACTIVE,Neely Center800 Washington StreetBox 245
+145,CDM,ICON,C16007,58017,,United_States,Pharmacy - Tufts Medical Center,Massachusetts,Boston,02111,ACTIVE,25 Harvard StreetProger Building
+147,CDM,ICON,C16007,58020,,United_States,Research Group FedEx Address - Mount Sinai Medical Center,New York,New York,10029,ACTIVE,Icahn Building1425 Madison Avenue3rd Floor; WS11/280
+148,CDM,ICON,C16007,58021,,United_States,IMI Contact Address - Karmanos Cancer Institute,Michigan,Detroit,48201,ACTIVE,Clinical Trials Office4160 John R- HPOB #711Intra-office mailcode: HPO7CT
+149,CDM,ICON,C16007,58021,,United_States,"Regulatory - Karmanos Cancer Institute, Clinical Trials Office",Michigan,Detroit,48201,ACTIVE,"4160 John R. Street, Suite 711HP07CT"
+150,CDM,ICON,C25001,,,United_States,John Theurer Cancer Center,New Jersey,Hackensack,07601,ACTIVE,Hackensack University Medical Center92 Second St.
+151,CDM,ICON,C25001,,,United_States,John Theurer Cancer Ctr. at HUMC,New Jersey,Hackensack,07601,ACTIVE,100 First Street
+152,CDM,ICON,C25001,,,United_States,"University of Wisconsin- Madison (UW), School of Medicine and Public Health",Wisconsin,Madison,53715,ACTIVE,1 South Park Street 7th  Floor
+156,CDM,ICON,C16007,58017,,United_States,IMI Contact Address - TBD,MA,Boston,02111,ACTIVE,IMI Contact Address - TBDProger Building
+157,CDM,ICON,C16007,58017,,United_States,"Monitoring - Neely Center for Clinical Cancer Research, Tufts Medical Center",Massachusetts,Boston,02111,ACTIVE,800 Washington Street7th Floor
+159,CDM,ICON,C16007,58021,,United_States,"Pharmacy - Karmanos Cancer Institute, Investigational Drug Service",Michigan,Detroit,48201,ACTIVE,4100 John R.WEO1PH
+160,CDM,ICON,C25001,58001,,United_States,The University of Texas MD Anderson Cancer Center,Texas,Houston,77030,ACTIVE,1515 Holcombe Blvd
+162,CDM,ICON,C25001,58006,,United_States,Laboratory - Northwestern University Hospital,Illinois,Chicago,60611,ACTIVE,710 N. Fairbanks Ct.8421/31
+163,CDM,ICON,C25001,58009,,United_States,Ronald Regan UCLA Medical Center,California,Los Angeles,90095,ACTIVE,757 Westwood Plaza
+164,CDM,ICON,C25001,58009,,United_States,UCLA Medical Centre-Santa Monica Hematology and Oncology,California,Santa Monica,90404,ACTIVE,2020 Santa Monica Blvd
+166,CDM,ICON,C25002,58004,,United_States,Children's Mercy Hospital,Missouri,Kansas City,64108,ACTIVE,Hematology / Oncology2401 Gillham Rd.
+167,CDM,ICON,C25003,,,United_States,Albert Einstein College Of Medicine (Aecom) - Montefiore Medical Center (Mmc) - Moses Division,New York,Bronx,10467,ACTIVE,111 East 210th Street
+168,CDM,ICON,C25003,,,United_States,Allina Health System dba Virginia Piper Cancer Institute,Minnesota,Minneapolis,55407,ACTIVE,800 East 28th Street
+169,CDM,ICON,C25003,,,United_States,Beth Israel Comprehensive Cancer Center,New York,New York,10011,ACTIVE,325 West 15 St
+172,CDM,ICON,C25003,,,United_States,Indiana University Simon Cancer Center,Indiana,Indianapolis,46202,ACTIVE,"535 Barnhill Drive, RT380"
+173,CDM,ICON,C25003,,,United_States,Investigational Drug Services,Alabama,Birmingham,35249,ACTIVE,North Pavilion N34701802 Sixth Ave South
+174,CDM,ICON,C25003,,,United_States,Investigational Drug Services,Kansas,Westwood,66205,ACTIVE,"University of Kansas HospitalWestwood Cancer Center2330 Shawnee Mission Parkway, MS 5020"
+175,CDM,ICON,C25003,,,United_States,Kansas University School of Medicine-Wichita,Kansas,Wichita,67214-3199,ACTIVE,1010 N. Kansas
+176,CDM,ICON,C25003,,,United_States,Lab Northern New Jersey Cancer Associates,New Jersey,Hackensack,07601,ACTIVE,"92 Second Street,"
+177,CDM,ICON,C25003,,,United_States,Memorial Sloan Kettering Sleepy Hollow,New Jersey,Sleepy Hollow,10591,ACTIVE,777 North Broadway
+179,CDM,ICON,C25003,,,United_States,The Ohio State University James Cancer Hospital,Ohio,Columbus,43210,ACTIVE,460 West 10th Avenue
+180,CDM,ICON,C25003,,,United_States,"The University of Alabama at Birmingham, Lab",Alabama,Birmingham,35249,ACTIVE,The Kirklin Clinic (Cancer Center)2000 Sixth Avenue South
+181,CDM,ICON,C25003,,,United_States,UCSF-Fresno Clinical Research Centers,California,Fresno,93701,ACTIVE,155 N. Fresno St
+182,CDM,ICON,C25003,,,United_States,University Of Kansas Cancer Center,Missouri,Kansas City,64131,ACTIVE,1000 East 101st Terrace
+185,CDM,ICON,C25003,,,United_States,University of Kansas Medical Center,Missouri,Kansas City,64131,ACTIVE,8700 Green Hills Road
+186,CDM,ICON,C25003,,,United_States,"Washington University, Infusion Center Pharmacy",Missouri,St. Louis,63110,ACTIVE,"4921 Parkview Place, Suite 7F"
+187,CDM,ICON,C25003,,,United_States,Yakima Valley Memorial Hospital/North Star Lodge Cancer Center,Washington,Yakima,98902,ACTIVE,808 North 39th Ave
+190,CDM,ICON,C25003,58088,,United_States,Texas Oncology-Seton Williamson,Texas,Round Rock,78665,ACTIVE,301 Seton Parkway
+193,CDM,ICON,C25003,58095,,United_States,Carolinas Health Care Systems,North Carolina,Charlotte,28204,ACTIVE,1021 Morehead Medial Center
+194,CDM,ICON,C25003,58095,,United_States,LCI Monroe,North Carolina,Monroe,28112,ACTIVE,600 Hospital Dr
+195,CDM,ICON,C25003,58102,,United_States,Utah Cancer Specialists Provo Office,Utah,Provo,84604,ACTIVE,1034 North 500 West
+196,CDM,ICON,C25003,58103,,United_States,"Fort Wayne Medical Oncology/Hematology, Inc.",Indiana,Fort Wayne,46804,ACTIVE,7910 W. Jefferson Blvd
+197,CDM,IQVIA,071301,108,1-2ESWDUT,United_States,Bleeding and Clotting Disorders Institute,Peoria,Illinois,61615,Enrollment Closed,9128 N. Lindbergh Dr.
+198,CDM,IQVIA,071301,114,1-2ET02BE,United_States,U of L - Physicians Pulmonology,Louisville,Kentucky,40202,Dropped,401 East Chestnut StreetSuite 460
+199,CDM,ICON,C25003,58004,,United_States,"Golisano Children'S Hospital,,University of Rochester Medical Center",New York,Rochester,14642,ACTIVE,"601 Elmwood Avenue, Box 667601 Elmwood Avenue, Box 704"
+200,CDM,ICON,C25003,58008,,United_States,Gibbs Cancer Center & Research Institute,South Carolina,Spartanburg,29303,ACTIVE,101 East Wood Street
+201,CDM,ICON,C25003,58008,,United_States,Saint Francis Hospital,South Carolina,Greenville,29601,ACTIVE,10th floor Research OfficeOne Saint Francis Drive
+202,CDM,ICON,C25003,58009,,United_States,MD Anderson Cancer Center Investigational Pharmacy Services,Texas,Houston,77030,ACTIVE,1515 Holcombe BlvdInvestigational Pharmacy ServicesRm B1.4392
+206,CDM,ICON,C25003,58021,,United_States,University of Minnesota Medicine Hematology Office,Minnesota,Minneapolis,55455,ACTIVE,MMC 480 Mayo420 Delaware St SE
+207,CDM,ICON,C25003,58025,,United_States,Stanford University School of Medicine Phamacy,California,Stanford,94305,ACTIVE,300 PASTEUR DR.
+209,CDM,ICON,C25003,58026,,United_States,DFCI Office for Human Research Studies,Massachusetts,Boston,02115,ACTIVE,450 Brookline Ave OS229
+211,CDM,ICON,C25003,58031,,United_States,Cardinal Bernardin Cancer Center/Loyola University Medical Center,Illinois,Maywood,60153,ACTIVE,"2160 South First Avenue, Bldg #112"
+212,CDM,ICON,C25003,58031,,United_States,Loyola University IRB,Illinois,Maywood,60153,ACTIVE,2160 South First Ave
+214,CDM,ICON,C25003,58032,,United_States,Ronald Reagan UCLA Medical Center Department of Pharmaceutical Services (IP Shipment),California,Los Angeles,90995-6984,ACTIVE,Department of Pharmaceutical Services662 Gayley AvenueRoom B504A
+218,CDM,ICON,C25003,58037,,United_States,Sansum Clinic,California,Santa Barbara,93105,ACTIVE,540 West Pueblo Street540 West Pueblo St
+219,CDM,ICON,C25003,58037,,United_States,"Santa Barbara Hematology Oncology Medical Group, Inc.",California,Santa Barbara,93108,ACTIVE,"Cancer Center of Santa Barbara, 540 West Pueblo Street540 West Pueblo St"
+221,CDM,ICON,C25003,58039,,United_States,Huntsman Cancer Institute,Utah,Salt Lake City,84112,ACTIVE,2000 Circle Of HopeSuite 6405
+222,CDM,ICON,C25003,58042,,United_States,Cancer Specialists of North Florida,Florida,Jacksonville,32256,ACTIVE,7015 AC Skinner Pkwy
+224,CDM,ICON,C25003,58048,,United_States,Jean Brown Research,Utah,Salt Lake City,84124,ACTIVE,1045 East 3900 South
+226,CDM,ICON,C25003,58051,,United_States,Northwestern Univ Office-Protection of subjects,Illinois,Chicago,60611,ACTIVE,"750 N Lake Shore Dr, 7th Floor"
+227,CDM,ICON,C25003,58057,,United_States,BDY - Satellite Site,Florida,Fort Myers,33901,ACTIVE,3840 Broadway
+228,CDM,ICON,C25003,58057,,United_States,PCH - Satellite Site,Florida,Port Charlotte,33980,ACTIVE,22395 Edgewater Drive
+230,CDM,ICON,C25003,58063,,United_States,Colorado Cancer Research Program,Colorado,Denver,80222,ACTIVE,"1720 S. Bellaire St., #701"
+231,CDM,ICON,C25003,58069,,United_States,Huntington Beach Satellite,California,Huntington Beach,92648,ACTIVE,Pacific Shores Medical Group19582 Beach BlvdSuite 212
+236,CDM,ICON,C16007,,,United_States,ERT Shipment Address - Mayo Clinic,Minnesota,Rochester,55905,ACTIVE,200 1st Street South WestMayo W-10 Hematology
+238,CDM,ICON,C16007,58016,,United_States,Budgets/Contracts - Fox Chase Cancer Center,Pennsylvania,Jenkintown,19046,ACTIVE,610 Old York Road
+240,CDM,ICON,C16007,58021,,United_States,Barbara Ann Karmanos Cancer Institute,Michigan,Detroit,48201,ACTIVE,4100 John R.HW04HO
+244,CDM,ICON,C16007,58016,,United_States,IMI Contact Address - TBD,PA,Philadelphia,19111,ACTIVE,IMI Contact Address - TBD
+248,CDM,ICON,C16007,58020,,United_States,"Pharmacy - Mount Sinai Medical Center, Inpatient Pharmacy",New York,New York,10029,ACTIVE,1450 Madison AvenueAnnenberg B2 Room 206
+249,CDM,ICON,C16007,58021,,United_States,Clinical Trials Office - Karmanos Cancer Institute,Michigan,Detroit,48201,ACTIVE,4160 John R- HPOB #711Intra-office mailcode: HPO7CT
+251,CDM,ICON,C16007,58022,,United_States,Pharmacy - Boston Medical Center,Massachusetts,Boston,02118,ACTIVE,88 East Newton St.Moakley - 3
+252,CDM,ICON,C25003,58077,,United_States,Mercy Clinic - Cancer & Hematology,Missouri,Springfield,65804,ACTIVE,2055 S. Fremont StreetSuite 1000
+254,CDM,ICON,C25003,58077,,United_States,WIRB,MO,Springfield,65804,ACTIVE,WIRBSte 1000
+257,CDM,ICON,C25003,58088,,United_States,Texas Oncology - Medical City Dallas,Texas,Austin,78745-1145,ACTIVE,4101 James Casey St Ste 100
+259,CDM,ICON,C25003,58089,,United_States,"Northwest Cancer Specialists, P.C",Oregon,Portland,97225,ACTIVE,9555 SW Barnes Road
+260,CDM,ICON,C25003,58089,,United_States,"Northwest Cancer Specialists, Rose Quarter Office",Oregon,Portland,97227,ACTIVE,265 N. Broadway
+261,CDM,ICON,C25003,58092,,United_States,Gwinnett Hospital System Inc. (Center for Cancer Care ),Georgia,Lawrenceville,30046,ACTIVE,631 Professional Drive
+262,CDM,ICON,C25003,58093,,United_States,"Dr. Shakeela Bahadur MD, Office of",Arizona,Gilbert,85234,ACTIVE,"2940 E. Banner Gateway Dr., Ste. 450"
+264,CDM,ICON,C25003,58094,,United_States,UCSD Human Research Protections Program,California,La Jolla,92093-0052,ACTIVE,"9500 Gilman Dr, MC 0052"
+265,CDM,ICON,C25003,58095,,United_States,LCI Concord,North Carolina,Concord,28025,ACTIVE,"100 Medical Park Dr, Suite, 110"
+266,CDM,ICON,C25003,58096,,United_States,Penn State Hershey Medical Center,Pennsylvania,Hershey,17033-0850,ACTIVE,500 University Drive
+268,CDM,ICON,C25003,58100,,United_States,Nebraska Hematology-Oncology (Nho) - Lincoln,Nebraska,Lincoln,68506,ACTIVE,4004 Pioneer Woods Dr
+269,CDM,ICON,C25003,58102,,United_States,Utah Cancer Specialists,Utah,Salt Lake City,821106,ACTIVE,38385 700 E
+270,CDM,IQVIA,071102,100,1-2JXGH39,United_States,Rainbow Babies and Children's Hospital,Cleveland,Ohio,44106,Enrollment Open,11100 Euclid Ave.
+271,CDM,IQVIA,071102,101,1-2JXCQ1N,United_States,Medical University of South Carolina,Charleston,South Carolina,29425,Enrollment Open,"171 Ashley Avenue, MSC 908"
+272,CDM,IQVIA,071102,103,1-2IR6X9Z,United_States,Comprehensive Cancer Center of Wake Forest University,Winston Salem,North Carolina,27157,Prematurely Closed,Medical Cntr Blvd.
+273,CDM,IQVIA,071102,111,1-2N5LPW5,United_States,University of Colorado Hemophilia & Thrombosis Center,Aurora,Colorado,80045,Enrollment Open,13199 E. Montview BlvdSuite 100
+274,CDM,IQVIA,071102,120,1-2WEFXRO,United_States,Primary Children's Medical Center,Salt Lake City,Utah,84113,Enrollment Open,100 N. Mario Capecchi Dr
+276,CDM,IQVIA,071301,124,1-2ESXNMZ,United_States,Connecticut Children's Medical Center,Hartford,Connecticut,06106,Dropped,282 Washington Street
+283,CDM,ICON,C16007,58022,,United_States,Boston Medical Center,Massachusetts,Boston,02118,ACTIVE,830 Harrison AvenueMoakley - 3
+287,CDM,ICON,C25001,58005,,United_States,Stanford Cancer Center,New Jersey,Stanford,94305,ACTIVE,875 Blake Wilbur Drive
+288,CDM,ICON,C25001,58005,,United_States,Stanford University Medical Center,California,Palo Alto,94304-5779,ACTIVE,"780 Welch Road, CJ220D"
+289,CDM,ICON,C25001,58006,,United_States,Northwestern Memorial Hospital,Illinois,Chicago,60611,ACTIVE,676 N. Saint Clair
+290,CDM,ICON,C25001,58007,,United_States,IDS Pharmacy,Massachusetts,Boston,02118,ACTIVE,88 East Newton Street820 Harrison AvenueFGH Building - 2nd Floor
+291,CDM,ICON,C25001,58009,,United_States,Office for Protection of Research Subjects,California,Los Angeles,90095-1694,ACTIVE,"11000 Kinross Ave, Ste 102"
+293,CDM,ICON,C25001,58012,,United_States,UAB Department of Dermatology,Alabama,Birmingham,35233,ACTIVE,2000 6th Ave SoTKC 3rd Floor
+294,CDM,ICON,C25003,,,United_States,BRANY,New York,NewYork City,11042,ACTIVE,1981 Marcus AvenueSuite 210Lake Success
+295,CDM,ICON,C25003,,,United_States,Cancer Clinical Trials Office Montefiore Medical Center - Weiler,New York,"Bronx,",10461,ACTIVE,"1825 Eastchester Road, 2S-53"
+296,CDM,ICON,C25003,,,United_States,Columbia Basin Hematology And Oncology,Washington,Kennewick,99336,ACTIVE,7360 West Deschutes Avenue
+298,CDM,ICON,C25003,,,United_States,John Thurer Cancer Center at Hackensack,New Jersey,Hackensack,07601,ACTIVE,92 2nd St.
+300,CDM,ICON,C25003,,,United_States,Kaiser Permanente Colorado - Lonetree,Colorado,Lonetree,80124,ACTIVE,10240 Park Meadows DriveOncology Department
+303,CDM,ICON,C25003,,,United_States,Montefiore Medical Center Albert Einstein College of Medicine,New York,Bronx,10467,ACTIVE,111 East 210th StreetHofheimer 100
+306,CDM,ICON,C25003,,,United_States,PET-Nuclear Department,California,Fresno,93720,ACTIVE,1867 E. Fir Ave
+309,CDM,ICON,C25003,,,United_States,The University of Texas Medical Branch (UTMB),Texas,Galveston,77555-1115,ACTIVE,301 University Boulevard
+310,CDM,ICON,C25003,,,United_States,UAB Comprehensive Cancer Center-Wallace Tumor Institute,Alabama,Birmingham,35294,ACTIVE,1824 6th Avenue South
+327,CDM,IQVIA,161403,503,1-1JFDTWF,United_States,University of South Florida - PARENT,Tampa,Florida,33612,Enrollment Open,"12901 Bruce B. Downs Blvd.,MDC 28"
+329,CDM,IQVIA,161403,515,1-4FJAVIX,United_States,Regents of the University of colorado,Aurora,Colorado,80045,Enrollment Open,12631 E. 17th Ave.Rm 5505
+330,CDM,IQVIA,161403,516,1-1JFDTOT,United_States,University Texas Physicians CAR,Houston,Texas,77030,Initiated,6411 Fannin StreetRPV 314
+331,CDM,IQVIA,161403,517,1-1JFDTNR,United_States,University of Miami Miller School of Medicine,Miami,Florida,33136,Selected,1120 NW 14th Street – CRB 13th Floor (1310)D8-4Suite 3400
+332,CDM,IQVIA,161403,522,1-4LVWBBD,United_States,Johns Hopkins University,Baltimore,Maryland,21224,Dropped,4940 Eastern Av301 BuildingSuite 4500
+333,CDM,IQVIA,161406,161406-106,1-1VK2315,United_States,"Allergy, Asthma & Immunology Clinic",Irving,Texas,75063,Dropped,1115 Kinwest ParkwaySuite 100
+334,CDM,IQVIA,161403,507,1-1JFDTI3,United_States,University of California-Irvine,Orange,California,92868,Enrollment Open,200 S Manchester Ave.Suite #110
+335,CDM,IQVIA,161403,510,1-1LFGW4A,United_States,University of Minnesota,Minneapolis,Minnesota,55414,Essential Documents in place,717 Delaware St. SESuite 246
+336,CDM,IQVIA,161403,519,1-4MHTUWT,United_States,University of Cincinnati,Cincinnati,Ohio,45267-0525,Enrollment Open,260 Stetson StreetSuite 2300
+337,CDM,IQVIA,161406,161406-100,1-1VJXS08,United_States,Allergy Associates of Palm Beaches,North Palm Beach,Florida,33408,Dropped,840 US Highway 1Suite 250
+338,CDM,IQVIA,161406,161406-103,1-1X3PDPH,United_States,Montefiore Medical Center PRIME,Bronx,New York,11501,Enrollment Closed,200 Old Country Rd
+339,CDM,IQVIA,161406,161406-107,1-1VK507G,United_States,Corning Center for Clinical Research,Corning,New York,14830,Closed,88 Tioga AvenueSuite 102
+340,CDM,IQVIA,161406,161406-121,1-1VUZOS0,United_States,​Pikes Peak Allergy and Asthma,Colorado Springs,Colorado,80920,Enrollment Closed,"​ 595 Chapel Hill Drive, Ste 102"
+341,CDM,IQVIA,161503,109,1-2X90CX7,United_States,University of Alabama Medical Center,Birmingham,Alabama,35294,Enrollment Closed,20 20th Street SouthNHB 206
+342,CDM,IQVIA,161503,121,1-2XD1CXU,United_States,"O & O Alpan, LLC",Fairfax,Virginia,22030,Enrollment Closed,11212 Waples Mill RoadSuite 103
+343,CDM,IQVIA,161406,161406-108,1-1VR6C14,United_States,Care One Health Center​,Naples,Florida,34109,Dropped,2500 Vanderbilt Beach Rd Ste 1103
+344,CDM,IQVIA,161406,161406-109,1-1VUIDWQ,United_States,University of California Irvine Medical Center,Irvine,California,92697,Enrollment Closed,1113 Gillespie Neurosciences Blvd.University of California Irvine-Institute of  Clinical and Translational Services
+345,CDM,IQVIA,161406,161406-116,1-1VUZOQR,United_States,​McKinney Allergy and Asthma Center,McKinney,Texas,75070,Enrollment Closed,"​2251 West Eldorado Parkway, Suite 150"
+346,CDM,IQVIA,161406,161406-130,1-23ILACT,United_States,Texas Regional Asthma Allergy Center,Southlake,Texas,76092,Dropped,900 E Southlake Blvd Ste 300
+347,CDM,IQVIA,161406,161406-144,1-3D6GNT9,United_States,"Greater Austin Allergy, Asthma, & Immunology",Round Rock,Texas,78664-5226,Enrollment Closed,100 E. MainSuite 101
+349,CDM,IQVIA,161503,119,1-32MIXKT,United_States,Marshall University Medical Center,Charleston,West Virginia,25701,Enrollment Closed,1600 Medical Center DriveSuite 4500
+350,CDM,IQVIA,161503,120,1-307QFNG,United_States,Emory Healthcare,Atlanta,Georgia,30329,Enrollment Closed,"1400 Tullie Road, NE"
+351,CDM,IQVIA,161503,124,1-2XG79N8,United_States,Icahn School of Medicine at Mount Sinai,New York,New York,10029,Dropped,"One Gustave L Levy Place, Mt Sinai Medical Center"
+352,CDM,IQVIA,161503,129,1-3QV54R8,United_States,Children's Hospital Medical Center of Akron,Akron,Ohio,44308,Dropped,One Perkins Square
+355,CDM,ICON,C25003,58004,,United_States,WIRB,NY,Rochester,14642,ACTIVE,"WIRB601 Elmwood Avenue, Box 704"
+356,CDM,ICON,C25003,58005,,United_States,CTRU,West Virginia,Morgantown,26056,ACTIVE,PO Box 9260
+357,CDM,ICON,C25003,58006,,United_States,"St. Jude Heritage Medical Group, Virginia K. Crosson Cancer Center",California,Fullerton,92835,ACTIVE,2151 North Harbor Boulevard
+358,CDM,IQVIA,161505,509,1-4Q9D53Z,United_States,The Methodist Hospital Research Institute,Houston,Texas,77030,Dropped,6670 BertnerR12-107
+359,CDM,IQVIA,201501,810,1-2HLOVFF,United_States,Regents of the University of Minnesota,Minneapolis,Minnesota,55455,Dropped,"401 East River Parkway, 227 VCRC"
+360,CDM,IQVIA,201501,832,1-2I3WZ9U,United_States,Phoenix Childrens Hospital,Phoenix,Arizona,85016,Enrollment On-Hold,1919 E. Thomas Rd.Phoenix Children's Hospital
+362,CDM,IQVIA,161505,501,1-4KPVT12,United_States,Barrow Neurological Institute,Phoenix,Arizona,85013,Selected,500 W Thomas Rd Suite 300
+363,CDM,IQVIA,201501,805,1-2HLNNTP,United_States,Michigan State University,East Lansing,Michigan,48824,Dropped,846 Service RoadMichign State UniversityDepartment of Radiology
+365,CDM,IQVIA,201501,831,1-2HLOVF2,United_States,Oregon Health & Science University,Portland,Oregon,97239,Dropped,3181 SW Sam Jackson Park RDMail Code: CDRCP
+366,CDM,IQVIA,201601,804,1-2ZNGLCQ,United_States,Georgetown University Hospital-Medstar,Washington,District of Columbia,20007,Dropped,3800 Reservoir Rd. NWPHC Building 7th Floor
+367,CDM,IQVIA,241302,017,1-235YFYG,United_States,University of Iowa Hospitals & Clinics,Iowa City,Iowa,52242,Enrollment Closed,200 Hawkins DriveDepartment of Pediatrics (2JCP)
+368,CDM,IQVIA,241501,144,1-4BO0AF4,United_States,University Hospitals Cleveland Medical Center,Cleveland,Ohio,44106,Enrollment Open,"11100 Euclid Avenue, B700"
+369,CDM,IQVIA,241501,145,1-4EFGGRB,United_States,OHSU Knight Cancer Institute - Portland,Portland,Oregon,97210,Dropped,"1130 NW 22nd Avenue, Suite 150"
+370,CDM,IQVIA,241501,146,1-4AUE6VB,United_States,Cleveland Clinic,Nashville,Tennessee,37232,Enrollment Open,2200 Children's Way 6141 DOT
+372,CDM,IQVIA,261203,113,1-1X5XPJI,United_States,UF Health Shands Hospital,Gainesville,Florida,32610,Enrollment Open,1600 SW Archer Rd
+374,CDM,IQVIA,241302,012,1-1YO3YNO,United_States,University of Pennsylvania Health System,Philadelphia,Pennsylvania,19104,Enrollment Closed,3624 Market StreetSuite 560W
+375,CDM,IQVIA,241501,143,1-4AX5RK8,United_States,University of Florida - Shands,Gainesville,Florida,32610,Enrollment Open,"1601 SW Archer Road, RM HD-204PO Box 100298"
+376,CDM,IQVIA,261203,128,1-1XQW8RK,United_States,Weill Cornell Medical College (WCMC) - Judith Jaffe Multiple Sclerosis Center (JJMSC),New York,New York,10065,Enrollment Open,525 E 68th StRm P695
+377,CDM,IQVIA,261203,134,1-1X5XPJX,United_States,Primary Children's Medical Center,Salt Lake City,Utah,84108,Enrollment Open,"295 Chipeta Way, Suite 1S100"
+378,CDM,IQVIA,261203,149,1-1XJKH9Z,United_States,Texas Children's Hospital,Houston,Texas,77030,Enrollment Open,Texas Children’s HospitalMC19345-C
+379,CDM,IQVIA,281102,021,1-2TUYIJL,United_States,Cincinnati Children's Hospital Medical Center,Cincinnati,Ohio,45229,Enrollment Open,"3333 Burnet Avenue, MLC 7004"
+380,CDM,IQVIA,471101,102,1-1OXYKJI,United_States,Hannibal Clinic,Hannibal,Missouri,63401,Enrollment Closed,100 Medical Drive
+382,CDM,IQVIA,471101,110,1-1OXYKKA,United_States,UCLA Medical Center,Los Angeles,California,90095,Enrollment Closed,10833 Le Conte AvenueCHS 37-131
+383,CDM,IQVIA,471101,112,1-1QAVW9C,United_States,University of California San Diego Medical Center,La Jolla,California,92037-7381,Dropped,"9300 Campus Point Dr, MC 7381Division of Pulmonary, Critical Care, & Sleep Medicine"
+385,CDM,IQVIA,471101,118,1-3HJQUN6,United_States,Central Kentucky Pulmonary Medicine,Georgetown,Kentucky,40324,Dropped,1138 Lexington RoadSuite 230
+386,CDM,IQVIA,471101,120,1-3UJMVB9,United_States,"DBC Research, Corp",Pembroke Pines,Florida,33025,Closed,18503 Pines Blvd.Suite 300
+387,CDM,IQVIA,AD-4833/TOMM40_301,5058,1-1B129HN,United_States,Neuropsychiatric Research Center of Southwest Florida,,,,ACTIVE,
+388,CDM,IQVIA,AD-4833/TOMM40_301,5067,1-18GWVM0,United_States,Quest,,,,ACTIVE,
+389,CDM,IQVIA,AD-4833-TOMM40_303,5010,1-1F9UA7W,United_States,Roper St. Francis Healthcare,,,,,
+390,CDM,IQVIA,AD-4833-TOMM40_303,5017,1-1F8BCBS,United_States,CRILifetree,,,,,
+391,CDM,IQVIA,AD-4833-TOMM40_303,5021,1-1F6LWTE,United_States,Progressive Medical Research,,,,,
+392,CDM,IQVIA,AD-4833-TOMM40_303,5076,1-1NV9NXA,United_States,Gregory A. Kirk MD LLC,,,,,
+393,CDM,IQVIA,471101,106,1-1OXYKGY,United_States,National Jewish Health,Denver,Colorado,80206,Dropped,1300 Jackson Street
+394,CDM,IQVIA,471101,116,1-1QATKGT,United_States,University of Chicago Medical Center,Chicago,Illinois,60637,Enrollment Closed,5841 South Maryland AvenueMC 6076
+395,CDM,IQVIA,AD-4833/TOMM40_301,5056,1-1AONKDT,United_States,Alzheimer's Research and Treatment Center,,,,ACTIVE,
+398,CDM,ICON,C25003,58015,,United_States,Pharmacy,NY,New York,10032,ACTIVE,722 west 168th street4th floor room 749NY
+400,CDM,ICON,C25003,58024,,United_States,Anderson Cancer Center Orlando,Florida,Orlando,32806,ACTIVE,Orlando
+401,CDM,ICON,C25003,58026,,United_States,Massachusetts General Hospital,Massachusetts,Boston,02114,ACTIVE,55 Fruit Street
+402,CDM,ICON,C25003,58029,,United_States,University of Miami Hospital & Clinics,Florida,Miami,33136,ACTIVE,1475 NW 12th Avenue
+404,CDM,ICON,C25003,58030,,United_States,Harvard Medical School,Massachusetts,Boston,02284-9168,ACTIVE,Po Box 849168
+405,CDM,ICON,C25003,58031,,United_States,Loyola University Medical Center,Illinois,Maywood,60153,ACTIVE,2160 First Avenue
+406,CDM,ICON,C25003,58032,,United_States,"University Of California, Los Angeles",California,Los Angeles,90033,ACTIVE,1441 Eastlake AveSuite 600
+408,CDM,ICON,C25003,58037,,United_States,Samsum Clinic- Satellite site,California,Solvang,93463,ACTIVE,2040 Viborg Road540 West Pueblo St
+409,CDM,ICON,C25003,58038,,United_States,Fred Hutchinson Cancer Research Center,Washington,Seattle,98109,ACTIVE,1100 Fairview Avenue NorthBPX 25080
+412,CDM,ICON,C25003,58042,,United_States,Infusion Center-7,Florida,Jacksonville,32204,ACTIVE,2 Shircliff Way
+414,CDM,ICON,C25003,58048,,United_States,Oncology Hematolgy Care-HPX,Ohio,Fairfield,45014,ACTIVE,3050 Mack RoadSuite 300
+415,CDM,ICON,C25003,58048,,United_States,"Oncology Hematology Care, Inc",Ohio,Cincinnati,45242,ACTIVE,4350 Malsbary Rd
+417,CDM,ICON,C25003,58050,,United_States,Disney Family Cancer Center / Providence Saint Joseph Medical Center,California,Burbank,91505,ACTIVE,181 S. Buena Vista St3rd Floor
+420,CDM,ICON,C25003,58051,,United_States,Northwestern University / Robert H. Lurie Comprehensive Cancer Center at Northwestern,Illinois,Chicago,60611,ACTIVE,676 N St Clair St
+421,CDM,ICON,C25003,58052,,United_States,Annette C and Harold C Simmons Transplant Institute,Texas,Dallas,75246,ACTIVE,3410 Worth StreetSuite 300
+422,CDM,ICON,C25003,58056,,United_States,Georgetown Univ Oncology IRB-Medstar HRI,District Of Columbia,Washington,20007,ACTIVE,3900 Reservioir RD NWSW 104 Medical Dental Building
+423,CDM,IQVIA,C05013,10,300293057,United_States,Tower Cancer Research Foundation,,,,,
+424,CDM,IQVIA,C05013,10,300318040,United_States,Tower Cancer Research Foundation,,,,,
+425,CDM,IQVIA,C05013,102,300346930,United_States,Heartland Regional Medical Center d/b/a Cancer Care St. Joseph Mosaic Life Care,,,,,
+426,CDM,IQVIA,C05013,122,300343775,United_States,St. Francis Cancer Center,,,,,
+427,CDM,IQVIA,C05013,17,300294404,United_States,Kansas City Cancer Center,,,,,
+428,CDM,IQVIA,C05013,26,300348051,United_States,UPMC Hillman Cancer Center,,,,,
+429,CDM,IQVIA,C05013,31,300299079,United_States,"Rocky Mountain Cancer Centers, LLP",,,,,
+430,CDM,IQVIA,C05013,39,300299400,United_States,Missouri Cancer Associates,,,,,
+431,CDM,IQVIA,AD-4833/TOMM40_301,5057,1-18GWVJW,United_States,"NeuroStudies.net, LLC",,,,ACTIVE,
+432,CDM,IQVIA,AD-4833/TOMM40_301,5064,1-1ECD3U6,United_States,Great Lakes Clinical Trials,,,,ACTIVE,
+433,CDM,IQVIA,AD-4833/TOMM40_301,5080,1-1BS79IK,United_States,Summit Research Network (Oregon) Inc.,,,,ACTIVE,
+434,CDM,IQVIA,AskBio009-101,04,1-1FHAHNV,United_States,Emory University School of Medicine,Atlanta,Georgia,30324,Closed,2015 Uppergate DrSuite W340B
+435,CDM,IQVIA,AskBio009-101,06,1-1FHAHT8,United_States,UCSD Medical Center - La Jolla,San Diego,California,92121,Closed,9333 Genesee AvenueSuite 310
+436,CDM,IQVIA,AskBio009-101,19,1-1UUTY31,United_States,Boston Children's Hospital,Boston,Massachusetts,02115-5724,Closed,"300 Longwood Ave, Farley 4, Room 494.3"
+437,CDM,IQVIA,C05013,0,300341428,United_States,Carle Foundation d/b/a Carle Cancer Center,,,,,
+438,CDM,ICON,C25003,58056,,United_States,Pre Clinical Science Building,District Of Columbia,Washington,20007,ACTIVE,"Georgetown University3900 Reservoir  Rd, NWLR 3"
+439,CDM,ICON,C25003,58057,,United_States,Florida Cancer Specialists & Research Institute,Florida,Fort Myers,33916,ACTIVE,4415 Metro Parkway
+442,CDM,ICON,C25003,58063,,United_States,Colorado Community IRB,CO,CO,80222,ACTIVE,1720 S. Bellaire St#703 Denver
+443,CDM,ICON,C25003,58063,,United_States,Porter Adventist Hospital - Porter Cancer Care Center - Cypress Hematology and Oncology,Colorado,Denver,80222,ACTIVE,2555 S Downing St
+444,CDM,ICON,C25003,58067,,United_States,UC Davis Comprehensive Cancer Center,California,Sacramento,95817,ACTIVE,"4501 X Street, Bldg. 30"
+445,CDM,ICON,C25003,58069,,United_States,Irvine Satellite,California,Irvine,92618,ACTIVE,Pacific Shores Medical Group16300 Sand Canyon AveSuite 207
+446,CDM,ICON,C25003,58069,,United_States,Liberty Pacific Medical Imaging,California,Signal Hill,90755,ACTIVE,"2708 E. Willow St1043 Elm Avenue, Suite 104"
+447,CDM,ICON,C25003,58069,,United_States,Pacific Shores Medical Group (Main),California,Long Beach,90813,ACTIVE,"Pacific Shores Medical Group1043 Elm Avenue, Suite 104"
+448,CDM,ICON,C25003,58069,,United_States,PET Scan-Pacific Shores Medical Group,California,Long Beach,90813,ACTIVE,1043 Elm AveSte. 104
+450,CDM,IQVIA,C05013,41,300324241,United_States,Wilshire Oncology Medical Group,,,,,
+451,CDM,IQVIA,C05013,47,300299349,United_States,SCRI - Tennessee Oncology,,,,,
+452,CDM,IQVIA,C05013,48,300299350,United_States,"Oncology/Hematology Care Clinical Trials, LLC",,,,,
+453,CDM,IQVIA,C05013,49,300299351,United_States,"South Carolina Oncology Associates, PA",,,,,
+454,CDM,IQVIA,C05013,55,300299256,United_States,Duluth Clinic,,,,,
+455,CDM,IQVIA,C05013,58,300302974,United_States,Sharp HealthCare - PARENT,,,,,
+456,CDM,IQVIA,C05013,66,300343312,United_States,Central Indiana Cancer Centers,,,,,
+457,CDM,IQVIA,C05013,68,300318856,United_States,Swedish Cancer Insitute Medical Oncology,,,,,
+458,CDM,IQVIA,C05013,72,300318679,United_States,Nebraska Methodist Hospital,,,,,
+459,CDM,IQVIA,C05013,96,300337169,United_States,Signal Point Clinical Research Center,,,,,
+460,CDM,IQVIA,C14008,58080,300293762,United_States,MD Anderson Cancer Center,,,,,
+461,CDM,IQVIA,C14008PH2,58832,300318354,United_States,California Pacific Medical Center,,,,,
+462,CDM,IQVIA,C14008PH2,58841,300335852,United_States,MD Anderson Cancer Center Orlando,,,,,
+463,CDM,IQVIA,C14008PH2,58842,300318399,United_States,Abington Memorial Hospital,,,,,
+464,CDM,IQVIA,C14008PH2,58858,300345596,United_States,Cedars Sinai,,,,,
+465,CDM,IQVIA,C05013,104,300347540,United_States,Comprehensive Cancer Centers of Nevada,,,,,
+466,CDM,IQVIA,C05013,106,300339039,United_States,Kaiser Permanente Medical Center - Northern California,,,,,
+467,CDM,IQVIA,C05013,107,300347471,United_States,Memorial Cancer Institute Breast Cancer Treatment Center,,,,,
+468,CDM,IQVIA,C05013,118,300343380,United_States,"Hematology Oncology Assoc. of Greenwich, LLP",,,,,
+469,CDM,IQVIA,C05013,21,300293955,United_States,Winship Cancer Institute,,,,,
+470,CDM,IQVIA,C05013,27,300294351,United_States,Kaiser Permanente Northwest,,,,,
+471,CDM,IQVIA,C05013,30,300299078,United_States,Florida Cancer Specialists North,,,,,
+472,CDM,IQVIA,C05013,36,300299087,United_States,"Texas Oncology, P.A. - Wichita Falls",,,,,
+473,CDM,IQVIA,C05013,45,300308719,United_States,Los Angeles Hematology/Oncology Medical Group,,,,,
+474,CDM,IQVIA,C05013,5,300293227,United_States,Kalamazoo Hematology & Oncology,,,,,
+475,CDM,IQVIA,C05013,66,300318704,United_States,Central Indiana Cancer Centers,,,,,
+476,CDM,IQVIA,C05013,69,300318121,United_States,University of Texas Southwestern Medical Center,,,,,
+477,CDM,IQVIA,C05013,73,300318458,United_States,Baylor University Medical Center,,,,,
+478,CDM,IQVIA,C05013,75,300343997,United_States,US Oncology,,,,,
+479,CDM,IQVIA,C05013,79,300308585,United_States,TRIO-US  Investigational Pharmacist,,,,,
+480,CDM,IQVIA,C05013,88,300333379,United_States,"Tulsa Cancer Institute, PLLC",,,,,
+481,CDM,IQVIA,C05013,93,300346443,United_States,CBCC Global Research,,,,,
+482,CDM,IQVIA,C05013,94,300337348,United_States,Orchard Healthcare Research Inc.,,,,,
+483,CDM,IQVIA,C14008,58081,300343310,United_States,Fox Chase Cancer Center,,,,,
+484,CDM,IQVIA,C14008PH2,58836,300318586,United_States,"Hematology Oncology, P.C.",,,,,
+485,CDM,IQVIA,C14008PH2,58837,300337451,United_States,Dartmouth-Hitchcock Medical Center,,,,,
+486,CDM,IQVIA,C14008PH2,58849,300343309,United_States,Fox Chase Cancer Center,,,,,
+487,CDM,IQVIA,C14008PH2,58857,300345407,United_States,University of Colorado Anschutz Medical Campus,,,,,
+488,CDM,IQVIA,C14008PH2,58860,300345298,United_States,Henry Ford Hospital,,,,,
+489,CDM,IQVIA,C14010,58101,300349046,United_States,University of Texas M. D. Anderson Cancer Center - Investigational Cancer Therapeutics,,,,,
+490,CDM,IQVIA,C14011,58003,1-24XHZO,United_States,The University of Texas Health Science Center at San Antonio,,,,,
+491,CDM,IQVIA,C14011,58002,1-1L9O8S,United_States,University of Arizona,,,,,
+492,CDM,IQVIA,C14011,58009,1-6W2W5B,United_States,The Methodist Hospital,,,,,
+493,CDM,IQVIA,C14011,58014,1-L6IL25,United_States,The West Clinic,,,,,
+494,CDM,IQVIA,C14012,58004,1-3DDPWG,United_States,University of Iowa Hospitals & Clinics,,,,,
+495,CDM,IQVIA,C14012,58013,1-3CUZ3W,United_States,Mary Babb Randolph Cancer Center,,,,,
+496,CDM,IQVIA,C14012,58015,1-3CQXDY,United_States,Duke University Health System,,,,,
+497,CDM,IQVIA,C14012,58017,1-3CQXEQ,United_States,Medical University of South Carolina,,,,,
+498,CDM,IQVIA,C14012,58034,1-3CQXD6,United_States,IU Simon Cancer Center,,,,,
+499,CDM,IQVIA,C14015,58152,1-FBADNC,United_States,Florida Cancer Specialists SOUTH,,,,,
+500,CDM,IQVIA,C14012,58007,1-NVBMD,United_States,NYU Langone Health – Perlmutter Cancer Center,,,,,
+501,CDM,IQVIA,C14012,58018,1-5IC155,United_States,SUNY Upstate Medical Center,,,,,
+502,CDM,IQVIA,C14012,58029,1-3DIJII,United_States,Mayo Clinic,,,,,
+503,CDM,IQVIA,C14012,58035,1-HRIJM7,United_States,Memorial Sloan Kettering Cancer Center,,,,,
+504,CDM,IQVIA,C14017,58173,1-DOIJQX,United_States,Montefiore Medical Center PRIME,,,,,
+505,CDM,IQVIA,C14015,58155,1-CZJ98Z,United_States,University of Wisconsin-Madison,,,,,
+506,CDM,IQVIA,C14018,58115,1-131O0E9,United_States,University of Washington - Seattle Cancer Care Alliance,,,,,
+507,CDM,IQVIA,C14018,58122,1-12CQWAY,United_States,SCRI - Tennessee Oncology,,,,,
+508,CDM,IQVIA,C14019,58197,1-19YEBKN,United_States,University of Miami Hospital & Clinics (UMHC) - Dermatology Clinic,,,,,
+509,CDM,IQVIA,C14019,58198,1-19DHRS7,United_States,University of Texas M. D. Anderson Cancer Center,,,,,
+510,CDM,IQVIA,C14020,58201,1-1DIWJCK,United_States,Peggy & Charles Stephenson Oklahoma Cancer Ctr,,,,,
+511,CDM,IQVIA,C14020,58204,1-1CIJV8M,United_States,Mary Crowley Cancer Research Centers,,,,,
+512,CDM,IQVIA,C15010,58803,1-SNX1YW,United_States,Winship Cancer Institute,,,,,
+513,CDM,IQVIA,C15010,58805,1-TN02Z0,United_States,Tennessee Oncology- St Thomas Location,,,,,
+514,CDM,IQVIA,C14018,58113,1-12FO9UO,United_States,Fox Chase Cancer Center,,,,,
+515,CDM,IQVIA,C15010,58802,1-SB0LMG,United_States,Case Western Reserve University,,,,,
+516,CDM,IQVIA,C16003,58002,300293289,United_States,Clinical Investigations Branch,,,,,
+517,CDM,IQVIA,C16003,58004,300293290,United_States,Emory University,,,,,
+518,CDM,IQVIA,C16003,58005,300293291,United_States,Dana Farber Cancer Institute,,,,,
+519,CDM,IQVIA,C16004,58009,300298548,United_States,Saint Vincent's Hospital and Medical Center,,,,,
+520,CDM,IQVIA,C16005PH2,0,300346775,United_States,"Oncology/ Hematology Care, Inc.",,,,,
+521,CDM,IQVIA,C16005PH2,58016,300340677,United_States,Washington University,,,,,
+522,CDM,IQVIA,C16005PH2,58023,300346625,United_States,Medstar Franklin Square Clinical Research Center,,,,,
+523,CDM,IQVIA,C16005PH2,58028,300347399,United_States,University of Wisconsin-Madison,,,,,
+524,CDM,IQVIA,C16008PH2,58019,1-3IT5BK,United_States,University of Chicago Medical Center,,,,,
+525,CDM,IQVIA,C16008PH2,58044,1-2THGPM,United_States,Mid Ohio Heart Clinic Inc,,,,,
+526,CDM,IQVIA,C16008PH2,58058,1-3ZG895,United_States,Duke University Medical Center,,,,,
+527,CDM,IQVIA,C16004,58008,300298547,United_States,Berenson Oncology,,,,,
+528,CDM,IQVIA,C16005PH2,58014,300345176,United_States,Tennessee Oncology,,,,,
+529,CDM,IQVIA,C16005PH2,58047,300349828,United_States,Dartmouth-Hitchcock Medical Center,,,,,
+530,CDM,IQVIA,C16008PH2,58001,1-578OHC,United_States,"H. Lee Moffitt Cancer Center and Research Institute, Inc",,,,,
+531,CDM,IQVIA,C16008PH2,58014,1-9HQ590,United_States,Tennessee Oncology,,,,,
+532,CDM,IQVIA,C26002,58006,1-1AAMJEB,United_States,Vanderbilt University Medical Center,,,,,
+533,CDM,IQVIA,C26002,58012,1-1HYWNZW,United_States,Dana-Farber Cancer Institute,,,,,
+534,CDM,IQVIA,C27002,58204,1-16FC6RZ,United_States,"Urology Clinics of North Texas, PLLC",,,,,
+535,CDM,ICON,C25001,58005,,United_States,Stanford Hospital & Clinics/General Clinical Research Center,California,Stanford,94305,ACTIVE,1101 Welch RoadC3
+536,CDM,ICON,C25001,58006,,United_States,Northwestern University Medicine-Hematology /Oncology,Illinois,Chicago,60611,ACTIVE,NMH / Arkes Pavilion676 N. Saint Clair Suite 850
+540,CDM,ICON,C25003,,,United_States,"Barnes Jewish Hospital, Dept. of Laboratories",Missouri,St. Louis,63110,ACTIVE,One Barnes Jewish Hospital Plaza
+541,CDM,ICON,C25003,,,United_States,Beth Israel Medical Center,New York,New York,10003,ACTIVE,10 Union Square EastSuite 4C
+542,CDM,ICON,C25003,,,United_States,Hollings Cancer Center Medical University Of South Carolina,South Carolina,Charleston,29425,ACTIVE,86 Jonathan Lucas Street
+545,CDM,ICON,C25003,,,United_States,Kaiser Permanente Colorado - Franklin,Colorado,Denver,80205,ACTIVE,12th Floor Oncology2045 Franklin St
+547,CDM,ICON,C25003,,,United_States,Lutheran Hematology And Oncology,Colorado,Wheat Ridge,80033,ACTIVE,3550 Lutheran Parkway
+550,CDM,ICON,C25003,,,United_States,"Mid Ohio Oncology/Hematology, Inc.,",Ohio,Columbus,43219,ACTIVE,3100 Plaza Properties Blvd
+551,CDM,ICON,C25003,,,United_States,Montefiore Medical Center,New York,Bronx,10461,ACTIVE,1695 Eastchester Road
+552,CDM,ICON,C25003,,,United_States,Ohio State University Comprehensive Cancer Center,Ohio,Columbus,43202,ACTIVE,"650 Ackerman Road, Building One - Third Floor"
+553,CDM,ICON,C25003,,,United_States,Oncology Specialists of Charlotte,North Carolina,Charlotte,28207-2027,ACTIVE,2711 Randolph Rd Ste 100
+555,CDM,ICON,C25003,,,United_States,St. Luke's Roosevelt Hospital Center,New York,New York,10019,ACTIVE,"1000, 10th Ave, Suite 11C"
+557,CDM,ICON,C25003,,,United_States,"Washington University School of Medicine, Regulatory",Missouri,St. Louis,63110,ACTIVE,Department of Oncology660 South Euclid AveCampus Box 8056
+559,CDM,ICON,C25003,58074,,United_States,"Tufts Medical Center,Pharmacy",Massachusetts,Boston,02111,ACTIVE,"25 Harvard St., So. Basement Pharmacy800 Washington StSouth 7, Room 7127 Box # 245"
+560,CDM,ICON,C25003,58078,,United_States,Center For Biomedical Research,Tennessee,Knoxville,37909,ACTIVE,1415 Old Weisgarber Road
+562,CDM,ICON,C25003,58080,,United_States,"Virginia Cancer Specialists, Pc",Virginia,Gainesville,20155,ACTIVE,7901 Lake Manassas Drive
+563,CDM,ICON,C25003,58082,,United_States,Regional Cancer Care Associates LLC,New Jersey,Morristown,07962,ACTIVE,"Carol G. Simon Cancer Center, 100 Madison Avenue - 2nd Floor"
+564,CDM,ICON,C25003,58082,,United_States,Summit Medical Group ¿ Morristown Oncology,New Jersey,Morristown,07960,ACTIVE,95 Madison Ave.
+565,CDM,ICON,C25003,58083,,United_States,"US Oncology Research, Investigational Product Center",76177,Tx,12205,ACTIVE,"13501 Park Vista Blvd, Ste 160Fort Worth"
+567,CDM,ICON,C25003,58084,,United_States,Cancer Care & Hematology Specialists Of Chicagoland,Illinois,Niles,60714,ACTIVE,8915 West Golf Road
+568,CDM,ICON,C25003,58085,,United_States,Cancer Care Centers Of South Texas - Medical Center,Texas,San Antonio,78229,ACTIVE,4411 Medical Drive
+569,CDM,ICON,C25003,58085,,United_States,Texas Oncology-Austin Central,Texas,Austin,78731,ACTIVE,6204 Balcones Dr.
+571,CDM,IQVIA,C27002,58213,1-174EQKD,United_States,"Michigan Institute of Urology, PC",,,,,
+572,CDM,IQVIA,C27002,58216,1-15EJIKU,United_States,"Urology San Antonio Research, PA",,,,,
+573,CDM,IQVIA,C27002,58220,1-1I4TMUN,United_States,GU Research Network,,,,,
+574,CDM,IQVIA,C28001,58001,1-3NK7QY,United_States,START Center,,,,,
+575,CDM,IQVIA,C28001,58005,1-1713ZVR,United_States,Augusta University,,,,,
+576,CDM,IQVIA,C31001,58013,1-1760U79,United_States,Mayo Clinic Arizona,,,,,
+577,CDM,IQVIA,C31001,58015,1-17AZXFZ,United_States,"Oncology and Hematology Assoc. of SW VA, Inc.",,,,,
+578,CDM,IQVIA,C31001,58034,1-1HRO0PF,United_States,Millennium Oncology,,,,,
+579,CDM,IQVIA,C31002,58004,1-15BHJKO,United_States,Montefiore Medical Center PRIME,,,,,
+581,CDM,IQVIA,C34002,58003,1-1DGNE6F,United_States,University of Michigan Comprehensive Cancer Center,,,,,
+582,CDM,ICON,C25003,58087,,United_States,Texas Oncology-Longview Cancer Center,Texas,Longview,75601,ACTIVE,1300 N 4th St
+583,CDM,ICON,C25003,58088,,United_States,Texas Oncology - Austin Midtown,Tennessee,Austin,78705,ACTIVE,2410 Round Rock Ave
+584,CDM,ICON,C25003,58088,,United_States,Texas Oncology - Cedar Park,Texas,Cedar Park,78613,ACTIVE,1401 Medical Parkway BSuite 412
+585,CDM,ICON,C25003,58088,,United_States,Texas Oncology - Medical City Dallas,Texas,Austin,78745,ACTIVE,4101 James Casey St
+586,CDM,ICON,C25003,58088,,United_States,Texas Oncology-Austin North,Texas,Austin,78758,ACTIVE,12221 Renfert Way
+588,CDM,ICON,C25003,58089,,United_States,Northwest Cancer Specialists,Washington,Vancouver,98684,ACTIVE,210 Se 136th Avenue
+591,CDM,ICON,C25003,58094,,United_States,UCSD Radiation Oncology PET/CT Center,California,La Jolla,92093,ACTIVE,3960 Health Sciences Dr.
+592,CDM,ICON,C25003,58095,,United_States,LCI South Tryon,North Carolina,"Charlotte,",28203,ACTIVE,"1100 S. Tryon St., Ste 220,"
+595,CDM,IQVIA,DEN-210,DEN-210-58000,1-45EDT1Y,United_States,OHSU Hospital,Portland,Oregon,97239,Enrollment Closed,3181 SW Sam Jackson Park RdOHSU BRB 511 Mailcode L592
+596,CDM,IQVIA,LuAA21004_402,7004,1-1IUGD4V,United_States,Summit Research Network (Oregon) Inc.,,,,,
+597,CDM,IQVIA,LuAA21004_402,7028,1-1IUGDAQ,United_States,"Capstone Clinical Research, Inc.",,,,,
+598,CDM,IQVIA,LuAA21004_402,7032,1-1IUE9JA,United_States,"Clinical Neuroscience Solutions, Inc.",,,,,
+599,CDM,IQVIA,LuAA21004_402,7064,1-1NWVDAJ,United_States,Pharmacology Research Institute,,,,,
+600,CDM,IQVIA,LuAA21004_402,7075,1-1PCTW29,United_States,"Altea Research Institute, Las Vegas",,,,,
+601,CDM,IQVIA,LuAA21004_402,7080,1-2X75UQW,United_States,Frontier Institute,,,,,
+602,CDM,IQVIA,MLN0002-3026,58030,1-1QU222E,United_States,Emory Healthcare - The Emory Clinic,,,,,
+603,CDM,IQVIA,MLN0002-3026,58062,1-1QWD9Z5,United_States,Northwestern University Feinberg School of Medicine,,,,,
+604,CDM,IQVIA,MLN0002-3026,58064,1-1WMVU0T,United_States,Westview Clinical Research,,,,,
+605,CDM,IQVIA,MLN0002-3026,58067,1-1S90MIE,United_States,"Research Concierge, LLC",,,,,
+606,CDM,IQVIA,MLN0002-3026,58079,1-1QW6OKE,United_States,Mount Sinai School of Medicine,,,,,
+607,CDM,IQVIA,MLN0002-3026,58096,1-1W3TZ7V,United_States,Invocare Clinical Research Center,,,,,
+608,CDM,IQVIA,MLN0002-3026,58100,1-1XNVEFX,United_States,Rocky Mountain Gastroenterology,,,,,
+609,CDM,IQVIA,MLN0002-3026,58106,1-26WZCHD,United_States,Texas Digestive Disease Consultants - Irving,,,,,
+610,CDM,IQVIA,MLN0002-3026,58110,1-1XNUL7F,United_States,"Tyler Research Institute, LLC",,,,,
+611,CDM,IQVIA,MLN0002-3026,58117,1-2IGZNPB,United_States,Digestive Health Center PA,,,,,
+612,CDM,IQVIA,071102,106,1-2K18N8Q,United_States,Comprehensive Center for Bleeding Disorders,Milwaukee,Wisconsin,53226,Enrollment Open,8733 Watertown Plank Rd.
+613,CDM,IQVIA,071102,109,1-2M89W8B,United_States,Indiana Hemophilia and Thrombosis Center,Indianapolis,Indiana,46260,Enrollment Open,8326 Naab Road
+614,CDM,IQVIA,071102,115,1-2OP6AEA,United_States,University of Nebraska Medical Center,Omaha,Nebraska,68198,Prematurely Closed,982168 Nebraska Medical Center
+616,CDM,IQVIA,161403,500,1-1JFDTU3,United_States,"Suncoast Neuroscience and Associates, Inc.",St. Petersburg,Florida,33713,Dropped,2201 Central Ave.Suite 301
+617,CDM,IQVIA,161403,506,1-4DS7RUR,United_States,Neurology Center of Las Vegas,Las Vegas,Nevada,89128,Closed,2480 Professional Court
+618,CDM,IQVIA,161403,513,1-1JFDTHL,United_States,William Beaumont Hospital,Royal Oak,Michigan,48073-6769,Enrollment Open,3601 W. Thirteen Mile RdWBH Research Institute
+619,CDM,IQVIA,161403,521,1-1JFD51B,United_States,NYU Langone Health – Perlmutter Cancer Center,New York,New York,10032,Essential Documents in place,710 West 168th St.Suite 204
+620,CDM,IQVIA,161403,529,1-1KU354G,United_States,Yale University,New Haven,Connecticut,06520,Selected,333 Cedar Street
+621,CDM,IQVIA,161406,161406-112,1-22RGF8D,United_States,Emory University Hospital - Midtown,Atlanta,Georgia,30308,Dropped,550 Peachtree St. NEGlenn Building Lobby Level
+622,CDM,IQVIA,MLN0002-3028,7004,1-1GIX7JM,United_States,St. Louis Center for Clinical Research,,,,,
+623,CDM,IQVIA,MLN0002-3028,7014,1-1GIX86E,United_States,"CFAGI, LLC",,,,,
+624,CDM,IQVIA,MLN0002-3028,7017,1-1G0JJ0V,United_States,"Atlanta Gastroenterology Specialists, PC",,,,,
+625,CDM,IQVIA,161406,161406-120,1-25IVPFN,United_States,"Optimed Research, LTD",Columbus,Ohio,43235,Enrollment Closed,8080 Ravines Edge CourtSuite 200
+626,CDM,IQVIA,161406,161406-124,1-23L8ZI7,United_States,"National Allergy, Asthma & Urticaria Centers of Charleston, PA",North Charleston,South Carolina,29420-4211,Prematurely Closed,7555 Northside Drive
+627,CDM,IQVIA,161406,161406-127,1-1VR6CGS,United_States,UCLA School of Medicine,Santa Monica,California,90404,Enrollment Closed,1301 20th StreetSuite  380
+628,CDM,IQVIA,161406,161406-142,1-2JAQ3VR,United_States,"Allergy, Asthma and Clinical Research Center",Oklahoma City,Oklahoma,73120,Enrollment Closed,4200 West Memorial RoadSuite 501
+629,CDM,IQVIA,161503,103,1-2X95WN5,United_States,"Bellingham Asthma, Allergy & Immunology Clinic",Bellingham,Washington,98225,Dropped,3015 Squalicum Pkwy.Suite 180
+631,CDM,IQVIA,161503,123,1-38IJQWS,United_States,"Georgia Pollens Clinical Research Centers, Inc.",Albany,Georgia,31707,Enrollment Closed,105 Spanish Court
+632,CDM,IQVIA,161503,128,1-3SU446T,United_States,Montefiore Medical Center PRIME,Bronx,New York,10461,Enrollment Closed,1695 Eastchester RdSuite 505
+634,CDM,IQVIA,201501,801,1-2HLNNT2,United_States,University of Washington,Seattle,Washington,98195-6424,Dropped,"1959 NE Pacific Avenue, Suite AA103Suite 613B"
+636,CDM,IQVIA,201601,807,1-2ZNH0V7,United_States,Orthopaedic Hospital DBA Orthopaedic Hemophilia Treatment Center,Los Angeles,California,90007,Enrollment Closed,403 W. Adams Blvd.
+640,CDM,IQVIA,241302,009,1-1YOBPVW,United_States,University of Utah Health Sciences Center,Salt Lake City,Utah,84132,Enrollment Closed,30 North 1900 East1C026Division of Emergency Medicine
+642,CDM,IQVIA,261203,147,1-1XJKH9A,United_States,Rady Childrens Hospital,San Diego,California,92123-4282,Dropped,"3020 Childrens Way, MC 5105"
+643,CDM,IQVIA,261203,157,1-3VEPBN4,United_States,Kaiser Permanente Oakland Medical Center,Oakland,California,94611,Enrollment Open,3701 Broadway Street
+644,CDM,IQVIA,MLN0002SC-3027,58004,1-1SHC7DB,United_States,Gastroenterology Associates of Central Georgia,,,,,
+645,CDM,IQVIA,MLN0002SC-3027,58015,1-1UBKVVJ,United_States,Main Line Gastroenterology Associates,,,,,
+646,CDM,IQVIA,MLN0002SC-3027,58024,1-1TW5QH0,United_States,Rush University Medical Center,,,,,
+647,CDM,IQVIA,MLN0002SC-3027,58025,1-1T7KNOK,United_States,Shafran Gastroenterology Center,,,,,
+648,CDM,IQVIA,MLN0002SC-3027,58029,1-1S8VBF5,United_States,Gastroenterology Associates of Tidewater,,,,,
+649,CDM,IQVIA,MLN0002SC-3027,58090,1-1RW856L,United_States,"Dayton Gastroenterology, Inc",,,,,
+650,CDM,IQVIA,MLN0002SC-3027,58105,1-2BNYLW4,United_States,"Metropolitan Gastroenterology Group, PC, Chevy Chase Clinical Research",,,,,
+651,CDM,IQVIA,C26002,58005,1-1AFRJF3,United_States,"Oncology/Hematology Care Clinical Trials, LLC",,,,,
+652,CDM,IQVIA,C26002,58007,1-1AEU0YS,United_States,Florida Cancer Specialists,,,,,
+653,CDM,IQVIA,C27002,58203,1-16FC987,United_States,First Urology Research,,,,,
+654,CDM,IQVIA,C27002,58212,1-16FC96V,United_States,The Urology Center,,,,,
+655,CDM,IQVIA,C27002,58218,1-1GZYOGH,United_States,Urology of Virginia,,,,,
+656,CDM,IQVIA,C27003,58305,1-17JTA2B,United_States,Central Ohio Urology Group,,,,,
+657,CDM,IQVIA,C27003,58322,1-1HVESMS,United_States,Devine-Tidewater Urology Ltd,,,,,
+658,CDM,IQVIA,C28001,58006,1-16XYIT3,United_States,University of California at San Francisco (PARENT),,,,,
+659,CDM,IQVIA,C31001,58003,1-13F4TB5,United_States,"Texas Oncology, P.A.",,,,,
+660,CDM,IQVIA,C31001,58004,1-11ISXPU,United_States,University of California at San Francisco (PARENT),,,,,
+661,CDM,IQVIA,C31001,58018,1-14N63ZO,United_States,Yale Cancer Center,,,,,
+662,CDM,IQVIA,C31001,58029,1-14N647W,United_States,Eastchester Center for Cancer Care,,,,,
+663,CDM,IQVIA,C31001,58030,1-17JYXLC,United_States,UT Southwestern Medical Center,,,,,
+664,CDM,IQVIA,C34002,58002,1-1EJAB34,United_States,Johns Hopkins Hospital,,,,,
+665,CDM,IQVIA,C34002,58010,1-1DGMNJH,United_States,Baylor University Medical Center,,,,,
+666,CDM,IQVIA,281102,028,1-2YL5PPU,United_States,University of Oklahoma,Oklahoma City,Oklahoma,73104,Enrollment Open,800 N.E. 10th StreetSuite 3029
+667,CDM,IQVIA,281102,080,1-515A2OD,United_States,Alliance for Childhood Diseases,Las Vegas,Nevada,89135,Selected,1 Breakthrough Way
+668,CDM,IQVIA,471101,105,1-1QAVW3W,United_States,Tampa General Hospital,Tampa,Florida,33606,Closed,5 Tampa General Circle HMT Suite 300
+670,CDM,IQVIA,471101,124,1-40M77V0,United_States,Southeastern Research Center LLC,Winston-Salem,North Carolina,27103,Closed,3019 Lyndhurst Drive
+671,CDM,IQVIA,471101,126,1-43FUFWT,United_States,"LaPorte County Institute for Clinical Research, Inc.",Michigan City,Indiana,46360,Closed,8733 West 400 North
+672,CDM,IQVIA,AD-4833/TOMM40_301,5005,1-181C429,United_States,New York University Medical Center,,,,ACTIVE,
+673,CDM,IQVIA,AD-4833/TOMM40_301,5014,1-181DHGL,United_States,Lipid Research Clinic - University of Iowa,,,,ACTIVE,
+674,CDM,IQVIA,AD-4833/TOMM40_301,5017,1-18GEPCH,United_States,CRILifetree,,,,ACTIVE,
+675,CDM,IQVIA,DEN-210,DEN-210-58010,1-4EQZ1QH,United_States,"Optimal Research, LLC",Peoria,Illinois,61614,Enrollment Closed,"4911 Executive Drive, Second Floor"
+676,CDM,IQVIA,LuAA21004_402,7007,1-1IUGTVL,United_States,"Village Clinical Research, Inc.",,,,,
+677,CDM,IQVIA,LuAA21004_402,7014,1-1IUFW48,United_States,Northbrooke Research Center,,,,,
+678,CDM,IQVIA,LuAA21004_402,7015,1-1IUGD92,United_States,"INACTIVE- Summit Research Network (Seattle), LLC",,,,,
+679,CDM,IQVIA,LuAA21004_402,7033,1-1IUEPG9,United_States,"CNRI - Los Angeles, LLC",,,,,
+680,CDM,IQVIA,LuAA21004_402,7035,1-1IUFVNA,United_States,"Gulfcoast Medical Research Center, LLC",,,,,
+681,CDM,IQVIA,LuAA21004_402,7073,1-2I3YFWA,United_States,"iResearch Atlanta, LLC",,,,,
+682,CDM,IQVIA,LuAA21004_402,7079,1-1IUGTSZ,United_States,"Indago Research & Health Center, Inc.",,,,,
+683,CDM,IQVIA,LuAA21004_402,7081,1-2XEXYPQ,United_States,IPS Research Company,,,,,
+684,CDM,IQVIA,LuAA21004_402,7086,1-37B5UNS,United_States,"Pillar Clinical Research, LLC",,,,,
+685,CDM,IQVIA,MLN0002-3026,58001,1-1QTNFUJ,United_States,"Cotton-O'Neil Clinical Research Center, Digestive Health",,,,,
+686,CDM,IQVIA,MLN0002-3026,58007,1-1QTYPOG,United_States,"Medical Research Center of Connecticut, LLC",,,,,
+687,CDM,IQVIA,MLN0002-3026,58011,1-1QWD9RN,United_States,"Tellus Clinical Research, Inc.",,,,,
+688,CDM,IQVIA,MLN0002-3026,58013,1-1QW9QGD,United_States,Long Island Clinical Research Associates,,,,,
+689,CDM,IQVIA,MLN0002-3026,58016,1-1QW6OJZ,United_States,"Atlanta Gastroenterology Specialists, PC",,,,,
+690,CDM,IQVIA,MLN0002-3026,58034,1-1RRZHPR,United_States,"Gastroenterology Associates of Western Michigan, P.L.C.",,,,,
+691,CDM,IQVIA,MLN0002-3026,58042,1-1TDPGX1,United_States,Facey Medical Foundation,,,,,
+692,CDM,IQVIA,MLN0002-3026,58051,1-1UGLI5C,United_States,Florida Center for Gastroenterology,,,,,
+693,CDM,IQVIA,MLN0002-3026,58052,1-1QW9QE3,United_States,Lenox Hill Hospital,,,,,
+694,CDM,IQVIA,MLN0002-3026,58058,1-1S46R43,United_States,"Research Concierge, LLC",,,,,
+695,CDM,IQVIA,MLN0002-3026,58095,1-200QLFK,United_States,California Medical Research Associates Inc.,,,,,
+696,CDM,IQVIA,MLN0002-3026,58103,1-22OP4KI,United_States,WCCT Global (PH 1 Unit),,,,,
+697,CDM,IQVIA,MLN0002-3026,58105,1-27EQQTW,United_States,Chevy Chase Clinical Research,,,,,
+698,CDM,IQVIA,MLN0002-3026,58116,1-2IGZNR5,United_States,Cambridge Medical Trials,,,,,
+699,CDM,IQVIA,MLN0002-3028,7015,1-1G0KKTQ,United_States,"Gastroenterology Associates, LLC",,,,,
+700,CDM,IQVIA,MLN0002-3028,7018,1-1G0KP8A,United_States,University of California San Diego Medical Center,,,,,
+701,CDM,IQVIA,MLN0002SC-3027,58018,1-1TPLOFX,United_States,University of Washington School of Medicine,,,,,
+702,CDM,IQVIA,MLN0002SC-3027,58028,1-1TDNEYH,United_States,Medical University of South Carolina (MUSC),,,,,
+703,CDM,IQVIA,MLN0002SC-3027,58034,1-1VRP1PH,United_States,"Gastroenterology Associates of Western Michigan, P.L.C.",,,,,
+704,CDM,IQVIA,MLN0002SC-3027,58049,1-1XN1K78,United_States,Gastroenterology Group of Naples,,,,,
+705,CDM,IQVIA,AD-4833/TOMM40_301,5036,1-181C41G,United_States,Baylor College of Medicine,,,,ACTIVE,
+706,CDM,IQVIA,AD-4833/TOMM40_301,5079,1-1I2QGI7,United_States,University of Southern California-Keck School of Medicine,,,,ACTIVE,
+707,CDM,IQVIA,AD-4833-TOMM40_303,5006,1-1F7YI8D,United_States,Alexian Brothers Medical Center - Neuroscience Research Institute,,,,,
+708,CDM,IQVIA,AD-4833-TOMM40_303,5009,1-1F9UA4R,United_States,Cleveland Clinic Lou Ruvo Center for Brain Health,,,,,
+709,CDM,IQVIA,AD-4833-TOMM40_303,5016,1-1F9XXEW,United_States,Banner Sun Health Research Institute,,,,,
+710,CDM,IQVIA,AskBio009-101,05,1-1FH21AJ,United_States,Gulf States Hemophilia and Thrombophilia Center,Houston,Texas,77030-4009,Enrollment Closed,6655 Travis StreetSuite 400 HMC
+711,CDM,IQVIA,MLN0002SC-3027,58059,1-20HR6K1,United_States,"Arizona Arthritis & Rheumatology Research, PLLC",,,,,
+712,CDM,IQVIA,MLN0002SC-3027,58061,1-1SHC7CW,United_States,"Long Island Gastrointestinal Research Group, LLP",,,,,
+713,CDM,IQVIA,MLN0002SC-3027,58063,1-213I5UR,United_States,"AGA Clinical Research Associates, LLC",,,,,
+714,CDM,IQVIA,MLN0002SC-3027,58065,1-200VAP4,United_States,"Arkansas Primary Care Clinic, PA",,,,,
+715,CDM,IQVIA,MLN0002SC-3027,58067,1-1SVKRSX,United_States,"Research Concierge, LLC",,,,,
+716,CDM,IQVIA,MLN0002SC-3027,58080,1-213I5U2,United_States,"Options Health Research, LLC",,,,,
+717,CDM,IQVIA,MLN0002SC-3027,58110,1-2BNYLUG,United_States,"Tyler Research Institute, LLC",,,,,
+718,CDM,IQVIA,AskBio009-101,07,1-1FHAHUB,United_States,University of Minnesota,Minneapolis,Minnesota,55455,Closed,424 Harvard Street SEClinical and Translational Science Institute
+719,CDM,IQVIA,AskBio009-101,09,1-1FHAHUU,United_States,Rush University Medical Center,Chicago,Illinois,60612,Closed,"1750 West Harrison StreetProfessional Building, Room 710"
+720,CDM,IQVIA,C05013,0,300294246,United_States,"Maryland Oncology Hematology, P.A.",,,,,
+721,CDM,IQVIA,C05013,0,300337342,United_States,Pharma Resource,,,,,
+722,CDM,IQVIA,C05013,119,300343282,United_States,"Lalita Pandit, MD",,,,,
+723,CDM,IQVIA,C05013,123,300344248,United_States,"Santa Barbara Hematology Oncology Medical Group, Inc.",,,,,
+724,CDM,IQVIA,C05013,2,300293228,United_States,"Coastal Oncology, PL",,,,,
+725,CDM,IQVIA,C05013,26,300299089,United_States,UPMC Cancer Center,,,,,
+726,CDM,IQVIA,C05013,35,300299084,United_States,Florida Cancer Specialists,,,,,
+727,CDM,IQVIA,C05013,45,300302979,United_States,Oncology Care Medical Associates,,,,,
+728,CDM,IQVIA,C05013,62,300313713,United_States,TRIO - Antelope Valley Cancer Center,,,,,
+729,CDM,IQVIA,C05013,76,300308443,United_States,US Oncology Central Research Pharmacy,,,,,
+730,CDM,IQVIA,C05013,77,300308441,United_States,US Oncology Central Research Pharmacy,,,,,
+731,CDM,IQVIA,C05013,8,300293277,United_States,Mid Michigan Physicians,,,,,
+732,CDM,IQVIA,C05013,81,300318098,United_States,Dartmouth-Hitchcock Medical Center,,,,,
+733,CDM,IQVIA,C05013,82,300348992,United_States,Providence Saint Joseph Medical Center,,,,,
+734,CDM,IQVIA,C05013,89,300341764,United_States,"Cancer Care Associates Medical Group, Inc. TORI",,,,,
+735,CDM,IQVIA,C05013,9,300293130,United_States,"Bay Area Cancer Research Group, LLC",,,,,
+736,CDM,IQVIA,C14008PH2,0,300318650,United_States,University of California at San Francisco (PARENT),,,,,
+737,CDM,IQVIA,C14008PH2,0,300339653,United_States,"Pharmaseek, LLC",,,,,
+738,CDM,IQVIA,C14008PH2,58838,300318587,United_States,"California Cancer Care, Inc.",,,,,
+739,CDM,IQVIA,C14008PH2,58840,300335855,United_States,University of Washington School of Medicine,,,,,
+740,CDM,IQVIA,C14008PH2,58843,300341765,United_States,Peggy & Charles Stephenson Oklahoma Cancer Ctr,,,,,
+741,CDM,IQVIA,C14008PH2,58850,300337896,United_States,Florida Cancer Research Institute,,,,,
+742,CDM,IQVIA,C14008PH2,58852,300344027,United_States,Alta Bates Summit Comprehensive Cancer Center,,,,,
+743,CDM,IQVIA,C14008PH2,58854,300341159,United_States,University of Virginia Health System,,,,,
+744,CDM,IQVIA,C14008PH2,58855,300345139,United_States,North Shore Long Island Jewish Medical Center,,,,,
+745,CDM,IQVIA,C14009,58090,300338721,United_States,Oregon Health & Science University,,,,,
+746,CDM,IQVIA,C14011,58004,1-1VM0B3,United_States,University of North Carolina at Chapel Hill,,,,,
+747,CDM,IQVIA,C14011,58005,1-1T4BRC,United_States,Providence Health System,,,,,
+748,CDM,IQVIA,C14012,58002,1-40KYPZ,United_States,"ProMedica Health System, Inc.",,,,,
+749,CDM,IQVIA,C14012,58011,1-3HNWCR,United_States,Providence Saint Joseph Medical Center,,,,,
+750,CDM,IQVIA,C14015,58156,1-CZJ97V,United_States,Institute for Drug Devt Cancer Therapy & Research Ctr,,,,,
+751,CDM,IQVIA,C14015,58157,1-XCXW5O,United_States,Oklahoma University Medical Center,,,,,
+752,CDM,IQVIA,C14018,58103,1-12CQW0J,United_States,Memorial Cancer Institute Breast Cancer Treatment Center,,,,,
+753,CDM,IQVIA,C14018,58111,1-12CSY5T,United_States,Vanderbilt University Medical Center,,,,,
+754,CDM,IQVIA,C14018,58118,1-12D1J0F,United_States,Regents of the University of Minnesota,,,,,
+755,CDM,IQVIA,C14018,58125,1-14H9HXL,United_States,University of California Davis Health System,,,,,
+756,CDM,IQVIA,C14019,5819,1-19D8DV8,United_States,University of Texas Health Science Center at San Antonio,,,,,
+757,CDM,IQVIA,C14019,58193,1-19YE4OX,United_States,Mary Crowley Cancer Research Centers,,,,,
+758,CDM,IQVIA,C16003,58001,300293288,United_States,"H. Lee Moffitt Cancer Center and Research Institute, Inc",,,,,
+759,CDM,IQVIA,C16005PH2,0,300346774,United_States,"Tennessee Oncology, PLLC Chattanooga",,,,,
+760,CDM,IQVIA,C16005PH2,58010,300345181,United_States,New York - Presbyterian/Weill Cornell Medical Center,,,,,
+761,CDM,IQVIA,C16005PH2,58011,300345180,United_States,Mayo Clinic - Rochester,,,,,
+762,CDM,IQVIA,C16005PH2,58022,300344994,United_States,Cancer Center of Central Connecticut,,,,,
+763,CDM,IQVIA,C16005PH2,58029,300347814,United_States,Duke University Medical Center,,,,,
+764,CDM,IQVIA,C16008PH2,58042,1-3H1YJF,United_States,City of Hope Cancer Center,,,,,
+765,CDM,IQVIA,C16008PH2,58057,1-3UW7UA,United_States,Michigan State University,,,,,
+766,CDM,IQVIA,C25004,58003,1-2TD5KLJ,United_States,Washington University,St. Louis,Missouri,63110,Closed,"660 South Euclid Ave, CB 811"
+767,CDM,IQVIA,C26003,58006,1-1B5SO2U,United_States,Vanderbilt-Ingram Cancer Center,,,,,
+768,CDM,IQVIA,C26003,58007,1-1AF1D6H,United_States,Florida Cancer Specialists,,,,,
+769,CDM,IQVIA,C28001,58003,1-CSXG9Q,United_States,Laura & Issac Perimutter Cancer Center,,,,,
+770,CDM,IQVIA,C28001,58004,1-CSXGAA,United_States,University of Colorado Health,,,,,
+771,CDM,IQVIA,C28001,58009,1-20TYEAA,United_States,"Northwest Medical Specialties, PLLC",,,,,
+772,CDM,IQVIA,C28002,58005,1-28MPPO9,United_States,Beth Israel Deaconess HealthCare - Sharon,,,,,
+773,CDM,IQVIA,C31001,58002,1-12O4UED,United_States,University of Colorado Cancer Center,,,,,
+774,CDM,IQVIA,C31001,58006,1-13F6Z2T,United_States,"Texas Oncology, P.A. - Tyler",,,,,
+775,CDM,IQVIA,C31001,58027,1-14N478S,United_States,Herbert Irving Comprehensive Cancer Center,,,,,
+776,CDM,IQVIA,C31001,58031,1-17K4Y1I,United_States,University Hospitals of Cleveland,,,,,
+777,CDM,IQVIA,C31002,58002,1-15B8ISN,United_States,Oklahoma University Medical Center,,,,,
+778,CDM,IQVIA,C32001,58002,1-UX7S06,United_States,START Center,,,,,
+782,CDM,IQVIA,C34002,58005,1-1HLBXB4,United_States,University of Alabama at Birmingham,,,,,
+783,CDM,IQVIA,DEN-307,DEN-307-58010,1-48NCV05,United_States,Hutchinson Clinic,Hutchinson,Kansas,67502,Enrollment Closed,2101 N Waldron Street
+784,CDM,IQVIA,DEN-307,DEN-307-58020,1-4DQG0JD,United_States,Anaheim Clinical Trials,Anaheim,California,92801,Enrollment Closed,1085 North Harbor Blvd
+785,CDM,IQVIA,LuAA21004_402,7017,1-1IUGTC6,United_States,"Collaborative Neuroscience Network, LLC",,,,,
+786,CDM,IQVIA,LuAA21004_402,7018,1-1IUGTU5,United_States,"CNRI - San Diego, LLC",,,,,
+787,CDM,IQVIA,LuAA21004_402,7025,1-1IUGTRT,United_States,"Lake Charles Clinical Trials, LLC",,,,,
+788,CDM,IQVIA,LuAA21004_402,7027,1-1IUFW2Z,United_States,"FutureSearch Clinical Trials, L.P.",,,,,
+789,CDM,IQVIA,LuAA21004_402,7039,1-1IUHPVS,United_States,"Mid-America Clinical Research, LLC",,,,,
+790,CDM,IQVIA,LuAA21004_402,7045,1-1IUE9WM,United_States,"Clinical Trials of America, Inc",,,,,
+791,CDM,IQVIA,LuAA21004_402,7050,1-1IUEOZ6,United_States,"Bayou City Research, Ltd.",,,,,
+792,CDM,IQVIA,LuAA21004_402,7056,1-1IUEP1H,United_States,Medical University of South Carolina (MUSC),,,,,
+793,CDM,IQVIA,LuAA21004_402,7063,1-1OOOQI6,United_States,University of Pennsylvania School of Medicine,,,,,
+794,CDM,IQVIA,LuAA21004_402,7082,1-2XEXYQ3,United_States,"Pharmasite Research, Inc.",,,,,
+795,CDM,IQVIA,LuAA21004_402,7085,1-37FU6S0,United_States,"Manhattan Behavioral Medicine, PLLC",,,,,
+796,CDM,IQVIA,MLN0002-3026,58012,1-1QU221Z,United_States,"Allegiance Research Specialists, LLC",,,,,
+797,CDM,IQVIA,MLN0002-3026,58017,1-1SVV7PC,United_States,"Ehrhardt Clinical Research, LLC",,,,,
+798,CDM,IQVIA,MLN0002-3026,58029,1-1QW9QGQ,United_States,Gastroenterology Associates of Tidewater,,,,,
+799,CDM,IQVIA,MLN0002-3026,58036,1-1VB5JCG,United_States,Clinical Research Center of Florida,,,,,
+800,CDM,IQVIA,MLN0002-3026,58046,1-1QU21KR,United_States,University of Michigan,,,,,
+801,CDM,IQVIA,MLN0002-3026,58048,1-1REFWIQ,United_States,"Gastroenterology Consultants of South Texas, PA",,,,,
+802,CDM,IQVIA,MLN0002-3026,58053,1-1Y49SPK,United_States,South Florida Research Phase I-IV,,,,,
+803,CDM,IQVIA,MLN0002-3026,58072,1-1QTWXR5,United_States,University of Louisville,,,,,
+804,CDM,IQVIA,MLN0002-3026,58108,1-26WZCFU,United_States,Texas Digestive Disease Consultants - Dallas,,,,,
+805,CDM,IQVIA,MLN0002-3026,58111,1-1UGLIIE,United_States,Consultants for Clinical Research Inc.,,,,,
+806,CDM,IQVIA,MLN0002-3026,58118,1-1UEBPD1,United_States,"Connecticut GI, PC, Research Division",,,,,
+807,CDM,IQVIA,MLN0002-3028,7005,1-1GIX7N3,United_States,Boston Medical Center,,,,,
+808,CDM,IQVIA,MLN0002-3028,7022,1-1G0KKXA,United_States,Gastroenterology Center of the MidSouth PC,,,,,
+809,CDM,IQVIA,MLN0002SC-3027,58001,1-1US6D3M,United_States,"Cotton-O'Neil Clinical Research Center, Digestive Health",,,,,
+810,CDM,IQVIA,MLN0002SC-3027,58022,1-1T6HZ3K,United_States,Texas Digestive Disease Consultants - Southlake,,,,,
+811,CDM,IQVIA,MLN0002SC-3027,58023,1-1RW8566,United_States,"Clinical Research Institute of Michigan, LLC",,,,,
+812,CDM,IQVIA,MLN0002SC-3027,58040,1-1WKJS4S,United_States,"Premier Medical Group of the Hudson Valley, PC",,,,,
+813,CDM,IQVIA,MLN0002SC-3027,58073,1-1XK11BT,United_States,"Kindred Medical Institute for Clinical Trials, LLC",,,,,
+814,CDM,IQVIA,MLN0002SC-3027,58085,1-1S8VBHI,United_States,"Rocky Mountain Clinical Research, LLC",,,,,
+818,CDM,ICON,C25001,58007,,United_States,Laboratory Supplies,Massachusetts,Boston,02118,ACTIVE,820 Harrison AvenueFGH Building2nd Floor
+819,CDM,ICON,C25001,58009,,United_States,David Geffen School of Medicine at UCLA,California,Los Angeles,90024,ACTIVE,"Clinical Trials Contract OfficeBox 95717010911 Weyburn Ave, 3rd Floor"
+820,CDM,ICON,C25001,58009,,United_States,Division Of Hematology & Oncology,California,Los Angeles,90095,ACTIVE,"Ucla Medical Center, Chs 42-121"
+823,CDM,ICON,C25001,58009,,United_States,UCLA Medical Center,California,Los Angeles,90095,ACTIVE,"Clinical Research Unit10945 Le Conte Ave, Ste 3360"
+824,CDM,ICON,C25001,,,United_States,Emory University School of Medicine,Georgia,Atlanta,30322,ACTIVE,"Emory Clinic, Building A1365 Clifton Rd. NE, Suite 1100"
+826,CDM,ICON,C25003,,,United_States,Community Medical Center IRB,California,Fresno,93701,ACTIVE,155 N. Fresno St.Suite 290
+827,CDM,ICON,C25003,,,United_States,Investigational Drug Service,Ohio,Columbus,43210,ACTIVE,368 Doan Hall410 West 10th Avenue
+828,CDM,ICON,C25001,58007,,United_States,Boston University,Massachusetts,Boston,02118,ACTIVE,Boston  University820 Harrison AvenueFGH Building - 2nd Floor
+835,CDM,ICON,C25003,,,United_States,"Memorial Sloan-Kettering Cancer Center, West Harrison",New York,New York,10604,ACTIVE,500 Westchester Avenue
+836,CDM,ICON,C25003,,,United_States,Montefiore Medical Center,New York,Bronx,10467,ACTIVE,"111 E. 210th Street, Second Floor"
+838,CDM,ICON,C25003,,,United_States,Phillips Ambulatory Care Center,New York,New York,10003,ACTIVE,"Beth Israel Medical Center10 Union Square East,Suite 4B02"
+843,CDM,ICON,C25003,,,United_States,University of Alabama at Birmingham Comprehensive Cancer Center,Alabama,Birmingham,35294-3300,ACTIVE,"1802 Sixth Avenue South, 2540 North Pavilion"
+845,CDM,IQVIA,MLN0002SC-3030,58004,1-262JKE6,United_States,Gastroenterology Associates of Central Georgia,Macon,Georgia,31201,Enrollment Open,610 Third StreetSuite 204
+849,CDM,ICON,C25001,58003,,United_States,UPMC Medical Arts Building,Pennsylvania,Pittsburgh,15213,ACTIVE,"University of Pittsburgh Medical Center3708 Fifth Avenue, 5th FloorMedical Arts Building"
+852,CDM,ICON,C25001,58005,,United_States,Research Compliance Office,California,Palo Alto,94304,ACTIVE,1501 S. California Ave
+854,CDM,ICON,C25003,58001,,United_States,Virginia Mason Medical Center,Washington,Seattle,98101,ACTIVE,1100 9th Ave
+855,CDM,ICON,C25003,58001,,United_States,Virginia Mason Medical Center St.Coor.,Washington,Seattle,98101,ACTIVE,"1201 9th Ave, D4-CRP"
+857,CDM,ICON,C25003,,,United_States,University of Kansas Hospital,KS 66205,Fairway,66205,ACTIVE,"4350 Shawnee Mission ParkwaySuite 1500, Mail Stop 6004"
+859,CDM,ICON,C25003,,,United_States,Wenatchee Medical Center,Washington,Wenatchee,98821,ACTIVE,820 N. Chelan Ave.
+860,CDM,ICON,C25003,,,United_States,Yeshiva University - Albert Einstein College of Medicine - Montefiore Medical Center (MMC),New York,Bronx,10467-2401,ACTIVE,111 E 210th St
+862,CDM,ICON,C25001,58009,,United_States,UCLA Investigational Pharmacy,California,Los Angeles,90095,ACTIVE,"Department of Pharmaceutical Services757 Westwood Plaza, Room B524"
+865,CDM,ICON,C25003,,,United_States,City of Hope,California,Duarte,91010-3000,ACTIVE,1500 East Duarte Road
+867,CDM,ICON,C25003,,,United_States,Kaiser Permanente - Rock Creek Medical Offices,Colorado,Lafayette,80026-3370,ACTIVE,280 Exempla Circle
+868,CDM,ICON,C25003,,,United_States,Kaiser Permanente Medical Center,California,Vallejo,94589,ACTIVE,975 Sereno Drive
+873,CDM,ICON,C25003,58007,,United_States,"Hematologic Malignancies,Johns Hopkins University",Maryland,Baltimore,21205-2020,ACTIVE,"550 North Broadway, Suite 801C1650 Orleans St"
+874,CDM,ICON,C25003,58008,,United_States,Saint Francis Cancer Center,South Carolina,Greenville,29607,ACTIVE,104 Innovation Drive
+876,CDM,ICON,C25003,58013,,United_States,UMGCC,Maryland,Baltimore,21201,ACTIVE,22 South Greene Street
+877,CDM,ICON,C25003,58014,,United_States,Wayne State University - Barbara Ann Karmanos Cancer Institute,Michigan,Detroit,48201,ACTIVE,4100 John R
+879,CDM,ICON,C25003,58016,,United_States,Comprehensive Cancer Centers Of Nevada,Nevada,Las Vegas,89148,ACTIVE,9280 W. Sunset Road
+880,CDM,ICON,C25003,58016,,United_States,Comprehensive Care Centers Of Nevada,Nevada,Las Vegas,89052,ACTIVE,3730 S. Eastern Ave.
+881,CDM,ICON,C25003,58020,,United_States,Center for Cancer and Blood Disorders,Maryland,Bethesda,20817,ACTIVE,6410 Rockledge DriveSuite 660
+882,CDM,ICON,C25003,58025,,United_States,Clinical and Translational Research Unit (Patient treatment location),California,Palo Alto,94304,ACTIVE,800 Welch Rd - FC 2C63
+886,CDM,ICON,C25003,,,United_States,Medical University of South Carolina Investigational Drug Pharmacy,South Carolina,Charleston,29425,ACTIVE,"169 Ashley Avenue, Suite 161"
+888,CDM,ICON,C25003,,,United_States,Memorial Sloan-Kettering Cancer Center,New York,Commack,11725-5404,ACTIVE,650 Commack Rd
+890,CDM,ICON,C25003,,,United_States,Monitoring will be performed at:,,,,ACTIVE,"633 3rd Avenue, NY, NY 10016"
+892,CDM,ICON,C25003,,,United_States,Ohio State University Medical Center,Ohio,Columbus,43202,ACTIVE,650 Ackerman Road
+894,CDM,ICON,C25003,,,United_States,UCSF Fresno - Central Lab Kit shipments,California,Fresno,93701,ACTIVE,155 North Fresno StreetSuite 319
+897,CDM,ICON,C25003,58026,,United_States,Dana-Farber Cancer Institute,Massachusetts,Boston,02215,ACTIVE,450 Brookline AvenueMayers 227
+898,CDM,ICON,C25003,58032,,United_States,UCLA Human Reserch Protection Program,California,Los Angeles,90095-1406,ACTIVE,"10889 Wilshire Blvd, Ste 830Suite 600"
+899,CDM,ICON,C25003,58032,,United_States,UCLA Santa Clarita Cancer Center,California,Valencia,91355-4466,ACTIVE,23929 Mcbean ParkwaySuite 600
+900,CDM,ICON,C25003,58034,,United_States,Mid Dakota Clinic,North Dakota,Bismarck,58501,ACTIVE,401 North 9th Street
+901,CDM,ICON,C25003,58035,,United_States,"Holden Comprehensive Cancer Center, University of Iowa Hospitals and Clinics",Iowa,Iowa City,52242,ACTIVE,200 Hawkins Drive200 Hawkins DriveC-32 GH
+902,CDM,ICON,C25003,58035,,United_States,WIRB,IA,Iowa City,52242,ACTIVE,WIRB200 Hawkins DriveC-32 GH
+903,CDM,ICON,C25003,58036,,United_States,University of Nebraska,Nebraska,Omaha,68198-7680,ACTIVE,Department of Internal MedicineSection of Hematology-Oncology987680 Nebraska Medical Center
+904,CDM,ICON,C25003,58037,,United_States,WIRB,CA,Santa Barbara,93108,ACTIVE,WIRB540 West Pueblo St
+905,CDM,ICON,C25003,58040,,United_States,Midwestern Regional Medical Center,Illinois,Zion,60099,ACTIVE,2520 Elisha Avenue
+906,CDM,ICON,C25003,58042,,United_States,Local Laboratory,Florida,St. Augustine,32207,ACTIVE,9 San Bartoria Drive
+907,CDM,ICON,C25003,58042,,United_States,Mayo Clinic,Florida,Jacksoncille,32224,ACTIVE,"4500 San Pablo RoadDavis Bldg., 519E-2"
+908,CDM,ICON,C25003,58045,,United_States,Sponsor monitoring central office,Tennessee,Nashville,37203,ACTIVE,Sarah Cannon Research Institute (SCRI)250 25th Avenue NorthSuite 110
+913,CDM,ICON,C25003,,,United_States,The University of Kansas Cancer Center,Kansas,Fairway,66205,ACTIVE,4350 Shawnee Mission PKWYSuite 1300
+916,CDM,ICON,C25003,58046,,United_States,University of Michigan,Michigan,Ann Arbor,48109,ACTIVE,Cancer Center1500 E. Medical Center DriveRoom 4316
+917,CDM,ICON,C25003,58046,,United_States,University of Michigan Health System (UMHS) - University Hospital (University of Michigan Medical Center),Michigan,Ann Arbor,48109,ACTIVE,1500 E Medical Center Drive1500 E. Medical Center DriveRoom 4316
+918,CDM,ICON,C25003,58047,,United_States,MED College Wisconsin/Froedtert Hosp IRB,Wisconsin,Milwaukee,53226,ACTIVE,8701 Watertown Plank Rd9200 W. Wisconsin Ave
+923,CDM,ICON,C25003,58051,,United_States,Pharmacy,IL,Chicago,LC-700,ACTIVE,251 East Huron
+924,CDM,ICON,C25003,58057,,United_States,CAY - Satellite Site,Florida,Cape Coral,33914,ACTIVE,1708 Cape Coral Pkwy WSuite 10
+925,CDM,ICON,C25003,58057,,United_States,COL - Satellite Site,Florida,Fort Myers,33905,ACTIVE,8931 Colonial Center DriveSuite 300
+927,CDM,ICON,C25003,58057,,United_States,Florida Cancer Specialists - South,Florida,Fort Myers,33916,ACTIVE,4331 Veronica S. Shoemaker Boulevard
+929,CDM,ICON,C25003,58057,,United_States,NPW - Satellite Site,Florida,Naples,34102,ACTIVE,681 Fourth Ave N.
+932,CDM,ICON,C25003,58061,,United_States,"Weill Cornell Medical College, IP address",New York,New York,10065,ACTIVE,525 E. 68th StreetRoom K304
+933,CDM,ICON,C25003,58064,,United_States,Arizona Oncology Associates--HOPE Division,Arizona,Tucson,85704,ACTIVE,603 Wilmot Rd.Suite 151
+935,CDM,ICON,C25003,58064,,United_States,WIRB,AZ,Tucson,85704,ACTIVE,WIRBSuite 151
+937,CDM,ICON,C25003,58070,,United_States,"The West Clinic, P.C. dba West Cancer Center",Tennessee,Memphis,38120,ACTIVE,100 N Humphreys BlvdSuite 200
+938,CDM,ICON,C25003,58073,,United_States,VCU Massey Cancer Center,Virginia,Richmond,&nbsp;23298,ACTIVE,"401 College Street, PO Box 980037"
+939,CDM,ICON,C25003,58077,,United_States,Mercy Health Springfield Communities IRB,Missouri,Springfield,65804,ACTIVE,1235 East Cherokee StreetSte 1000
+942,CDM,ICON,C25003,58084,,United_States,Illinois Cancer Specialists-The US Oncology Network,Illinois,Niles,60714-5905,ACTIVE,8915 W Golf Rd
+943,CDM,IQVIA,MLN0002SC-3030,58001,1-262H2XB,United_States,"Cotton-O'Neil Clinical Research Center, Digestive Health",Topeka,Kansas,66606,Enrollment Open,720 Southwest Lane Street
+944,CDM,IQVIA,MLN0002SC-3030,58029,1-262JKKU,United_States,Gastroenterology Associates of Tidewater,Chesapeake,Virginia,23320,Enrollment Closed,112 Gainsborough SquareSuite 200
+945,CDM,IQVIA,MLN0002SC-3030,58035,1-262JKFP,United_States,"BRCR Medical Center, Inc.",Pembroke Pines,Florida,33028,Closed,601 North Flamingo RoadSuite 309
+946,CDM,IQVIA,MLN0002SC-3030,58065,1-2JLA9ZJ,United_States,"Arkansas Primary Care Clinic, PA",Little Rock,Arkansas,72204,Closed,6209 West 12th Street
+947,CDM,IQVIA,MLN0002SC-3030,58080,1-262JKJG,United_States,"Options Health Research, LLC",Tulsa,Oklahoma,74104,Enrollment Open,"1145 South Utica, Suite 514"
+948,CDM,IQVIA,MLN0002SC-3030,58105,1-2BO0QCI,United_States,"Metropolitan Gastroenterology Group, PC, Chevy Chase Clinical Research",Chevy Chase,Maryland,20815,Enrollment Open,5550 Friendship BoulevardSuite T-90
+949,CDM,IQVIA,MLN0002SC-3030,58121,1-2Q5P5T5,United_States,Digestive Health Center PA,Ocean Springs,Mississippi,39564,Closed,3890 Bienville Blvd.
+950,CDM,IQVIA,MLN0002SC-3030,58018,1-262JK6O,United_States,University of Washington School of Medicine,Seattle,Washington,98104,Dropped,"325 9th Ave, Box 359775"
+951,CDM,IQVIA,MLN0002SC-3030,58023,1-262IGXL,United_States,"Clinical Research Institute of Michigan, LLC",Chesterfield,Michigan,48047,Enrollment Open,30795 23 Mile RoadSuite 206
+952,CDM,IQVIA,MLN0002SC-3030,58039,1-262IGR2,United_States,"Gastroenterology Associates, LLC",Baton Rouge,Louisiana,70809,Enrollment Open,"9103 Jefferson Hwy, 2nd Floor Research"
+953,CDM,IQVIA,MLN0002SC-3030,58051,1-262JKD7,United_States,Florida Center for Gastroenterology,Largo,Florida,33777,Prematurely Closed,8250 Bryan Dairy Road
+954,CDM,IQVIA,MLN0002SC-3030,58063,1-262JK1X,United_States,"AGA Clinical Research Associates, LLC",Egg Harbor Township,New Jersey,08234,Closed,3205 Fire Road
+955,CDM,IQVIA,MLN0002SC-3030,58064,1-262JK50,United_States,Westview Clinical Research,Long Beach,California,90804,Dropped,"2990 E. Pacific Coast Hwy,"
+956,CDM,IQVIA,MLN0002SC-3030,58067,1-2FHLDUH,United_States,"Research Concierge, LLC",Owensboro,Kentucky,42303,Dropped,4403 Old Hartford Road
+957,CDM,IQVIA,MLN0002SC-3030,58109,1-2GXEHUN,United_States,Huron Gastroenterology Associates,Ypsilanti,Michigan,48197,Closed,5300 Elliott Dr.Suite 201
+958,CDM,IQVIA,MLN0002SC-3030,58120,1-2BO0QBO,United_States,San Antonio Gastroenterology,San Antonio,Texas,78212,Enrollment Open,520 East Euclid Ave.
+959,CDM,ICON,C25003,58085,,United_States,Cancer Care Centers of South Texas - New Braunfels Satellite Location,Texas,New Braunfels,78130,ACTIVE,1448 East Common Street
+961,CDM,ICON,C25003,58087,,United_States,Texas Oncology - Longview,Texas,Longview,75601,ACTIVE,1300/1400 North 4th St.
+963,CDM,ICON,C25003,58088,,United_States,Texas Oncology,Texas,Round Rock,78681,ACTIVE,2410 Round Rock Avenue
+965,CDM,ICON,C25003,58088,,United_States,Texas Oncology - Round Rock,Texas,Round Rock,78681,ACTIVE,2410 Round Rock AvenueSuite 150
+966,CDM,ICON,C25003,58088,,United_States,Texas Oncology-Austin Midtown,Texas,Austin,78705,ACTIVE,901 West 38th Street
+968,CDM,ICON,C25003,58089,,United_States,"Northwest Cancer Specialists, West Office",Oregon,Portland,97225,ACTIVE,9555 SW Barnes Rd.Suite 150
+970,CDM,ICON,C25003,58092,,United_States,"Suburban Hematology-Oncology Associates, P.C.",Georgia,Snellville,30078-6756,ACTIVE,1700 Tree Lane
+972,CDM,ICON,C25003,58098,,United_States,Howard University Hospital,District Of Columbia,Washington,20060,ACTIVE,2041 Georgia Ave NWTowers Building
+973,CDM,ICON,C25003,58001,,United_States,Virginia Mason Medical Center (VMMC) - Floyd and Delores Jones Cancer Institute,Washington,Seattle,,ACTIVE,1100 9th Ave Level 2
+974,CDM,ICON,C25003,58001,,United_States,Virginia Mason Seattle Main Clinic,Washington,Seattle,98101,ACTIVE,"1100 Ninth Avenue, MS: C2-HEM"
+976,CDM,ICON,C25003,58004,,United_States,Regulatory Review Location,New York,Rochester,14623,ACTIVE,"211 White Spruce Blvd601 Elmwood Avenue, Box 704"
+977,CDM,ICON,C25003,58005,,United_States,West Viriginia University School of Medicine,West Virginia,Morgantown,26506,ACTIVE,RCB Health Sciences Center
+978,CDM,ICON,C25003,58006,,United_States,West Medical Pharmacy,CA,Fullerton,92835,ACTIVE,West Medical Pharmacy
+979,CDM,IQVIA,MLN0002SC-3031,58002,1-1TPM3FS,United_States,"Nature Coast Clinical Research, LLC",Inverness,Florida,34452,Closed,411 West Highland Boulevard
+981,CDM,IQVIA,MLN0002SC-3031,58049,1-1XN1RLO,United_States,Gastroenterology Group of Naples,Naples,Florida,34102,Closed,1064 Goodlette Road
+982,CDM,IQVIA,MLN0002SC-3031,58059,1-1XQS246,United_States,"Arizona Arthritis & Rheumatology Research, PLLC",Phoenix,Arizona,85307,Closed,"9520 West Palm Lane, Suite 220"
+983,CDM,IQVIA,MLN0002SC-3031,58061,1-1SHCG3B,United_States,"Long Island Gastrointestinal Research Group, LLP",Great Neck,New York,11023,Dropped,310 East Shore Road
+984,CDM,IQVIA,MLN0002SC-3031,58085,1-1S8WEZ1,United_States,"Rocky Mountain Clinical Research, LLC",Golden,Colorado,80401,Dropped,29 Rogers Ct.
+986,CDM,IQVIA,MLN0002SC-3031,58122,1-30ROT0Z,United_States,Florida Research Institute,Lakewood Ranch,Florida,34211,Dropped,10920 Technology Terrace
+987,CDM,ICON,C25003,58001,,United_States,IDS Pharmacy,Washington,Seattle,98101,ACTIVE,Mailstop H3-PI925 Seneca Street
+990,CDM,ICON,C25003,58005,,United_States,"WVU Division of Hematology & Oncology, MBRCC",West Virginia,Morgantown,26506,ACTIVE,One Medical Center Drive
+991,CDM,ICON,C25003,58007,,United_States,Oncology Investigational Drug Service,Maryland,Baltimore,21287,ACTIVE,Department of Pharmacy ServicesThe Harry and Jeanette Weinberg Building at Johns Hopkins401 North Broadway / Room 2432
+992,CDM,ICON,C25003,58008,,United_States,Hematology And Oncology Associates Of Sc,South Carolina,Greenville,29615,ACTIVE,"Eastside Medical Center, 65 International Drive"
+993,CDM,ICON,C25003,58009,,United_States,Department of Lymphoma & Myeloma,Texas,Houston,77030,ACTIVE,1400 Holcombe Blvd.FC6.3063 Unit. 429
+997,CDM,ICON,C25003,58008,,United_States,Saint Francis Hospital,South Carolina,Greenville,29651,ACTIVE,One Saint Francis Drive

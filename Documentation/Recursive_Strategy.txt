@@ -1,0 +1,48 @@
+Recursive logic to handle incoming country-wise batch >5000 records:
+main_df=query_output
+MAXSIZE=5000
+For c in country:
+	country_df=main_df[country==c]
+	nrows=country_df.shape[0]	# 20,034
+	m=(nrows//MAXSIZE)+1		# 5
+	CR_df=pd.DataFrame()		# 20,034
+	csv_file_names=list()
+	for i=0 to m:
+		df[i]=country_df[i*MAXSIZE : (i+1)*MAXSIZE]
+		> Dedup function df[i] using existing R code
+		Create master for df[i] : M_df[i]
+		Create cross-ref for df[i] : CR_df[i]
+		new_file_name=curr_country+'_'+i+'_Master.csv'
+		csv_file_names.append(new_file_name)
+		Write csv for M_df[i] with new_file_name
+		if i>0:
+			CR_df=CR_df.append(CR_df[i])
+		del df[i], M_df[i], CR_df[i]
+	
+	# Number of levels for the recursive computations
+	d=(m+1)//2
+	
+	for j in range(1,d+1):
+		M_CR_df=pd.DataFrame()
+		n_csvs_to_read=len(csv_file_names)
+		length=n_csvs_to_read%2==0 ? n_csvs_to_read : n_csvs_to_read+1
+		for i in range(0, length, 2):
+			M_df_file1=csv_file_names[i]
+			if i+1<n_csvs_to_read:
+				M_df_file2=csv_file_names[i+1]
+				Read CSVs of M_df[i], M_df[i+1]
+				> Linkage function M_df[i] with M_df[i+1] using R code
+				Create master : MM_DF[i]
+				Create cross-ref : M_CR_df[i]
+			else:
+				Read CSVs of M_df[i]
+				Create master : MM_DF[i]
+				M_CR_df[i]=CR_df[CR_df['SR_NUM_1'].isin(MM_DF[i]['SR_NUM_1'])]
+			
+			new_file_name=curr_country+'_d'+j+'_'+i+'_Master.csv'
+			csv_file_names.append(new_file_name)
+			Write csv for MM_DF[i] with new_file_name	
+			M_CR_df=M_CR_df.append(M_CR_df[i])
+		Write overall cross-ref M_CR_df for depth=j into a csv
+		Update all RHS values of CR_df by joining M_CR_df on SR_NUM_1 wherever match occurs
+		csv_file_names=csv_file_names[n_csvs_to_read:]
