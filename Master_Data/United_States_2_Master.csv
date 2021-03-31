@@ -1,0 +1,263 @@
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,CONCAT_ADDRESS
+17410,CDM,IQVIA,TAK-831-2002,58024,1-4OSRFDJ,United_States,suburban research associates,media,pennsylvania,19063,,107 chesley dr unit 2
+17411,CDM,PPD,SHP647-301,1-ZGHK87,,United_States,regional gastrointestinal,pennsylvania,yardley,19067,,301 oxford valley roadsuite 804a
+17413,CDM,PPD,SHP647-301,1-YBATPD,,United_States,university of pennsylvania health system,pennsylvania,radnor,190875220,,250 king of prussia roadpenn medicine radnor
+17415,CDM,PPD,C16014,1-E471A,,United_States,lankenau medical center,pennsylvania,wynnewood,19096,,100 lancaster avenue
+17418,CDM,PRA,AP26113-11-101,013,1-1GR5I7Z,United_States,abramson cancer center,pa,philadelphia,19104,,3400 civic center boulevard16 penn tower building
+17420,CDM,ICON,C25003,,87090,United_States,abramson cancer center,pennsylvania,philadelphia,19104,,3400 spruce street16 penn tower
+17421,CDM,PPD,C16021,1-8JFYCZ,,United_States,abramson cancer center of the university of pennsylvania,pennsylvania,philadelphia,19104,,3400 civic center boulevard
+17429,CDM,PPD,SHP611-201,002,,United_States,childrens hospital of philadelphia,pennsylvania,philadelphia,19104,,3401 civic center blvdabramson research center514e
+17449,CDM,IQVIA,071102,122,1-2IR7KMU,United_States,childrens hospital of philadelphia,philadelphia,pennsylvania,19104,,3501 civic center blvd 11th fl 1110024
+17452,CDM,PPD,TAK-341-1001,1-9W3RGK4,,United_States,hospital of the university of pennsylvania,pennsylvania,philadelphia,19104,,3400 civic center blvdperelman school of medicine
+17457,CDM,PPD,TAK-079-1005,1-5D8IV1X,,United_States,penn presbyterian medical center,pennsylvania,philadelphia,19104,,3737 market street8th floor neurology
+17458,CDM,PRA,C34004,58001,1-1CBJ9WH,United_States,perelman center for advanced medicine,pa,philadelphia,19104,,3400 civic center boulevardacc cru lymphoma 12 south pavillionroom 12182
+17463,CDM,PPD,TAK-788-2001,1-74VG4PK,,United_States,university of pennsylvania,pennsylvania,philadelphia,19104,,3400 civic center blvd1st floor
+17483,CDM,IQVIA,SHP655-201,505,1-45C7MWV,United_States,university of pennsylvania health system,philadelphia,pennsylvania,19104,,3620 hamilton walkoffice of clinical research
+17489,CDM,PPD,SHP647-305,1-XE1D2F,,United_States,university of pennsylvania,pennsylvania,philadelphia,191044206,,3400 spruce streetperelman school of medicine
+17500,CDM,PPD,SHP647-305,1-ZGHK4D,,United_States,penn gi  the endoscopy center of pennsylvania hospital,pennsylvania,philadelphia,19106,,230 w washington sqfloor 4
+17502,CDM,PPD,C16021,1-8JW0K2,,United_States,pennsylvania oncology hematology associates,pennsylvania,philadelphia,19106,,230 west washington square
+17506,CDM,PPD,C16014,1-FDPFE,,United_States,bodine center for cancer research,pennsylvania,philadelphia,19107,,111 south 11th street
+17507,CDM,PPD,TAK-079-1004,1-5QGG65Z,,United_States,cardeza foundation hemophilia center,pennsylvania,philadelphia,19107,,1015 chestnut streetsuite 1020
+17508,CDM,PPD,SHP647-303,1-15ZFJXT,,United_States,drexel university college of medicine,pennsylvania,philadelphia,19107,,219 north broad streetthe arnold t berman md building 5th floor
+17516,CDM,PPD,TAK-007-2001,1-7FJ0MF4,,United_States,jefferson university physicians,pennsylvania,philadelphia,19107,,925 chestnut streetjefferson medical oncology associates
+17529,CDM,PPD,MLN0002-3024,1-7JXXRIX,,United_States,nemours childrens clinic,pennsylvania,philadelphia,191074428,,833 chestnut st ste 1210suite 204
+17530,CDM,PPD,C16021,1-8IWM0C,,United_States,thomas jefferson university,pennsylvania,philadelphia,191075099,,1015 walnut streetcurtis building
+17532,CDM,PPD,TAK-071-2002,58017,,United_States,university of pennsylvania,pennsylvania,philadelphia,191076103,,330 s 9th stdept of neurology3rd floor
+17534,CDM,PPD,TAK-079-1004,1-5QHJUZ0,,United_States,design science,pennsylvania,philadelphia,19109,,123 broad street
+17535,CDM,PRA,C16038,10027,1-1HKOO4A,United_States,fox chase cancer center,pa,philadelphia,19111,,333 cottman avenueroom c307
+17537,CDM,PPD,TAK-981-1503,1-COG9XVD,,United_States,fox chase cancer center,pennsylvania,philadelphia,19111,,333 cottman avenuedepartment of diagnostic imaginghospital building
+17565,CDM,PPD,SHP647-301,1-111XYOT,,United_States,gastroentestinal specialists,pennsylvania,philadelphia,19114,,3998 red lion road cancer centersuite 240
+17572,CDM,PPD,C16029,1-YQMM9G,,United_States,greater philadelphia cancer and hematology specialists pc,pennsylvania,philadelphia,19114,,3998 red lion road
+17574,CDM,PPD,TAK-071-2002,1-BAXBOQ0,,United_States,drexel university college of medicine,pennsylvania,philadelphia,19129,,2900 west queen lane queen lane medical campus hahnemann school of medic
+17575,CDM,PPD,Pevonedistat-3001,1-16QX741,,United_States,thomas jefferson university,pennsylvania,philadelphia,19131,,3905 ford roadsidney kimmel cancer centersuite 420a
+17576,CDM,PPD,SHP607-202,1-15NMZWZ,,United_States,st christophers hospital for children,pennsylvania,philadelphia,19134,,160 east erie avenue
+17586,CDM,IQVIA,471101,103,1-1OXYKRO,United_States,temple university of the commonwealth system of higher education,philadelphia,pennsylvania,19140,,3401 north broad streetparkinson pavilion 7th floor
+17587,CDM,PPD,Pevonedistat-1016,1-3SBUQYF,,United_States,temple university hospital,pennsylvania,philadelphia,191405101,,3307 n broad st rm 154fels institute for cancer research  molecular biologyroom 154
+17588,CDM,PPD,SHP647-301,1-Y22SCN,,United_States,albert einstein medical center,pennsylvania,philadelphia,19141,,5501 old york roadklein building
+17592,CDM,PPD,SHP647-307,1-24H1ENB,,United_States,main line gastroenterology assoc,pennsylvania,malvern,19355,,325 west central avenuesuite 200
+17599,CDM,PPD,SHP647-301,1-ZI69G7,,United_States,pivotal clinical research,pennsylvania,malvern,19355,,325 central avenuesuite 200suite 200
+17601,CDM,PPD,C16014,1-LODXE,,United_States,chester county hemonc,pennsylvania,west chester,19380,,440 east marshall street
+17602,CDM,PPD,C16014,1-HDKNL,,United_States,cantor biermann,pennsylvania,norristown,19401,,834 walnut st suite 110suite 308
+17603,CDM,PPD,C16014,1-HGO8F,,United_States,montgomery hospital,pennsylvania,norristown,19401,,1301 powell streethematolog internal medicine oncologysuite 308
+17604,CDM,PPD,SHP647-302,1-22G0NIY,,United_States,pottstown medical specialists inc,pennsylvania,pottstown,19464,,1591 medical drive
+17611,CDM,PPD,C16014,1-FT0BP,,United_States,pottstown memorial regional cancer center,pennsylvania,pottstown,19464,,1600 east high street
+17612,CDM,PPD,SHP647-302,1-1WS1RQQ,,United_States,digestive disease associates,pennsylvania,wyomissing,19610,,1011 reed ave
+17619,CDM,PRA,TAK-906-2002,58049,1-1MTNUXP,United_States,digestive disease associates  wyomissing,pa,wyomissing,19610,,1011 reed avenuesuite 300
+17621,CDM,IQVIA,TAK-994-1501,58036,1-50QU74J,United_States,respiratory specialists,wyomissing,pennsylvania,19610,,2608 keiser blvd
+17622,CDM,PPD,SHP647-305,1-24UHI1A,,United_States,digestive disease associates ltd,pennsylvania,west reading,19611,,301 south 7th avenuesuite 215
+17629,CDM,PPD,SHP647-304,1-24PMIFY,,United_States,gastroenterology specialists of delaware,delaware,newark,19702,,2600 glasgow avenuesuite 106
+17636,CDM,PPD,C16014,1-CK4Z2,,United_States,christiana care health system,delaware,newark,19713,,200 hygeia drive
+17640,CDM,PPD,SHP647-301,1-109GCPK,,United_States,gastroenterology associate,delaware,newark,19713,,4745 ogletown stanton roadmedical arts pavilionsuite 134
+17643,CDM,PPD,TAK-981-1501,58115,,United_States,medical oncology hematology consultants,delaware,newark,197137007,,4701 ogletown stanton rd ste 3400
+17645,CDM,PPD,Ponatinib-1501,58004,,United_States,alfred i dupont hospital for children,delaware,wilmington,19803,,1600 rockland roadnemours neuroscience center
+17652,CDM,PPD,SHP647-305,1-24QTFMI,,United_States,delaware digestive diseases associates pa,delaware,seaford,19973,,904 middleford road
+17659,CDM,PPD,SHP647-301,1-ZH6JLB,,United_States,capital digestive care,district of columbia,washington,20006,,2021 k street nwsuite t110
+17666,CDM,ICON,C25003,,5768,United_States,georgetown university,district of columbia,washington,20007,,3800 reservoir road nw
+17667,CDM,PPD,TAK-071-2002,1-E0H5VI3,,United_States,georgetown university medical center,district of columbia,washington,20007,,3800 reservoir roadlombardi cancer center
+17687,CDM,IQVIA,SHP655-201,507,1-45C99ID,United_States,georgetown university hospitalmedstar,washington,district of columbia,200072113,,3800 reservoir rd nwphc building 7th floor
+17690,CDM,PPD,SHP647-301,1-YBATR4,,United_States,chevy chase endoscopy center,district of columbia,washington,20010,,106 irving street northwestsuite 205
+17692,CDM,PRA,SYR-322_309,58036,1-1NHUR4Y,United_States,childrens national health system,dc,washington,20010,,111 michigan avenue northwest
+17696,CDM,PPD,SHP621-301,301-143,,United_States,childrens national medical center,district of columbia,washington,20010,,111 michigan avenue northwestdivision of gastroenterology hepatology and nutrition
+17704,CDM,PPD,Pevonedistat-2001,1-D8Y2RJ,,United_States,medstar research institute,district of columbia,washington,20010,,110 irving street northwestwashington cancer institute
+17707,CDM,PPD,SHP647-301,1-Y14RN9,,United_States,medstar washington hospital center,district of columbia,washington,20010,,106 irving street northwestphysicians office building
+17709,CDM,IQVIA,Vedolizumab-4014,58103,1-42IQ3JB,United_States,medstar washington hospital center,washington,district of columbia,20010,,110 irving street nw  room 1a50b
+17710,CDM,PPD,C16014,1-FUPWT,,United_States,washington hospital center,district of columbia,washington,20010,,110 irving streetwashington heart
+17712,CDM,PPD,TAK-788-2001,1-74VG4WY,,United_States,sibley memorial hospital,district of columbia,washington,20016,,5215 loughboro rd nw
+17714,CDM,PPD,P2002,1-7ENFP8L,,United_States,george washington university,district of columbia,washington,20037,,2150 pennsylvania ave nw
+17719,CDM,PPD,TAK-079-1005,1-5D85A5K,,United_States,the george washington university medical faculty associates,district of columbia,washington,20037,,2150 pennsylvania avenue northwestheadache clinic
+17721,CDM,PPD,TAK-079-1005,58526,,United_States,george washington university,district of columbia,washington,200373201,,2150 pennsylvania ave nw ste 4417
+17722,CDM,IQVIA,C28001,58005,1-1713ZVR,United_States,augusta university,washington,dc,20057,,37th and o streets nw
+17723,CDM,IQVIA,SHP633-304,0425,1-2QT68X0,United_States,georgetown childrens research network,washington,district of columbia,20057,,3800 reservoir road nwsw104 meddent
+17724,CDM,IQVIA,201501,804,1-2LLICJ5,United_States,georgetown university hospital,washington,district of columbia,20057,,4000 reservoir road nw2nd floor
+17726,CDM,PPD,SHP620-303,1-TIJF7J,,United_States,howard university,district of columbia,washington,20059,,2121 georgia avenue northwest center for sickle cell disease
+17727,CDM,ICON,C25003,,278668,United_States,howard university hospital,district of columbia,washington,20060,,2041 georgia ave nwtowers building
+17728,CDM,PPD,SHP647-307,1-166S3R3,,United_States,gastroenterology associates of northern virginia chantilly office,virginia,chantilly,20151,,3914 centreville roadsuite 350
+17735,CDM,PPD,SHP647-301,1-2SJI66T,,United_States,gastroenterology associates pc,virginia,gainesville,20155,,7915 lake manassas drive
+17736,CDM,PPD,SHP647-301,1-33OHNM5,,United_States,gi associates gainsville  elligo  ppds,virginia,gainesville,20155,,7915 lake manassas drivesuite 302
+17750,CDM,IQVIA,TED-R13-002,0523,1-1ML1YQL,United_States,colon stomach and liver center,leesburg,virginia,20176,,19455 deerfield avenuesuite 201
+17753,CDM,PPD,Pevonedistat-2001,1-D8Y2SM,,United_States,va medical center  navref  ppds,district of columbia,washington,20422,,50 irving street northwestdepartment of medicineroom 435 hs 64907
+17755,CDM,IQVIA,C14011,58012,1-642OP0,United_States,vermont cancer center,washington,dc,20422,,50 irving street
+17758,CDM,PPD,SHP647-301,1-ZVCYK2,,United_States,medstar shah medical group,maryland,hollywood,20636,,24035 three notch road
+17765,CDM,PPD,SHP647-301,1-112J4Y7,,United_States,mid atlantic medical research center,maryland,charlotte hall,20659,,37767 market drive
+17767,CDM,PPD,SHP647-303,1-245C1F4,,United_States,calvert gastroenterology,maryland,prince frederick,20678,,110 hospital roadsuite 210
+17774,CDM,PPD,SHP647-305,1-Y22C0M,,United_States,maryland digestive disease center,maryland,laurel,20707,,7350 van dusen road
+17776,CDM,PPD,C16014,1-AGGBI,,United_States,oncology hematology associates pa,maryland,clinton,20735,,8926 woodyard roadsuite 101
+17779,CDM,PPD,C16021,1-OJUFYX,,United_States,walter reed army medical center wramc,maryland,bethesda,20814,,4301 jones bridge roadamerica building3rd floor
+17780,CDM,IQVIA,Vedolizumab-4014,58099,1-2R9E4MM,United_States,chevy chase clinical research,chevy chase,maryland,20815,,5530 wisconsin avenuesuite 820
+17790,CDM,PPD,SHP647-302,1-21GAO6I,,United_States,dc gastroenterology,maryland,chevy chase,20815,,5530 wisconsin ave 715
+17799,CDM,IQVIA,TAK-743-3001,108,1-54ZWZ2Z,United_States,institute for asthma  allergy  chevy chase,chevy chase,maryland,20815,,2 wisconsin circle suite 250
+17802,CDM,PPD,SHP643-301,643301-105,,United_States,institute for asthma and allergy,maryland,chevy chase,20815,,2 wisconsin circle
+17806,CDM,PRA,C16038,10003,1-1GTKT1K,United_States,american oncology partners of maryland pa,md,bethesda,20817,,6410 rockledge drivesuite 660
+17809,CDM,PPD,SHP647-301,1-203PCGO,,United_States,capital digestive care llc,maryland,bethesda,20817,,10215 fernwood rdsuite 404
+17823,CDM,PPD,TAK-341-1001,1-9W3RGI5,,United_States,national institute of neurological disorders and stroke,maryland,bethesda,208245801,,po box 5801
+17824,CDM,PPD,C16014,1-AGMYY,,United_States,associates of oncologyhematology pc,maryland,rockville,20850,,9707 medical center drivesuite 300
+17826,CDM,PRA,TAK-906-2002,58028,1-1JYYZ6P,United_States,capitol research,md,rockville,20850,,10110 molecular drive
+17829,CDM,PPD,DEN-303,58000,,United_States,optimal research,maryland,rockville,20850,,15201 shady grove roadsuite 202
+17830,CDM,PPD,Pevonedistat-1016,1-3SBUQZV,,United_States,national cancer institute center for cancer research,maryland,rockville,208503330,,9609 medical center dr
+17831,CDM,PPD,SHP465-308,114,,United_States,neuroscientific insights,maryland,rockville,20852,,3202 tower oaks boulevard
+17832,CDM,PPD,TAK-071-2002,1-B8X39YU,,United_States,meridian clinical researchrockville maryland  platinum  ppds,maryland,rockville,20854,,seven locks roadmontrose west building
+17833,CDM,PRA,TAK-831-2001,58001,1-1M0XKXS,United_States,cbh health,md,gaithersburg,20877,,9318 gaither roadunit 220  unit 265
+17834,CDM,IQVIA,TAK-831-2002,58004,1-4E8ZVP5,United_States,center for behavioral health llc,gaithersburg,maryland,20877,,9318 gaither road suite 220  265
+17835,CDM,PPD,VDZ-5034,58040,,United_States,uniformed services university of the health sciences usuhs,maryland,bethesda,20889,,8901 wisconsin avenuegi departmentbuilding 9 floor 1
+17836,CDM,PPD,NSMM-5001,58025,,United_States,walter reed national military medical center  dod  ppds,maryland,bethesda,20889,,8901 rockville pikeamerica building3rd floor
+17837,CDM,IQVIA,Vedolizumab-4014,58049,1-2VV1YYG,United_States,walter reed national military medical center the geneva foundation,bethesda,maryland,20889,,8901 rockville pike
+17845,CDM,PPD,TAK-079-1004,1-5QH85BW,,United_States,national cancer institute center for cancer research,maryland,bethesda,20892,,10 center drive
+17846,CDM,PPD,Pevonedistat-3001,1-16R4CFR,,United_States,national heart lung and blood institute,maryland,bethesda,20892,,9000 rockville pikenational institute of health building 10
+17847,CDM,PPD,SHP647-301,1-XEOOC3,,United_States,national institute of allergy and infectious diseases,maryland,bethesda,20892,,5601 fishers lane
+17849,CDM,PPD,SHP607-202,1-15NMR6K,,United_States,national institute of child health and human development nichd,maryland,bethesda,20892,,6100 executive blvdeunice kennedy shriver national institute of child health and human development nichd
+17850,CDM,PPD,SHP621-301,1-H0C8Z2,,United_States,national institutes of health,maryland,bethesda,20892,,9000 rockville pike
+17852,CDM,PPD,SHP647-305,1-114L1FA,,United_States,complete health services,maryland,silver spring,20903,,831 university boulevard eastsuite 26
+17854,CDM,PPD,SHP647-303,1-245C1FH,,United_States,capital digestive care,maryland,silver spring,20904,,12510 prosperity drivesuite 200
+17861,CDM,PPD,SHP647-305,1-25B4FYB,,United_States,montgomery gastroenterology,maryland,silver spring,20906,,12012 viers mill road
+17868,CDM,PPD,C16029,1-ZDEHE3,,United_States,university of maryland upper chesapeake kaufman cancer center,maryland,bel air,21014,,500 upper chesapeake drive
+17869,CDM,PPD,SHP647-301,1-YCQLLJ,,United_States,anaheim clinical trials llc,maryland,bel air,210151574,,1012 milchling drive
+17871,CDM,PPD,C16014,1-KC8XX,,United_States,maryland oncology hematology columbia  usor,maryland,columbia,21044,,10710 charter drivesuite g020
+17875,CDM,IQVIA,Vedolizumab-4014,58028,1-2R9E4FW,United_States,gastro center of maryland,columbia,maryland,21045,,7120 minstrel way
+17876,CDM,PRA,TAK-906-2002,58052,1-1MTNUTY,United_States,gastro center of maryland,md,columbia,21045,,7120 minstrel waysuite 100
+17884,CDM,PPD,SHP647-301,1-203PCFZ,,United_States,baltimorewashington gi pa,maryland,baltimore,21075,,1900 east northern parkway suite 305a
+17891,CDM,PPD,SHP647-307,1-26C3UCF,,United_States,gastro associates,maryland,elkridge,21075,,8186 lark brown roadsuite 104
+17898,CDM,PPD,TAK-071-2002,1-69XLDTP,,United_States,parkinsons and movement disorders center of maryland,maryland,elkridge,21075,,8180 lark brown road202
+17899,CDM,PPD,SHP647-301,1-YBATMC,,United_States,green spring station endoscopy center,maryland,lutherville,21093,,10751 falls roadsheikh zayed tower
+17901,CDM,PPD,TAK-981-1503,1-BADMZRP,,United_States,johns hopkins university,maryland,lutherville,21093,,10751 falls roadfalls concourse
+17902,CDM,PPD,SHP647-304,1-24D0ULN,,United_States,park medical associates,maryland,lutherville,21093,,10755 falls road 200
+17909,CDM,PPD,SHP647-301,1-Y0ZOF9,,United_States,towson gastroenterology associates,maryland,timonium,21093,,6565 north charleston streetsuite b
+17911,CDM,PPD,SHP647-301,1-10977B7,,United_States,tufts medical center  ppds,massachusetts,boston,2111,,750 washington streetgastroenterology researchbox 233
+17914,CDM,PPD,SHP647-302,1-15ZF951,,United_States,digestive disease associates pa,maryland,catonsville,21118,,700 geipe roadsuite 230
+17921,CDM,PPD,TAK-788-3001,58012,,United_States,massachusetts general hospital,massachusetts,boston,2114,,55 fruit street
+17924,CDM,PRA,C31004,58008,1-1C6PKZ8,United_States,massachusetts general hospital cancer center,ma,boston,2114,,yawkey center for outpatient care mgh32 fruit streetsuite 9e
+17925,CDM,PPD,TAK-079-1005,1-5D8IV96,,United_States,beth israel deaconess medical center,massachusetts,boston,2115,,185 pilgrim roadbaker 4
+17926,CDM,PPD,MLN0002-3024,1-7I03MLY,,United_States,boston childrens hospital,massachusetts,boston,2115,,300 longwood avenue
+17927,CDM,PPD,TAK-007-2001,1-7FVKW2K,,United_States,dana farber cancer institute,massachusetts,boston,2115,,450 brookline avenuebrigham and womens cancer center
+17929,CDM,PPD,Brigatinib-1002,1-619XIQ3,,United_States,danafarber boston children’s cancer and blood disorders center,massachusetts,boston,2115,,da3450 brookline avenuepediatric brain tumor center
+17931,CDM,PPD,Pevonedistat-3001,1-17BS8LZ,,United_States,harvard medical school,massachusetts,boston,2115,,25 shattuck streetdivision of hematology
+17932,CDM,PPD,C16021,1-8JF3YA,,United_States,carroll county cancer center,maryland,westminster,21157,,555 south center street
+17935,CDM,PRA,Vedolizumab-3035,58011,1-1N4JN4J,United_States,marlene and stewart greenebaum cancer center,md,baltimore,21201,,22 south greene street
+17937,CDM,PPD,TAK-981-1503,1-BADMZRE,,United_States,university of maryland,maryland,baltimore,21201,,22 south green streetgreenebaum cancer center
+17958,CDM,PPD,SHP607-202,1-15NMR67,,United_States,university of maryland school of medicine,maryland,baltimore,212011509,,665 w baltimore street
+17960,CDM,PPD,SHP647-305,1-XEOOIJ,,United_States,mercy medical center baltimore,maryland,baltimore,21202,,213 saint paul place
+17963,CDM,PPD,SHP621-301,1-13J5UQI,,United_States,charm city research,maryland,towson,21204,,7505 osler drivesuite 501
+17964,CDM,PPD,SHP647-305,1-XFRPNY,,United_States,greater baltimore medical center,maryland,baltimore,21204,,6565 north charles streetsuite 512suite b
+17968,CDM,PPD,C16014,58031,,United_States,university of maryland st joseph medical center the cancer institute,maryland,towson,21204,,7501 osler drive102
+17971,CDM,PPD,VDZ-5034,58050,,United_States,johns hopkins university,maryland,baltimore,21205,,720 rutland avenue918 ross research bldg
+17972,CDM,PRA,TAK-018-2001,58017,1-1PY2VOY,United_States,johns hopkins university,md,baltimore,21205,,720 rutland avenue
+17974,CDM,PPD,TAK-788-3001,1-4YT5P85,,United_States,johns hopkins university school of medicine,maryland,baltimore,21205,,1830 east monument streetdepartment of medicine
+17976,CDM,PPD,SHP465-308,1-1S4V8FX,,United_States,kennedy krieger institute,maryland,baltimore,21205,,716 north broadway
+17977,CDM,PRA,TAK-041-2001,Weinberger D,1-1KTCEC9,United_States,lieber institute for brain development,md,baltimore,21205,,855 north wolfe street3rd floorsuite 300
+17978,CDM,IQVIA,SHP655-201,508,1-45E9C5U,United_States,johns hopkins hospital hematology,baltimore,maryland,21205,,720 rutland avejohns hopkins hospital
+17979,CDM,PPD,SHP647-301,1-XEQAP2,,United_States,pharmasite research inc  clinedge  ppds,maryland,pikesville,21208,,1314 bedford avenuesuite 205
+17981,CDM,PPD,Pevonedistat-1016,1-3SBUQWA,,United_States,office of judith e karp md,maryland,baltimore,212081824,,3422 manor hill rd
+17982,CDM,IQVIA,Vedolizumab-4014,58097,1-402BBA5,United_States,woodholme gastroenterology associates pa,baltimore,maryland,21209,,1838 greene tree road suite 400
+17983,CDM,PPD,SHP647-301,1-14GH5MJ,,United_States,continental clinical research solutions llc,maryland,baltimore,21212,,6600 york roadsuite 104
+17990,CDM,PPD,SHP647-305,1-112J8HP,,United_States,alan a rosen md pa,maryland,baltimore,21215,,2411 west belvedere avenuesuite 306
+17992,CDM,PPD,C16014,58010,,United_States,sinai hospital of baltimore,maryland,baltimore,21215,,2401 west belvedere avenue
+17996,CDM,PPD,SHP647-302,1-21GANZX,,United_States,woodholme gastroenterology associates,maryland,baltimore,21215,,2411 w belvedere ave
+18003,CDM,IQVIA,SHP655-101,105,1-4DMLK8Q,United_States,johns hopkins university school of medicine,baltimore,maryland,21218,,3400 charles streetcrb1390
+18004,CDM,PPD,C16014,1-DCUKT,,United_States,johns hopkins bayview medical center,maryland,baltimore,21224,,4940 eastern avenue
+18006,CDM,IQVIA,161403,522,1-4LVWBBD,United_States,johns hopkins university,baltimore,maryland,21224,,4940 eastern av301 buildingsuite 4500
+18009,CDM,PRA,TAK-831-2001,58001,1-1M16X7C,United_States,maryland psychiatric research center,md,baltimore,21228,,department of psychiatry university of maryland school of medicinetawes buildingpo box 21247
+18010,CDM,PPD,SHP621-301,1-H3LR3Z,,United_States,digestive disease associates pa,maryland,baltimore,21229,,4660 wilkens avenuesuite 230
+18013,CDM,PRA,C16038,10031,1-1KTUCB8,United_States,saint agnes hospital,md,baltimore,21229,,saint agnes hosptal900 south caton avenue
+18014,CDM,PPD,C16029,58003,,United_States,saint agnes hospital  baltimore  hunt  ppds,maryland,baltimore,21229,,900 canton avenue clinical research centermb 235
+18020,CDM,PPD,C16051,1-3SH58YL,,United_States,johns hopkins sidney kimmel comprehensive cancer center,maryland,baltimore,21231,,1650 orleans streetbuntingblaustein cancer research building department of pediatric oncology
+18028,CDM,PPD,C16014,1-AHPCC,,United_States,auerbach hematology oncology associates,maryland,baltimore,21237,,9110 philadelphia road
+18029,CDM,PPD,C16021,1-8JF3N5,,United_States,harry and jeannette weinberg cancer center at franklin square hospital,maryland,baltimore,21237,,9103 franklin square drivesuite 2200
+18031,CDM,PPD,C16029,1-YQMPTV,,United_States,maryland hematology oncology association,maryland,baltimore,21237,,9114 philadelphia roadsuite 208
+18036,CDM,IQVIA,471101,122,1-3UO50QC,United_States,pulmonary critical care associates of baltimore,towson,maryland,21286,,515 fairmount avesuite 500
+18037,CDM,IQVIA,Vedolizumab-4014,58072,1-2VUZGAF,United_States,johns hopkins clinical research center,baltimore,maryland,21287,,1830 e monument st room 422
+18044,CDM,PPD,Pevonedistat-3001,1-1CSXR78,,United_States,johns hopkins university,maryland,baltimore,21287,,1650 orleans streetcrbirm 3m87
+17059,CDM,PPD,TAK665-4003,1-GNTNXUR,,United_States,childrens hospital of pittsburgh,pennsylvania,pittsburgh,15201,,45th street and penn avenue
+17061,CDM,PPD,SHP647-305,1-1119KN1,,United_States,clinical trials research services llc,pennsylvania,pittsburgh,15206,,201 south highland avenuesuite 102
+17068,CDM,PPD,SHP647-305,1-1912YEK,,United_States,veterans research foundation of pittsburgh  navref  ppds,pennsylvania,pittsburgh,15206,,7180 highland drive 2045w2
+17069,CDM,PPD,SHP647-301,301-370,,United_States,allegheny center for digestive health,pennsylvania,pittsburgh,15212,,1307 federal streetfederal north buildingsuite b100
+17079,CDM,IQVIA,TED-R13-002,0510,1-15SX66K,United_States,allegheny center for digestive health,pittsburgh,pennsylvania,15212,,federal north 1307 federal streetsuite 301 allegheny ctr for digestive health
+17080,CDM,PRA,TAK-954-2004,58007,1-1MBDOHJ,United_States,allegheny general hospital,pa,pittsburgh,15212,,320 east north avenue
+17084,CDM,PPD,SHP607-202,1-15MWYFI,,United_States,magee womens hospital,pennsylvania,pittsburgh,15213,,300 halket street
+17086,CDM,PRA,TAK-018-2001,58020,1-1MZTHDK,United_States,university of pittsburgh medical center,pa,pittsburgh,15213,,digestive disorders center200 lothrop street3rd floor
+17087,CDM,PPD,TAK-079-1004,1-5QGG68F,,United_States,university of pittsburgh medical center,pennsylvania,pittsbugh,15213,,200 lothrop street6ne montfiore hospital
+17095,CDM,PRA,C31004,58014,1-1C6T9VM,United_States,university of pittsburgh medical center cancer center at mageewomens hospital,pa,pittsburgh,15213,,mageewomens hospital300 halket streetroom i410
+17096,CDM,PPD,SHP647-305,1-Y14RHA,,United_States,upmc presbyterian hospital,pennsylvania,pittsburgh,15213,,200 lothrop street
+17097,CDM,PPD,MLN0002-3024,1-7JSADQJ,,United_States,university of pittsburgh school of medicine,pennsylvania,pittsburgh,152132500,,3550 terrace st
+17098,CDM,IQVIA,TED-R13-002,0553,1-1B9GXYJ,United_States,upmc digestive diseases ctr gas,pittsburgh,pennsylvania,152132536,,200 lothrop st ste 3dpuh m2 c wing
+17099,CDM,PPD,Brigatinib-1002,1-61FS0WN,,United_States,university of pittsburgh medical center,pennsylvania,pittsburgh,152133236,,3459 5th avenuethomas e starzl transplantation institute pittsburgh transplantation institute
+17101,CDM,PPD,SHP647-302,1-4GAXJC6,,United_States,pittsburgh gastroenterology associates,pennsylvania,pittsburgh,15219,,1350 locust streetsuite 202
+17108,CDM,IQVIA,161503,131,1-4601XQD,United_States,pediatric alliance greentree division,pittsburgh,pennsylvania,15220,,969 greetree roadsuite 100
+17109,CDM,PPD,Pevonedistat-2001,1-DCTZSK,,United_States,allegheny general hospital,pennsylvania,pittsburgh,15224,,4800 friendship avenue
+17110,CDM,PPD,C16051,1-3SH592J,,United_States,childrens hospital of pittsburgh,pennsylvania,pittsburg,15224,,4401 penn avenuepediatrics
+17121,CDM,IQVIA,161503,130,1-401QV2U,United_States,childrens hospital of pittsburgh of upmc,pittsburgh,pennsylvania,15224,,4401 penn avenue 5th floor main hospitalinvestigationalcontrolled substance pharmacist one childrens hospital drive
+17122,CDM,PRA,MLN0002-2003,58029,1-1DUKUV7,United_States,upmc childrens hospital of pittsburgh,pa,pittsburgh,15224,,one childrens hospital drive4401 penn avenuemain hospital floor 5
+17127,CDM,PPD,TAK-981-1503,1-BAJ2GTB,,United_States,west penn cancer institute,pennsylvania,pittsburgh,152241722,,4800 friendship ave ste 2303
+17128,CDM,PPD,TAK-981-1501,58107,,United_States,western pennsylvania hospital,pennsylvania,pittsburgh,152242156,,4815 liberty ave
+17129,CDM,PPD,SHP647-305,1-ZGHKFZ,,United_States,associates in gastroenterology,pennsylvania,pittsburgh,15232,,5200 centre avenueshadyside medical center building  suite 312
+17131,CDM,PPD,Pevonedistat-3001,1-16PZHHH,,United_States,the university of pittsburgh,pennsylvania,pittsburgh,15232,,5150 centre avenue
+17133,CDM,PPD,C16014,1-ASKDJ,,United_States,the university of pittsburgh,philadelphia,pittsburgh,15232,,5150 centre avenuecancer pavillion
+17134,CDM,PPD,Pevonedistat-2001,1-D8Y2FG,,United_States,university of pittsburgh medical center,pennsylvania,pittsburgh,15232,,5115 centre avenuehillman cancer center
+17146,CDM,PRA,C31004,58014A,1-1HQ20RE,United_States,university of pittsburgh medical center  hillman cancer center,pa,pittsburgh,15232,,upmc cancer centers william m cooper ambulatory care pavilion of the hillman cancer center5115 centre ave third floor
+17152,CDM,PPD,SHP647-307,1-166N1ES,,United_States,gastroenterology associates of pittsburgh,pennsylvania,pittsburgh,15237,,3285 babcock boulevard
+17159,CDM,PPD,TAK-676-1003,58004,,United_States,university of pittsburgh medical center,pennsylvania,pittsburgh,15240,,university drive c
+17161,CDM,PPD,C16029,1-Y4IF29,,United_States,veterans affairs pittsburgh healthcare system  navref  ppds,pennsylvania,pittsburgh,15240,,university drive crob building 30
+17178,CDM,IQVIA,161406,161406-101,1-1VJXRZO,United_States,allergy  clinical immunology associates,pittsburgh,pennsylvania,15241,,180 fort couch roadsuite 375
+17179,CDM,PPD,SHP647-305,1-1117O20,,United_States,pezzone gastroenterology associates,pennsylvania,washington,15301,,86 wellness way
+17181,CDM,PPD,SHP647-305,1-1117O2Q,,United_States,pish medical associates,pennsylvania,uniontown,15401,,20 highland park drivesuite 202
+17183,CDM,PPD,SHP647-303,1-246IKYM,,United_States,southwestern gastrointestinal specialists,pennsylvania,uniontown,154018903,,300 spring creek lane
+17190,CDM,PPD,TAK-079-1004,1-5QHJUZC,,United_States,highlands hospital,pennsylvania,connellsville,15425,,401 east murphy avenue
+17191,CDM,PPD,SHP647-303,1-16743SW,,United_States,john g stagias pc,massachusetts,southbridge,1550,,428 hamilton street
+17198,CDM,PPD,SHP647-305,1-ZGYE4A,,United_States,dr bruce a bradley do,pennsylvania,greensburg,15601,,443 frye farm roadsuite 200
+17200,CDM,PPD,SHP647-301,1-ZK5DOY,,United_States,ilumina clinical associates,pennsylvania,indiana,15701,,1265 wayne avenuesuite 301
+17202,CDM,PPD,SHP647-305,1-ZWZNQ1,,United_States,dubois regional medical center,pennsylvania,dubois,15801,,100 hospital avenue
+17204,CDM,PPD,SHP647-301,1-ZUUUPJ,,United_States,reliant medical group inc,massachusetts,worcester,1605,,425 lake avenue n
+17206,CDM,PPD,C16029,1-YQMMG0,,United_States,worcester medical center,massachusetts,worcester,1608,,123 summer streetfallon clinic
+17207,CDM,PPD,C16014,1-HGLLZ,,United_States,joseph t morelli do,pennsylvania,greenville,16125,,110 woodfield drive
+17208,CDM,PPD,SHP647-305,1-ZVCY7A,,United_States,digestive diseases of nw pa,pennsylvania,erie,16502,,2315 myrtle streetsuite 290
+17210,CDM,PPD,SHP647-301,1-ZVCY60,,United_States,bayfront digestive disease,pennsylvania,erie,16507,,100 peach streetsuite 200
+17212,CDM,PPD,SHP634-404,1-1KEWQY0,,United_States,umass memorial medical center,massachusetts,worcester,1655,,55 lake avenue north
+17213,CDM,PPD,SHP647-301,1-205DH7V,,United_States,blair gastroenterology associates,pennsylvania,altoona,16602,,810 valley view boulevard
+17220,CDM,PPD,SHP647-305,1-XZL30C,,United_States,altoona center for clinical research,pennsylvania,duncansville,16635,,175 meadowbrook lane
+17222,CDM,PPD,SHP647-304,304-780,,United_States,penn state hershey medical group,pennsylvania,state college,16803,,32 colonnade way
+17229,CDM,PPD,SHP647-301,1-ZX03JE,,United_States,jackson siegelbaum gastroenterology ltd,pennsylvania,camp hill,17011,,423 n 21st streetsuite 100
+17231,CDM,PPD,SHP647-304,1-24OSZAT,,United_States,pennsylvania gastroenterology consultants,pennsylvania,camp hill,17011,,899 poplar church road
+17238,CDM,PPD,SHP647-307,1-26COL4B,,United_States,carlisle digestive disease associates,pennsylvania,carlisle,17015,,241 alexander spring road
+17245,CDM,PPD,SHP647-305,1-Y0ZARO,,United_States,hershey medical center,pennsylvania,hershey,17033,,500 university drive
+17250,CDM,PRA,TAK-954-2004,58012,1-1MBDOQK,United_States,penn state health milton s hershey medical center,pa,hershey,17033,,500 university drivepo box 850mail code ch56
+17251,CDM,PPD,TAK-079-1004,1-5QHGE62,,United_States,penn state milton s hershey medical center,pennsylvania,hershey,17033,,500 university drivemc ho53
+17265,CDM,IQVIA,261203,115,1-1WGFCLJ,United_States,penn state milton s hershey medical center,hershey,pennsylvania,17033,,500 university drive room c6606mch046
+17273,CDM,PPD,SHP647-301,1-205DH9K,,United_States,jackson siegelbaum gastroenterology ltd,pennsylvania,harrisburg,17110,,4387 sturbridge drive
+17280,CDM,PPD,SHP647-307,1-18HO57V,,United_States,sfm clinical trials,pennsylvania,scotland,17254,,3730 scotland road
+17286,CDM,PPD,TAK-788-2001,1-74VZMJ1,,United_States,wellspan oncology research,pennsylvania,york,17403,,25 monument road
+17287,CDM,PPD,SHP647-305,1-1113F4X,,United_States,regional gastroenterology associates of lancaster ltd,pennsylvania,lancaster,17604,,2104 harrisburg pikesuite 300
+17289,CDM,PPD,SHP647-305,1-109GCP8,,United_States,susquehanna gastroenterology associates ltd,pennsylvania,montoursville,17754,,10 choate circle
+17291,CDM,PPD,NSMM-5001,1-MNRKMS,,United_States,geisinger medical center,pennsylvania,danville,17822,,100 north academy avenueknapper clinic
+17301,CDM,PPD,SHP647-301,1-43IRL99,,United_States,care access research,pennsylvania,pottsville,17901,,100 schuylkill medical plazasuite 101
+17308,CDM,PPD,C16014,1-GXADY,,United_States,oncology hematology of lehigh valley,pennsylvania,bethlehem,18015,,701 ostrum streetsuite 501
+17310,CDM,PPD,C16029,1-YQMPKS,,United_States,oncology hematology of lehigh valley,pennsylvania,fountain hill,18015,,701 ostrum streetst lukes cancer care associatessuite 501
+17312,CDM,PPD,C16029,1-Y4IF1W,,United_States,st luke’s hospital – allentown campus,pennsylvania,bethlehem,18015,,801 ostrum street
+17313,CDM,PPD,Pevonedistat-1016,1-3SHMBSI,,United_States,st lukes university health network,pennsylvania,easton,18045,,1600 saint lukes boulevardsuite 501
+17316,CDM,PPD,TAK-071-2002,1-65RE4HX,,United_States,lehigh valley health network,pennsylvania,allentown,18102,,17th  chew stsnetwork office of research and innovationsuite 2800
+17317,CDM,PPD,SHP647-301,1-109776D,,United_States,eastern pennsylvania gastroenterology  liver specialists pc,pennsylvania,allentown,18104,,1501 north cedar crest boulevardsuite 110
+17319,CDM,PPD,TAK-951-2001,1-70MN84C,,United_States,institute for female pelvic medicine,pennsylvania,allentown,18104,,2200 west hamilton street
+17320,CDM,IQVIA,TAK-375SL_201,4014,1-1HB4NM4,United_States,lehigh center for clinical research llc,allentown,pa,18104,,401 north 17th streetsuite 207
+17324,CDM,PPD,SHP647-301,1-205DH98,,United_States,pocono gastroenterology,pennsylvania,east stroudsburg,18301,,175 east brown streetsuite 201a
+17331,CDM,PPD,SHP647-305,1-ZV1B10,,United_States,pocono ambulatory surgery center,pennsylvania,stroudsburg,18360,,1 streetorm street
+17333,CDM,PPD,C16014,58061,,United_States,scranton hematology oncology,pennsylvania,scranton,18510,,743 jefferson avenuesuite 205
+17337,CDM,PPD,C16029,1-YQMMDZ,,United_States,hematology and oncology associates of nepa,pennsylvania,dunmore,18512,,1100 meade street
+17339,CDM,PPD,SHP647-301,1-ZGYE5Y,,United_States,digestive care associates,pennsylvania,edwardsville,18704,,490 northampton streetsuite 1
+17341,CDM,PPD,C16014,1-HCHV3,,United_States,medical oncology associates  kingston,pennsylvania,kingston,18704,,382 pierce street
+17343,CDM,PPD,P2002,1-5J5J4ND,,United_States,geisinger medical center,pennsylvania,wilkes barre,18711,,1000 east mountain boulevard
+17345,CDM,PPD,SHP647-301,1-XZL2IF,,United_States,guthrie research institute,pennsylvania,sayre,18840,,1 guthrie square
+17350,CDM,PPD,SHP647-305,1-ZWZNPC,,United_States,central bucks specialists,pennsylvania,doylestown,18901,,599 west state streetsuite 200
+17352,CDM,IQVIA,MLN0002SC-3030,58015,1-262IGP4,United_States,main line gastroenterology associates,perkasie,pennsylvania,18944,,210 west walnut stsuite 200
+17353,CDM,PPD,SHP647-307,1-6YHJN1Z,,United_States,the center for gi health sellersville,pennsylvania,sellersville,189601579,,817 lawn avenue
+17359,CDM,PPD,C16014,1-LP5O8,,United_States,abington memorial hospital,pennsylvania,abington,19001,,1200 old york road
+17360,CDM,PPD,SHP647-307,1-26CO2KN,,United_States,gastrointestinal associates inc,pennsylvania,abington,19001,,1235 old york road 123
+17367,CDM,PPD,TAK-071-2002,1-FYAU1NO,,United_States,abington neurologic associates,pennsylvania,abington,190013724,,1245 highland ave ste 301
+17368,CDM,PPD,SHP647-301,1-ZH2FWV,,United_States,bryn mawr medical specialists association,pennsylvania,bryn mawr,19010,,825 old lancaster roadsuite 340
+17370,CDM,PPD,C16014,1-E7UFM,,United_States,associates in hematologyoncology,pennsylvania,upland,19013,,vivacqua pavilion 1 medical center boulevardoncology pcvivacqua pavilion suite 341
+17371,CDM,PPD,SHP647-305,1-24SWYXQ,,United_States,crozer chester medical center,pennsylvania,chester,19013,,1 medical center boulevardacp 231
+17378,CDM,PPD,C16014,1-CLBCC,,United_States,consultants in medical oncology and hematology,pennsylvania,drexel hill,19026,,2100 keystone avenuesuite 502
+17379,CDM,PPD,SHP647-301,1-Y14R09,,United_States,pivotal clinical research,pennsylvania,flourtown,19031,,1811 bethlehem pikespringfield medical associatessuite 200
+17381,CDM,PPD,SHP647-301,1-14GH5JE,,United_States,clinical trial center llc,pennsylvania,jenkintown,19046,,815 greenwood avesuite 12suite 12
+17388,CDM,PPD,Pevonedistat-1016,1-75YKJ3J,,United_States,fox chase cancer center,pennsylvania,rockledge,19046,,50 huntingdon pike second floor
+17389,CDM,PPD,SHP647-301,1-ZH2FQJ,,United_States,gastro intestinal associates,pennsylvania,jenkintown,19046,,1095 rydal roadsuite 100
+17391,CDM,PPD,SHP647-302,1-22FSDEL,,United_States,gastro intestinal associates,pennsylvania,rydal,19046,,1095 rydal roadrydal executive plaza
+17398,CDM,PPD,SHP647-301,1-ZVCYR4,,United_States,paul l berenbaum md  associates,pennsylvania,jenkintown,19046,,261 old york roadsuite 309
+17400,CDM,PPD,SHP647-302,1-22FSDAA,,United_States,clinical gastrointestinal associates,pennsylvania,langhorne,19047,,1 cornerstone drivesuite 300
+17407,CDM,PPD,C16021,1-8JF3TW,,United_States,regional hematology oncology associates,pennsylvania,langhorne,19047,,240 middletown boulevardsuite 148
