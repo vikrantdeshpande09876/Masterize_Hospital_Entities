@@ -12,11 +12,10 @@ For c in country:
 		> Dedup function df[i] using existing R code
 		Create master for df[i] : M_df[i]
 		Create cross-ref for df[i] : CR_df[i]
-		new_file_name=curr_country+'_'+i+'_Master.csv'
+		new_file_name=f"{curr_country}_{i}_Master.csv"
 		csv_file_names.append(new_file_name)
 		Write csv for M_df[i] with new_file_name
-		if i>0:
-			CR_df=CR_df.append(CR_df[i])
+		CR_df=CR_df.append(CR_df[i])
 		del df[i], M_df[i], CR_df[i]
 	
 	# Number of levels for the recursive computations
@@ -39,9 +38,9 @@ For c in country:
 				Create master : MM_DF[i]
 				M_CR_df[i]=CR_df[CR_df['SR_NUM_1'].isin(MM_DF[i]['SR_NUM_1'])]
 			
-			new_file_name=curr_country+'_d'+j+'_'+i+'_Master.csv'
+			new_file_name=f"{curr_country}_d{j}_{i}_Master.csv"
 			csv_file_names.append(new_file_name)
-			Write csv for MM_DF[i] with new_file_name	
+			Write csv for MM_DF[i] with new_file_name
 			M_CR_df=M_CR_df.append(M_CR_df[i])
 		Write overall cross-ref M_CR_df for depth=j into a csv
 		Update all RHS values of CR_df by joining M_CR_df on SR_NUM_1 wherever match occurs

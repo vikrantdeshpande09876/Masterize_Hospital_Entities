@@ -4,7 +4,7 @@
 
 # DOCSTRING: Deduplicates an incoming dataset, and creates an output /Raw_Scores/country_Score_Features.csv
 
-processBatch <- function(country_df){
+processDedupBatch <- function(country_df){
   tryCatch({
     # Generate the match-scores for n(n-1)/2 candidate-pairs using the levenshtein stringComparison algorithm. Returns a list of pair-wise scores, input dataframes, and average-frequencies of unique values.
     data_candidate_pairs_freqs=compare_dedup(country_df, strcmp = TRUE, strcmpfun = levenshteinSim, exclude=c("SR_NUM"))
@@ -46,6 +46,59 @@ processBatch <- function(country_df){
     print(e)
   })
 }
+
+
+
+
+
+
+
+
+# DOCSTRING: Deduplicates 2 datasets, and creates an output /Raw_Scores/country_Score_Features.csv
+
+processLinkageBatch <- function(country_df, country_df2){
+  tryCatch({
+    # Generate the match-scores for n(n-1)/2 candidate-pairs using the levenshtein stringComparison algorithm. Returns a list of pair-wise scores, input dataframes, and average-frequencies of unique values.
+    data_candidate_pairs_freqs=compare_linkage(country_df, country_df2, strcmp = TRUE, strcmpfun = levenshteinSim, exclude=c("SR_NUM"))
+    
+    # Extract the pair-wise scores and delete the entire output-list to free up RAM
+    candidate_pairs=data_candidate_pairs_freqs$pairs
+    rm(data_candidate_pairs_freqs)
+    
+    # Impute scores wherever NA with 0
+    candidate_pairs[is.na(candidate_pairs)]=0
+    print(paste("N_combinations=",nrow(candidate_pairs),", Columns are "))
+    print(names(candidate_pairs))
+    
+    print("Scaling up column scores if threshold crossed")
+    # Convert to scaled binary value: if column-comparison score is greater than required threshold, then scale-up this binary value by a factor
+    for (i in 1:length(THRESHOLDS_COLUMNS)){
+      colname=THRESHOLDS_COLUMNS[[i]]
+      col_threshold=THRESHOLDS_VALUES[[i]]
+      print(paste(colname," : ",col_threshold))
+      candidate_pairs[colname]=ifelse( candidate_pairs[colname]>=col_threshold, 1*SCALING_FACTORS[[i]], 0)
+    }
+    
+    # Create a separate column to indicate total-score of a candidate-pair
+    candidate_pairs["NUM_OF_MATCHES_FOUND"]=rowSums(candidate_pairs[,THRESHOLDS_COLUMNS])
+    
+    # Wrangle the dataframe to generate CSV file with acceptable format
+    candidate_pairs=candidate_pairs[COLUMNS_TO_KEEP_IN_CSV]
+    names(candidate_pairs)=TARGET_CSV_NAMES
+    
+    # Filter only those candidate-pairs which have total-score greater than or equal to overall-threshold-of-matches
+    candidate_pairs=subset(candidate_pairs, NUM_OF_MATCHES_FOUND>=TOTAL_MATCHES_THRESHOLD)
+    # View(candidate_pairs)
+    
+    return (candidate_pairs)
+    
+  },
+  error=function(e){
+    print("Please check the size of incoming dataframe. We've seen issues with batch-size > 2000, since n(computations) will be ncols*[n(n-1)/2] !")
+    print(e)
+  })
+}
+
 
 
 

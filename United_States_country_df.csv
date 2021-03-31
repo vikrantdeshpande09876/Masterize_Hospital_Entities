@@ -1,307 +1,339 @@
 SR_NUM,CONCAT_ADDRESS,SITE_NAME,STATE,CITY,POSTAL_CODE
-4001,9101 kanis road,hematology oncology services of arkansas,arkansas,little rock,72205
-4002,2610 aberdeen boulevard,gaston hematology and oncology,north carolina,gastonia,28054
-4003,2001 dwight wayresearch department,alta bates comprehensive,california,berkeley,94704
-4004,6845 rama drive,central indiana cancer centers,indiana,indianapolis,46219
-4005,875 blake wilbur drive,stanford university,california,stamford,94305
-4006,3800 reservoir road northwestdepartment of neurology,georgetown university medical center,district of columbia,washington,20007
-4007,3415 bainbridge avenue,childrens hospital at montefiore,new york,bronx,10467
-4008,2401 gillham road,childrens mercy hospital,missouri,kansas city,64108
-4009,222 piedmont avenue,university of cincinnati,ohio,cincinnati,45219
-4010,5841 south maryland avenue,university of chicago medical center,illinois,chicago,60637
-4011,1660 south columbian way,va medical center  navref  ppds,washington,seattle,98108
-4012,1015 walnut streetcurtis building,thomas jefferson university,pennsylvania,philadelphia,191075099
-4013,400 parnassus avenue,university of california san francisco,california,san francisco,941430324
-4014,660 south euclid avenue,siteman cancer center  south county,missouri,saint louis,63110
-4015,4331 veronica south shoemaker boulevardunit 15,scri florida cancer specialists south,florida,fort myers,33916
-4016,elm street and carlton street,roswell park cancer institute,new york,buffalo,14203
-4017,320 west 10th avenuestarling loving hall,ohio state university,ohio,columbus,43210
-4018,1624 south i street,northwest medical specialties,washington,tacoma,98405
-4019,600 coffee roadclinical research department,sutter gould medical foundation,california,modesto,95355
-4020,676 north saint claire street,northwestern university,illinois,chicago,60611
-4021,333 cottman avenue,fox chase cancer center,pennsylvania,philadelphia,19111
-4022,902 north riverside road,st joseph oncology,missouri,saint joseph,64507
-4023,94 old short hills roadcancer center,st barnabas medical center,new jersey,livingston,07039
-4024,1043 elm avenue,pacific shores medical group,california,long beach,90813
-4025,4501 x street,uc davis school of medicine,california,sacramento,95817
-4026,7750 south broadway,mile high oncology,colorado,littleton,80122
-4027,521 north lecanto highway,cancer and blood disease center,florida,lecanto,34461
-4028,13400 east shea boulevard,mayo clinic scottsdale  ppds,arizona,scottsdale,85259
-4029,660 south euclid avenuedivision of oncology,washington university school of medicine,missouri,st louis,63110
-4030,1120 15th street,medical college of georgia,georgia,augusta,30912
-4031,350 vinton avenue,new hope cancer and research institute inc,california,pomona,91767
-4032,1423 harper streetwomens health research center,georgia health sciences university,georgia,augusta,30912
-4033,125 executive drive,danville hematology and oncology,virginia,danville,24541
-4034,600 moyer boulevard,east carolina university,north carolina,greenville,27834
-4035,5550 friendship boulevard,chevy chase clinical research,maryland,chevy chase,20815
-4036,1365 clifton road northeast,winship cancer institute emory university,georgia,atlanta,30322
-4037,1801 southeast hillmoor drive,hematology oncology associates of the treasure coast,florida,port saint lucie,34952
-4038,100 campus drive,new england cancer specialists,maine,scarborough,04074
-4039,1305 york avenue,weill cornell medical center,new york,new york,10021
-4040,200 first street southwest,mayo clinic  ppds,minnesota,rochester,55905
-4041,10 bryan searle drive,duke university medical center,north carolina,durham,27710
-4042,3404 wake forest road,duke raleigh cancer center,north carolina,raleigh,27609
-4043,13400 east shea boulevard,mayo clinic arizona  ppds,arizona,scottsdale,85259
-4044,1275 york avenue,memorial sloan kettering cancer center,new york,new york,10065
-4045,1515 holcombe boulevard,university of texas md anderson cancer center,texas,houston,77030
-4046,101 east wood street,gibbs cancer center  research institute,south carolina,spartanburg,29303
-4047,10 casia street,san juan va medical center  navref  ppds,puerto rico,san juan,00921
-4048,3617 vista way,north county oncology medical clinic inc,california,oceanside,92056
-4049,9360 no name uno,global cancer research institute gcri inc,california,gilroy,95020
-4050,800 washington street,tufts medical center  ppds,massachusetts,boston,02111
-4051,1425 portland avenue,university of rochester  rochester general hospital  ppds,new york,rochester,14642
-4052,450 brookline avenue,dana farber cancer institute,massachusetts,boston,2115
-4053,525 east 68th street,new york presbyterian hospital  weillcornell,new york,new york,10021
-4054,1500 east duarte road,city of hope national medical center,california,duarte,91010
-4055,200 medical center driveoncology clinic,appalachian regional healthcare,kentucky,hazard,41701
-4056,4921 parkview avenuesiteman cancer center,washington university school of medicine,missouri,saint louis,63110
-4057,17660 union turnpike,queens medical associates pc,new york,fresh meadows,11365
-4058,1500 east medical center drive,breslin cancer center  great lakes cancer institute,michigan,ann arbor,48109
-4059,8301 harcourt road,hematology oncology associates,indiana,indianapolis,46260
-4060,530 northeast glen oak avenuechildrens hospital of illinois,university of illinois college of medicine at peoria,illinois,peoria,61615
-4061,1871 southeast tiffany avenue,hematology oncology associates of the treasure coast,florida,port saint lucie,34952
-4062,2013 south jefferson st,oncology and hematology associates of southwest virginia blacksburg  usor,virginia,roanoke,24014
-4063,520 east 70th street,weill cornell medical college,new york,new york,10021
-4064,3400 spruce street,abramson cancer center of the university of pennsylvania,pennsylvania,philadelphia,19104
-4065,520 east 70th street,weill cornell medical college,new york,new york,10021
-4066,175 madison avenue,american oncology partners of maryland  pa,new jersey,mount holly,08060
-4067,elm and carlton streets,roswell park cancer institute,new york,buffalo,14263
-4068,9200 west wisconsin avenue,froedtert and the medical college of wisconsin,wisconsin,milwaukee,53226
-4069,719 thompson lane,vanderbilt university medical center,tennessee,nashville,37204
-4070,44151 15th street west,city of hope national medical center,california,lancaster,93534
-4071,820 north chelan avenue,confluence health,washington,wenatchee,98801
-4072,one valley health plaza,valley hospital,new jersey,paramus,07652
-4073,3400 civic boulevard,university of pennsylvania,pennsylvania,philadelphia,19104
-4074,1275 york avenue,memorial sloan kettering cancer center,new york,new york,10021
-4075,1 medical center drive,w va university mary babb randolph cancer center,west virginia,morgantown,26506
-4076,150 irving street,washington dc va medical center,district of columbia,washington,20422
-4077,1600 divisadero street,ucsf mount zion cancer center,california,san francisco,94115
-4078,2700 grant street,bay area cancer research group,california,concord,94520
-4079,720 south limestone street l445department of neurology,university of kentucky,kentucky,lexington,40536
-4080,1600 east high street,pottstown memorial regional cancer center,pennsylvania,pottstown,19464
-4081,3702 south 4th street,hope center,indiana,terre haute,47802
-4082,420 north 26th street,clarian arnett cancer center,indiana,lafayette,47904
-4083,3350 lane jolla village drive,va san diego health system  navref  ppds,california,san diego,92161
-4084,101 the city drive southbuilding 56,chao family comprehensive cancer center uci,california,orange county,92868
-4085,11110 medical campus road,washington county hospital,maryland,hagerstown,21742
-4086,601 elmwood avenueuniversity of rochester  james p wilmot cancer center,university of rochester medical center  ppds,new york,rochester,14642
-4087,901 west 38th street,southwest regional cancer center,texas,austin,78705
-4088,834 north seminary street,medical  surgical specialists llc,illinois,galesburg,61401
-4089,1011 north dewey avenue,cancer care associates,oklahoma,oklahoma city,73102
-4090,111 west beverly boulevard,clinical trials and research associates inc,california,montebello,90640
-4091,540 north central avenue,glendale memorial hospital,california,glendale,91203
-4092,3100 lorna road,clinical research consultants incorporated,alabama,hoover,35216
-4093,200 hawthorne lane,presbyterian hospital center for cancer research,north carolina,charlotte,28204
-4094,1702 university south drive,dakota cancer institute,north dakota,fargo,58103
-4095,10 union square east,beth israel new york,new york,new york,10003
-4096,732 north 3rd street,lake heart and cancer medical center,florida,leesburg,34748
-4097,110 woodfield drive,joseph t morelli do,pennsylvania,greenville,16125
-4098,1301 powell streethematolog internal medicine oncology,montgomery hospital,pennsylvania,norristown,19401
-4099,101 south major street,midillinois hematology  oncology,illinois,eureka,61530
-4100,1635 aurora court,university of colorado,colorado,aurora,80045
-4101,30 east apple street gynecologic oncology,miami valley hospital,ohio,dayton,45409
-4102,1001 blythe boulevard,carolinas hematology oncology associates,north carolina,charlotte,28203
-4103,1432 southwest boulevardcancer center,capital region medical center,missouri,birmingham city,65109
-4104,240 east 38th street,nyu langone medical center,new york,new york,10016
-4105,735 west animas,san juan oncology associates,new mexico,farmington,87401
-4106,2614 west jefferson street,joliet oncologyhematology associates ltd,illinois,joliet,60435
-4107,4100 john r streetdivision of hematologyoncology,karmanos cancer institute,michigan,detroit,48201
-4108,2400 pratt streetadult bone marrow transplant clinic,duke university health system,north carolina,durham,27710
-4109,4755 ogletownstanton road,christiana care health system,delaware,newark,19718
-4110,3838 south 700 east,utah cancer specialists salt lake city,utah,salt lake city,84106
-4111,1052 martin luther king drive,southern illinois hematologyoncology,illinois,centralia,62801
-4112,200 hawkins drive,university of iowa stead family childrens hospital,iowa,iowa city,52242
-4113,1 medical center boulevardcancer center,cookeville regional medical center,tennessee,cookeville,38501
-4114,825 university woods drive,american health network,indiana,new albany,47150
-4115,330 washington street,eastern ct hematology and oncology associates,connecticut,norwich,06360
-4116,100 campus drive,maine center for cancer medicine and blood disorders,maine,scarborough,04074
-4117,1900 west polk street,john h stroger jr hospital of cook county,illinois,chicago,60612
-4118,2330 shawnee mission parkway,university of kansas hospital  westwood campus,kansas,westwood,66205
-4119,3410 worth street,baylor scott and white research institute,texas,dallas,75246
-4120,333 cottman avenue,fox chase cancer center,pennsylvania,philadelphia,19111
-4121,1201 camino de salud northeastcancer center,university of new mexico,new mexico,albuquerque,87106
-4122,1205 19th street,south texas comprehensive cancer centers,texas,corpus christi,78405
-4123,113 holland avenue,albany research institute inc  navref  ppds,new york,albany,12208
-4124,3160 west main street,physicians resource group llc,alabama,dothan,36305
-4125,725 american avenue,prohealth care cancer services,wisconsin,waukesha,53188
-4126,5629 canyon view drive,feather river hospital cancer center,california,paradise,95969
-4127,2002 holcombe boulevard,charles george va medical center  navref  ppds,texas,houston,77030
-4128,2800 k street,sutter cancer center,california,sacramento,95814
-4129,1 va center,maine va medical center  navref  ppds,maine,augusta,04330
-4130,19 bradhurst avenue,new york medical college,new york,hawthorne,10532
-4131,1934 alcoa highway,university of tennessee medical center,tennessee,knoxville,37920
-4132,7425 ziegler road suite 109,associates in oncology and hematology,tennessee,chattanooga,37421
-4133,1825 north kolb road,arizona clinical research center  hunt  ppds,arizona,tucson,85715
-4134,1800 williams street,rocky mountain cancer centers williams  usor,colorado,denver,80218
-4135,695 south dobson road,ironwood physicians pc,arizona,chandler,85224
-4136,1100 fairview avenue north,fred hutchinson cancer research center,washington,seattle,98109
-4137,89 beaumont avenue,washington dc va medical center,vermont,burlington,05405
-4138,8503 arlington boulevard,virginia cancer specialists leesburg  usor,virginia,fairfax,22031
-4139,1275 york avenue,memorial sloan kettering cancer center,new york,new york,10021
-4140,255 terracina boulevard,emad ibrahim md inc,california,redlands,92373
-4141,230 nebraska street,siouxland hematology  oncology associates llp,iowa,sioux city,51101
-4142,1700 north rose avenue,ventura county hematology oncology specialists,california,oxnard,93030
-4143,11100 warner avenue,robert a moss md facp inc,california,fountain valley,92708
-4144,1 medical center drivemary babb randolph cancer center,w va university mary babb randolph cancer center,west virginia,morgantown,26506
-4145,250 25th avenue,sarah cannon cancer center,tennessee,nashville,37203
-4146,8700 beverly boulevard,cedars sinai medical center,california,los angeles,90048
-4147,9000 west wisconsin avenue,the medical college of wisconsin inc,wisconsin,milwaukee,53226
-4148,276 7th avenue,mount sinai hospital  canada,new york,new york,10001
-4149,1364 clifton road northeast,emory university,georgia,atlanta,30322
-4150,1201 camino de salud northeast,university of new mexico,new mexico,albuquerque,87106
-4151,477 north el camino real,san diego pacific oncology and hematology associates,california,encinitas,92024
-4152,5520 park avenue,trumbull care center,connecticut,trumbull,06611
-4153,3181 southwest sam jackson park road,oregon health and science university,oregon,portland,97239
-4154,2200 west main streetoffice of corporate research collaborations,duke university medical center,north carolina,durham,27705
-4155,zero emerson place,massachusetts general hospital,massachusetts,boston,02114
-4156,92 second street,john theurer cancer center,new jersey,hackensack,07601
-4157,box 951678 42121 center for health sciences david geffen school of medicine,ronald reagan ucla medical center,california,los angeles,900951678
-4158,65 international drive,prisma health  upstate,south carolina,greenville,29615
-4159,250 25th ave north,sarah cannon cancer center,tennessee,nashville,37203
-4160,9200 west wisconsin avenue,the medical college of wisconsin inc,wisconsin,milwaukee,53226
-4161,1500 east medical center drive,university of michigan,michigan,ann arbor,48109
-4162,5841 south maryland avenue,university of chicago medical center,illinois,chicago,60637
-4163,310 cedar street,yale cancer center,connecticut,new haven,06520
-4164,501 west seventh street oncology care consultants,frederick memorial hospital,maryland,frederick,21701
-4165,122 saint christopher drive,ashland bellefonte cancer center,kentucky,ashland,41101
-4166,1329 lusitana street,oncare hawaii  honolulu,hawaii,honolulu,96813
-4167,122 saint christopher drive,ashland bellefonte cancer center,kentucky,ashland,41101
-4168,19229 mack avenue,great lakes cancer management specialists,michigan,grosse pointe woods,48236
-4169,256 mason avenue nalitt center,staten island university hospital,new york,staten island,10305
-4170,114 woodland street,saint francis hospital and medical center,connecticut,hartford,06105
-4171,142 west 5th street,cookeville regional medical center,tennessee,cookeville,38501
-4172,808 north 39th avenue,yakima valley memorial hospital north star lodge,washington,yakima,98902
-4173,1501 north campbell avenue,university of arizona,arizona,tucson,85724
-4174,326 cambridge street,massachusetts general hospital,massachussets,boston,02114
-4175,2151 north harbor boulevard,st jude heritage medical group,california,fullerton,92835
-4176,4500 brockton avenue,compassionate cancer care medical group,california,riverside,92501
-4177,1470 madison avenue,mount sinai medical center,new york,new york,31406
-4178,1325 e church st suite 301,central coast medical oncology corporation,california,santa maria,93454
-4179,6410 rockledge drive,american oncology partners of maryland pa,maryland,bethesda,20817
-4180,92 second street john theurer cancer center,hackensack university medical center,new jersey,hackensack,07601
-4181,200 technology drive,new hampshire oncology hematology,new hampshire,exeter,03106
-4182,5725 west las positas boulevard,valley medical oncology consultants,california,pleasanton,94588
-4183,9444 medical center drive,uc san diego moores cancer center,california,la jolla,92093
-4184,1305 york ave,weill cornell medical center,new york,new york,10021
-4185,11100 euclid avenue,university hospitals case medical center,ohio,cleveland,44106
-4186,30 prospect avenue,hackensack university medical center,new jersey,hackensack,07601
-4187,401 west greenlawn avenue,michigan state university,michigan,lansing,48910
-4188,195 little albany street,cancer institute of new jersey,new jersey,new brunswick,8901
-4189,2050 kenny road,ohio state university,ohio,columbus,43221
-4190,1500 east medical center drive,university of michigan,michigan,ann arbor,481095000
-4191,1775 healing place,tallahassee memorial hospital,florida,tallahassee,32308
-4192,508 fulton street,durham va medical center  navref  ppds,north carolina,durham,27705
-4193,11100 warner avenue,robert a moss md facp inc,california,fountain valley,92708
-4194,101 manning drive,carolinas healthcare system,north carolina,chapel hill,27599
-4195,1222 jefferson park avenue,university of virginia health system,virginia,charlottesville,22908
-4196,10833 leconte avenue,ucla medical hematology and oncology,california,los angeles,90095
-4197,250 25th avenue,tennessee oncology nash  scri  ppds,tennessee,nashville,37203
-4198,22 south greene street,university of maryland,maryland,baltimore,212011544
-4199,633 3rd avenue clinical trials office 15th floor,memorial sloan kettering cancer center,new york,new york,10017
-4200,elm and carlton streets,roswell park cancer institute,new york,buffalo,14263
-4201,1100 ninth avenue,virginia mason medical center,washington,seattle,98101
-4202,949 48th street 2nd floor,maimonides medical center,new york,brooklyn,11219
-4203,1010 west lane veta avenue,medical oncology care associates,california,orange county,92868
-4204,701 ostrum street,oncology hematology of lehigh valley,pennsylvania,bethlehem,18015
-4205,one medical center drive,dartmouth hitchcock medical center,new hampshire,lebanon,03756
-4206,1062 forsyth street,central georgia cancer care,georgia,macon,31201
-4207,one medical center drive,west virginia university hospital,west virginia,morgantown,26506
-4208,200 1st street southwest,mayo clinic  ppds,minnesota,rochester,55905
-4209,1600 archer road,university of florida,florida,gainesville,32610
-4210,96 jonathan lucas street,medical university of south carolina  hollings cancer center  ppds,south carolina,charleston,29425
-4211,2950 cleveland clinic boulevard,cleveland clinic florida,florida,weston,33331
-4212,4100 john r street,barbara ann karmanos cancer center,michigan,detroit,48201
-4213,3525 lakeland hills boulevardlakeland regional cancer center,lakeland regional medical center,fl,lakeland,33805
-4214,500 j clyde morris boulevard,peninsula cancer institute,virginia,newport news,23601
-4215,1300 north 4th streetlongview cancer center,longview cancer center,texas,longview,75601
-4216,1105 north lafayette drive,santee hematology oncology,south carolina,sumter,29150
-4217,94 old short hills road,saint barnabas medical center,new jersey,livingston,07039
-4218,1871 se tiffany avesuite 100,hematology oncology associates of the treasure coast,florida,port st lucie,34952
-4219,50 bellfontaine street,city of hope medical group,california,pasadena,91105
-4220,120 west hospital drive,south carolina oncology associates pa,south carolina,west columbia,29169
-4221,8503 arlington boulevard,virginia cancer specialists fairfax  usor,virginia,fairfax,22031
-4222,box 343625162 morris building division of medical oncology department of medicine,dumc palliative care clinical research,north carolina,durham,27710
-4223,910 sycamore avenue,san diego cancer center,california,vista,92083
-4224,2000 circle of hope,university of utah  huntsman cancer institute  ppds,utah,salt lake city city,84112
-4225,70 west gore street,cancer centers of florida pa,florida,orlando,32806
-4226,340 kennestone hospital boulevard,northwest georgia oncology centers pc,georgia,marietta,30060
-4227,1900 west polk street,john h stroger jr hospital of cook county,illinois,chicago,60612
-4228,401 west greenlawn avenue,michigan state university,michigan,lansing,48910
-4229,6400 west newberry road,robert r carroll md pa,florida,gainesville,32605
-4230,177 fort washington avenue,columbia university medical center,new york,new york,10032
-4231,4100 john r street,karmanos cancer institute,michigan,detroit,48201
-4232,825 medical drive,blood and cancer center of east texas,texas,tyler,75701
-4233,200 hygeia drive,christiana care health system,delaware,newark,19713
-4234,631 professional drive,suburban hematology oncology associates,georgia,lawrence,30046
-4235,490 north washington,space coast medical associates,florida,titusville,32796
-4236,10000 bay pines boulevardbuilding 100,bay pines va medical center  navref  ppds,florida,bay pines,33744
-4237,ernest terry dir of pharm 3330 masonic drive,christus st francis cabrini hospital,louisiana,alexandria,71301
-4238,6501 truxtun avenueresearch department,cbcc global research inc,california,bakersfield,93309
-4239,9711 skokie boulevard,orchard healthcare research inc,illinois,skokie,60077
-4240,4940 eastern avenue,johns hopkins bayview medical center,maryland,baltimore,21224
-4241,211 white spruce boulevard,interlakes foundation inc,new york,rochester,14623
-4242,2130 northeast loop 410,medical therapy and research,texas,san antonio,78217
-4243,13400 east shea boulevard,mayo clinic arizona  ppds,arizona,scottsdale,85259
-4244,1281 east cottonwood lane,desert oasis cancer center,arizona,casa grande,85222
-4245,1800 williams street,rocky mountain cancer centers williams  usor,colorado,denver,80218
-4246,111 colchester avenue,university of vermont,vermont,burlington,05401
-4247,1900 west polk street,john h stroger jr hospital of cook county,illinois,chicago,60612
-4248,7710 wolf river circle,jones clinic pc,tennessee,germantown,38138
-4249,2003 medical parkway,annapolis oncology,maryland,annapolis,21401
-4250,1380 northeast miami gardens drive,innovative medical research of south florida inc,florida,miami,33179
-4251,2330 desoto street,snake river oncology of eastern idaho pllc,idaho,idaho falls,83404
-4252,1700 rose avenue,ventura county hematology oncology specialists,california,oxnard,93030
-4253,10375 richmond avenue,prime staff usa,texas,houston,77042
-4254,8050 williams dr suite 400,fairfax northern virginia hematology oncology,virginia,fairfax,22031
-4255,450 brookline avenue,dana farber cancer institute,massachusetts,boston,02215
-4256,14051 saint francis boulevard,bon secours cancer institute at st francis,virginia,midlothian,23114
-4257,7202 glen forest drive,virginia cancer institute,virginia,richmond,23226
-4258,2900 12th avenue north,hematology and oncology centers of the northern rockies,montana,billings,59101
-4259,770 southeast 5th terrace,citrus hematology and oncology,florida,crystal river,34429
-4260,230 west washington square 2nd floor,pennsylvania oncology hematology associates,pennsylvania,philadelphia,19106
-4261,1871 se tiffany avesuite 100,hematology oncology associates of the treasure coast,florida,port st lucie,34952
-4262,1930 route 70 east,the center for cancer and hematologic disease,new jersey,camden,08003
-4263,2626 california street,stockton hematologyoncology,california,stockton,95204
-4264,2520 elisha avenue,midwestern regional medical center  ctca  ppds,illinois,zion,60099
-4265,8900 north kendall drive,oncologyhematology group of south florida,florida,miami,33176
-4266,220 trent drivemorris building,duke university medical center,north carolina,durham,27710
-4267,535 barnhill drivemelvin and bren simon cancer center,indiana university,indiana,indianapolis,46202
-4268,4004 pioneer woods drive,nebraska hematology oncology pc,nebraska,lincoln,68506
-4269,92 2nd street suite 340,john theurer cancer center,new jersey,hackensack,07601
-4270,21st  garland avenuedepartment of urologic oncology a1302,vanderbilt university medical center,tennessee,nashville,37232
-4271,100 east liberty street,norton cancer institute pllc,kentucky,louisville,40202
-4272,1950 east 89th streetmellen center for multiple sclerosis treatment and research,the cleveland clinic  foundation,ohio,cleveland,44195
-4273,218 de anza boulevard,california cancer care inc,california,san mateo,94402
-4274,1441 eastlake avenue,usc norris cancer center,california,los angeles,90033
-4275,333 cedar street,yale cancer center,connecticut,new haven,06520
-4276,4685 south congress avenue,hematologyoncology associates,florida,lake worth,33461
-4277,1705 east broadway,missouri cancer associates,missouri,columbia,65201
-4278,3326 watters roadbuilding a,mohammed a quraishi md,texas,pasadena,77504
-4279,2221 5th street north,north mississippi hematology and oncology associates ltd,mississippi,columbus,39705
-4280,attention bonnie tapia 2455 west cheyenne avenue,va southern nevada healthcare system  navref  ppds,nevada,north las vegas,89032
-4281,289 southwest stonegate terrace,cancer care of north florida,florida,lake city,32024
-4282,1547 clifton road northeast,winship cancer institute emory university,georgia,atlanta,30322
-4283,3600 north interstate avenue,kaiser permanente medical group,oregon,portland,97227
-4284,660 south euclid avenue,washington university,missouri,saint louis,63110
-4285,1717 13th street,providence regional medical center everett,washington,everett,98201
-4286,601 south sherman street,cancer care northwest,washington,spokane,99202
-4287,3100 plaza properties boulevard,mark h zangmeister center,ohio,columbus,43219
-4288,3601 cci drive nw,comprehensive cancer institute,alabama,huntsville,35805
-4289,525 north foote avenuecancer care and hematology,memorial hospital,colorado,colorado springs,80909
-4290,34730 bob wilson drive,naval medical center san diego nmcsd  dod  ppds,california,san diego,92134
-4291,7 fox street,vasser brothers medical center,new york,dutchess,12601
-4292,1010 christine avenue,anniston medical clinic,alabama,anniston,36207
-4293,8111 south emerson avenue,franciscan health indianapolis,indiana,indianapolis,46237
-4294,2253 south oneida street,colorado cancer research,colorado,denver,80224
-4295,5758 south maryland avenue,university of chicago,illinois,chicago,60637
-4296,4618 health sciences centerdepartment of pediatrics,west virginia university hospital,west virginia,morgantown,26506
-4297,8595 picardy avenue,louisiana hematology oncology clinic,louisiana,baton rouge,70809
-4298,425 post road,medical specialists of fairfield,connecticut,fairfield,06824
-4299,100 madison avenue,hematology oncology associates of northern new jersey,new jersey,morristown,07962
-4300,200 medical center drive,kentucky cancer clinic,kentucky,hazard,41701
-4301,1000 10th avenue,nyu langone medical center,new york,new york,10019
-4302,1550 northwest 10th avenue,sylvester comprehensive cancer center,florida,miami,33136
-4303,161 fort washington avenue,columbia university medical center,new york,new york,10032
-4304,3838 north campbell avenue,university of arizona cancer center,arizona,tucson,85719
-4305,222 north 7th street,sanford health,north dakota,bismarck,58501
-4306,5841 south maryland avenue,university of chicago medical center,illinois,chicago,60637
+19059,1915 trent boulevard,new bern cancer care,north carolina,new bern,28560
+19060,3100 wellons boulevard,southern gastroenterology associates,north carolina,new bern,28562
+19061,3100 wellons boulevard,southern gastroenterology associates,north carolina,new bern,28562
+19062,3100 wellons boulevard,southern gastroenterology associates,north carolina,new bern,28562
+19063,3100 wellons boulevard,southern gastroenterology associates,north carolina,new bern,28562
+19064,3100 wellons boulevard,southern gastroenterology associates,north carolina,new bern,28562
+19065,3100 wellons boulevard,southern gastroenterology associates,north carolina,new bern,28562
+19066,3100 wellons boulevard,southern gastroenterology associates,north carolina,new bern,28562
+19067,137 medical lane,eastern carolina internal medicine pa,north carolina,pollocksville,28573
+19068,137 medical lane,eastern carolina internal medicine pa,north carolina,pollocksville,28573
+19069,36 14th avenue ne suite 103suite 250,research carolina elite llc,hickory,north carolina,28601
+19070,36 14th avenue ne suite 103suite 250,research carolina elite llc,hickory,north carolina,28601
+19071,225 18th street southeast,carolina oncology specialists pa,north carolina,hickory,28602
+19072,2406 century place southeast,carolina oncology specialists pa,north carolina,hickory,28602
+19073,2406 century place southeast,carolina oncology specialists pa,north carolina,hickory,28602
+19074,1985 tate blvd se ste 600,neurology associates,north carolina,hickory,286021433
+19075,870 state farm road,medispect llc,north carolina,boone,28607
+19076,870 state farm road,medispect llc,north carolina,boone,28607
+19077,208 old mocksville roadnorthlake digestive caresuite b,piedmont healthcare,north carolina,statesville,28625
+19078,208 old mocksville roadnorthlake digestive caresuite b,piedmont healthcare,north carolina,statesville,28625
+19079,208 old mocksville roadnorthlake digestive caresuite b,piedmont healthcare,north carolina,statesville,28625
+19080,208 old mocksville roadnorthlake digestive caresuite b,piedmont healthcare,north carolina,statesville,28625
+19081,208 old mocksville roadnorthlake digestive caresuite b,piedmont healthcare,north carolina,statesville,28625
+19082,208 old mocksville roadnorthlake digestive caresuite b,piedmont healthcare,north carolina,statesville,28625
+19083,208 old mocksville roadnorthlake digestive caresuite b,piedmont healthcare,north carolina,statesville,28625
+19084,208 old mocksville road,statesville research institute,north carolina,statesville,28625
+19085,208 old mocksville road,statesville research institute,north carolina,statesville,28625
+19086,560 malcolm boulevard,burke research associates,north carolina,rutherford college,28671
+19087,560 malcolm boulevard,burke research associates,north carolina,rutherford college,28671
+19088,633 brookdale drive,piedmont healthcare,north carolina,statesville,28677
+19089,633 brookdale drive,piedmont healthcare,north carolina,statesville,28677
+19090,633 brookdale drive,piedmont healthcare,north carolina,statesville,28677
+19091,633 brookdale drive,piedmont healthcare,north carolina,statesville,28677
+19092,633 brookdale drivesuite 100,piedmont healthcare,north carolina,statesville,28677
+19093,360 kingstown rd suite 202,gastrointestinal medicine associates,rhode island,wakefield,2879
+19094,360 kingstown rd suite 202,gastrointestinal medicine associates,rhode island,wakefield,2879
+19095,360 kingstown rd suite 202,gastrointestinal medicine associates,rhode island,wakefield,2879
+19096,360 kingstown rd suite 202,gastrointestinal medicine associates,rhode island,wakefield,2879
+19097,360 kingstown rd suite 202,gastrointestinal medicine associates,rhode island,wakefield,2879
+19098,360 kingstown rd suite 202,gastrointestinal medicine associates,rhode island,wakefield,2879
+19099,360 kingstown rd suite 202,gastrointestinal medicine associates,rhode island,wakefield,2879
+19100,191 biltmore avenueresearch department,asheville gastroenterology associates pa,north carolina,asheville,28801
+19101,191 biltmore avenue,asheville gastroenterology associates pa,north carolina,asheville,28801
+19102,191 biltmore avenueresearch department,asheville gastroenterology associates pa,north carolina,asheville,28801
+19103,191 biltmore avenue,asheville gastroenterology associates pa,north carolina,asheville,28801
+19104,191 biltmore avenueresearch department,asheville gastroenterology associates pa,north carolina,asheville,28801
+19105,191 biltmore avenueresearch department,asheville gastroenterology associates pa,north carolina,asheville,28801
+19106,191 biltmore avenueresearch department,asheville gastroenterology associates pa,north carolina,asheville,28801
+19107,191 biltmore avenueresearch department,asheville gastroenterology associates pa,north carolina,asheville,28801
+19108,191 biltmore avenueresearch department,asheville gastroenterology associates pa,north carolina,asheville,28801
+19109,191 biltmore avenueresearch department,asheville gastroenterology associates pa,north carolina,asheville,28801
+19110,191 biltmore avenueresearch department,asheville gastroenterology associates pa,north carolina,asheville,28801
+19111,191 biltmore avenue,asheville gastroenterology associates pa,asheville,north carolina,28801
+19112,21 hospital drive,cancer care of wnc pa,north carolina,asheville,28801
+19113,21 hospital drivesuite 100,cancer care of wnc pa,north carolina,asheville,28801
+19114,21 hospital drivesuite 100,cancer care of wnc pa,north carolina,asheville,28801
+19115,21 hospital drive,cancer care of wnc pa,north carolina,asheville,28801
+19116,445 biltmore avenuesuite 100,cancer care of wnc pa,north carolina,asheville,28801
+19117,509 biltmore avenue,mission hospitals,north carolina,asheville,28801
+19118,21 hospital drive,secu cancer center,north carolina,asheville,28801
+19119,21 hospital drive,secu cancer center,north carolina,asheville,28801
+19120,1200 ridgefield boulevardsuite 250,asheville neurology specialists pa,north carolina,asheville,28806
+19121,215 toll gate roadsuite 309,care access research,rhode island,warwick,2886
+19122,215 toll gate roadsuite 309,care access research,rhode island,warwick,2886
+19123,215 toll gate roadsuite 309,care access research,rhode island,warwick,2886
+19124,215 toll gate roadsuite 309,care access research,rhode island,warwick,2886
+19125,215 toll gate roadsuite 309,care access research,rhode island,warwick,2886
+19126,215 toll gate roadsuite 309,care access research,rhode island,warwick,2886
+19127,215 toll gate roadsuite 309,care access research,rhode island,warwick,2886
+19128,593 eddy street,hasbro childrens hospital,rhode island,providence,2903
+19129,593 eddy street,hasbro childrens hospital,rhode island,providence,2903
+19130,593 eddy streetgeorge building,rhode island hospital,rhode island,providence,2903
+19131,593 eddy streetgeorge buildingsuite 1006,rhode island hospital,rhode island,providence,2903
+19132,593 eddy streetambulatory patient center,rhode island hospital,rhode island,providence,2903
+19133,148 w river streetsuite 3,university gastroenterology llc,rhode island,providence,2904
+19134,148 w river streetsuite 3,university gastroenterology llc,rhode island,providence,2904
+19135,148 w river streetsuite 3,university gastroenterology llc,rhode island,providence,2904
+19136,148 w river streetsuite 3,university gastroenterology llc,rhode island,providence,2904
+19137,148 w river streetsuite 3,university gastroenterology llc,rhode island,providence,2904
+19138,148 w river streetsuite 3,university gastroenterology llc,rhode island,providence,2904
+19139,830 chalkstone avenueresearch 151,ocean state research institute  navref  ppds,rhode island,providence,2908
+19140,830 chalkstone avenueresearch 151,ocean state research institute  navref  ppds,rhode island,providence,2908
+19141,830 chalkstone avenueresearch 151,ocean state research institute  navref  ppds,rhode island,providence,2908
+19142,830 chalkstone avenueresearch 151,ocean state research institute  navref  ppds,rhode island,providence,2908
+19143,830 chalkstone avenueresearch 151,ocean state research institute  navref  ppds,rhode island,providence,2908
+19144,830 chalkstone avenueresearch 151,ocean state research institute  navref  ppds,rhode island,providence,2908
+19145,830 chalkstone avenueresearch 151,ocean state research institute  navref  ppds,rhode island,providence,2908
+19146,1105 north lafayette drivesuite a,santee hematology oncology,south carolina,sumter,29150
+19147,1105 north lafayette drivesuite a,santee hematology oncology,south carolina,sumter,29150
+19148,1105 north lafayette drivesuite a,santee hematology oncology,south carolina,sumter,29150
+19149,1105 north lafayette drive,santee hematology oncology,south carolina,sumter,29150
+19150,131 summerplace drivewest columbia main campus,consultants in gastroenterology  the south carolina endoscopy center,south carolina,west columbia,29169
+19151,131 summerplace drivewest columbia main campus,consultants in gastroenterology  the south carolina endoscopy center,south carolina,west columbia,29169
+19152,120 west hospital drive,south carolina oncology associates pa,south carolina,west columbia,29169
+19153,1333 taylor street suite 6b,bogan sleep consultants llc,columbia,south carolina,29201
+19154,1333 taylor street suite 6b,bogan sleep consultants llc,columbia,south carolina,29201
+19155,1333 taylor street suite 6b,bogan sleep consultants llc,columbia,south carolina,29201
+19156,11 gateway corners park,consultants in gastroenterology,south carolina,columbia,29203
+19157,11 gateway corners park,consultants in gastroenterology,south carolina,columbia,29203
+19158,11 gateway corners park,consultants in gastroenterology,south carolina,columbia,29203
+19159,11 gateway corners park,consultants in gastroenterology,south carolina,columbia,29203
+19160,11 gateway corners park,consultants in gastroenterology pa,columbia,south carolina,29203
+19161,5 richland medical park,palmetto health richland,columbia,south carolina,29203
+19162,5 richland medical park,palmetto health richland,columbia,south carolina,29203
+19163,7 richland medical park drpediatric hematologyoncology,palmetto health richland,south carolina,columbia,29203
+19164,7 richland medical park drpediatric hematologyoncology,palmetto health richland,south carolina,columbia,29203
+19165,2739 laurel street,columbia gastroenterology associates,south carolina,columbia,29204
+19166,2739 laurel street,columbia gastroenterology associates,south carolina,columbia,29204
+19167,166 stoneridge drive,south carolina oncology associates pa,south carolina,columbia,29210
+19168,166 stoneridge drive,south carolina oncology associates pa,south carolina,columbia,29210
+19169,166 stoneridge drive,south carolina oncology associates pa,south carolina,columbia,29210
+19170,1072 wildwood centre drive,associates in gastroenteroloy,south carolina,columbia,29229
+19171,1072 wildwood centre drive,associates in gastroenteroloy,south carolina,columbia,29229
+19172,101 east wood street,gibbs cancer center  research institute,south carolina,spartanburg,29303
+19173,380 serpentine drive,medical group of the carolinas – hematology spartanburg,south carolina,spartanburg,29303
+19174,380 serpentine drive,medical group of the carolinas – hematology spartanburg,south carolina,spartanburg,29303
+19175,101 east wood streetspartanburg regional medical center,spartanburg regional healthcare system,south carolina,spartanburg,29303
+19176,114 doughty streetms 702,medical university of south carolina  ppds,south carolina,charleston,29403
+19177,2910 tricom street,charleston cancer center,south carolina,charleston,29406
+19178,2910 tricom street,charleston cancer center,south carolina,charleston,29406
+19179,2695 elms plantation boulevardsuite d,clinical trials of south carolina   clinedge  ppds,south carolina,charleston,29406
+19180,2695 elms plantation boulevardsuite d,clinical trials of south carolina   clinedge  ppds,south carolina,charleston,29406
+19181,2695 elms plantation boulevardsuite d,clinical trials of south carolina   clinedge  ppds,south carolina,charleston,29406
+19182,2695 elms plantation boulevardsuite d,clinical trials of south carolina   clinedge  ppds,south carolina,charleston,29406
+19183,2695 elms plantation boulevardsuite d,clinical trials of south carolina   clinedge  ppds,south carolina,charleston,29406
+19184,2695 elms plantation boulevardsuite d,clinical trials of south carolina   clinedge  ppds,south carolina,charleston,29406
+19185,2695 elms plantation boulevard,clinical trials of south carolina   clinedge  ppds,south carolina,north charleston,29406
+19186,2671 elms plantation boulevardendoscopy center,southeast medical research pa,south carolina,charleston,29406
+19187,1606 ashley river road,coastal gastroenterology and hepatology llc,south carolina,charleston,29407
+19188,1606 ashley river road,coastal gastroenterology and hepatology llc,south carolina,charleston,29407
+19189,418 folly road,pharmacorp clinical trials incorporated,south carolina,charleston,29412
+19190,418 folly road,pharmacorp clinical trials incorporated,south carolina,charleston,29412
+19191,418 folly road,pharmacorp clinical trials incorporated,south carolina,charleston,29412
+19192,418 folly road,pharmacorp clinical trials incorporated,south carolina,charleston,29412
+19193,418 folly road,pharmacorp clinical trials incorporated,south carolina,charleston,29412
+19194,418 folly road,pharmacorp clinical trials incorporated,south carolina,charleston,29412
+19195,418 folly road,pharmacorp clinical trials incorporated,south carolina,charleston,29412
+19196,1962 charlie hall boulevardaccr cgc research department,charleston gi specialists,south carolina,charleston,29414
+19197,2085 henry tecklenburg drive2nd floor,charleston oncology pa,south carolina,charleston,29414
+19198,2051 charlie hall boulevard,coastal pediatric associates,south carolina,charleston,29414
+19199,2093 henry tecklenburg drivesuite 30,palmetto digestive disease pa,south carolina,charleston,294145733
+19200,2093 henry tecklenburg drivesuite 30,palmetto digestive disease pa,south carolina,charleston,294145733
+19201,2093 henry tecklenburg drivesuite 30,palmetto digestive disease pa,south carolina,charleston,294145733
+19202,2093 henry tecklenburg drivesuite 30,palmetto digestive disease pa,south carolina,charleston,294145733
+19203,2093 henry tecklenburg drivesuite 30,palmetto digestive disease pa,south carolina,charleston,294145733
+19204,2093 henry tecklenburg drivesuite 30,palmetto digestive disease pa,south carolina,charleston,294145733
+19205,2093 henry tecklenburg drivesuite 30,palmetto digestive disease pa,south carolina,charleston,294145733
+19206,7555 northside drive,national allergy asthma  urticaria centers of charleston pa,north charleston,south carolina,294204211
+19207,135 rutledge ave msc561,medical university of south carolina,charleston,south carolina,29425
+19208,171 ashley avenue msc 908,medical university of south carolina,charleston,south carolina,29425
+19209,96 jonathan lucas st po box 250611,medical university of south carolina,charleston,south carolina,29425
+19210,135 rutledge avenue,medical university of south carolina,sc,charleston,29425
+19211,135 rutledge avenuemail stop code 561,medical university of south carolina,sc,charleston,29425
+19212,135 rutledge avenuemail stop code 561,medical university of south carolina,sc,charleston,29425
+19213,173 ashley ave,medical university of south carolina,south carolina,charleston,29425
+19214,135 rutledge avemsc 561,medical university of south carolina  crs,south carolina,charleston,29425
+19215,171 ashley avenue,medical university of south carolina  hollings cancer center  ppds,south carolina,charleston,29425
+19216,326 calhoun street,medical university of south carolina  hollings cancer center  ppds,south carolina,charleston,29425
+19217,96 jonathan lucas street,medical university of south carolina  hollings cancer center  ppds,south carolina,charleston,29425
+19218,171 ashley avenue323h csb msc 606,medical university of south carolina  ppds,south carolina,charleston,29425
+19219,171 ashley avenue,medical university of south carolina  ppds,south carolina,charleston,29425
+19220,25 courteney drive 7100a msc 290department of medicineroom 312,medical university of south carolina  ppds,south carolina,charleston,29425
+19221,86 jonathan lucas street,medical university of south carolina  ppds,south carolina,charleston,29425
+19222,86 jonathan lucas street,medical university of south carolina  ppds,south carolina,charleston,29425
+19223,86 jonathan lucas street,medical university of south carolina  ppds,south carolina,charleston,29425
+19224,86 jonathan lucas street,medical university of south carolina  ppds,south carolina,charleston,29425
+19225,96 jonathan lucas streetclinical science buildingsuite 210 pob250327,medical university of south carolina  ppds,south carolina,charleston,29425
+19226,96 jonathan lucas streetclinical science buildingsuite 210 pob250327,medical university of south carolina  ppds,south carolina,charleston,29425
+19227,96 jonathan lucas streetclinical science buildingsuite 210 pob250327,medical university of south carolina  ppds,south carolina,charleston,29425
+19228,96 jonathan lucas streetclinical science buildingsuite 210 pob250327,medical university of south carolina  ppds,south carolina,charleston,29425
+19229,96 jonathan lucas streetclinical science buildingsuite 210 pob250327,medical university of south carolina  ppds,south carolina,charleston,29425
+19230,96 jonathan lucas streetclinical science buildingsuite 210 pob250327,medical university of south carolina  ppds,south carolina,charleston,29425
+19231,96 jonathan lucas streetclinical science buildingsuite 210 pob250327,medical university of south carolina  ppds,south carolina,charleston,29425
+19232,96 jonathan lucas streethollings cancer center,medical university of south carolina  ppds,south carolina,charleston,29425
+19233,96 jonathan lucas blvdsuite 812 csb msc 630,medical university of south carolina musc,charleston,south carolina,29425
+19234,96 jonathan lucas blvdsuite 812 csb msc 630,medical university of south carolina musc,charleston,south carolina,29425
+19235,96 jonathan lucas blvdsuite 812 csb msc 630,medical university of south carolina musc,charleston,south carolina,29425
+19236,96 jonathan lucas streetcsb 816 msc 630,medical university of south carolina musc,charleston,south carolina,29425
+19237,96 jonathan lucas streetcsb 816 msc 630,medical university of south carolina musc,charleston,south carolina,29425
+19238,96 jonathan lucas streetcsb 816 msc 630,medical university of south carolina musc,charleston,south carolina,29425
+19239,96 jonathan lucas streetcsb 816 msc 630,medical university of south carolina musc,charleston,south carolina,29425
+19240,96 jonathan lucas streetcsb 816 msc 630,medical university of south carolina musc,charleston,south carolina,29425
+19241,96 jonathan lucas street csb 215msc 195,medical university of south carolina musc,charleston,south carolina,29425
+19242,135 rutledge ave,medical university of south carolina children hospital  pin,south carolina,charleston,29425
+19243,135 rutledge ave,medical university of south carolina children hospital  pin,south carolina,charleston,29425
+19244,135 rutledge avemsn 0514,medical university of south carolina children hospital  pin,south carolina,charleston,29425
+19245,96 jonathan lucas streetclinical science bluiding409,medical university of south carolina childrens hospital  pin,south carolina,charlesto,29425
+19246,161 ashley avenuerutledge tower medical science center infectious diseases clinic,medical university of south carolina ppds,south carolina,charleston,29425
+19247,171 ashley avenue,medical university of south carolina ppds,south carolina,charleston,29425
+19248,25 courtenay drivesuite 7019,musc department of gastroenterology,charleston,south carolina,29425
+19249,96 jonathan lucas sthollings cancer centersuite 251,medical university of south carolina  hollings cancer center  ppds,south carolina,charleston,294258900
+19250,96 jonathan lucas st,medical university of south carolina  hollings cancer center  ppds,south carolina,charleston,294258900
+19251,96 jonathan lucas st,medical university of south carolina  hollings cancer center  ppds,south carolina,charleston,294258900
+19252,96 jonathan lucas st,medical university of south carolina  ppds,south carolina,charleston,294258900
+19253,96 jonathan lucas st clinical science bluiding 409,medical university of south carolina  ppds,south carolina,charleston,294258900
+19254,135 rutledge ave ms 561,medical university of south carolina children hospital  pin,south carolina,charleston,294258903
+19255,1156 bowman roadsuite 102,coastal carolina research center,south carolina,mount pleasant,29464
+19256,1156 bowman roadsuite 102,coastal carolina research center,south carolina,mount pleasant,29464
+19257,1156 bowman road,coastal carolina research center,south carolina,mount pleasant,29464
+19258,1952 long grove drive,coastal pediatric associates,south carolina,mt pleasant,29464
+19259,900 bowman roadsuite 103,low country hematology and oncology,south carolina,mount pleasant,29464
+19260,900 bowman roadsuite 103,low country hematology and oncology,south carolina,mount pleasant,29464
+19261,900 bowman roadsuite 103,low country hematology and oncology,south carolina,mount pleasant,29464
+19262,900 bowman roadsuite 103,low country hematology and oncology,south carolina,mount pleasant,29464
+19263,180 wingo way,pmg research of charleston llc,south carolina,mount pleasant,29464
+19264,180 wingo way,pmg research of charleston llc,south carolina,mount pleasant,29464
+19265,1600 midtown ave,medical university of south carolina  ppds,south carolina,mount pleasant,294643771
+19266,901 e cheves streetsuite 430,florence gastroenterology,south carolina,florence,29506
+19267,901 e cheves streetsuite 430,florence gastroenterology,south carolina,florence,29506
+19268,901 e cheves streetsuite 430,florence gastroenterology,south carolina,florence,29506
+19269,901 e cheves streetsuite 430,florence gastroenterology,south carolina,florence,29506
+19270,901 e cheves streetsuite 430,florence gastroenterology,south carolina,florence,29506
+19271,901 e cheves streetsuite 430,florence gastroenterology,south carolina,florence,29506
+19272,901 e cheves streetsuite 430,florence gastroenterology,south carolina,florence,29506
+19273,3980 highway 9 eastsuite 320,mcleod seacost,south carolina,little river,29566
+19274,3980 highway 9 eastsuite 320,mcleod seacost,south carolina,little river,29566
+19275,3980 highway 9 eastsuite 320,mcleod seacost,south carolina,little river,29566
+19276,3980 highway 9 eastsuite 320,mcleod seacost,south carolina,little river,29566
+19277,3980 highway 9 eastsuite 320,mcleod seacost,south carolina,little river,29566
+19278,3980 highway 9 eastsuite 320,mcleod seacost,south carolina,little river,29566
+19279,3980 highway 9 eastsuite 320,mcleod seacost,south carolina,little river,29566
+19280,4040 highway 17 bypasssuite 302,tidelands health gastroenterology at murrells inlet,south carolina,murrells inlet,29576
+19281,4040 highway 17 bypasssuite 302,tidelands health gastroenterology at murrells inlet,south carolina,murrells inlet,29576
+19282,4040 highway 17 bypasssuite 302,tidelands health gastroenterology at murrells inlet,south carolina,murrells inlet,29576
+19283,4040 highway 17 bypasssuite 302,tidelands health gastroenterology at murrells inlet,south carolina,murrells inlet,29576
+19284,4040 highway 17 bypasssuite 302,tidelands health gastroenterology at murrells inlet,south carolina,murrells inlet,29576
+19285,4040 highway 17 bypasssuite 302,tidelands health gastroenterology at murrells inlet,south carolina,murrells inlet,29576
+19286,4040 highway 17 bypasssuite 302,tidelands health gastroenterology at murrells inlet,south carolina,murrells inlet,29576
+19287,106 lansford courtsuite 100,family medicine of sayebrook,south carolina,myrtle beach,29588
+19288,106 lansford courtsuite 100,family medicine of sayebrook,south carolina,myrtle beach,29588
+19289,1 saint fancis dr,saint francis hospital,south carolina,greenville,29601
+19290,3 butternut drivesuite a,cancer centers of the carolinas,south carolina,greenville,29605
+19291,900 w faris roadinstitute for translational oncology research itor,greenville health system,south carolina,greenville,29605
+19292,900 west faris roadclinical trials center3rd floor,greenville health system  institute for translational oncology research,sc,greenville,29605
+19293,900 west faris roadbilo charities children’s cancer center  main office,greenville health system childrens hospital,south carolina,greenville,29605
+19294,900 west faris roadbilo charities children’s cancer center  main office,greenville health system childrens hospital,south carolina,greenville,29605
+19295,890 west faris road,greenville hospital system,south carolina,greenville,29605
+19296,890 west faris road,greenville hospital system,south carolina,greenville,29605
+19297,14 edgewood drive,greenwood genetic  center,south carolina,greenville,29605
+19298,900 west faris road,prisma health cancer institute,south carolina,greenville,29605
+19299,701 grove rd,greenville health system,south carolina,greenville,296054210
+19300,900 w faris rd,prisma health cancer institute,south carolina,greenville,296054255
+19301,900 w faris rd,prisma health cancer institute,south carolina,greenville,296054255
+19302,104 innovation drive,saint francis hospital cancer center,sc,greenville,29607
+19303,200 c patewood drive,greenville hospital system,south carolina,greenville,29614
+19304,200 patewood dr,gastroenterology associates pa,greenville,south carolina,29615
+19305,200 patewood drivesuite b200,gastroenterology associates pa,north carolina,greenville,29615
+19306,200 patewood drivesuite b200,gastroenterology associates pa,north carolina,greenville,29615
+19307,200 patewood drivesuite b 200,gastroenterology associates pa,south carolina,greenville,29615
+19308,200 patewood drivesuite b 200,gastroenterology associates pa,south carolina,greenville,29615
+19309,200 patewood drivesuite b 200,gastroenterology associates pa,south carolina,greenville,29615
+19310,200 patewood drivesuite b 200,gastroenterology associates pa,south carolina,greenville,29615
+19311,200 patewood drivesuite b 200,gastroenterology associates pa,south carolina,greenville,29615
+19312,200 patewood drivesuite b 200,gastroenterology associates pa,south carolina,greenville,29615
+19313,200 patewood drivesuite b 200,gastroenterology associates pa,south carolina,greenville,29615
+19314,65 international drive,greenville health system,south carolina,greenville,29615
+19315,200 patewood drivesuite a320,greenville health system  patewood,sc,greenville,29615
+19316,65 international drive,greenville health system cancer institute,south carolina,greenville,29615
+19317,65 international drive,greenville health system cancer institute,south carolina,greenville,29615
+19318,65 international drive,greenville health system cancer institute,south carolina,greenville,29615
+19319,65 international drive,greenville health system cancer institute,south carolina,greenville,29615
+19320,200 patewood drivesuite a140,greenville hospital system,south carolina,greenville,29615
+19321,200 patewood drivesuite a140,greenville hospital system,south carolina,greenville,29615
+19322,65 international drive,prisma health cancer institute,south carolina,greenville,29615
+19323,2000 east greenville streetsuite 2900,anmed health,south carolina,anderson,29621
+19324,2000 east greenville streetsuite 2900,anmed health,south carolina,anderson,29621
+19325,130 perpetual square,manjakkollai p veerabagu md,south carolina,anderson,29621
+19326,130 perpetual square,manjakkollai p veerabagu md,south carolina,anderson,29621
+19327,2000 east greenville streetsuite 1600,synexus clinical research  anderson,sc,anderson,29621
+19328,106 gregor mendel cir,greenwood genetic  center,south carolina,greenwood,296462315
+19329,717 southeast main streetsuite b,hillcrest clinical research llc,south carolina,simpsonville,29681
+19330,717 southeast main streetsuite b,hillcrest clinical research llc,south carolina,simpsonville,29681
+19331,108 healthcare dr,catawba gastroenterology,south carolina,lancaster,29720
+19332,108 healthcare dr,catawba gastroenterology,south carolina,lancaster,29720
+19333,108 healthcare dr,catawba gastroenterology,south carolina,lancaster,29720
+19334,108 healthcare dr,catawba gastroenterology,south carolina,lancaster,29720
+19335,108 healthcare dr,catawba gastroenterology,south carolina,lancaster,29720
+19336,108 healthcare dr,catawba gastroenterology,south carolina,lancaster,29720
+19337,108 healthcare dr,catawba gastroenterology,south carolina,lancaster,29720
+19338,1583 health care drive,tri county oncology,south carolina,rock hill,29732
+19339,1583 health care drive,tri county oncology,south carolina,rock hill,29732
+19340,71 trebor road,rainbow research inc,south carolina,barnwell,29812
+19341,45 hospital center common,south carolina cancer specialists,south carolina,hilton head island,29926
+19342,1269 wellbrook circle ne,east atlanta gastroenterology associates,georgia,conyers,30012
+19343,1269 wellbrook circle ne,east atlanta gastroenterology associates,georgia,conyers,30012
+19344,10945 state bridge rd,agile clinical research trials llc,georgia,alpharetta,30022
+19345,4275 johns creek parkwaysuite a,advanced gastroenterology associates llc,georgia,suwanee,30024
+19346,4275 johns creek parkwaysuite a,advanced gastroenterology associates llc,georgia,suwanee,30024
+19347,4395 johns creek parkwaysuite 130,atlanta gastroenterology specialists pc,georgia,suwanee,30024
+19348,4395 johns creek parkwaysuite 1600,atlanta gastroenterology specialists pc,georgia,suwanee,30024
+19349,4395 johns creek parkway,atlanta gastroenterology specialists pc,georgia,suwanee,30024
+19350,4395 johns creek parkway,atlanta gastroenterology specialists pc,georgia,suwanee,30024
+19351,4395 johns creek parkwaysuite 1600,atlanta gastroenterology specialists pc,georgia,suwanee,30024
+19352,4395 johns creek parkwaysuite 1600,atlanta gastroenterology specialists pc,georgia,suwanee,30024
+19353,4395 johns creek parkway,atlanta gastroenterology specialists pc,georgia,suwanee,30024
+19354,4395 johns creek parkwaysuite 130,atlanta gastroenterology specialists pc,suwanee,georgia,30024
+19355,4395 johns creek parkwaysuite 130,atlanta gastroenterology specialists pc,suwanee,georgia,30024
+19356,4395 johns creek parkwaysuite 130,atlanta gastroenterology specialists pc,suwanee,georgia,30024
+19357,125 clairemont avenue suite 470iresearch atlanta llc,iresearch atlanta llc,decatur,georgia,30030
+19358,250 east ponce de leon avenuesuite 800,iresearch atlanta llc,decatur,georgia,30030
+19359,2665 north decatur roadsuite 430,atlanta center for gastroenterology pc,georgia,decatur,30033
+19360,2665 north decatur roadsuite 430,atlanta center for gastroenterology pc,georgia,decatur,30033
+19361,2665 north decatur roadsuite 430,atlanta center for gastroenterology pc,georgia,decatur,30033
+19362,2665 north decatur roadsuite 430,atlanta center for gastroenterology pc,georgia,decatur,30033
+19363,2665 north decatur roadsuite 550,atlanta center for gastroenterology pc,georgia,decatur,30033
+19364,2665 north decatur roadsuite 430,atlanta center for gastroenterology pc,georgia,decatur,30033
+19365,2665 north decatur roadsuite 430,atlanta center for gastroenterology pc,georgia,decatur,30033
+19366,2665 n decatur rdsuite 550,atlanta center for gastroenterology pc,decatur,georgia,30033
+19367,2675 n decatur roadsuite 305,atlanta digestive center,georgia,atlanta,30033
+19368,2675 n decatur roadsuite 305,atlanta digestive center,georgia,atlanta,30033
+19369,2675 north decatur roadsuite 506,dekalb gastroenterology associates,georgia,decatur,30033
+19370,2165 north decatur road,emory healthcare systems,georgia,decatur,30033
+19371,1365 clifton roadbuilding bsuite 301,emory university school of medicine,georgia,atlanta,30033
+19372,2165 north decatur roaddepartment of human geneticssuite 301,emory university school of medicine,georgia,decatur,30033
+19373,2665 north decatur roadsuite 740,neurostudiesnet llc  clinedge  ppds,georgia,decatur,30033
+19374,4201 rainbow drive,soapstone center for clinical research,georgia,decatur,30034
+19375,1505 northside boulevardsuite 2000a0118 mcn,atlanta gastroenterology associates,georgia,cumming,30041
+19376,1505 northside boulevardsuite 2000a0118 mcn,atlanta gastroenterology associates,georgia,cumming,30041
+19377,1505 northside boulevardsuite 1800,gi north,georgia,cumming,30041
+19378,1505 northside boulevardsuite 1800,gi north,georgia,cumming,30041
+19379,1505 northside boulevardsuite 1800,gi north,georgia,cumming,30041
+19380,1505 northside boulevardsuite 1800,gi north,georgia,cumming,30041
+19381,1505 northside boulevardsuite 1800,gi north,georgia,cumming,30041
+19382,1505 northside boulevardsuite 1800,gi north,georgia,cumming,30041
+19383,1505 northside boulevardsuite 1800,gi north,georgia,cumming,30041
+19384,600 professional drivesuite 210,suburban hematology oncology associates,georgia,lawrenceville,30045
+19385,721 wellness waysuite 100,gastroenterology specialists of gwinnett pc,georgia,lawrenceville,30046
+19386,721 wellness waysuite 100,gastroenterology specialists of gwinnett pc,georgia,lawrenceville,30046
+19387,721 wellness waysuite 100,gastroenterology specialists of gwinnett pc,georgia,lawrenceville,30046
+19388,721 wellness waysuite 100,gastroenterology specialists of gwinnett pc,georgia,lawrenceville,30046
+19389,721 wellness waysuite 100,gastroenterology specialists of gwinnett pc,georgia,lawrenceville,30046
+19390,721 wellness waysuite 100,gastroenterology specialists of gwinnett pc,georgia,lawrenceville,30046
+19391,721 wellness waysuite 100,gastroenterology specialists of gwinnett pc,georgia,lawrenceville,30046
+19392,631 professional drive,gwinnett hospital system inc center for cancer care ,georgia,lawrenceville,30046
+19393,500 medical center boulevardsuite 210,north georgia rheumatology group pc,georgia,lawrenceville,30046
+19394,631 professional drivesuite 210,suburban hematology oncology associates,georgia,lawrence,30046
+19395,3869 hwy 81 south,alcovy gastroenterology associates,georgia,loganville,30052
+19396,3869 hwy 81 south,alcovy gastroenterology associates,georgia,loganville,30052
