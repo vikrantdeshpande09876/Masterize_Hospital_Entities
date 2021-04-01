@@ -179,4 +179,5 @@ if (METHOD=="Dedup"){
 
 #View(candidate_pairs)
 end=Sys.time()
+cat("\n")
 print(end-start)
