@@ -1,0 +1,406 @@
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,Unnamed: 15,CONCAT_ADDRESS
+8193,CDM,IQVIA,261203,545,1-1XGRFSY,Italy,fondazione irccs ca granda ospedale maggiore policlinico,milano,milano,20122,,333,via pace 9
+8195,CDM,IQVIA,SHP655-201,601,1-44KZA6W,Italy,fondazione irccs ca granda ospedale maggiore policlinico,milano,milano,20122,,335,via pace 9uoc medicina generale emostasi e trombosi
+8198,CDM,PPD,SHP634-401,401512,,Italy,fondazione irccs cà granda ospedale maggiore policlinico,lombardia,milano,20122,,338,via francesco sforzaendocrinologia e malattie metabolichepadiglione zonda
+8199,CDM,PPD,SHP647-306,1-194Q8JR,,Italy,fondazione irccs cà granda ospedale maggiore policlinico,lombardia,milano,20122,,339,via francesco sforza 28
+8206,CDM,PPD,SHP647-304,1-4MONB8T,,Italy,fondazione irccs cà granda ospedale maggiore policlinico,lombardia,milano,20122,,346,via francesco sforza 28uo gastroenterologia ed endoscopia digestiva
+8214,CDM,PPD,C16029,28018,,Italy,fondazione irccs cà granda ospedale maggiore policlinico,milano,milano,20122,,354,via francesco sforza 35dipartimento delle units multispecialistiche e dei trapianti area ematologica trasfusionale uoc onc
+8219,CDM,IQVIA,TAK-994-1501,28003,1-53CJ2HN,Italy,ospedale san raffaele san raffaele turro,milano,milano,20127,,359,via stamira dancona 20
+8220,CDM,PRA,Ponatinib-3001,28003,1-1KR0U49,Italy,istituto scientifico universitario san raffaele,milano,milano,20132,,360,dipartimento di oncoematologicavia olgettina 60
+8221,CDM,PRA,Brigatinib-3001,28015,1-1L6OLO8,Italy,istituto scientifico universitario san raffaele,milano,milano,20132,,361,unit operativa di oncologia medicavia olgettina 60
+8223,CDM,IQVIA,C34001,28003,1-2NB9B0I,Italy,ospedale san raffaele,milan,milano,20132,,363,via olgettina 60ambulatori di ematologia settore r piano 1
+8224,CDM,PRA,Brigatinib-1001,28001,1-1K6TWDB,Italy,ospedale san raffaele,milano,milano,20132,,364,via olgettina 60dipartimento di oncologia medicasettore q  1 piano
+8225,CDM,PPD,SHP647-307,1-4MLX3S8,,Italy,ospedale san raffaele srl  ppds,lombardia,milan,20132,,365,via olgettina 60
+8228,CDM,PPD,SHP647-301,1-XGCP7R,,Italy,ospedale san raffaele srl  ppds,lombardia,milano,20132,,368,via olgettina 60unità funzionale epatogastroenterologia clinica
+8233,CDM,PPD,TAK-079-1005,1-5D7EOWR,,Italy,ospedale san raffaele srl  ppds,milano,milan,20132,,373,via olgettina 48unità operativa di neurologia
+8234,CDM,PRA,C31004,28001,1-1C5QLEE,Italy,fondazione irccs  istituto nazionale dei tumori  milano,milano,milano,20133,,374,via giacomo venezian 1
+8235,CDM,PPD,TAK-079-1005,1-5D7EOWE,,Italy,fondazione irccs di rilievo nazionale istituto nazionale neurologico carlo besta,lombardia,milano,20133,,375,via celoria 11uoc neurologia 4  neuroimmunologia e malattie neuromuscolari
+8236,CDM,ICON,C25003,,5593,Italy,fondazione irccs istituto nazionale dei tumori,lombardy,milano,20133,,376,via venezian 1
+8237,CDM,PPD,TAK-007-2001,1-87MOPMR,,Italy,istituto nazionale dei tumori,lombardia,milano,20133,,377,via g venezian 1oncologia medica 3  struttura semplice trattamento medico dei sarcomi dell adulto
+8239,CDM,PPD,Pevonedistat-2001,w1-D8V3PA,,Italy,istituto nazionale dei tumori,lombardia,milano,20133,,379,via gvenezian 1dipartimento di ematologia e oncoematologia pediatrica
+8240,CDM,PPD,C16029,1-YFS7G8,,Italy,istituto nazionale dei tumori,lombardia,milano,20133,,380,via venezian 1unità operativa trapianto midollo osseo
+8243,CDM,PPD,NSMM-5001,1-MNRKQG,,Italy,istituto nazionale dei tumori,milano,milano,20133,,383,via venezian 1dipartimento di ematologia e oncoematologia pediatrica
+8246,CDM,PRA,AP32788-15-101 Extension Study,28001,1-1N4CYT4,Italy,istituto di ricovero e cura a carattere scientifico  istituto europeo di oncologia,milano,milano,20141,,386,dipartimento oncologia toracicavia giuseppe ripamonti 435
+8247,CDM,PPD,TAK-788-3001,28005,,Italy,istituto europeo di oncologia,lombardia,milan,20141,,387,via ripamonti 435divisione di oncologia toracica
+8249,CDM,PRA,Brigatinib-2002,28007,1-1KAJK2C,Italy,istituto europeo di oncologia,milano,milano,20141,,389,dipartimento oncologia toracicavia giuseppe ripamonti 435
+8254,CDM,IQVIA,161505,291,1-34DE82E,Italy,casa di cura del policlinico,milano,milano,20144,,394,via dezza 49
+8256,CDM,PPD,SHP675-301,1-3P63B74,,Italy,asst santi paolo e carlo  ospedale san carlo borromeo,lombardia,milano,20153,,396,via pio ii 3
+8257,CDM,PPD,SHP643-402,120,,Italy,asst fatebenefratelli sacco  ospedale luigi sacco,lombardia,milano,20157,,397,via g b grassi 74dipartimento di scienze biomediche e cliniche luigi sacco
+8260,CDM,IQVIA,MLN0002SC-3031,28018,1-1T9RCXL,Italy,azienda socio sanitaria territoriale fatebenefratelli presidio ospedale sacco,milano,milano,20157,,400,via g b grassi 74padiglione 20uo farmacia1° piano
+8262,CDM,IQVIA,SHP643-303,170,1-4XZJL8Y,Italy,azienda socio sanitaria territoriale fatebenefratelli presidio ospedale sacco,milano,milano,20157,,402,via gb grassi 74
+8264,CDM,PPD,TAK-079-1005,1-5D87TDO,,Italy,asst grande ospedale metropolitano niguarda  presidio ospedaliero ospedale niguarda ca granda,lombardia,milan,20162,,404,piazza ospedale maggiore 3centro clinico nemo
+8265,CDM,PPD,C16019,28910,,Italy,asst grande ospedale metropolitano niguarda  presidio ospedaliero ospedale niguarda ca granda,lombardia,milano,20162,,405,pzza ospedale maggiore 3sc ematologia
+8268,CDM,PPD,P2002,1-5PK158Z,,Italy,asst grande ospedale metropolitano niguarda  presidio ospedaliero ospedale niguarda ca granda,milano,milano,20162,,408,piazza ospedale maggiore 1dipartimento cardiologico a de gasperis divisione di cardiologia 4
+8270,CDM,PPD,C16029,1-Y2IEZP,,Italy,asst grande ospedale metropolitano niguarda  presidio ospedaliero ospedale niguarda ca granda,milano,milano,20162,,410,piazza ospedale maggiore 3sc ematologia
+8273,CDM,PRA,C34004,28003,1-1C8CB8Z,Italy,azienda socio sanitaria territoriale grande ospedale metropolitano niguarda,milano,milano,20162,,413,div di ematologia e utmopzza ospedale maggiore 3blocco sud terzo piano
+8275,CDM,IQVIA,161505,288,1-2O2TDJH,Italy,azienda socio sanitaria territoriale niguarda grande ospedale metropolitano niguarda,milano,milano,20162,,415,piazza ospedale maggiore 3
+8277,CDM,PPD,Pevonedistat-2001,w1-D8UZQ2,,Italy,azienda ulss 3 serenissima,venezia,zelarino,20174,,417,via paccagnella 11unità operativa complessa ematologiaospedale dell angelo
+8278,CDM,PPD,MLN0002-3024,3024-28004,,Italy,asst di monza  azienda ospedaliera san gerardo,lombardia,monza,20900,,418,via donizetti 106unità operativa di neurochirurgia
+8281,CDM,PPD,SHP647-305,305-148,,Italy,asst di monza  azienda ospedaliera san gerardo,lombardia,monza,20900,,421,via giovanbattista pergolesi 33uoc gastroenterologia
+8290,CDM,PPD,P2002,28005,,Italy,asst di monza  azienda ospedaliera san gerardo,lombardia,monza,20900,,430,via pergolesi 33
+8291,CDM,PPD,Brigatinib-1002,1-67MXYCU,,Italy,asst di monza  azienda ospedaliera san gerardo,monza e brianza,monza,20900,,431,via pergolesi 33ematologia pediatrica
+8293,CDM,PRA,AP26113-13-301,598,1-1FC2ATK,Italy,azienda ospedaliera san gerardo di monza,milano,milano,20900,,433,struttura complessa oncologia medicaazienda ospedaliera sgerardo monzavia pergolesi 33
+8294,CDM,PPD,Ponatinib-1501,28002,,Italy,fondazione mbbm monza e brianza per il bambino e la sua mamma  co centro maria letizia verga,lombardia,monza,20900,,434,via cadoreclinica pediatrica11 piano  settore c
+8297,CDM,PPD,P2002,1-5M0H8O0,,Italy,asst dei sette laghi  ospedale di circolo e fondazione macchi,lombardia,varese,21100,,437,viale borri  57
+8298,CDM,PPD,SHP647-305,305-142,,Italy,asst dei sette laghi  ospedale di circolo e fondazione macchi,lombardia,varese,21100,,438,viale luigi borri 57
+8305,CDM,PPD,SHP647-301,301-154,,Italy,ospedale valduce,lombardia,como,22100,,445,via dante alighieri 11div di gastroenterologia
+8312,CDM,PPD,C16019,1-4KXM3S,,Italy,asst papa giovanni xxiii  azienda ospedaliera papa giovanni xxiii,lombardia,bergamo,24127,,452,piazza oms 1
+8313,CDM,PPD,C16021,1-RCFMT6,,Italy,asst papa giovanni xxiii  azienda ospedaliera papa giovanni xxiii,lombardia,bergamo,24127,,453,piazza oms 1uo ematologia
+8314,CDM,PPD,TAK-007-2001,1-87ARZ5Q,,Italy,asst papa giovanni xxiii  azienda ospedaliera papa giovanni xxiii,lombardia,bergamo,24127,,454,piazza oms 1uo ematologia con trapianto
+8316,CDM,PRA,C34004,28001,1-1C86O4M,Italy,azienda ospedaliera papa giovanni xxiii,lombardia,bergamo,24127,,456,usc ematologiapiazza organizzazione mondiale della sanit 1torre 6  4 piano
+8317,CDM,IQVIA,281102,010,1-2V4MDJ3,Italy,azienda socio sanitaria territoriale papa giovanni xxiii presidio papa giovanni xxiii,bergamo,bergamo,24127,,457,piazza oms 1neurologia
+8319,CDM,PPD,SHP647-305,1-16352JD,,Italy,asst papa giovanni xxiii  azienda ospedaliera papa giovanni xxiii,lombardia,bergamo,24128,,459,piazza oms 1gastroenterologia 2  endoscopia digestiva
+8322,CDM,PPD,C16019,28914,,Italy,asst degli spedali civili di brescia  spedali civili di brescia  incipit  pin,brescia,brescia,25123,,462,piazzale spedali civili 1uo ematologia
+8323,CDM,PPD,TAK-079-1004,1-5R1ZUYD,,Italy,asst degli spedali civili di brescia  spedali civili di brescia  incipit  pin,lombardia,brescia,25123,,463,pazzale spedali civili 1uo ematologia
+8324,CDM,PPD,P2002,1-5M0SGOR,,Italy,asst degli spedali civili di brescia  spedali civili di brescia  incipit  pin,lombardia,brescia,25123,,464,piazza spedali civili 1uo ematologia con trapianto
+8330,CDM,IQVIA,161302,161302-504,1-27GXI9N,Italy,azienda socio sanitaria territoriale degli spedali civili di brescia,brescia,brescia,25123,,470,piazzale spedali civili sn
+8332,CDM,PRA,C31004,28010,1-1C5QLJS,Italy,spedali civili di brescia,brescia,brescia,25123,,472,unit di ostetricia e ginecologiapiazza spedali civili 1
+8333,CDM,IQVIA,TAK-831-2002,28003,1-45LSMHS,Italy,azienda socio sanitaria territoriale degli spedali civili di brescia presidio spedali civili,brescia,brescia,25124,,473,ple spedali civili 1ple spedali civili  1
+8334,CDM,PPD,Pevonedistat-3001,1-16QY90L,,Italy,asst di cremona  azienda socio sanitaria territoriale di cremona,lombardia,cremona,26100,,474,largo priori 1unità operativa cardiologia
+8335,CDM,PPD,C16011,28001,,Italy,fondazione irccs policlinico san matteo di pavia,lombardia,pavia,2710,,475,viale golgi 19amyloidosis research  treatment center
+8336,CDM,ICON,C16007,,63126,Italy,amyloidosis research  treatment center fondazione irccs policlinico san matteo,italy,pavia,27100,,476,viale golgi 19
+8337,CDM,PPD,TAK-079-1005,1-63ZEFER,,Italy,asst di pavia  fondazione istituto neurologico  mondino irccs,pavia,pavia,27100,,477,via mondino 2ss di neurooncologia
+8338,CDM,IQVIA,C25004,28005,1-272ZSEH,Italy,fondazione irccs policlinico san matteo,pavia,pavia,27100,,478,piazzale golgi19
+8339,CDM,IQVIA,241501,126,1-2SW2WN5,Italy,fondazione irccs policlinico san matteo,pavia,pavia,27100,,479,viale camillo golgi 19
+8341,CDM,PPD,C16029,1-Y42CGZ,,Italy,fondazione irccs policlinico san matteo di pavia,lombardia,pavia,27100,,481,ple golgi 19sc ematologia
+8343,CDM,PPD,SHP607-202,1-15LNM2X,,Italy,fondazione irccs policlinico san matteo di pavia,lombardia,pavia,27100,,483,piazzale golgi 19
+8344,CDM,PPD,MLN0002-3024,1-7K1AWII,,Italy,fondazione irccs policlinico san matteo di pavia,lombardia,pavia,27100,,484,via ferrata 8medicina nucleare
+8348,CDM,PPD,SHP647-303,303-145,,Italy,fondazione irccs policlinico san matteo di pavia,pavia,pavia,27100,,488,viale golgi 19macro attività complessa ambulatori  medicina generale i
+8350,CDM,PPD,Pevonedistat-2001,w1-E5FZOQ,,Italy,fondazione irccs policlinico san matteo di pavia,pavia,pavia,27100,,490,viale golgi 19dipartimento oncoematologico
+8353,CDM,IQVIA,161505,290,1-34DE81F,Italy,fondazione istituto neurologico casimiro mondino,pavia,pavia,27100,,493,via mondino 2
+8355,CDM,PPD,Pevonedistat-2001,w1-IPDFG8,,Italy,aou maggiore della carità,piemonte,novara,28100,,495,corso giuseppe mazzini 18universita degli studi del piemonte orientale amedeo avogadro
+8356,CDM,PPD,P2002,1-5M0SGR7,,Italy,aou maggiore della carità,piemonte,novara,28100,,496,corso mazzini 18struttura complessa a direzione universitaria ematologia
+8357,CDM,PPD,Pevonedistat-1016,1-3LK7HWP,,Italy,aou maggiore della carità,piemonte,novara,28100,,497,corso mazzini 18
+8358,CDM,PPD,SHP647-302,1-18ZI7DM,,Italy,aou maggiore della carità,piemonte,novara,28100,,498,corso mazzini 18gastroenterologia
+8368,CDM,PRA,C34004,28006,1-1C86NZY,Italy,azienda ospedalierouniversitaria,novara,novara,28100,,508,struttura complessa direzione universitaria ematologia scdu ematologiacorso mazzini 18
+8369,CDM,PPD,Pevonedistat-3001,1-16QY945,,Italy,azienda ulss 3 serenissima,veneto,venezia,30100,,509,via paccagnella 11uo di ematologiaospedale dell angelo
+8370,CDM,PPD,Pevonedistat-3001,1-186CPFW,,Italy,azienda ulss 3 serenissima,veneto,venezia,30174,,510,via don federico tosatto 147
+8371,CDM,PRA,Ponatinib-3001,28001,1-1KR0TZH,Italy,ospedale dellangelo,venezia,mestre,30174,,511,dipartimento di ematologiavia don federico tosatto 147
+8373,CDM,PPD,SHP620-302,609,,Italy,ospedale dellangelo,venezia,venezia mestre,30174,,513,via paccagnella  11uo ematologia
+8374,CDM,IQVIA,201601,814,1-307DIET,Italy,presidio ospedaliero di castelfranco veneto,castelfranco veneto,treviso,31033,,514,via dei carpani 16
+8375,CDM,IQVIA,201501,814,1-2HR4YGJ,Italy,presidio ospedaliero di castelfranco veneto,castelfranco veneto,treviso,31033,,515,via ospedale 18
+8377,CDM,PPD,SHP607-203,154,,Italy,presidio ospedaliero di treviso ca foncello,veneto,treviso,31100,,517,piazza ospedale 1uoc terapia intensiva neonatale
+8378,CDM,PPD,TAK-788-3001,28009,,Italy,centro di riferimento oncologico,pordenone,aviano,33081,,518,via franco gallini 2struttura operativa complessa di oncologia medica b
+8379,CDM,PRA,Brigatinib-3001,28002,1-1L6OLJ8,Italy,centro di riferimento oncologico di aviano,pordenone,aviano,33081,,519,oncologia medicacentro oncologico avianovia gallini 2
+8383,CDM,PRA,C34004,28005,1-1C8BKUJ,Italy,azienda ospedaliero universitaria santa maria della misericordia di udine,udine,udine,33100,,523,clinica ematologicapiazzale santa maria della misericordia 15
+8384,CDM,IQVIA,161505,282,1-2O2RTYJ,Italy,azienda ospedalierouniversitaria santa maria della misericordia,udine,udine,33100,,524,ple smaria della misericordia 15
+8386,CDM,PPD,SHP620-303,613,,Italy,azienda sanitaria universitaria integrata di udine  po universitario santa maria della misericordia,friulivenezia giulia,udine,33100,,526,piazzale s maria della misericordiaclinica malattie infettive
+8389,CDM,PPD,Pevonedistat-3001,1-16QY8WN,,Italy,azienda sanitaria universitaria integrata di udine  po universitario santa maria della misericordia,udine,udine,33100,,529,piazzale s maria della misericordiaclinica ematologica4° piano
+8393,CDM,PPD,MLN0002-3024,1-7K1AWJH,,Italy,irccs materno infantile burlo garofolo  incipit  pin,friulivenezia giulia,trieste,34137,,533,via dellistria 651laboratorio di diagnostica avanzata e traslazionale
+8394,CDM,IQVIA,SHP643-303,172,1-4S2B7HD,Italy,azienda ospedaliera di padova,padova,padova,35100,,534,via giustiniani 2
+8396,CDM,PPD,MLN0002-3025,3025-28003,,Italy,universita degli studi di padova,veneto,padova,35122,,536,via 8 febbraio 2unità operativa medicina generale patologia speciale
+8397,CDM,PPD,Alofisel-5004,605,,Italy,azienda ospedale università padova  dipartimento salute della donna e del bambino  incipit  pin,veneto,padova,35128,,537,via giustiniani 2dipartimento di scienze chirurgiche e gastroenterologiche  sezione di gastroenterologia
+8398,CDM,PPD,SHP620-303,1-1K3HTD8,,Italy,azienda ospedale università padova  dipartimento salute della donna e del bambino  incipit  pin,veneto,padova,35128,,538,via giustiniani 2unità operativa malattie infettive e tropicali
+8400,CDM,PPD,Vedolizumab-4013,1-MINGRL,,Italy,azienda ospedale università padova  dipartimento salute della donna e del bambino  incipit  pin,veneto,padova,35128,,540,via giustiniani 2clinica gastroenterologica6° piano monoblocco
+8406,CDM,PPD,SHP647-307,307-155,,Italy,azienda ospedale università padova  dipartimento salute della donna e del bambino  incipit  pin,veneto,padova,35128,,546,via giustiniani 2uoc gastroenterologia
+8417,CDM,IQVIA,161505,280,1-2O2RTX2,Italy,azienda ospedaliera di padova,padova,padova,35128,,557,presso azienda ospedaliera di padovavia giustiniani 1
+8420,CDM,IQVIA,071102,384,1-2OWS7E1,Italy,azienda ospedaliera di padova,padova,padova,35128,,560,via giustiniani 1
+8423,CDM,IQVIA,241501,117,1-2SW0CP7,Italy,azienda ospedaliera di padova,padova,padova,35128,,563,via roma 67
+8426,CDM,PRA,C31005,28006,1-1BVWP7N,Italy,istituto di ricovero e cura a carattere scientifico istituto oncologico veneto,padova,padova,35128,,566,oncologia medica 1istituto oncologico veneto iov irccsvia gattamelata 64
+8427,CDM,PPD,SHP-607-201,033,,Italy,azienda ospedale università padova  dipartimento salute della donna e del bambino  incipit  pin,veneto,padova,35238,,567,via giustiniani 3università di padova
+8428,CDM,PPD,C16029,1-YWQSSO,,Italy,azienda ulss 8 berica  ospedale san bortolo,veneto,vicenza,36100,,568,via rodolfi 37uo ematologia
+8431,CDM,IQVIA,201601,816,1-2ZJ6082,Italy,ospedale san bortolo di vicenza,vicenza,vicenza,36100,,571,viale rodolfi 37
+8433,CDM,PPD,SHP620-302,1-B8RE1EJ,,Italy,azienda ulss 8 berica  ospedale san bortolo,veneto,vicenza,361000,,573,viale rodolfi 37uoc ematologia
+8435,CDM,PPD,SHP647-305,305-146,,Italy,ospedale sacro cuore don calabria,veneto,negrar,37024,,575,via don a sempreboni 5
+8437,CDM,PPD,SHP647-303,303-146,,Italy,ospedale sacro cuore don calabria,veneto,negrar,37024,,577,via don a sempreboni 5gastroenterologia
+8442,CDM,PPD,SHP675-301,1-7GM66PH,,Italy,centro ricerche cliniche di verona,veneto,verona,37124,,582,piazzale la scuro 10co policlinico gb rossi
+8443,CDM,PPD,SHP620-303,1-TJ31RN,,Italy,azienda ospedaliera universitaria integrata di verona,veneto,verona,37126,,583,piazzale stefani 1
+8444,CDM,PPD,SHP675-301,1-78GKRMV,,Italy,azienda ospedaliera universitaria integrata di verona,verona,verona,37126,,584,piazzale aristide stefani 1
+8445,CDM,PRA,AP24534-14-203,687,1-1FD38E4,Italy,aoui  ospedale policlinico giambattista rossi di borgo roma,verona,verona,37134,,585,dipartimento di ematologiapiazzale l e a scuro 10
+8446,CDM,PPD,SHP620-302,610,,Italy,azienda ospedaliera universitaria integrata di verona,veneto,verona,37134,,586,piazzale la scuro 10uo ematologia
+8447,CDM,PPD,SHP620-302,1-SV833E,,Italy,policlinico gb rossi,veneto,verona,37134,,587,piazzale l a scuro 10
+8448,CDM,IQVIA,TAK-994-1501,28001,1-4YD1T6M,Italy,università di bolognaclinica neurologicadipartimento di scienze neurologiche,bologna,bologna,40123,,588,irccs isnb uoc clinica neurologica ospedale bellaria
+8449,CDM,PPD,MLN0002-3025,3025-28007,,Italy,azienda usl di bologna,emiliaromagna,bologna,40133,,589,largo bartolo nigrisoli 2ospedale maggiorepediatria
+8451,CDM,IQVIA,MLN0002SC-3031,28016,1-1T43VE0,Italy,azienda ospedaliera universitaria policlinico santorsola malpighi,bologna,bologna,40138,,591,via massarenti 11
+8454,CDM,IQVIA,TED-R13-002,0700,1-26WWAOU,Italy,azienda ospedaliera universitaria policlinico santorsola malpighi,bologna,bologna,40138,,594,via massarenti 9policlinico sorsolamalpighipoli building 11
+8456,CDM,PPD,SHP647-305,1-XL73U2,,Italy,azienda ospedaliero universitaria di bologna  policlinico s orsola malpighi,bologna,bologna,40138,,596,via massarenti 9uo di gastroenterologia ed endoscopia digestiva
+8461,CDM,PPD,Pevonedistat-2001,28001,,Italy,azienda ospedaliero universitaria di bologna  policlinico s orsola malpighi,bologna,bologna,40138,,601,via massarenti 9istituto di ematologia lorenzo e ariosto seragnoli
+8462,CDM,PPD,TAK-079-1004,28404,,Italy,azienda ospedaliero universitaria di bologna  policlinico s orsola malpighi,bologna,bologna,40138,,602,via massarenti 9unità operativa di ematologia
+8463,CDM,PPD,SHP607-202,1-1DF1PZR,,Italy,azienda ospedaliero universitaria di bologna  policlinico s orsola malpighi,emiliaromagna,bologna,40138,,603,via massarenti 13uo semplice terapia intensiva neonatale
+8464,CDM,PPD,C16029,28002,,Italy,azienda ospedaliero universitaria di bologna  policlinico s orsola malpighi,emiliaromagna,bologna,40138,,604,via massarenti 9uo ematologia cavo
+8466,CDM,PPD,SHP647-305,305-147,,Italy,azienda ospedaliero universitaria di bologna  policlinico s orsola malpighi,emiliaromagna,bologna,40138,,606,via massarenti 9struttura semplice dipartimentale per le malattie infiammatorie croniche intestinali
+8467,CDM,PPD,Pevonedistat-1016,1-3LK7HQE,,Italy,azienda ospedaliero universitaria di bologna  policlinico s orsola malpighi,emiliaromagna,bologna,40138,,607,via massarenti 9istituto di ematologia lorenzo e ariosto seragnoli
+8468,CDM,PPD,C16010,28003,,Italy,azienda ospedaliero universitaria di bologna  policlinico s orsola malpighi,emiliaromagna,bologna,40138,,608,via massarenti 9dipartimento di medicina interna e gastroenterologia
+8469,CDM,PPD,C16021,28110,,Italy,azienda ospedaliero universitaria di bologna  policlinico s orsola malpighi,emiliaromagna,bologna,40138,,609,via massarenti 9dipartimento di ematologia e scienze oncologiche
+8485,CDM,PRA,AP26113-13-301,784,1-1GE4VDC,Italy,azienda ospedaliero universitaria di bologna policlinico santorsolamalpighi,bologna,bologna,40138,,625,unita operativa oncologia medicavia albertoni 15padiglione 2
+8489,CDM,PPD,TAK-007-2001,1-9KOYQ13,,Italy,istematologia e oncologia medica le aseragnoli,emiliaromagna,bologna,40138,,629,via massarenti 9idsinvestigational drug servicefloor 0  building n 19
+8490,CDM,PRA,Brigatinib-1001,28003,1-1KJDA0E,Italy,policlinico santorsola malpighi,bologna,bologna,40138,,630,unita operativa medicina internavia albertoni 15
+8491,CDM,PRA,TAK-041-2001,Muratori,1-1L8J9UC,Italy,irccs istituto delle scienze neurologiche di bologna,bologna,bologna,40139,,631,via altura 3
+8492,CDM,PPD,SHP620-303,1-TJ7MLI,,Italy,azienda ospedaliero universitaria di modena policlinico,emiliaromagna,modena,41100,,632,via del pozzo 71
+8493,CDM,PPD,C16029,1-Y42KQY,,Italy,azienda ospedaliero universitaria di modena policlinico,emiliaromagna,modena,41100,,633,via del pozzo 71sc ematologia
+8495,CDM,PPD,Pevonedistat-2001,w1-IPDFFV,,Italy,universita degli studi di modena e reggio emilia  modena,emiliaromagna,modena,41121,,635,via universita 4sc ematologia
+8496,CDM,IQVIA,MLN0002SC-3031,28011,1-1SEBMYH,Italy,aou policlinico di modena,modena,modena,41124,,636,via del pozzo 71ingresso 2  piano  4laboratorio of gastroenterologia
+8498,CDM,ICON,C25003,,87000,Italy,azienda ospedaliero  universitaria policlinico di modena,modena,modena,41124,,638,via del pozzo 71
+8499,CDM,PPD,SHP647-304,304-157,,Italy,azienda ospedaliero universitaria di modena policlinico,emiliaromagna,modena,41124,,639,via del pozzo 71uc gastroenterologia
+8507,CDM,PPD,C16029,28006,,Italy,arcispedale santa maria nuova,emiliaromagna,reggio emilia,42123,,647,via risorgimento 80struttura complessa di  ematologia
+8509,CDM,PRA,Ponatinib-3001,28004,1-1L9MVI7,Italy,arcispedale santa maria nuova,reggio nella emilia,reggio emilia,42123,,649,viale risorgimento 80
+8510,CDM,PPD,C16019,1-9XD9R8,,Italy,azienda ospedaliero universitaria di parma,emiliaromagna,parma,43100,,650,via gramsci 14dipartimento oncoematologico internisticostruttura complessa oncologia medica
+8513,CDM,PRA,Brigatinib-2002,28006,1-1KAJK5U,Italy,azienda ospedaliero universitaria di parma,parma,parma,43126,,653,oncologia medicavia gramsci 14
+8517,CDM,PRA,TAK-906-2002,28006,1-1LDDM4N,Italy,azienda ospedalierouniversitaria di ferrara,ferrara,ferrara,44100,,657,corso giovecca 203
+8518,CDM,PPD,Pevonedistat-3001,1-16QY8YG,,Italy,azienda ospedalierouniversitaria di ferrara  arcispedale sant anna,ferrara,cona,44124,,658,via aldo moro 8uo di ematologia
+8519,CDM,PPD,TAK-079-1005,1-5D6R9CJ,,Italy,azienda ospedalierouniversitaria di ferrara  arcispedale sant anna,ferrara,cona ferrara,44124,,659,via aldo moro 8uo di oncologia clinica
+8520,CDM,ICON,C25001,,266139,Italy,irccs irst meldola,italy,meldola,47014,,660,irccs irst meldola
+8521,CDM,PRA,C31004,28003,1-1C5O1I6,Italy,istituto scientifico romagnolo per lo studio e la cura dei tumori,forlicesena,meldola,47014,,661,oncologia medicavia p maroncelli 40
+8524,CDM,PRA,Brigatinib-3001,28013,1-1L8BXO9,Italy,istituto scientifico romagnolo per lo studio e la cura dei tumori,forlicesena,meldola,47014,,664,unita operativa toracicavia piero maroncelli 40
+8527,CDM,IQVIA,241501,120,1-2SW2WMS,Italy,ospedale m bufalini,cesena,forli  cesena,47028,,667,viale ghirotti 286
+8528,CDM,PPD,C16021,28108,,Italy,ospedale infermi di rimini,emiliaromagna,rimini,47900,,668,via settembrini 2dipartimento di oncologia ed oncoematologia
+8531,CDM,PPD,C16029,28004,,Italy,ospedale santa maria delle croci,emiliaromagna,ravenna,48100,,671,viale randi 5uo ematologia
+8532,CDM,PPD,C16019,28904,,Italy,ospedale santa maria delle croci,ravenna,ravenna,48100,,672,viale randi 5uo ematologia
+8535,CDM,PRA,C31004,28009a,1-1G0DYG2,Italy,presidio ospedaliero di lugo,ravenna,ravenna,48100,,675,ausl di ravennaoncologia medicaviale randi 5
+8536,CDM,PRA,C31004,28009,1-1C5O19M,Italy,azienda unita sanitaria locale di ravenna,ravenna,ravenna,48121,,676,ospedale santa maria delle crociunit operativa di oncologiaviale randi 5
+8537,CDM,PRA,AP26113-13-301,479,1-1FA47VI,Italy,azienda unita sanitaria locale di ravenna,ravenna,ravenna,48121,,677,via alcide de gasperi 8
+8538,CDM,PRA,Ponatinib-3001,28007,1-1L9MVJG,Italy,azienda usl della romagna,ravenna,ravenna,48121,,678,uo ematologiaviale vincenzo randi 5
+8540,CDM,PPD,TAK-788-3001,28002,,Italy,ospedale santa maria delle croci,emiliaromagna,ravenna,48121,,680,viale randi 5uo oncologia medicaasl6 presidio ospedaliero livorno
+8541,CDM,PRA,Brigatinib-1001,28005,1-1K6TW8F,Italy,ospedale santa maria delle croci,ravenna,ravenna,48121,,681,uoc oncologia medicapresidio ospedaliero di ravennaviale randi 5
+8543,CDM,PPD,MLN0002-3024,1-8E2ICFM,,Italy,hospital virgen de la concha,zamora,zamora,49022,,683,avenida requejo 35
+8544,CDM,PPD,SHP620-303,610,,Italy,azienda ospedaliero universitaria pisana,toscana,pisa,50125,,684,via roma 67unità operativa ematologia
+8546,CDM,PPD,SHP675-301,1-8C33IEC,,Italy,azienda ospedaliera universitaria careggi,emiliaromagna,bologna,50134,,686,largo brambilla 3sod malattie emorragiche e della coagulazione
+8548,CDM,IQVIA,071102,380,1-2GFAYCN,Italy,azienda ospedaliera universitaria careggi,firenze,firenze,50134,,688,careggi largo brambilla 3
+8550,CDM,PPD,Pevonedistat-1016,1-3LK7HRT,,Italy,azienda ospedaliera universitaria careggi,firenze,firenze,50134,,690,largo brambilla 3sod ematologia dipartimento ad attività integrata di biomedica
+8551,CDM,PPD,SHP620-302,1-TBIUG6,,Italy,azienda ospedaliera universitaria careggi,firenze,firenze,50134,,691,largo brambilla 3
+8552,CDM,IQVIA,201501,813,1-2HR7B3Q,Italy,azienda ospedaliera universitaria careggi,firenze,firenze,50134,,692,largo brambilla 3padiglione 15 piastra dei servizipiano terra stanza 31
+8563,CDM,ICON,C25001,,69789,Italy,azienda ospedaliera universitaria careggi,italy,firenze,50134,,703,aou careggiematologia pad 16largo brambilla 3
+8564,CDM,PPD,Pevonedistat-1016,1-3P1FS2B,,Italy,azienda ospedaliera universitaria careggi,toscana,firenze,50134,,704,largo brambilla 3sod ematologia
+8566,CDM,PPD,SHP647-306,1-170R13V,,Italy,azienda ospedaliera universitaria careggi,toscana,firenze,50134,,706,largo brambilla 3department of gastroenterology
+8574,CDM,PPD,Alofisel-5003,28006,,Italy,azienda ospedaliera universitaria careggi,toscana,firenze,50134,,714,viale gaetano pieraccini
+8576,CDM,PPD,Alofisel-5004,1-3QGRYF0,,Italy,azienda ospedaliera universitaria careggi,toscana,florence,50134,,716,viale morgani 85department of gastroenterology
+8577,CDM,PPD,C16010,28002,,Italy,azienda ospedaliera universitaria careggi,firenze,firenze,50139,,717,viale pieraccini 17
+8578,CDM,PPD,C16021,28111,,Italy,azienda ospedaliera universitaria careggi,toscana,firenze,50139,,718,viale pieraccini 17unità operativa di ematologia
+8579,CDM,PPD,Brigatinib-1002,1-61GZI3W,,Italy,azienda ospedaliero universitaria a meyer  incipit  pin,firenze,firenze,50139,,719,viale gaetano pieraccini 24dipartimento oncoematologia
+8583,CDM,PPD,SHP620-303,1-TJ7MKS,,Italy,azienda ospedaliero universitaria a meyer  incipit  pin,toscana,firenze,50139,,723,viale pieraccini 24dipartimento oncoematologia
+8586,CDM,PPD,SHP634-401,401510,,Italy,universita di firenze dipartimento di chirurgia e medicina traslazionale dcmt,firenze,firenze,50139,,726,viale pieraccini 6dipartimento di medicina generale
+8587,CDM,IQVIA,MLN0002SC-3030,28005,1-26CTGW3,Italy,azienda ospedaliera universitaria careggi,firenze,firenze,50141,,727,largo brambilla 3
+8590,CDM,PRA,AP26113-13-301,631,1-1FC4W2Q,Italy,azienda ospedaliera santandrea,pisa,pisa,56100,,730,ospedale santa chiaravia roma 67
+8591,CDM,IQVIA,161302,161302-501,1-1V0B3CR,Italy,azienda ospedaliero universitaria pisana,pisa,pisa,56100,,731,via roma 67
+8592,CDM,PPD,TAK-788-3001,28001,,Italy,azienda ospedaliero universitaria pisana,toscana,pisa,56100,,732,via roma 67presidio cisanello uo pnemologiaedificio 10
+8595,CDM,PPD,TAK-079-1005,1-5D87TEE,,Italy,azienda ospedaliero universitaria pisana,toscana,pisa,56123,,735,vdct roma 67
+8596,CDM,IQVIA,MLN0002SC-3030,28017,1-26CTGZZ,Italy,azienda ospedaliero universitaria pisana,pisa,pisa,56124,,736,aoup sede cisanello edificio 10  piano terrastanza 3 via paradisa 2
+8597,CDM,PPD,TAK-788-3001,1-52QPCCM,,Italy,azienda ospedaliero universitaria pisana,toscana,pisa,56124,,737,via paradisa 2uo pneumologia 2
+8598,CDM,PRA,TAK-906-2002,28003,1-1KDOQ25,Italy,azienda ospedalierouniversitaria pisana ospedale cisanello,pisa,pisa,56124,,738,unit operativa gastroenteroligavia paradisa 2
+8599,CDM,IQVIA,161505,286,1-2O2TDML,Italy,azienda ospedaliero universitaria pisana,pisa,pisa,56126,,739,via roma 67
+8602,CDM,PPD,SHP634-401,401513,,Italy,università di pisa,toscana,pisa,56126,,742,via roma 67dipartimento di medicina interna  istituto di reumatologia clinica
+8603,CDM,PPD,P2002,1-5PK15BU,,Italy,azienda ospedaliero universitaria pisana,toscana,pisa,56127,,743,via roma 67uo ematologia
+8604,CDM,PPD,MLN0002-3024,1-7K1AWHU,,Italy,azienda ospedaliero universitaria a meyer  incipit  pin,toscana,pisa,58126,,744,via roma 67oncoematologia e trapianti
+8605,CDM,PPD,NSMM-5001,28004,,Italy,azienda ospedaliero universitaria ospedali riuniti di anconaumberto i gm lancisi g salesi,ancona,ancona,60020,,745,via conca 71clinica di oncologia medica
+8606,CDM,PPD,C16029,1-Y43S35,,Italy,azienda ospedaliero universitaria ospedali riuniti di anconaumberto i gm lancisi g salesi,marche,ancona,60020,,746,via conca 71clinica di ematologia  unità di trapianto di cellule staminali e terapia cellulare
+8607,CDM,PPD,SHP647-301,1-16HZSG7,,Italy,azienda ospedaliero universitaria ospedali riuniti di anconaumberto i gm lancisi g salesi,marche,ancona,60020,,747,via conca 71clinica di gastroenterologia epatologia ed endoscopia digestiva durgenzag salesi di ancona presidio ospedaliero di alta specializzazione gsalesi
+8615,CDM,PPD,FOS,019,,Italy,azienda ospedaliero universitaria ospedali riuniti di anconaumberto i gm lancisi g salesi,ancona,ancona,60123,,755,vai corridoni 11clinica di pediatria
+8617,CDM,IQVIA,161301,161301-050,1-22I20NO,Italy,azienda ospedaliero universitaria ospedali riuniti,torrette di ancona,ancona,60126,,757,via conca 71ita1671
+8619,CDM,PRA,Vedolizumab-3035,28008,1-1LL00NS,Italy,azienda ospedaliero universitaria ospedali riuniti di ancona,ancona,ancona,60126,,759,via conca 71torrette
+8620,CDM,PPD,SHP620-302,1-B8RE1DJ,,Italy,azienda ospedaliera ospedali riuniti marche nord,marche,pesaro,61100,,760,via lombrosounità operativa ematologia
+8621,CDM,PPD,C16029,28017,,Italy,azienda ospedaliera ospedali riuniti marche nord,marche,pesaro,61122,,761,via lombroso 1uoc ematologia e centro trapianti
+8622,CDM,PRA,AP24534-14-203,689,1-1FD38LX,Italy,azienda ospedaliera ospedali riuniti marche nord,pesaro e urbino,pesaro,61122,,762,via lombroso 1
+8623,CDM,PRA,Vedolizumab-3035,28006,1-1LV4U3W,Italy,ospedale mazzoni,marche,ascoli piceno,63100,,763,via degli iris 6
+8624,CDM,PRA,AP24534-14-203,688,1-1FD38NG,Italy,azienda sanitaria locale di pescara ospedale civile dello spirito santo,pescara,pescara,65100,,764,via fonte romana
+8625,CDM,PPD,C16019,28915,,Italy,presidio ospedaliero di pescara,abruzzo,pescara,65100,,765,via fonte romana 8ematologia con trapianto
+8626,CDM,PRA,Vedolizumab-3035,28001,1-1LL00II,Italy,presidio ospedaliero di pescara,pescara,pescara,65125,,766,dipartimento di ematologiavia fonte romana 8
+8627,CDM,PPD,TAK-079-1005,1-5D7EOXH,,Italy,ospedale clinicizzato ss annunziata,abruzzo,chieti,66013,,767,via dei vestiniclinica neurologica
+8628,CDM,IQVIA,161403,294,1-2Y4P70G,Italy,ospedale clinicizzato ss annunziata,chieti,chieti,66013,,768,via dei vestini
+8630,CDM,PRA,SYR-322_309,28005,1-1FLIUDV,Italy,ospedale policlinico ss annunziata,chieti,chieti,66100,,770,universita degli studi azienda asl chieti  clinica pediatricavia dei vestini 5
+8631,CDM,IQVIA,TED-R13-002,0701,1-3JX5BL9,Italy,ospedale monsignor raffaele dimiccoli,barletta,bari,70051,,771,viale ippocrate 15
+8632,CDM,PPD,C16021,28116,,Italy,azienda ospedaliero universitaria consorziale policlinico di bari  incipit  pin,puglia,bari,70120,,772,piazza giulio cesare 11medicina interna universitaria g baccelli
+8633,CDM,PRA,Vedolizumab-3035,28002,1-1LL50CP,Italy,azienda ospedaliera policlinico di bari,bari,bari,70124,,773,dipart di ematologiapiazza giulio cesare 11
+8634,CDM,PRA,TAK-041-2001,Blasi,1-1L8CZCM,Italy,azienda ospedaliero universitaria consorziale policlinico di bari,bari,bari,70124,,774,dipartimento di psichiatria11 piazza g cesare
+8635,CDM,IQVIA,C25004,28003,1-272ZSE3,Italy,azienda ospedaliero universitaria consorziale policlinico di bari,bari,bari,70124,,775,pzza giulio cesare 11
+8640,CDM,PPD,Pevonedistat-3001,28007,,Italy,azienda ospedaliero universitaria consorziale policlinico di bari  incipit  pin,puglia,bari,70124,,780,piazza giulio cesare 11
+8642,CDM,PPD,SHP647-306,1-170PXXD,,Italy,azienda ospedaliero universitaria consorziale policlinico di bari  incipit  pin,puglia,bari,70124,,782,piazza giulio cesare 11uo gastroentoerologia universitaria
+8650,CDM,PPD,C16029,1-Y43S7J,,Italy,irccs giovanni paolo ii istituto oncologico,puglia,bari,70124,,790,via orazio flacco 65unità operativa di oncologia medica sperimentale dipartimento di oncologia medica
+8651,CDM,PPD,TAK-788-3001,1-52QPCB8,,Italy,irccs giovanni paolo ii istituto oncologico,puglia,bari,70124,,791,viale orazio flacco 65
+8653,CDM,IQVIA,161505,283,1-2O2TDJV,Italy,irccs ospedale casa sollievo della sofferenza,san giovanni rotondo,foggia,71013,,793,viale cappuccini 1liver unit  irccs san giovanni rotondo
+8657,CDM,PRA,C34004,28002,1-1C7Y2ZQ,Italy,ospedale casa sollievo della sofferenza,foggia,san giovanni rotondo,71013,,797,viale cappuccini 1
+8659,CDM,PPD,C16029,1-Y2IF0C,,Italy,ospedale casa sollievo della sofferenza irccs,puglia,san giovanni rotondo,71013,,799,viale cappuccini 1dipartimento di oncoematologia struttura complessa di ematologia e trapianto di cellule staminali
+8661,CDM,PPD,SHP647-303,303-161,,Italy,ospedale casa sollievo della sofferenza irccs,puglia,san giovanni rotondo,71013,,801,viale cappuccini 1sc di gastroenterologia ed endoscopia digestiva
+8665,CDM,PPD,C16021,28106,,Italy,ospedale casa sollievo della sofferenza irccs,puglia,san giovanni rotondo fg,71013,,805,viale cappuccini 1dipartimento di oncoematologia  struttura complessa di ematologia
+8667,CDM,PPD,C16029,28019,,Italy,azienda ospedaliera cardinale g panico,lecce,tricase,73039,,807,via san pio x 4dipartimento di ematologia e medicina trasfusionale
+8670,CDM,PRA,Ponatinib-3001,28013,1-1KR0TX1,Italy,azienda ospedaliera vito fazzi,lecce,lecce,73100,,810,unit operativa di ematologiapiazza filippo muratore 1
+8671,CDM,PPD,SHP647-304,1-4MQU18O,,Italy,aou delluniversità degli studi della campania luigi vanvitelli,campania,napoli,80100,,811,piazza miragliaunità operativa complessa di gastroenterologia ed endoscopia digestiva divisione di medicinapadiglione b 1° piano
+8676,CDM,IQVIA,MLN0002SC-3031,28013,1-1SOGHBL,Italy,azienda ospedaliero universitaria consorziale policlinico di bari,bari,bari,80100,,816,piazza giulio cesare
+8678,CDM,IQVIA,071102,383,1-2OX1HYL,Italy,azienda ospedaliera pediatrica santobono pausillipon,napoli,napoli,80122,,818,via posillipo 226
+8680,CDM,PPD,C16010,28004,,Italy,aorn a cardarelli,campania,naples,80131,,820,via antonio cardarelli 9divisione di ematologia con trapianto di cellule staminali emopoietiche
+8682,CDM,PPD,C16019,1-9XF4G0,,Italy,aorn a cardarelli,campania,napoli,80131,,822,via antonio cardarelli 9
+8683,CDM,PPD,TAK-079-1004,1-5R1ZUY1,,Italy,aorn a cardarelli,campania,napoli,80131,,823,via antonio cardarelli 9divisione di ematologia con trapianto di cellule staminali emopoietiche
+8687,CDM,PPD,TAK-788-3001,28007,,Italy,aorn dei colli ospedale monaldi napoli,campania,napoli,80131,,827,via leonardo bianchiuoc dipneumotisiologia
+8689,CDM,PPD,MLN0002-3025,3025-28006,,Italy,aou delluniversità degli studi della campania luigi vanvitelli,campania,napoli,80131,,829,via sergio pansini 5uoc di pneumotisiologia
+8691,CDM,IQVIA,MLN0002SC-3030,28012,1-26CTGWI,Italy,azienda ospedaliera universitaria federico ii,napoli,napoli,80131,,831,via pansini 5edificio 16 piano iv
+8695,CDM,PPD,SHP617-400,P40042,,Italy,azienda ospedaliera universitaria federico ii,campania,napoli,80131,,835,5 via sergio pansini
+8696,CDM,PPD,SHP647-307,1-4MT3BX3,,Italy,azienda ospedaliera universitaria federico ii,campania,napoli,80131,,836,via pansini 5dipartimento di medicina clinica e sperimentale
+8698,CDM,PPD,Pevonedistat-3001,1-16QY933,,Italy,azienda ospedaliera universitaria federico ii,campania,napoli,80131,,838,via pansini 5dipartimento di biochimica e biotecnologie mediche
+8704,CDM,PPD,SHP675-301,1-3P63B86,,Italy,azienda ospedaliera universitaria federico ii,campania,napoli,80131,,844,via pansini 5dipartimento di medicina clinica scienze cardiovascolari east immunologiche
+8709,CDM,PPD,MLN0002-3025,3025-28001,,Italy,azienda ospedaliera universitaria federico ii,campania,napoli,80131,,849,via sergio pansini 5uoc di pneumotisiologia
+8713,CDM,PPD,SHP647-305,1-XL01UN,,Italy,azienda ospedaliera universitaria federico ii,napoli,napoli,80131,,853,via pansini 5dipartimento di medicina clinica e sperimentale
+8714,CDM,PPD,TAK-079-1004,28402,,Italy,azienda ospedaliera universitaria federico ii,napoli,napoli,80131,,854,via pansini 5uo di ematologia e trapianto di cellule staminali emopoieticheedificio 1
+8721,CDM,PPD,SHP647-301,1-5HBPVOO,,Italy,casa di cura santa rita,campania,napoli,80131,,861,via sergio pansini 5uoc gastroenterologia ed epatologia
+8726,CDM,PPD,C16019,1-4KXEL1,,Italy,istituto nazionale per lo studio e la cura dei tumori fondazione giovanni pascale,campania,napoli,80131,,866,via mariano semmolasc ematologia oncologica
+8727,CDM,PPD,C16029,1-YFS7HB,,Italy,istituto nazionale per lo studio e la cura dei tumori fondazione giovanni pascale,napoli,napoli,80131,,867,via semmoladipartimento di oncoematolgia e trapianto di cellule staminali
+8728,CDM,PRA,C31005,28003,1-1BVWOXF,Italy,istituto nazionale tumori irccs fondazione pascale,napoli,napoli,80131,,868,oncologia medica bvia mariano semmola
+8729,CDM,PRA,Brigatinib-3001,28011,1-1L6OLQQ,Italy,istituto nazionale tumori irccs fondazione pascale,napoli,napoli,80131,,869,oncologia medica toraco polmonarevia mariano semmola
+8733,CDM,IQVIA,TAK-831-2002,28001,1-45LSMQM,Italy,azienda ospedaliera universitaria università degli studi della campania “luigi vanvitelli”,napoli,napoli,80138,,873,largo madonna delle grazie 1
+8734,CDM,PRA,TAK-041-2001,Galderisi,1-1L8CZDV,Italy,azienda ospedaliera universitaria universita della campania luigi vanvitelli,napoli,napoli,80138,,874,via santa maria di costantinopoli 104
+8735,CDM,PPD,Alofisel-5003,1-3DBC2L2,,Italy,università degli studi di napoli federico ii,campania,napoli,80138,,875,corso umberto 40
+8736,CDM,IQVIA,241501,123,1-2SW0CJ5,Italy,ospedale san giovanni bosco,napoli,napoli,80144,,876,via fm briganti 255
+8738,CDM,PRA,AP26113-13-301,477,1-1FAP7PO,Italy,azienda ospedaliera san giuseppe moscati,avellino,avellino,83100,,878,uo di oncologia medicacontrada amoretta
+8739,CDM,PPD,SHP647-304,304-166,,Italy,asl salerno nocera inferiore ospedale umberto i,salerno,nocera inferiore,84014,,879,via san francesco 1uoc gastroenterologia e endoscopia digestiva
+8744,CDM,IQVIA,SHP643-303,167,1-4S0PE0R,Italy,azienda ospedaliera universitaria oo rr s giovanni di dio e ruggi daragona,salerno,salerno,84131,,884,via s leonardo
+8746,CDM,PPD,FOS,265,,Italy,careggi university hospital,firenze,firenze,85,,886,viale morgagni
+8747,CDM,PPD,C16019,28909,,Italy,irccs centro di riferimento oncologico della basilicata,potenza,rionero in vulture,85028,,887,via provinciale 8uo ematologia e trapianto di cellule staminali
+8748,CDM,PPD,C16021,1-8AIFIF,,Italy,irccs centro di riferimento oncologico della basilicata,potenza,rionero in vulture pz,85028,,888,via provinciale 8unità operativa di ematologia e trapianto di midollo osseo
+8750,CDM,PPD,NSMM-5001,28003,,Italy,ospedale civile dellannunziata,calabria,cosenza,87100,,890,via felice miglioridipartimento di oncoematologia
+8752,CDM,IQVIA,241501,116,1-2SW0CM2,Italy,azienda ospedaliera di catanzaro puglieseciaccio,catanzaro,catanzaro,88100,,892,viale pio x 10
+8753,CDM,PPD,SHP647-302,1-170PXG1,,Italy,azienda ospedaliera mater domini di catanzaro,calabria,catanzaro,88100,,893,viale europalocalità germanetouo fisiopatologia digestiva
+8760,CDM,PPD,HOS,134,,Italy,azienda ospedaliera pugliese ciaccio,calabria,catanzaro,88100,,900,viale pio xunità operativa di pediatria  ambulatorio di pediatria genetica
+8763,CDM,PRA,C34004,28008,1-1C8DFRH,Italy,azienda grande ospedale metropolitano bianchi melacrino morelli,reggio calabria,reggio calabria,89100,,903,unit opertiva di ematologiavia melacrino 21
+8764,CDM,PRA,Vedolizumab-3035,28003,1-1LMS7LS,Italy,azienda grande ospedale metropolitano bianchi melacrino morelli,calabria,reggio calabria,89122,,904,centro unico regionale trapianti di cellule staminali e terapie cellularivia g melacrino
+8765,CDM,PPD,SHP620-302,1-B8RE1D7,,Italy,grande ospedale metropolitano bianchimelacrinomorelli,calabria,reggio calabria,89124,,905,via ospedali riuniti vallone petraracentro unico regionale trapianti di cellule staminali e terapie cellulari
+8766,CDM,PPD,P2002,28012,,Italy,grande ospedale metropolitano bianchimelacrinomorelli,calabria,reggio calabria,89133,,906,viale europauoc di ematologiapresidio morelli
+8768,CDM,IQVIA,TAK-743-3001,173,1-553HWSW,Italy,ao ospedali riuniti villa sofia  cervello palermo,palermo,palermo,90100,,908,via trabucci 180
+8770,CDM,IQVIA,281102,033,1-513DZOK,Italy,azienda ospedaliera universitaria policlinico  vittorio emanuele presidio ferrarotto alessi,catania,catania,90124,,910,via s citelli 6
+8771,CDM,PPD,FOS,210,,Italy,azienda ospedaliera universitaria policlinico paolo giaccone,palermo,palermo,90127,,911,piazza delle cliniche 2dept    uo di medicina interna e cardioangiologia
+8772,CDM,PPD,SHP647-301,1-43M0CXC,,Italy,azienda ospedaliera universitaria policlinico paolo giaccone,sicilia,palermo,90127,,912,via del vespro 129
+8780,CDM,PPD,Alofisel-5003,28005,,Italy,azienda ospedaliera ospedali riuniti villa sofiacervello,sicilia,palermo,90145,,920,via trabucco 180uo medicina interna
+8781,CDM,PRA,Ponatinib-3001,28008,1-1KR0U7X,Italy,azienda ospedaliera ospedali riuniti villa sofiacervello,palermo,palermo,90146,,921,uoc ematologia ivia trabucco 180
+8783,CDM,PRA,C34004,28007,1-1C8CB41,Italy,azienda ospedaliera ospedali riuniti villa sofiacervello,palermo,palermo,90146,,923,via trabucco 180
+8784,CDM,PPD,MLN0002-3024,1-7K1AWI6,,Italy,azienda ospedaliera ospedali riuniti villa sofiacervello,sicilia,palermo,90146,,924,piazza salerno a cruillasdivisione di pediatria ii  servizio di talassemia
+8785,CDM,PPD,SHP647-305,1-XHC7OF,,Italy,azienda ospedaliera ospedali riuniti villa sofiacervello,sicilia,palermo,90146,,925,viale strasburgo 233uo medicina interna 2
+8792,CDM,IQVIA,MLN0002SC-3031,28003,1-1S4NEJG,Italy,azienda ospedaliera vincenzo cervello,palermo,palermo,90146,,932,via trabucco 180
+8796,CDM,IQVIA,TAK-994-1501,28004,1-53TBA6U,Italy,irccs oasi maria ss,troina,enna,94018,,936,via conte ruggero 73
+8797,CDM,IQVIA,MLN0002SC-3030,28004,1-26CTH18,Italy,azienda ospedaliera ospedale cannizzaro,catania,catania,95100,,937,via messina 829
+8799,CDM,PPD,TAK-079-1004,28403,,Italy,azienda ospedaliera di rilievo nazionale e di alta specializzazione garibaldi,sicilia,catania,95122,,939,via palermo 636uoc ematologia
+8800,CDM,PPD,TAK-788-3001,28008,,Italy,azienda ospedaliero universitaria policlinico vittorio emanuele,sicilia,catania,95122,,940,via s sofia 78
+8801,CDM,PRA,AP26113-13-301,475,1-1GE4VC0,Italy,azienda ospedaliero  universitaria policlinico  vittorio emanuele,catania,catania,95123,,941,uoc oncologia medicavia santa sofia 78
+8802,CDM,PPD,SHP675-301,1-78GB7OU,,Italy,azienda ospedaliero universitaria policlinico grodolico  san marco,sicilia,catania,95123,,942,via santa sofia 78dipartimento di cardiologiaambulatorio di ecocardiografia
+8803,CDM,PPD,NSMM-5001,28007,,Italy,azienda ospedaliero universitaria policlinico vittorio emanuele,sicilia,catania,95123,,943,via santa sofia 78
+8806,CDM,IQVIA,261203,543,1-1XGPK58,Italy,azienda ospedaliera universitaria policlinico  vittorio emanuele presidio ferrarotto alessi,catania,catania,95124,,946,via g clementi 36
+8807,CDM,PRA,AP24534-14-203,530,1-1FD38IN,Italy,azienda ospedaliero  universitaria policlinico  vittorio emanuele,catania,catania,95124,,947,divisone di ematologia pad dvia citelli 6
+8808,CDM,PPD,C16029,1-Y42CJ9,,Italy,azienda ospedaliero universitaria policlinico vittorio emanuele,sicilia,catania,95124,,948,via salvatore citelli 6
+8809,CDM,PRA,Vedolizumab-3035,28004,1-1LL109B,Italy,policlinico universitario di catania,catania,catania,95124,,949,divisione di ematologiaunita di trapianto di midollovia santa sofia 78
+8810,CDM,PPD,SHP647-304,1-170R0ZZ,,Italy,azienda ospedaliera cannizzaro,sicilia,catania,95126,,950,via messina 829chirurgia generale
+8815,CDM,PPD,SHP647-301,1-113315X,,Italy,azienda ospedaliera per lemergenza cannizzaro,sicilia,catania,95126,,955,via messina 829chirurgia generale
+8817,CDM,IQVIA,161505,285,1-2O2TDLJ,Italy,azienda ospedaliera universitaria policlinico g martino,messina,messina,98122,,957,via consolare valeria1
+8819,CDM,PPD,MLN0002-3024,1-DTUQSTW,,Italy,az ospedaliera universitaria policlinico g martino,sicilia,messina,98124,,959,via consolare valeria 1uoc  farmacia
+8820,CDM,PPD,SHP647-305,1-1116RWX,,Italy,az ospedaliera universitaria policlinico g martino,sicilia,messina,98125,,960,via consolare valeriauosd malattie intestinali croniche
+8828,CDM,IQVIA,MLN0002SC-3031,28015,1-1T6AZ4B,Italy,azienda ospedaliera universitaria policlinico g martino,messina,messina,98125,,968,via consolare valeria
+7861,CDM,IQVIA,161505,281,1-2O2RTXV,Italy,azienda ospedaliera città della salute e della scienza di torino,torino,torino,00126,,1,corso bramante 8890
+7862,CDM,PRA,AP26113-13-301,767,1-1FA42D2,Italy,policlinico universitario campus biomedico,roma,roma,00128,,2,dipto oncologia medicavia alvaro del portillo 200
+7863,CDM,PPD,SHP647-305,1-XL73RP,,Italy,policlinico universitario campus biomedico di roma,roma,roma,00128,,3,via alvaro del portillo 200
+7870,CDM,IQVIA,161505,284,1-2O2TDKL,Italy,azienda ospedaliera universitaria policlinico tor vergata,roma,roma,00133,,10,viale oxford 81azienda ospedaliera univ pol tor vergata  dermatologia
+7872,CDM,IQVIA,161403,284,1-1OTQTW5,Italy,azienda ospedaliera universitaria policlinico tor vergata,rome,roma,00133,,12,viale oxford 81
+7874,CDM,PPD,MLN0002-3024,1-7K1AWF5,,Italy,fondazione ptv policlinico tor vergata,lazio,roma,00133,,14,via montpellier 1dipartimento di neuroscienze
+7875,CDM,PPD,SHP647-303,303-151,,Italy,fondazione ptv policlinico tor vergata,lazio,roma,00133,,15,viale oxford 81uoc gastroenterologia ed endoscopia digestiva
+7879,CDM,PPD,SHP647-301,1-5II1E4Y,,Italy,fondazione ptv policlinico tor vergata,lazio,roma,00133,,19,viale oxford 81
+7886,CDM,PPD,SHP647-306,1-5G9UYZ0,,Italy,fondazione ptv policlinico tor vergata,lazio,rome,00133,,26,viale oxford 81azienda ospedaliera universitaria policlinico tor vergata
+7893,CDM,IQVIA,SHP655-201,603,1-4DNI45V,Italy,fondazione policlinico universitario agostino gemelli irccs,roma,roma,00137,,33,via tommaso gargollo  24largo agostino gemelli 8
+7895,CDM,PRA,C31004,28006,1-1C5QLG0,Italy,istituto nationale tumori regina elena,roma,roma,00144,,35,via elio chianesi 53
+7896,CDM,PPD,Pevonedistat-2001,w1-IPDFGL,,Italy,istituto nazionale tumori regina elena,lazio,rome,00144,,36,via elio chianesi 53istituti fisioterapici ospitalieri
+7897,CDM,PPD,Pevonedistat-3001,1-16QY92E,,Italy,ospedale s eugenio,lazio,roma,00144,,37,piazzale dellumanesimo 10divisione di ematologia
+7898,CDM,PPD,C16029,1-Y42CHC,,Italy,ospedale s eugenio,lazio,roma,00144,,38,piazzale umanesimo 10unità operativa complessa ematologia
+7899,CDM,PRA,SYR-322_309,28001,1-1FHVG22,Italy,ospedale pediatrico bambino gesu,roma,roma,00146,,39,endocrinologiaviale di san paolo 15
+7900,CDM,PPD,C16029,1-Y42CIJ,,Italy,azienda ospedaliera san camillo forlanini,lazio,roma,00152,,40,circonvallazione gianicolenseunità di ematologia e centro trapianti di cellule staminali
+7901,CDM,PPD,Alofisel-5004,1-3QGRYFN,,Italy,azienda ospedaliera san camillo forlanini,lazio,roma,00152,,41,circonvallazione gianicolense 87uosd malattie intestinali croniche
+7902,CDM,PRA,Brigatinib-2002,28009,1-1KACTWW,Italy,azienda ospedaliera san camillo forlanini,lazio,roma,00152,,42,circonvallazione gianicolense 87
+7903,CDM,PPD,SHP647-301,301-143,,Italy,azienda ospedaliera san camillo forlanini,lazio,roma,00152,,43,circonvallazione gianicolense 87gastroenterol ed endoscopia dig e diagn operat
+7915,CDM,IQVIA,MLN0002SC-3031,28002,1-1S4KJ34,Italy,azienda ospedaliera san camillo forlanini,roma,roma,00152,,55,circonvallazione gianicolense 87co azienda ospedaliera san camillo forlanini
+7918,CDM,IQVIA,071301,385,1-2FNHRB8,Italy,azienda ospedaliera universitaria policlinico umberto i  università di roma la sapienza,roma,roma,00161,,58,via benevento 6dipartimento di ematologia clinical trial service piano 1
+7919,CDM,IQVIA,SHP677-304,385,1-4BKR8EX,Italy,azienda ospedaliera universitaria policlinico umberto i  università di roma la sapienza,roma,roma,00161,,59,via benevento 6
+7924,CDM,IQVIA,161505,292,1-37QD605,Italy,azienda ospedaliera universitaria policlinico umberto i  università di roma la sapienza,roma,roma,00161,,64,via delluniversità 30
+7926,CDM,IQVIA,281102,032,1-513DZO4,Italy,azienda ospedaliera universitaria policlinico umberto i  università di roma la sapienza,rome,roma,00161,,66,viale del policlinico 151
+7927,CDM,PPD,P2002,1-5M0SGRV,,Italy,azienda policlinico umberto i,lazio,roma,00161,,67,via benevento 6dipartimento di biotecnologie ed ematologia  sezione ematologia
+7928,CDM,PPD,C16029,1-Y42CKC,,Italy,azienda policlinico umberto i,lazio,roma,00161,,68,via benevento 6
+7936,CDM,PPD,MLN0002-3024,t1-7K1AWIU,,Italy,azienda policlinico umberto i,lazio,roma,00161,,76,viale del policlinico 155dipartimento di scienze dellinvecchiamento
+7941,CDM,PPD,P2002,28007,,Italy,azienda policlinico umberto i,roma,roma,00161,,81,via benevento 6centro di ematologia
+7943,CDM,PRA,Ponatinib-3001,28010,1-1KR28LD,Italy,centro di ematologia policlinico umberto i universita sapienza di roma,roma,roma,00161,,83,dipartamento di biotecnologie cellulari ed ematologiasezione di ematologiavia benevento 6
+7946,CDM,PPD,MLN0002-3024,3024-28002,,Italy,sapienza university of rome,lazio,rome,00161,,86,viale regina elena 324pediatric gastroenterology unit
+7948,CDM,PPD,NSMM-5001,1-MNRKTB,,Italy,universita degli studi la sapienza,lazio,rome,00161,,88,viale del policlinico 155centro di ematologia
+7949,CDM,ICON,HGT-MLD-071,,402734,Italy,bambin gesu hospital  ospedale pediatrico bambin gesu,rome,rome,00165,,89,piazza santonofrio 4
+7951,CDM,PPD,MLN0002-3024,1-DTUQSSW,,Italy,irccs ospedale pediatrico bambino gesù,lazio,roma,00165,,91,piazza santonofrio 4dipartimento di cardiologia pediatrica
+7952,CDM,PPD,SHP675-301,1-78GKRM6,,Italy,irccs ospedale pediatrico bambino gesù  incipit  pin,lazio,roma,00165,,92,piazza s onofrio 4division of metabolism
+7953,CDM,PPD,SHP620-303,1-MCQSUU,,Italy,irccs ospedale pediatrico bambino gesù  incipit  pin,lazio,roma,00165,,93,piazza s onofrio 4dipartimento di oncoematologia pediatrica e medicina trasfusionale
+7959,CDM,PPD,Pevonedistat-3001,1-16QY90Y,,Italy,irccs ospedale pediatrico bambino gesù  incipit  pin,roma,roma,00165,,99,piazza s onofrio 4uoc farmacia ospedaliera
+7960,CDM,IQVIA,SHP633-304,0427,1-2QPNU9L,Italy,ospedale pediatrico bambino gesù,roma,roma,00165,,100,piazza s onofrio 4
+7965,CDM,IQVIA,071301,381,1-2SMK13T,Italy,ospedale pediatrico bambino gesù,rome,roma,00165,,105,piazza sant’onofrio 4padiglione giovanni paolo 2 3 piano stanza k5
+7966,CDM,PPD,SHP647-307,1-170PXOP,,Italy,complesso integrato columbus,roma,roma,00168,,106,via g moscati 31unità operativa di medicina interna e gastroenterologia
+7972,CDM,PPD,SHP647-304,1-4MLLRP6,,Italy,fondazione policlinico universitario a gemelli,emiliaromagna,roma,00168,,112,largo a gemelli 8
+7974,CDM,PPD,MLN0002-3025,3025-28005,,Italy,fondazione policlinico universitario a gemelli,lazio,roma,00168,,114,largo a gemelli  8
+7976,CDM,PPD,SHP647-301,301-165,,Italy,fondazione policlinico universitario a gemelli,lazio,roma,00168,,116,largo a gemelli 8uoc medicina interna gastroenterologia e malattie del fegato
+7983,CDM,PPD,SHP647-301,301-141,,Italy,fondazione policlinico universitario a gemelli,lazio,roma,00168,,123,largo agostino gemelli 8cemad
+7991,CDM,PPD,SHP607-202,149,,Italy,fondazione policlinico universitario a gemelli,lazio,roma,00168,,131,largo agostino gemelli 8uoc di neonatologia
+7994,CDM,PPD,TAK-007-2001,1-87KNHS5,,Italy,fondazione policlinico universitario a gemelli,lazio,roma,00168,,134,via giuseppe moscati 31
+7998,CDM,PPD,SHP675-301,1-3P63B7G,,Italy,fondazione policlinico universitario a gemelli,roma,roma,00168,,138,largo a gemelli 8unità terapia intesiva cardiologica e subintensiva
+8001,CDM,PRA,Ponatinib-3001,28006,1-1L9OC34,Italy,fondazione policlinico universitario agostino gemelli,roma,roma,00168,,141,largo a gemelli 8
+8004,CDM,IQVIA,SHP677-304,386,1-4CW60O3,Italy,fondazione policlinico universitario agostino gemelli irccs,roma,roma,00168,,144,largo agostino gemelli 8farmacia interna primo piano ala f stanza f194
+8011,CDM,PPD,TAK-079-1005,1-5D7EP3D,,Italy,azienda policlinico umberto i,lazio,roma,00185,,151,viale università 30dipartimento di neuroscienze
+8012,CDM,PPD,MLN0002-3025,3025-28002,,Italy,sapienza university of rome,lazio,roma,00185,,152,piazzale aldo moro 5
+8013,CDM,PPD,SHP675-301,1-3P63B6S,,Italy,ospedale di belcolle,lazio,viterbo,01100,,153,strada sammartinese
+8015,CDM,PPD,C16029,1-Y42CLF,,Italy,azienda ospedaliera s maria di terni,umbria,terni,05100,,155,viale tristano di jaonnuccio 1struttura complessa di oncoematologia
+8018,CDM,PPD,Pevonedistat-3001,1-1AR0DTD,,Italy,azienda sanitaria universitaria integrata di udine  po universitario santa maria della misericordia,umbria,perugia,06122,,158,via brunamonti 51
+8019,CDM,PRA,AP26113-13-301,476,1-1FB8FX2,Italy,azienda ospedaliera di perugia,perugia,perugia,06132,,159,sc oncologia medicavia gdottori 1
+8020,CDM,PPD,P2002,1-5PK159O,,Italy,ospedale santa maria della misericordia di perugia,umbria,perugia,06156,,160,piazza menghinistruttura complessa di ematologia con trapianto di midollo osseo
+8022,CDM,PPD,Pevonedistat-2001,w1-IPDFHL,,Italy,azienda ospedaliera universitaria di sassari,sardegna,sassari,07100,,162,viale san pietro 12universita degli studi di sassari istituto di ematologia
+8023,CDM,IQVIA,SHP643-303,166,1-4S2B7HV,Italy,azienda ospedaliera di cagliari  presidio monserrato,monserrato,cagliari,09042,,163,ss 554 km 4500
+8025,CDM,PPD,IOS,166,,Italy,presidio policlinico di monserrato,sardegna,monserrato,09042,,165,ss 554 bivio per sestu
+8026,CDM,PPD,MLN0002-3025,1-9W1QSV3,,Italy,clinica pediatrica e malattie rare,sardegna,cagliari,09121,,166,via jenner
+8027,CDM,ICON,C25003,,86993,Italy,ospedale oncologico businco ematologia e ctmo,italy,cagliari,09121,,167,7° piano ala b via edward jenner 1
+8028,CDM,PPD,SHP647-304,1-190MAK8,,Italy,ao brotzu  clinica di neuropsichiatria dellinfanzia e delladolescenza  incipit – pin,cagliari,cagliari,09134,,168,piazzale ricchi 1sc gastroenterologia
+8029,CDM,PPD,SHP647-305,1-16352HN,,Italy,ao brotzu  clinica di neuropsichiatria dellinfanzia e delladolescenza  incipit – pin,cagliari,cagliari,09134,,169,piazzale ricchi 1
+8033,CDM,PRA,Brigatinib-2002,28008,1-1KAJK4O,Italy,azienda ospedaliero  universitaria san luigi gonzaga,torino,orbassano,10043,,173,scdu malattie apparato respiratorio 5 ad indirizzo oncologicovia regione gonzole 10
+8034,CDM,PPD,C16029,28008,,Italy,azienda sanitaria ospedaliera s luigi gonzaga,piemonte,orbassano,10043,,174,regione gonzole 10divisione di medicina interna ed ematologia
+8035,CDM,PPD,C16029,1-Y42KSF,,Italy,azienda sanitaria ospedaliera s luigi gonzaga,piemonte,orbassano,10043,,175,regione gonzole 10
+8039,CDM,IQVIA,C14012,28003,1-4CFQXD,Italy,azienda ospedaliera città della salute e della scienza di torino,candiolo,torino,10060,,179,strada provinciale 142
+8040,CDM,PPD,C16029,28014,,Italy,fondazione del piemonte per l’oncologia irccs,piemonte,candiolo,10060,,180,strada provinciale di none 142
+8041,CDM,PPD,SHP675-301,1-3P69UMH,,Italy,università degli studi di torino,piemonte,torino,10123,,181,corso dogliotti 14scdu endocrinologia diabetologia e metabolismo
+8042,CDM,PPD,TAK-981-1501,28003,,Italy,azienda ospedaliera città della salute e della scienza di torino,piemonte,torino,10124,,182,via ventimiglia 3dipartimento di discipline ginecologiche e ostetriche
+8043,CDM,IQVIA,TAK-831-2002,28004,1-45LSMH9,Italy,azienda ospedaliera città della salute e della scienza di torino,torino,torino,10124,,183,via cherasco 11
+8044,CDM,PPD,Pevonedistat-1016,1-3LK7HT8,,Italy,azienda ospedaliera città della salute e della scienza di torino,piemonte,torino,10126,,184,corso bramante 88ematologia
+8048,CDM,PPD,C16029,1-Y43S3I,,Italy,azienda ospedaliera città della salute e della scienza di torino,piemonte,torino,10126,,188,via genova 3unità operativa ematologia 1
+8051,CDM,PPD,C16021,28101,,Italy,azienda ospedaliera città della salute e della scienza di torino,torino,torino,10126,,191,corso bramante 88struttura complessa ematologia u
+8052,CDM,PPD,P2002,1-5M0H8LV,,Italy,azienda ospedaliera città della salute e della scienza di torino,torino,torino,10126,,192,corso bramante 88
+8053,CDM,PPD,SHP647-304,304-153,,Italy,azienda ospedaliera città della salute e della scienza di torino,torino,torino,10126,,193,corso bramante 8890gastroenterologia u
+8060,CDM,IQVIA,C25004,28001,1-272ZSCD,Italy,azienda ospedaliera città della salute e della scienza di torino,torino,torino,10126,,200,piazza polonia 94
+8061,CDM,PRA,C34004,28004,1-1C872YU,Italy,azienda ospedaliera universitaria citta della salute e della scienza di torino,piemonte,torino,10126,,201,struttura complessa di ematologiacorso bramante 8890
+8063,CDM,ICON,C25001,,69841,Italy,azienda sanitaria ospedaliera sgiovanni battista molinette,italy,torino,10126,,203,ospedale sgiovanni battista molinettedermatologia 2corso bramante 8890
+8064,CDM,PPD,SHP620-302,612,,Italy,ospedale infantile regina margherita  incipit  pin,piemonte,torino,10126,,204,piazza polonia 94sc oncoematologia pediatrica e centro trapianti
+8066,CDM,PPD,Brigatinib-1003,1-61ET82J,,Italy,ospedale infantile regina margherita  incipit  pin,torino,turin,10126,,206,piazza polonia 94
+8068,CDM,PPD,Pevonedistat-1016,1-3LK7HS6,,Italy,azienda ospedaliera ordine mauriziano di torino,piemonte,torino,10128,,208,via magellano n1ospedale umberto i di torino dipartimento strutturale medico  scdu ematologia
+8070,CDM,PPD,Alofisel-5003,1-3DBC2NY,,Italy,azienda ospedaliera ordine mauriziano di torino,piemonte,turin,10128,,210,via ferdinando magellano 1
+8071,CDM,PPD,SHP647-307,307-152,,Italy,azienda ospedaliera ordine mauriziano di torino,torino,torino,10128,,211,via ferdinando magellano 1sc gastroenterologia
+8075,CDM,IQVIA,TAK-743-3001,171,1-553RSJ8,Italy,ospedale mauriziano umberto i,torino,torino,10128,,215,largo filippo turati62
+8077,CDM,PPD,C16019,1-2R71DN,,Italy,azienda sanitaria ospedaliera s croce e carle,piemonte,cuneo,12100,,217,via m coppino 26struttura complessa ematologia
+8080,CDM,ICON,C25003,,86997,Italy,ospedale civile di cuneo santa croce e carle,cuneo,cuneo,12100,,220,divisione di cardiologia  utic
+8084,CDM,IQVIA,241501,121,1-2SW0CRE,Italy,azienda ospedaliera nazionale santi antonio e biagio e cesare arrigo,alessandria,alessandria,15100,,224,via venezia 16
+8085,CDM,PPD,Pevonedistat-3001,1-16QY93S,,Italy,azienda ospedaliera santi antonio biagio e cesare arrigo,piemonte,allessandria  al,15100,,225,via venezia 18struttura complessa oncologia  dipartimento oncoematologico
+8086,CDM,PPD,Vedolizumab-4013,28002,,Italy,azienda ospedaliera san camillo forlanini,lazio,rome,152,,226,circonvallazione gianicolense 87department of gastroenterology
+8088,CDM,PRA,C31004,28005,1-1C5O1GU,Italy,ente ospedaliero ospedali galliera,genova,genova,16128,,228,via mura delle cappuccine 1416128 genova
+8089,CDM,PRA,AP24534-14-203,528,1-1FD38H4,Italy,azienda ospedaliera universitaria san martino,genova,genova,16132,,229,clinica ematologicalargo rosanna benzi 10
+8092,CDM,PRA,Brigatinib-3001,28014,1-1L6OLPH,Italy,azienda policlinico san martino,genova,genova,16132,,232,oncologia medica alargo rosanna benzi 10
+8093,CDM,PRA,Ponatinib-3001,28009,1-1L9MV45,Italy,azienda policlinico san martino,liguria,genova,16132,,233,largo rosanna benzi 10
+8095,CDM,PPD,TAK-079-1005,28503,,Italy,irccs aou san martino,liguria,genova,16132,,235,largo daneo  3dipartimento di neuroscienze riabilitazione oftalmologia genetica e scienze maternoinfantiliunità operativa clinica neurologica
+8096,CDM,PPD,SHP647-306,1-170R17H,,Italy,irccs az osp universitaria san martino ist,liguria,genova,16132,,236,largo r benzi 10clinica gastroenterologica con endoscopia
+8103,CDM,PPD,C16019,1-4D1JKJ,,Italy,irccs az osp universitaria san martino ist,liguria,genova,16132,,243,largo rosanna benzi 10
+8107,CDM,PPD,Pevonedistat-1016,1-3LK7HRG,,Italy,ospedale policlinico san martino,liguria,genova,16132,,247,largo rosanna benzi 10unità operativa clinica ematologica
+8110,CDM,PPD,SHP647-303,1-5HGRWRT,,Italy,università degli studi di genova,liguria,genoa,16132,,250,largo rosanna benzi 10unità operativa clinica gastroentologica con endoscopia  dipartimento medicina interna
+8112,CDM,PPD,SHP647-304,1-5HC5ZVV,,Italy,università degli studi di genova,liguria,genova,16132,,252,largo rosanna benzi 10unità operativa clinica gastroentologica con endoscopia  dipartimento medicina interna
+8115,CDM,PPD,SHP620-303,1-MCQSUI,,Italy,istituto g gaslini ospedale pediatrico irccs  incipit  pin,genova,genova,16147,,255,via gerolamo gaslini 5 padiglione n 12uosd trapianto staminali emopoietiche
+8116,CDM,PPD,SHP620-302,1-SV834S,,Italy,istituto g gaslini ospedale pediatrico irccs  incipit  pin,genova,genova,16147,,256,via gerolamo gaslini 5 padiglione n 12
+8118,CDM,PPD,Brigatinib-1002,1-61FJUOY,,Italy,istituto g gaslini ospedale pediatrico irccs  incipit  pin,liguria,genoa,16147,,258,largo gerolamo gaslini 5dipartimento di onco – ematologia pediatrica
+8120,CDM,PPD,MLN0002-3024,1-83KIH8A,,Italy,istituto g gaslini ospedale pediatrico irccs  incipit  pin,liguria,genova,16147,,260,l go g gaslini 5dipartimento di ematologia e oncologia pediatrica
+8123,CDM,PPD,SHP607-202,152,,Italy,istituto g gaslini ospedale pediatrico irccs  incipit  pin,liguria,genova,16147,,263,largo g gaslini 5
+8127,CDM,PPD,P2002,1-5PK159C,,Italy,university policlinico gemelli,toscana,roma,168,,267,largo gemelli 1unità operativa complessa oncologia medica
+8128,CDM,PPD,TAK-079-1005,28502,,Italy,azienda ospedaliera santandrea,lazio,roma,189,,268,via di grottarossa 10351039uoc neurologia
+8129,CDM,PPD,SHP647-306,1-248I61T,,Italy,asst rhodense  ospedale di rho,milano,rho,20017,,269,corso europa 250gastroenterologia
+8136,CDM,PPD,Brigatinib-1003,1-6188XKV,,Italy,asst di monza  azienda ospedaliera san gerardo,lombardia,monza,20052,,276,via giovanbattista pergolesi 33
+8138,CDM,PPD,HOS,005,,Italy,azienda socio sanitaria territoriale – asst di monza,lombardia,monza,20052,,278,via giambattista pergolesi 33uos malattie metaboliche rare clinica pediatrica
+8140,CDM,PPD,Alofisel-5003,1-3DBC2LF,,Italy,istituto clinico humanitas,lombardia,rozzano,20089,,280,via alessandro manzoni 56
+8141,CDM,PPD,NSMM-5001,1-MNRKTO,,Italy,istituto clinico humanitas,lombardia,rozzano,20089,,281,via manzoni 56uo oncologia medica ed ematologia
+8143,CDM,PPD,TAK-007-2001,1-87ARZ4Q,,Italy,istituto clinico humanitas,lombardia,rozzano mi,20089,,283,via manzoni 56unità operativa medicina nucleare
+8144,CDM,PPD,SHP620-302,606,,Italy,istituto clinico humanitas,milano,rozzano,20089,,284,via a manzoni 56
+8145,CDM,PPD,Pevonedistat-1016,1-3P1FS1O,,Italy,istituto clinico humanitas,milano,rozzano,20089,,285,via a manzoni 56uo oncologia medica ed ematologia
+8155,CDM,IQVIA,161403,293,1-1JJ8LT5,Italy,istituto clinico humanitas,rozzano,milano,20089,,295,via manzoni 56
+8157,CDM,IQVIA,MLN0002SC-3031,28007,1-1SDWYL5,Italy,istituto clinico humanitas,rozzano,milano,20089,,297,via manzoni 56sperimentazioni cliniche uo farmacia humanitas research hospital
+8160,CDM,PRA,Vedolizumab-3035,28009,1-1LL00ER,Italy,istituto clinico humanitas humanitas cancer center,milano,milano,20089,,300,uo oncologia medica ed ematologia  humanitas cancer centervia manzoni 56
+8161,CDM,PRA,Ponatinib-3001,28005,1-1KR0U6P,Italy,azienda ospedaliera san gerardo di monza,monza e brianza,monza,20090,,301,via pergolesi 33unit  di ricerca clinica  sezione di ematologia
+8163,CDM,IQVIA,MLN0002SC-3030,28010,1-26CTH2C,Italy,irccs policlinico san donato,san donato milanese,milano,20097,,303,piazza edmondo malan 2
+8165,CDM,PPD,SHP647-307,1-4MGJEUP,,Italy,policlinico san donato,lombardia,san donato,20097,,305,via morandi 30uo medicina generale iii  gastroenterologia
+8166,CDM,PPD,SHP647-303,1-4MSZ492,,Italy,policlinico san donato,milano,san donato milanese,20097,,306,via morandi 30uo gastroenterologia ed endoscopia digestiva
+8178,CDM,PPD,TAK-079-1004,28401,,Italy,aou maggiore della carità,piemonte,novara,20100,,318,corso mazzini 18struttura complessa ematologia
+8179,CDM,PPD,SHP647-306,1-170PXMJ,,Italy,asst fatebenefratelli sacco  ospedale luigi sacco,lombardia,milano,20121,,319,corso di porta nuova 23
+8186,CDM,PPD,SHP607-203,1-CNLQ9UD,,Italy,fondazione irccs cà granda ospedale maggiore policlinico,lombardia,milano,20121,,326,via pace 9dipartimento medicina interna centro emofilia e trombosi angelo bianchi bonomi
+8187,CDM,PRA,TAK-041-2001,Dell'Osso,1-1L8CZF4,Italy,fondazione irccs ca granda ospedale maggiore policlinico,milano,milano,20122,,327,via francesco sforza 28

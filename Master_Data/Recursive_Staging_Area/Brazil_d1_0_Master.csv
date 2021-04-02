@@ -1,0 +1,232 @@
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,CONCAT_ADDRESS
+3075,CDM,IQVIA,MLN0002SC-3030,05004,1-25UIBGQ,Brazil,hospital de clínicas de porto alegre,porto alegre,rio grande do sul,90035903,,rua ramiro barcelos 2350build 21 office 21308b
+3083,CDM,PPD,C16021,05118,,Brazil,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903,,rua ramiro barcelos 2350predio 21 centro de pesquisa clinica3º andar  sala 21307
+3095,CDM,PPD,C16021,1-9L33C1,,Brazil,irmandade da santa casa de misericordia de porto alegre,rio grande do sul,porto alegre,90050170,,rua sarmento leite 187
+3099,CDM,PPD,TAK-788-3001,1-4ZUIEV0,,Brazil,hospital mae de deus,rio grande do sul,porto alegre,90110270,,rua costa 30centro clínico mae de deus
+3102,CDM,ICON,C25003,,87416,Brazil,hospital mae de deus center,rs,porto alegre,90110270,,rua costa 30  6º andarmenino deus
+3103,CDM,IQVIA,MLN0002SC-3031,05005,1-1VY0MC6,Brazil,hospital ernesto dornelles,porto alegre,rio grande do sul,90160093,,avenida ipiranga 1801azenha
+3105,CDM,PPD,C16021,1-8AZ8NY,,Brazil,hospital femina,rio grande do sul,porto alegre,90430001,,rua mostardeiros 17bairro moinhos de vento
+3106,CDM,PPD,C16021,1-8E16EI,,Brazil,clínica de oncologia de porto alegre ss ltda,rio grande do sul,porto alegre,90430090,,rua dona laura 228107
+3108,CDM,PPD,C16019,05920,,Brazil,clinionco,rio grande do sul,porto alegre,90430090,,rua dona laura 228conj 107
+3112,CDM,PPD,Pevonedistat-3001,1-1EO17K4,,Brazil,hospital mae de deus,rio grande do sul,porto alegre,90470340,,rua soledade 569
+3115,CDM,PPD,C16029,1-YWTNGO,,Brazil,hospital sao lucas da pontificia universidade catolica do rio grande do sul pucrs,rio grande do sul,porto alegre,90610000,,avenida ipiranga 6690centro de pesquisa clinicasala 812
+3116,CDM,PPD,SHP647-307,1-4MGJEOY,,Brazil,hospital sao lucas da pontificia universidade catolica do rio grande do sul pucrs,rio grande do sul,porto alegre,90610000,,avenida ipiranga 6900
+3125,CDM,PPD,NSMM-5001,05004,,Brazil,hospital nossa senhora da conceição,rio grande do sul,porto alegre,91350200,,rua francisco trein 596 1 andar sala 24 cristo redentor
+3126,CDM,PRA,SYR-322_309,05001,1-1FLHI2N,Brazil,instituto da crianca com diabetes,rio grande do sul,porto alegre,91350250,,rua lvares cabral 529
+3127,CDM,PPD,TAK-788-3001,1-507A42H,,Brazil,instituto de pesquisas clínicas para estudos multicêntricos,rio grande do sul,caxias do sul,95070560,,rua francisco getúlio vargas 1130
+3128,CDM,PPD,C16021,05121,,Brazil,universidade de caxias do sul,rio grande do sul,caxias do sul,95070560,,rua francisco getúlio vargas 1130ipcem504
+3131,CDM,PPD,TAK-788-3001,1-590OEFT,,Brazil,hospital tacchini,rio grande do sul,bento gonçalves,95700084,,rua general osorio 235subsolo
+3132,CDM,PPD,TAK-981-1502,05002,,Brazil,associação hospital de caridade ijuí,rio grande do sul,ijuí,98700000,,av david josé martins 152departamento de oncologia
+2621,CDM,PPD,C16021,1-8AZ8QY,,Brazil,instituto do câncer arnaldo vieira de carvalho,são paulo,são paulo,01209000,,rua aurora 8583o andar
+2622,CDM,PPD,SHP647-305,1-YCGR79,,Brazil,ipec  instituto de pesquisa clínica,são paulo,são paulo,01223001,,rua marques de itu 503conj 31
+3137,CDM,IQVIA,MLN0002SC-3030,05011,1-2R1YA4E,Brazil,hospital são vicente de paulo,passo fundo,rio grande do sul,99010080,,rua teixeira soares 808centro
+3139,CDM,PPD,Ponatinib-1501,1-5VW1SFG,,Brazil,hospital são vicente de paulo  ppds,rio grande do sul,passo fundo,99010080,,rua teixeira soares 808
+2629,CDM,PPD,C16029,1-YWVA6L,,Brazil,instituto de ensino e pesquisa são lucas,são paulo,são paulo,01236030,,rua arnolfo de azevedo 121
+2632,CDM,PPD,SHP647-303,1-1RMJ0DK,,Brazil,hospital são paulo,são paulo,são paulo,01244020,,rua novo horizonte 94 ap 22 sender miszputen
+3148,CDM,PRA,Ponatinib-3001,05006,1-1L9OCFC,Brazil,hospital da cidade,rio grande do sul,passo fundo,99010260,,rua tiradentes 295
+2637,CDM,PPD,TAK-788-3001,05001,,Brazil,instituto do câncer do estado de são paulo octávio frias de oliveira,são paulo,são paulo,01246 000,,avenida doutor arnaldo numero 251oncologia clinica pesquisa clinica
+2638,CDM,PPD,TAK-981-1502,1-7BH0PNF,,Brazil,centro de oncologia inrad hcfmusp,são paulo,são paulo,01246000,,rua drive arnaldo 251 5º andar
+3149,CDM,PPD,C16029,1-YWTNI3,,Brazil,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260,,rua tiradentes 295sector de oncologia
+2639,CDM,PRA,Vedolizumab-3035,05005,1-1LS0FPL,Brazil,hospital das clinicas da faculdade de medicina da universidade de sao paulo,sao paulo,sao paulo,01246000,,avendia doutor arnaldo 251pesquisa clnicacerqueira cesar
+2641,CDM,PPD,TAK-981-1502,05005,,Brazil,instituto do câncer do estado de são paulo octávio frias de oliveira,rio de janeiro,são paulo,01246000,,avenida doutor arnaldo 251  12º andar
+2642,CDM,PPD,SHP611-201,1-37RF51D,,Brazil,faculdade de medicina da universidade de são paulo,são paulo,sao paulo,01246903,,av dr arnaldo  455  cerqueira césar
+3152,CDM,PPD,SHP647-302,1-16DG2WL,,Brazil,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260,,rua tiradentes 295
+2643,CDM,PPD,Pevonedistat-3001,1-1EO17JR,,Brazil,instituto de ensino e pesquisa são lucas,são paulo,são paulo,01248040,,avenida arnolfo de azevedo 121
+2645,CDM,PRA,SYR-322_309,05004,1-1FIK6M0,Brazil,hospital sirio libanes,sao paulo,sao paulo,01308050,,rua dona adma jafet 115
+2646,CDM,PPD,C16019,05914,,Brazil,hospital sírio libanês,são paulo,são paulo,01308050,,rua adma jafet 91bloco aterreo
+2649,CDM,PPD,SHP647-301,301-044,,Brazil,sociedade beneficente de senhoras hospital sirio libanes,são paulo,são paulo,01308050,,rua adma jafet 91 bela vista
+2657,CDM,PPD,SHP620-302,1-2QG4Y9S,,Brazil,real e benemérita portuguesa de beneficência,são paulo,são paulo,01323001,,rua maestro cardim 769
+2658,CDM,PPD,TAK-007-2001,1-8H77T03,,Brazil,hospital alemão oswaldo cruz,são paulo,são paulo,01323903,,rua joão julião 331 centro de pesquisa clícina instituto de ciências paraísobela vistasão paulo  sp
+2659,CDM,PRA,Vedolizumab-3035,05008,1-1LRZQHA,Brazil,fundacao antonio prudente  accamargo cancer center,sao paulo,sao paulo,01509010,,rua professor antnio prudente 211liberdade
+2662,CDM,PRA,Ponatinib-3001,05012,1-1O123ZT,Brazil,fundacao antonio prudente  accamargo cancer center,sao paulo,sao paulo,01509900,,rua professor antonio prudente 211liberdade
+2672,CDM,PPD,TAK-007-2001,1-8H77SZ3,,Brazil,instituto brasileiro de controle do câncer ibcc,são paulo,são paulo,03102002,,avenida alcântara machadomoocasão paulo  sp
+2674,CDM,PPD,HOS,111,,Brazil,universidade federal de são paulo,são paulo,vila clementino,04020041,,rua coronel lisboa 957instituto de genética e erros inatos do metabolismo centro de referência em erros inatos do metabol
+2675,CDM,PPD,SHP611-201,1-37RF51Q,,Brazil,escola paulista de medicina da universidade federal de são paulo – epmunifesp,são paulo,sao paulo,04021001,,rua sena madureira  1500  vila clementino
+2676,CDM,IQVIA,C25004,05001,1-2X6GKHU,Brazil,graacc  grupo de apoio ao adolescente e à criança com câncer,são paulo,sao paulo,04023062,,rua pedro de toledo 5725º andar
+2677,CDM,PPD,SHP647-305,1-XFRQ2U,,Brazil,hospital são paulo,são paulo,são paulo,04024002,,rua napoleão de barros 771 vila clementino 2ºandar
+2679,CDM,PPD,Pevonedistat-2001,1-DCTZQX,,Brazil,universidade federal de são paulo,são paulo,sao paulo,04024002,,rua napoleao de barros 618bloco aterreo
+2681,CDM,PPD,NSMM-5001,05005,,Brazil,escola paulista de medicina da universidade federal de são paulo – epmunifesp,são paulo,são paulo,04032060,,rua dos açores 310 1 andar
+2682,CDM,PPD,SHP647-301,1-43I9SAJ,,Brazil,universidade federal de sao paulo,são paulo,são paulo,04037002,,rua doutor diogo de faria 816
+2686,CDM,PPD,Ponatinib-1501,05001,,Brazil,graacc grupo de apoio ao adolescente e a crianca com cancer,são paulo,são paulo,04039001,,rua pedro de toledo 572vila clementino
+2688,CDM,IQVIA,161505,565,1-48DNK42,Brazil,hospital sao paulo,são paulo,sao paulo,04040001,,rua loefgren 1350vila clementino
+2689,CDM,PPD,TAK-007-2001,1-8H77SST,,Brazil,hospital santa marcelina,são paulo,são paulo,04378500,,avenida santa catarinapediatria 2785são paulo  sp
+2690,CDM,PPD,C16011,05006,,Brazil,clínica são germano,são paulo,são paulo,04537080,,rua comendador miguel calfat 217
+2694,CDM,PPD,NSMM-5001,05002,,Brazil,hospital das clínicas da faculdade de medicina da universidade de são paulo,são paulo,são paulo,05304000,,avenida eneas de carvalho aguiarcentro de pesquisa
+2696,CDM,PPD,SHP647-301,1-XEX571,,Brazil,faculdade de medicina do abc,são paulo,são paulo,05401000,,avenida rebouças 381
+2698,CDM,PPD,C16029,1-YWTNF9,,Brazil,hemocentro  fmusp,são paulo,são paulo,05403000,,avenida doutor enéas de carvalho aguiar 155predio dos ambulatorioshospital dia
+2699,CDM,PPD,C16029,1-ZZDKZR,,Brazil,hemocentro  fmusp,são paulo,são paulo,05403000,,avenida dr eneas de carvalho aguiar 155
+2700,CDM,PPD,Pevonedistat-3001,1-16Q6D54,,Brazil,hospital das clínicas da faculdade de medicina da universidade de são paulo,são paulo,cerqueira césar,05403000,,avenida eneas de carvalho aguiaroncologia
+2701,CDM,PPD,TAK-007-2001,1-8H77SZF,,Brazil,hospital das clínicas da faculdade de medicina da universidade de são paulo,são paulo,são paulo,05403000,,avenida drive eneas de carvalho aguiar 155 2 andar bloco 11 predio dos ambdo prédio dos ambulatórios 1 andarsão paulo  sp
+2703,CDM,PPD,Ponatinib-1501,1-5VW1SH7,,Brazil,hospital das clínicas da faculdade de medicina de são paulo,são paulo,são paulo,05403000,,avenida doutor enéas de carvalho aguiar 647instituto da criança
+2705,CDM,ICON,C25003,,87419,Brazil,universidade de sao paulo  hospital das clinicas da faculdade de medicina hcfmusp,sp,são paulo,05403000,,av dr enéas carvalho de aguiar 155  1 andarprédio dos ambulatórios
+2707,CDM,PPD,Pevonedistat-2001,1-DHPJYN,,Brazil,hospital israelita albert einstein,são paulo,são paulo,05651901,,avenida albert einstein 627
+2710,CDM,PPD,C16019,05911,,Brazil,hospital israelita albert einstein,são paulo,são paulo,05651901,,avenida albert einstein 627701centro de pesquisa clinica2º subsolo
+2712,CDM,PPD,NSMM-5001,05007,,Brazil,hospital israelita albert einstein,são paulo,são paulo,05651901,,avenida albert einstein 6277012º subsolo bloco a
+2714,CDM,PPD,SHP647-301,1-XEX4UD,,Brazil,hospital israelita albert einstein,são paulo,são paulo,05651901,,hospital israelita albert einstein av albert einstein 627 sala 1009 flavio steinwurz
+2721,CDM,IQVIA,MLN0002SC-3031,05007,1-1VY0MBT,Brazil,albert einstein sociedade beneficente israelita brasiliera,são paulo,sao paulo,05652000,,avenida albert einstein 627701morumbi
+2725,CDM,PRA,Vedolizumab-3035,05004,1-1LCFOY9,Brazil,hospital santa marcelina,sao paulo,sao paulo,08270070,,rua santa marcelina 177itaquera
+2726,CDM,PPD,SHP620-302,1-2928VGO,,Brazil,hospital santa marcelina,são paulo,curitiba,08270070,,rua santa marcelina 400
+2729,CDM,PPD,C16029,1-YWVA69,,Brazil,hospital santa marcelina,são paulo,são paulo,08270270,,rua santa marcelina 177
+2733,CDM,ICON,C25003,,87420,Brazil,centro de estudos e pesquisas de hematologia e oncologia da faculdade de medicina do abc,são paulo,santo andré,09060650,,av principe de gales 821 anexo iii  1º andar
+2734,CDM,PPD,C16029,1-ZKK6AG,,Brazil,centro de estudos e pesquisas em hematologia e oncologia,são paulo,santo andré,09060650,,avenida príncipe de gales 821anexo iii
+2735,CDM,PPD,SHP647-302,1-16DG2YE,,Brazil,centro de estudos em gastroenterologia professor josé vicente martins campo,são paulo,santo andré,09060650,,rua princípe de gales 821
+2737,CDM,PPD,SHP647-304,304-042,,Brazil,centro multidisciplinar de estudos clinicos – cemecfmabc,são paulo,santo andré,09060650,,avenida principe de gales 821
+2741,CDM,IQVIA,MLN0002SC-3031,05003,1-1WEJZKG,Brazil,faculdade de medicina do abc,santo andré,sao paulo,09060650,,avenida príncipe de gales 821vila príncipe de gales
+2743,CDM,PPD,Pevonedistat-3001,1-1EO17JE,,Brazil,faculdade de medicina do abc,são paulo,santo andré,09060650,,av príncipe de gales no 821cepho  centro de estudos e pesquisas de hematologia e oncologia
+2746,CDM,PPD,SHP647-301,1-XFTFXS,,Brazil,faculdade de medicina do abc,são paulo,santo andré,09060650,,avenida príncipe de gales 821
+2748,CDM,PPD,SHP647-302,1-18C2GHH,,Brazil,fundação do abc  faculdade de medicina do abc,são paulo,santo andré,09060650,,rua princípe de gales 821
+2752,CDM,PPD,IOS,162,,Brazil,faculdade de medicina do abc,são paulo,santo andré,09060870,,av lauro gomes 2000  vila sacaduraprédio cepes
+2755,CDM,PPD,SHP647-301,301-042,,Brazil,cemec  centro multidisciplinar de estudos clínicos,são paulo,santo andré,09190510,,avenida gilda 106 vila gildarooms 82  83
+2756,CDM,PPD,C16029,1-YWTNHQ,,Brazil,faculdade de medicina do abc,são paulo,santo andré,09190610,,rua doutor henrique calderazzo 321 paraíso
+2757,CDM,PPD,C16021,1-AH1HVE,,Brazil,cettro  centro de câncer de brasília,distrito federal,lisboa,1050034,,rua da beneficiência 7edificio de clínicas 12 andar
+2758,CDM,IQVIA,MLN0002SC-3031,05008,1-1VY0MA9,Brazil,irmandade da santa casa da misericórdia de santos,santos,sao paulo,11075900,,avenida dr cláudio luiz da costa 50jabaquara
+2760,CDM,PPD,SHP647-304,304-048,,Brazil,irmandade da santa casa da misericórdia de santos,são paulo,santos,11075900,,av conselheiro nébias 7031403
+2767,CDM,PPD,Pevonedistat-2001,1-D87NKV,,Brazil,universidade estadual de campinas,são paulo,campinas,13024500,,cidade universitaria zefferino vaz sn barao geraldo
+2768,CDM,PRA,Ponatinib-3001,05010,1-1MB794S,Brazil,hemocentro campinas unicamp,sao paulo,campinas,130383878,,rua carlos chagas 480cidade universitria profesor zeferino vazdistrito de barao geraldo
+2769,CDM,PPD,SHP647-301,1-XFETF6,,Brazil,qc prestação serviços médicos sc ltda,são paulo,campinas,13070040,,rua 14 bis 71 – castelo
+2771,CDM,PPD,Ponatinib-1501,1-5VW1SHT,,Brazil,boldrinis childrens center,são paulo,são paulo,13083210,,rua gabriel porto 1270
+2772,CDM,PPD,Pevonedistat-3001,1-18ZBSRW,,Brazil,centro de hematologia e hemoterapia do piaui  hemopi,são paulo,campinas,13083878,,rua carlos chagas 480barrao geraldo
+2773,CDM,PPD,NSMM-5001,05008,,Brazil,unicamp universidade estadual de campinas,são paulo,campinas,13083878,,rua tesalia vieira de camargo 126prédio hemocentro
+2774,CDM,PPD,SHP675-301,1-78W14UY,,Brazil,universidade estadual de campinas,são paulo,campinas,13083878,,rua carlos chagas 480cidade universitaria zeferino vaz
+2775,CDM,PPD,SHP647-301,1-XFRUPL,,Brazil,universidade estadual de campinas,são paulo,campinas,13083881,,rua alexandre fleming 40 barão geraldo
+2777,CDM,IQVIA,161403,564,1-38DEXEB,Brazil,hospital das clínicas da faculdade de medicina da unicamp,campinas,sao paulo,13083887,,rua tessália vieira de camargo 126cidade universitária zeferino vaz
+2778,CDM,PPD,C16029,1-YWTNFZ,,Brazil,unicamp universidade estadual de campinas,são paulo,campinas,13083970,,rua tessália vieira de camargo 126
+2782,CDM,PPD,C16021,1-8DPXJX,,Brazil,instituto de oncologia de jundiaí,são paulo,jundiaí,13208761,,rua barão de teffé 594
+2784,CDM,PPD,TAK-788-3001,A1-507A40W,,Brazil,ceon centro especializado de oncologia,são paulo,ribeirao preto,14010000,,rua tibirica 1172
+2785,CDM,PPD,C16021,1-8DPXJD,,Brazil,instituto ribeirãopretano de combate ao câncer,são paulo,ribeirão preto  sp,14015130,,rua bernadino de campos 145centro especializado de oncologia
+2786,CDM,PPD,SHP675-301,1-78W14VO,,Brazil,ribeirão preto school of medicine university of são paulo fmrpusp,são paulo,ribeirao preto,14040030,,avenida bandeirantes 3900
+2787,CDM,PRA,Ponatinib-3001,05002,1-1KD4OVC,Brazil,hospital das clinicas da faculdade de medicina da riberao preto da universidade de sao paulo,sao paulo,ribeirao preto,14048900,,campus universitrio sn
+2788,CDM,PPD,SHP611-201,1-2SMXJPX,,Brazil,hospital das clinicas da faculdade de medicina da usp de ribeirao preto,são paulo,ribeirão preto,14048900,,avenida bandeirantes 39004º andar cirep
+2789,CDM,PPD,Pevonedistat-2001,05005,,Brazil,hospital das clinicas da faculdade de medicina de ribeirão preto  usp,são paulo,ribeirao preto,14048900,,avenida bandeirantes 3900campus universitário
+2791,CDM,PPD,HOS,1-CJ7BLZ,,Brazil,hospital das clinicas da faculdade de medicina de ribeirão preto  usp,são paulo,ribeirão preto,14048900,,avenida bandeirantes 3900unidade de pesquisa clínica
+2795,CDM,IQVIA,161403,561,1-38BCFJX,Brazil,hospital das clínicas fmrpusp,ribeirão preto,sao paulo,14048900,,campus universitario sn – monte alegrecampus universitário monte alegre
+2797,CDM,PPD,Ponatinib-1501,1-5Z6Y0I8,,Brazil,hospital das clinicas da faculdade de medicina de ribeirão preto  usp,são paulo,ribeirão preto,14051140,,rua tenente catão roxo 2701  monte alegre  campus universitáriobloco 3 subsolo
+2798,CDM,PPD,SHP611-201,1-3JQ1K4J,,Brazil,faculdade de medicina centro universitário estácio de ribeirão preto,são paulo,ribeirão preto,14096160,,rua abrahão issa halach 980
+2799,CDM,PPD,Pevonedistat-3001,1-16Q6D3R,,Brazil,fundação pio xii,são paulo,barretos,14780070,,rua 20 221pavilhão edson  hudson2º andar
+2800,CDM,PPD,C16021,05113,,Brazil,fundação pio xii,são paulo,barretos,14784400,,rua antenor duarte vilela 1331pavilhão edson  hudson2º andar
+2803,CDM,PPD,Ponatinib-1501,05006,,Brazil,fundação pio xii hospital de câncer de barretos,são paulo,barretos,14784400,,cancer de barretos r antenor duarte villela 1331doutor paulo pratabarretos  sp
+2805,CDM,PPD,TAK-788-3001,05002,,Brazil,fundação pio xii hospital de câncer de barretos,são paulo,barretos,14784400,,rua antenor duarte vilela 1331
+2810,CDM,IQVIA,C25004,05006,1-30EW7QP,Brazil,hospital de câncer de barretos  fundação pio xii,barretos,sao paulo,14784400,,rua antenor duarte villela 1331bairro dr paulo prata
+2811,CDM,PPD,SHP647-302,1-16DO4MK,,Brazil,kaiser hospital dia,são paulo,são josé do rio preto,15015110,,rua xv de novembro 3975redentora
+2818,CDM,IQVIA,MLN0002SC-3027,5006,1-1VXYU2L,Brazil,fundação faculdade regional de medicina de são josé  do rio preto,sao jose do rio preto,sao paulo,15090000,,av brigadeiro faria lima2º andar centro integrado de pesquisa
+2819,CDM,IQVIA,MLN0002SC-3030,05006,1-25UIBLM,Brazil,fundação faculdade regional de medicina de são josé  do rio preto,são josé do rio preto,sao paulo,15090000,,avenida brigadeiro faria nbsp lima 5544 2º andarvila sao pedro
+2821,CDM,PPD,TAK-007-2001,1-8H77SY3,,Brazil,fundação faculdade regional de medicina de são josé do rio preto,são paulo,são josé do rio preto,15090000,,avenida brigadeiro faria lima 5546vila são josé
+2822,CDM,PPD,C16021,05110,,Brazil,hospital de base da faculdade de medicina de são josé do rio preto,são paulo,são josé do rio preto,15090000,,avenue brigadeiro faria lima 55442º andar
+2824,CDM,PPD,SHP620-302,1-24OGNPL,,Brazil,hospital amaral carvalho,são paulo,jau,17201340,,rua das palmeiras 122
+2825,CDM,PRA,Ponatinib-3001,05001,1-1L9OCJ6,Brazil,fundacao doutor amaral carvalho,sao paulo,jau,17210080,,rua dona silvria 150
+2826,CDM,PPD,C16029,1-YWTNIG,,Brazil,hospital amaral carvalho,são paulo,jaú,17210080,,rua dona silvéria 150
+2832,CDM,PPD,C16021,1-8DPXIA,,Brazil,centro de estudos e pesquisas oncológicas de sorocaba ltda,são paulo,sorocaba,18030075,,rua cônego januário barbosa 238
+2834,CDM,PPD,C16021,1-9L331I,,Brazil,centro de estudos e pesquisas oncológicas de sorocaba ltda,são paulo,sorocaba,18030510,,rua dos andradas 23
+2835,CDM,PPD,SHP647-301,1-XFETNA,,Brazil,clínica são francisco,são paulo,sorocaba,18095450,,avenida são francisco 78 jardim santa rosália
+2837,CDM,IQVIA,MLN0002SC-3030,05009,1-25UJNQD,Brazil,unesp  faculdade de medicina da universidade estadual paulista  campus botucatu,botucatu,sao paulo,18618970,,distrito de rubião junior sn
+2839,CDM,PPD,TAK-007-2001,1-9ZXTRVK,,Brazil,universidade estadual paulista julio de mesquita filho faculdade de medicina campus de botucatu,são paulo,botucatu,18618970,,avenida bento lopesjardim santo inácio rubião juniorsão paulo  sp
+2841,CDM,PPD,SHP647-305,1-XE0L9J,,Brazil,santa casa de misericórdia do rio de janeiro,rio de janeiro,rio de janeiro,20020020,,rua santa luzia 206 14a enfermaria  urologia castelo
+2843,CDM,PPD,Pevonedistat-2001,05002,,Brazil,hemorio  unidade de pesquisa clínica,rio de janeiro,rio de janeiro,20211030,,rua frei caneca 08
+2847,CDM,IQVIA,C25004,05008,1-2X6DYTL,Brazil,inca  instituto nacional de câncer,rio de janeiro,rio do janeiro,20230130,,praça da cruz vermelha 23centro
+2848,CDM,PPD,TAK-788-3001,05004,,Brazil,instituto nacional de câncer,rio de janeiro,rio de janeiro,20231050,,rua andré cavalcante numero 37 centro
+2852,CDM,IQVIA,MLN0002SC-3030,05002,1-25UIBC3,Brazil,hugg  hospital universitário gaffrée e guinle,rio de janeiro,rio do janeiro,20270004,,rua mariz e barros 775tijuca
+2854,CDM,PPD,C16029,1-YWVA6X,,Brazil,inca instituto nacional de cancer,rio de janeiro,rio de janeiro,2030051,,praca da cruz vermelha 23ambulatorio de oncologia clinica
+2855,CDM,PPD,SHP647-306,1-1Z8OM7N,,Brazil,hospital universitário pedro ernesto,rio de janeiro,rio de janeiro,20551030,,avenida 28 de setembro 77departamento de cardiologia2° andar
+2857,CDM,PPD,SHP647-301,301-052,,Brazil,universidade federal do rio de janeiro hospital universitário clementino fraga filho,rio de janeiro,rio de janeiro,21941590,,rua voluntários da pátria 455 sala 1410
+2859,CDM,PPD,NSMM-5001,05003,,Brazil,hospital universitário clementino fraga filho ufrj,rio de janeiro,rio de janeiro,21941913,,rua professor rodolpho paulo rocco 255
+2860,CDM,PPD,C16011,05004,,Brazil,hospital universitário clementino fraga filho ufrj,rio de janeiro,rio de janeiro,21941913,,rua professor rodolpho paulo rocco 255servico de hematologia
+2861,CDM,IQVIA,MLN0002SC-3030,05010,1-25UJRQ2,Brazil,hucffufrj  hospital universitário clementino fraga filho  universidade federal do rio de janeiro,rio de janeiro,rio do janeiro,21941913,,rua rodolpho paulo roco 255cidade universitária  ilha do fundão
+2863,CDM,PPD,Pevonedistat-3001,05004,,Brazil,universidade federal do rio de janeiro  ufrj,rio de janeiro,rio de janeiro,21941913,,rua professor rodolpho paulo rocco 255
+2865,CDM,PPD,C16019,05901,,Brazil,universidade federal do rio de janeiro  ufrj,rio de janeiro,rio de janeiro,21941913,,rua professor rodolpho paulo rocco 255servico de hematologia
+2867,CDM,PPD,SHP611-201,1-3SGJNQC,,Brazil,instituto fernandes figueira,rio de janeiro,rio de janeiro,22250020,,avenida rui barbosa 716departamento de geneticabloco c
+2868,CDM,PPD,TAK-007-2001,1-8H77SSH,,Brazil,centro de tratamento de tumores botafogo – cttb,rio de janeiro,rio de janeiro,22250040,,praia botafogo 300 4° andarbotafogorio de janeiro  rj
+2869,CDM,PPD,SHP647-303,303-052,,Brazil,universidade federal do rio de janeiro hospital universitário clementino fraga filho,rio de janeiro,rio de janeiro,22270000,,rua voluntários da pátria 455 sala 1410
+2874,CDM,PPD,SHP647-305,305-056,,Brazil,bioclinica rio  ppds,rio de janeiro,rio de janeiro,22271100,,rua mena barreto 33botafogo
+2876,CDM,PPD,SHP647-305,1-43M3EIV,,Brazil,ccbr brasil,rio de janeiro,rio de janeiro,22271100,,rua mena barreto 33departamento de cardiologia2° andar
+2880,CDM,PPD,C16021,1-8DPXKG,,Brazil,associação centro de estudos oncoclínica ceo,rio de janeiro,rio de janeiro,22640000,,avenida armando lombardi 1000  barra da tijucasala 230 bloco 1
+2881,CDM,IQVIA,161403,563,1-38DDDFS,Brazil,huap  uff  hospital universitario antonio pedro  universidade federal fluminense,niterói,rio do janeiro,24033900,,rua marquês de paraná 303  4º andarcentro
+2883,CDM,PRA,Ponatinib-3001,05005,1-1KD4OSW,Brazil,eurolatino juiz de fora pesquisas medicas,minas gerais,juiz de fora,26033318,,avenida presidente itamar franco 4001sala 803  torre lestecascatinha
+2884,CDM,PPD,DEN-301,2112,,Brazil,universidade federal do espirito santo – hospital universitário cassiano antônio de moraes – hucam,espírito santo,vitoria,29040091,,avenida marechal campos 1468nucleo de doenças infecciosas cbm
+2885,CDM,PPD,SHP647-307,307-049,,Brazil,cedoes diagnóstico e pesquisa,espírito santo,vitória,29055450,,rua joão da silva abreu 78  praia do canto pesquisa clínica
+2892,CDM,PPD,TAK-788-3001,05008,,Brazil,cenantron centro avançado de tratamento oncológico ltda,minas gerais,belo horizonte,30130090,,rua padre rolim 120 santaefigênia
+2893,CDM,PPD,SHP620-302,1-24OGNRC,,Brazil,hospital das clinicas da ufmg,minas gerais,belo horizonte,30130100,,av professor alfredo balena 110ala leste
+2894,CDM,PPD,C16021,05103,,Brazil,hospital das clinicas da ufmg,minas gerais,belo horizonte,30130100,,avenida prof alfredo balena 110216
+2895,CDM,PPD,TAK-007-2001,1-8H77SS5,,Brazil,hospital das clinicas da universidade federal de minas gerais,minas gerais,belo horizonte,30130100,,avenida alfredo balena 190 departamento de doencas infecciosas east parasitariascentrobelo horizonte  mg
+2899,CDM,PPD,Pevonedistat-2001,1-D87NA3,,Brazil,universidade federal de minas gerais,minas gerais,belo horizonte,30130100,,av alfredo balena no 110centro de pesquisas do hospital
+2900,CDM,PPD,Ponatinib-1501,1-5VW1SEQ,,Brazil,santa casa de misericordia de belo horizonte,minas gerais,belo horizonte,30150221,,avenida francisco sales 1111
+2905,CDM,IQVIA,C25004,05010,1-48491XO,Brazil,santa casa de misericórdia de belo horizonte,belo horizonte,minas gerais,30150221,,avenida francisco sales 1111santa efigênia
+2906,CDM,PPD,Pevonedistat-3001,1-16Q6D10,,Brazil,hematologica clinica de diagnostico e tratamento de doencas do sangue,minas gerais,belo horizonte,30150270,,rua otoni numero 881 15º andar
+2909,CDM,PPD,Pevonedistat-2001,1-EPODJK,,Brazil,hospital das clinicas da universidade federal de minas gerais,minas gerais,belo horizonte,30150281,,avenida bernardo monteiro 918
+2912,CDM,PPD,TAK-788-3001,1-5M93JRQ,,Brazil,instituto mario penna,minas gerais,belo horizonte,30380472,,rua gentios nº 1350
+2916,CDM,PPD,TAK-007-2001,1-958D99U,,Brazil,universidade federal de juiz de fora,minas gerais,juiz de fora,36060210,,rua heitor guimarãesvitorino braga
+2917,CDM,PPD,TAK-007-2001,1-8H77SYR,,Brazil,centro oncológico do triângulo ltda,minas gerais,uberlândia,38408150,,avenida anselmo alves dos santos 900segismundo pereirauberlândia  mg
+2918,CDM,PPD,C16021,1-8DPXOS,,Brazil,santa casa de misericórdia da bahia,bahia,salvador,40050410,,praça conselheiro almeida couto 500serviço de oncologia adulto
+2919,CDM,PPD,HOS,108,,Brazil,universidade federal da bahia hospital universitário professor edgard santos,bahia,salvador,40110060,,rua augusto viana snserviço de genética médica3º andar
+2921,CDM,PPD,NSMM-5001,05009,,Brazil,cehon  centro de hematologia e oncologia da bahia ltda,bahia,salvador,40110150,,avenida araújo pinho 439
+2925,CDM,PPD,SHP647-302,1-16ECA89,,Brazil,hospital universitario prof edgar santos,bahia,salvador,40110160,,rua augusto viana sn canela3ºandar
+2927,CDM,PPD,TAK-788-3001,05005,,Brazil,nucleo de oncologia da bahia,bahia,salvador,40170110,,avenida adhemar de barros 123 edf gildete lessaondina
+2928,CDM,PPD,C16021,1-8AZ8PV,,Brazil,hospital jorge valente,bahia,bahia,40170130,,avenida garibaldi 2229loja 2
+2929,CDM,PPD,C16021,1-8DPXSN,,Brazil,hospital aristides maltez liga bahiana contra o câncer,bahia,salvador,40285001,,avenida d joão vi 332 brotascentro médico iguatemisuites 409410
+2930,CDM,PPD,DEN-301,2116,,Brazil,associação obras sociais irmã dulce hospital santo antônio,bahia,salvador,40420000,,avenida bonfim 161centro de pesquisa clínica
+2931,CDM,PRA,Ponatinib-3001,05003,1-1KD233M,Brazil,hospital sao rafaelmonte tabor,bahia,salvador,41253,,avenida sao rafael 2152
+2932,CDM,ICON,C25003,,3993,Brazil,hospital sao rafael,bahia,salvador,41253190,,av sao rafael 2152 03 subsolo
+2934,CDM,PPD,SHP647-303,303-051,,Brazil,hospital são rafael,bahia,salvador,41253190,,avenida são rafael 2152departamento de neurologia3ºandar
+2938,CDM,PPD,C16021,1-8JDW12,,Brazil,hospital são rafael,bahia,salvador,41253190,,avenida são rafael 21526º andar
+2942,CDM,IQVIA,C25004,05005,1-2XVM2RN,Brazil,hospital são rafael sa,salvador,bahia,41253190,,avenida são rafael 2152 6º andarsão marcos
+2943,CDM,PPD,TAK-788-3001,1-5HWZ0TG,,Brazil,clinica amo,bahia,salvador,41950610,,rua conselheiro pedro luiz 189 rio vermelho
+2944,CDM,IQVIA,C25004,05009,1-48491RV,Brazil,imip  instituto de medicina integral professor fernando figueira,recife,pernambuco,50070550,,rua dos coelhos 300boa vista
+2945,CDM,PPD,TAK-788-3001,1-5I6W6ID,,Brazil,instituto de ensino e pesquisa alberto ferreira da costa,pernambuco,recife,52010040,,avenue governador agamenon magalhães 4760  paissandu
+2946,CDM,PPD,C16019,05905,,Brazil,hospital das clínicas da faculdade de medicina da universidade de são paulo,são paulo,são paulo,5403000,,avenida dr eneas de carvalho aguiar 155
+2949,CDM,PPD,HOS,109,,Brazil,hospital universitario uncisal,alagoas,maceió,57010382,,rua doutor jorge de lima 113 trapiche da barra
+2950,CDM,PPD,DEN-301,2113,,Brazil,centro de pesquisas clínicas de natal,rio grande do norte,natal,59025050,,rua ponciano barbosa 282
+2951,CDM,PPD,C16029,1-111ZH6L,,Brazil,liga norte riograndense contra o cancer,rio grande do norte,natal,59040150,,avenida miguel castro 1355 dixsept rosado
+2952,CDM,PPD,Pevonedistat-3001,05005,,Brazil,liga norte riograndense contra o cancer,rio grande do norte,natal,59075740,,avenida miguel castro 1355dixtsept rosado 1355natal  rn
+2953,CDM,PPD,TAK-788-3001,05011,,Brazil,liga norte riograndense contra o cancer,rio grande do norte,natal,59075740,,avenida miguel castro 1355
+2955,CDM,PPD,Pevonedistat-2001,05003,,Brazil,hospital unversitario walter cantidio,ceará,fortaleza,60430370,,rua capitão franciscon pedro sn
+2956,CDM,PRA,SYR-322_309,05002,1-1FKIFXA,Brazil,instituto de estudos e pesquisas clinicas do ceara,ceara,fortaleza,60160230,,avenida dom lus 12337 andar  sala 710meireles
+2957,CDM,PPD,Pevonedistat-3001,1-16Q6D33,,Brazil,hospital unversitario walter cantidio,ceará,fortaleza,60175270,,rua manoel jesuino 974 varjota
+2958,CDM,PPD,HOS,112,,Brazil,hospital infantil albert sabin,ceará,fortaleza,60410790,,rua tertuliano sales 544 village union clinical research unit federal university of ceara
+2959,CDM,PPD,C16021,1-8DPXNQ,,Brazil,instituto do câncer do ceará icc,ceará,fortaleza,60430230,,rua papi junior 12224º andarrodolfo teófilo
+2963,CDM,PRA,Vedolizumab-3035,05007,1-1LC82SG,Brazil,hospital universitario walter cantidio  universidade federal do ceara,ceara,fortaleza,60430380,,rua capito francisco pedro 1290unidade de pesquisa clnica
+2964,CDM,PPD,TAK-788-3001,1-5HMK9C5,,Brazil,suporte nutricional e quimioterapia ltda  pronutrir,ceará,fortaleza,60810180,,rua atilano de moura 530 guararapes
+2965,CDM,PPD,C16021,1-8AZ8QF,,Brazil,associação piauiense de combate ao câncer,piauí,teresina,64001160,,rua olavo bilac 2300
+2966,CDM,PPD,SHP647-307,1-16DG2W9,,Brazil,hospital são marcos,piauí,teresina,64001160,,rua olavo bilac 2300
+2973,CDM,PRA,SYR-322_309,05005,1-1FKIFVS,Brazil,hospital universitario joao de barros barreto,para,belem,66073005,,rua dos mundurucus 4487guam  consultrio 02 east 031 andar
+2974,CDM,PPD,TAK-007-2001,1-95Y1ZOG,,Brazil,hospital sírio libanês – brasília,distrito federal,brasília,70200730,,quadra sgas 613 614lot 95 conj easa sul
+2975,CDM,PPD,SHP647-306,1-1Z8OM9G,,Brazil,bioclinica brasília  ppds,distrito federal,brasilia,70200740,,sgas 613614 lote 95 l2centro medicohospitalar 210
+2976,CDM,PPD,SHP647-307,307-055,,Brazil,l2 ip  instituto de pesquisas clinicas ltda  me,distrito federal,brasília,70306000,,sgas 613conjunto ehospitalar 210
+2981,CDM,PPD,Pevonedistat-3001,1-16Q6D4S,,Brazil,hospital de base do df universidade católica de brasília,distrito federal,brasilia,70374040,,hepatologia squares 111 bloco d asa suledificio de clínicas 12 andar
+2982,CDM,PPD,C16019,1-2NG5SR,,Brazil,hospital santa marta,distrito federal,brasília,72025110,,área especial 01 e 17setor esector c norte
+2983,CDM,PPD,C16021,1-8JDVYB,,Brazil,instituto do câncer brasil,distrito federal,taguatinga,72100150,,rua qna 15 lote 15
+2984,CDM,PPD,Pevonedistat-2001,1-DD5R36,,Brazil,hospital de base do df universidade católica de brasília,distrito federal,brasília,72115610,,lote 07cettro centro de câncer de brasília
+2985,CDM,PPD,SHP647-305,1-XEX55Y,,Brazil,hospital geral de goiânia,goiás,goiânia,74110120,,rua 9b com avenue b n° 129 setor oeste sala 804 8° andar centro médico saulo lopes de moraes
+2987,CDM,IQVIA,MLN0002SC-3031,05001,1-1VY08D5,Brazil,instituto goiano de gastroenterologia e endoscopia digestiva ltda,goiânia,goiás,74535170,,rua 246 25coimbra
+2989,CDM,PPD,SHP647-307,307-041,,Brazil,instituto goiano de gastroenterologia e endoscopia digestiva ltda,goiás,goiânia,74535170,,rua 246 número 25 setor coimbra
+2996,CDM,PPD,DEN-301,2114,,Brazil,universidade federal de goias,goiás,goiania,74605,,setor leste universitario 1avenida sn
+2997,CDM,PPD,C16021,05109,,Brazil,hospital das clínicas da universidade federal de goiás,goiás,goiania,74605020,,primeira avenida 545setor universitario
+3002,CDM,PPD,C16021,1-8DL6VB,,Brazil,hospital araujo jorge,goiás,goiania  go,74605070,,rua 239 181setor universitário
+3003,CDM,PPD,C16029,1-YWTNGC,,Brazil,hospital das clinicas de goiânia,goiás,goiania,74680160,,alameda das espatodias qd 44 lt 9setor leste universitário
+3005,CDM,PPD,DEN-301,2115,,Brazil,universidade federal de mato grosso do sul,mato grosso do sul,campo grandems,79080190,,avenida senador filinto muller 355cidade universitária
+3006,CDM,PPD,C16019,05912,,Brazil,hospital de clínicas da universidade federal do paraná,paraná,curitiba,80060900,,rua general carneiro 181 11 andar sala 1141
+3007,CDM,PPD,TAK-007-2001,1-9HG82WP,,Brazil,hospital de clínicas ufpr,paraná,curitiba,80060900,,rua general carneiro 181alto da glóriacuritiba  pr
+3008,CDM,PPD,SHP647-306,1-16DOY60,,Brazil,cdc  centro digestivo de curitiba,paraná,curitiba,80430180,,alameda dr carlos de carvalho 655 sala 603
+3015,CDM,PRA,Vedolizumab-3035,05003,1-1LT56MO,Brazil,instituto do cancer e transplante de curitiba,parana,curitiba,80510130,,rua myltho anselmo da silva 870
+3016,CDM,PPD,C16021,1-8DL6VV,,Brazil,instituto de oncologia do paraná,paraná,curitiba,80530010,,rua mates leme 2631b centro cívico centro de pesquisa
+3019,CDM,PPD,TAK-981-1502,05008,,Brazil,instituto de oncologia do paraná,paraná,curitiba,80530010,,rua mateus leme 2626b  bairro centro cívico
+3021,CDM,IQVIA,161403,562,1-38NE78C,Brazil,instituto de neurologia de curitiba  hospital ecoville,curitiba,paraná,81210310,,rua jeremias maciel perretto 300
+3023,CDM,PRA,Ponatinib-3001,05011,1-1KD237U,Brazil,hospital erasto gaertner,parana,curitiba,81520060,,rua doctor ovande do amaral 201jardim das amricas
+3025,CDM,ICON,C25003,,87415,Brazil,hospital erasto gaertner liga paranaense de combate ao cã¢ncer,parana,curitiba,81520060,,jardim das americas
+3026,CDM,PPD,TAK-007-2001,1-8H77SWT,,Brazil,liga paranaense de combate ao cancer  hospital erasto gaertner,paraná,curitiba,81520060,,rua doutor ovande do amaral 201liga paranaense de combate ao cancerjardim das américas
+3027,CDM,PPD,Pevonedistat-3001,05006,,Brazil,liga paranaense de combate ao cancer  hospital erasto gaertner,paraná,curitiba,81520060,,rua doutor ovande do amaral 201
+3034,CDM,PPD,TAK-981-1502,1-7BH0PPJ,,Brazil,instituto do cancer delondrina,paraná,londrina,86 015 520,,lucilla ballalai 212  ld petropolis unidade de pesquisa clinica
+3035,CDM,IQVIA,161403,566,1-4JHLBSP,Brazil,n3 clinica de neurologia neurocirurgia e neuropediatria de londrina ltda,londrina,paraná,86015070,,rua julio estrela moreira 550bairro canaa
+3036,CDM,PPD,C16021,1-8DPXPC,,Brazil,proonco centro de tratamento oncológico,paraná,londrina,86050190,,avenida adhemar pereira de barros 679
+3037,CDM,PPD,SHP647-307,1-16EGKMT,,Brazil,instituto de medicina do sistema digestivo ilha de santa catarina,santa catarina,santa catarina,88020210,,rua menino deus 63 salas 507508
+3044,CDM,PPD,C16021,1-CZOBDH,,Brazil,centro de pesquisas oncológicas,santa catarina,florianópolis,88034000,,rodovia admar gonzaga 655  sc 404  km 05
+3047,CDM,PPD,NSMM-5001,05010,,Brazil,centro de pesquisas oncológicas,santa catarina,florianopolis,88034000,,rodovia admar gonzaga 655
+3052,CDM,PPD,TAK-007-2001,1-8H77SXG,,Brazil,clinica de neoplasias litoral,santa catarina,itajaí,88301220,,rua aderbal ramos da silvaoncologia 148itajaí  sc
+3053,CDM,PPD,TAK-788-3001,1-507A425,,Brazil,clinica de oncologia reichow,santa catarina,blumenau,89010340,,90 sebastiao cruzcentro de pesquisas
+3054,CDM,PPD,C16021,05120,,Brazil,instituto joinvilense de hematologia e oncologia,santa catarina,joinville,89201260,,rua alexandre dohler 129
+3056,CDM,PPD,C16029,1-111ZH5J,,Brazil,instituto joinvilense de hematologia e oncologia,santa catarina,joinville,89201260,,rua alexandre dohler 129 conjunto 706
+3060,CDM,PPD,SHP647-301,1-XE1CPU,,Brazil,centro de pesquisas clínicas de joinville cepeville,santa catarina,joinville,89202050,,rua placido gomes 500parte anita garibaldi de joinvillecepeville
+3062,CDM,PPD,C16021,1-8DL6WE,,Brazil,hospital municipal são josé,santa catarina,joinville,89202050,,rua plácido gomes 488sala 1005
+3063,CDM,PPD,Ponatinib-1501,05004,,Brazil,irmandade da santa casa de misericordia de porto alegre,rio grande do sul,porto alegre,90020090,,rua professor annes dias 285
+3064,CDM,PPD,C16019,05907,,Brazil,hospital moinhos de vento,rio grande do sul,porto alegre,90035001,,ramiro barcelos 910
+3067,CDM,ICON,HGT-MLD-071,,5651,Brazil,hospital de clã­nicas de porto alegre,rio grande do sul,porto alegre,90035003,,grupo de pesquisa clinica em genetica medicarua ramiro barcelos 2350centro de pesquisa clínica 6º andar sala 21615
+3069,CDM,PPD,NSMM-5001,05006,,Brazil,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035003,,r  ramiro barcelos  2350urology
+3071,CDM,PPD,SHP611-201,018,,Brazil,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035003,,rua ramiro barcelos 2350
