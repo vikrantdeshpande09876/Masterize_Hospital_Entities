@@ -4,15 +4,20 @@ SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_I
 19210,CDM,PRA,Vedolizumab-3035,58035,1-1OQXJQS,United_States,medical university of south carolina,sc,charleston,29425,,135 rutledge avenue
 19211,CDM,PRA,MLN0002-2003,58014,1-1BUZ1G1,United_States,medical university of south carolina,sc,charleston,29425,,135 rutledge avenuemail stop code 561
 19213,CDM,ICON,C25003,,87092,United_States,medical university of south carolina,south carolina,charleston,29425,,173 ashley ave
+19214,CDM,PPD,MLN0002-3024,1-7M6NFJG,,United_States,medical university of south carolina  crs,south carolina,charleston,29425,,135 rutledge avemsc 561
 19217,CDM,PPD,C16010,58014,,United_States,medical university of south carolina  hollings cancer center  ppds,south carolina,charleston,29425,,96 jonathan lucas street
+19221,CDM,PPD,P2002,1-5J4N4R4,,United_States,medical university of south carolina  ppds,south carolina,charleston,29425,,86 jonathan lucas street
 19225,CDM,PPD,SHP647-305,1-24UHI2B,,United_States,medical university of south carolina  ppds,south carolina,charleston,29425,,96 jonathan lucas streetclinical science buildingsuite 210 pob250327
 19233,CDM,IQVIA,AskBio009-101,17,1-1YARF4O,United_States,medical university of south carolina musc,charleston,south carolina,29425,,96 jonathan lucas blvdsuite 812 csb msc 630
 19236,CDM,IQVIA,TAK-994-1501,58041,1-52TFOHA,United_States,medical university of south carolina musc,charleston,south carolina,29425,,96 jonathan lucas streetcsb 816 msc 630
 19242,CDM,PPD,Brigatinib-1003,1-6185E6J,,United_States,medical university of south carolina children hospital  pin,south carolina,charleston,29425,,135 rutledge ave
+19245,CDM,PPD,SHP620-303,001,,United_States,medical university of south carolina childrens hospital  pin,south carolina,charlesto,29425,,96 jonathan lucas streetclinical science bluiding409
 19248,CDM,IQVIA,TAK-101-2001,58001,1-4Z3EVD1,United_States,musc department of gastroenterology,charleston,south carolina,29425,,25 courtenay drivesuite 7019
 19249,CDM,PPD,TAK-007-2001,1-DE6Q2CF,,United_States,medical university of south carolina  hollings cancer center  ppds,south carolina,charleston,294258900,,96 jonathan lucas sthollings cancer centersuite 251
+19250,CDM,PPD,TAK-981-1503,1-COG9XW2,,United_States,medical university of south carolina  hollings cancer center  ppds,south carolina,charleston,294258900,,96 jonathan lucas st
 19255,CDM,PPD,SHP647-305,1-114L1DW,,United_States,coastal carolina research center,south carolina,mount pleasant,29464,,1156 bowman roadsuite 102
 19258,CDM,PPD,SHP465-308,133,,United_States,coastal pediatric associates,south carolina,mt pleasant,29464,,1952 long grove drive
+19259,CDM,PPD,C16014,1-E7UQH,,United_States,low country hematology and oncology,south carolina,mount pleasant,29464,,900 bowman roadsuite 103
 19263,CDM,PPD,SHP647-305,1-12S97P9,,United_States,pmg research of charleston llc,south carolina,mount pleasant,29464,,180 wingo way
 19265,CDM,PPD,TAK-981-1503,1-D42TQUL,,United_States,medical university of south carolina  ppds,south carolina,mount pleasant,294643771,,1600 midtown ave
 19266,CDM,PPD,SHP647-306,1-1670VXR,,United_States,florence gastroenterology,south carolina,florence,29506,,901 e cheves streetsuite 430
@@ -34,27 +39,30 @@ SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_I
 19314,CDM,PPD,Pevonedistat-2001,58007,,United_States,greenville health system,south carolina,greenville,29615,,65 international drive
 19059,CDM,PPD,C16014,1-HFD4Z,,United_States,new bern cancer care,north carolina,new bern,28560,,1915 trent boulevard
 19060,CDM,PPD,SHP647-307,1-15VSGE7,,United_States,southern gastroenterology associates,north carolina,new bern,28562,,3100 wellons boulevard
-19323,CDM,PPD,SHP647-305,1-109773B,,United_States,anmed health,south carolina,anderson,29621,,2000 east greenville streetsuite 2900
+19316,CDM,PPD,P2002,1-5J5URLO,,United_States,greenville health system cancer institute,south carolina,greenville,29615,,65 international drive
+19320,CDM,PPD,SHP621-301,301-162,,United_States,greenville hospital system,south carolina,greenville,29615,,200 patewood drivesuite a140
 19067,CDM,PPD,C16014,1-DX4HQ,,United_States,eastern carolina internal medicine pa,north carolina,pollocksville,28573,,137 medical lane
-19325,CDM,PPD,SHP647-301,1-ZWUD4A,,United_States,manjakkollai p veerabagu md,south carolina,anderson,29621,,130 perpetual square
+19323,CDM,PPD,SHP647-305,1-109773B,,United_States,anmed health,south carolina,anderson,29621,,2000 east greenville streetsuite 2900
 19069,CDM,IQVIA,TAK-994-1501,58037,1-52MHIK1,United_States,research carolina elite llc,hickory,north carolina,28601,,36 14th avenue ne suite 103suite 250
+19325,CDM,PPD,SHP647-301,1-ZWUD4A,,United_States,manjakkollai p veerabagu md,south carolina,anderson,29621,,130 perpetual square
 19071,CDM,PPD,C16029,1-YQMPVL,,United_States,carolina oncology specialists pa,north carolina,hickory,28602,,225 18th street southeast
 19328,CDM,PPD,TAK665-4003,1-GO0XDD7,,United_States,greenwood genetic  center,south carolina,greenwood,296462315,,106 gregor mendel cir
 19072,CDM,PPD,C16014,1-CLBG6,,United_States,carolina oncology specialists pa,north carolina,hickory,28602,,2406 century place southeast
 19074,CDM,PPD,TAK-071-2002,1-B8X39XI,,United_States,neurology associates,north carolina,hickory,286021433,,1985 tate blvd se ste 600
-19329,CDM,PPD,SHP647-301,1-114L1LK,,United_States,hillcrest clinical research llc,south carolina,simpsonville,29681,,717 southeast main streetsuite b
 19075,CDM,PPD,SHP647-305,1-114L1PQ,,United_States,medispect llc,north carolina,boone,28607,,870 state farm road
-19331,CDM,PPD,SHP647-304,1-2UEZ0BI,,United_States,catawba gastroenterology,south carolina,lancaster,29720,,108 healthcare dr
+19329,CDM,PPD,SHP647-301,1-114L1LK,,United_States,hillcrest clinical research llc,south carolina,simpsonville,29681,,717 southeast main streetsuite b
 19077,CDM,PPD,SHP647-306,1-25THN67,,United_States,piedmont healthcare,north carolina,statesville,28625,,208 old mocksville roadnorthlake digestive caresuite b
+19331,CDM,PPD,SHP647-304,1-2UEZ0BI,,United_States,catawba gastroenterology,south carolina,lancaster,29720,,108 healthcare dr
 19338,CDM,PPD,C16014,1-HHSVE,,United_States,tri county oncology,south carolina,rock hill,29732,,1583 health care drive
 19340,CDM,PPD,SHP465-308,159,,United_States,rainbow research inc,south carolina,barnwell,29812,,71 trebor road
 19341,CDM,PPD,C16021,1-8IWLIX,,United_States,south carolina cancer specialists,south carolina,hilton head island,29926,,45 hospital center common
 19084,CDM,PPD,SHP647-305,1-111XYI6,,United_States,statesville research institute,north carolina,statesville,28625,,208 old mocksville road
 19086,CDM,PPD,SHP647-301,1-1113EUT,,United_States,burke research associates,north carolina,rutherford college,28671,,560 malcolm boulevard
 19344,CDM,PPD,P2002,1-5J4N4LI,,United_States,agile clinical research trials llc,georgia,alpharetta,30022,,10945 state bridge rd
-19342,CDM,PPD,SHP647-305,1-ZWZNLY,,United_States,east atlanta gastroenterology associates,georgia,conyers,30012,,1269 wellbrook circle ne
 19088,CDM,PPD,SHP647-304,304-406,,United_States,piedmont healthcare,north carolina,statesville,28677,,633 brookdale drive
+19342,CDM,PPD,SHP647-305,1-ZWZNLY,,United_States,east atlanta gastroenterology associates,georgia,conyers,30012,,1269 wellbrook circle ne
 19345,CDM,PPD,SHP647-305,1-109771X,,United_States,advanced gastroenterology associates llc,georgia,suwanee,30024,,4275 johns creek parkwaysuite a
+19347,CDM,PPD,SHP647-301,1-XFETV3,,United_States,atlanta gastroenterology specialists pc,georgia,suwanee,30024,,4395 johns creek parkwaysuite 130
 19093,CDM,PPD,SHP647-302,1-2UFOETM,,United_States,gastrointestinal medicine associates,rhode island,wakefield,2879,,360 kingstown rd suite 202
 19349,CDM,PPD,SHP647-304,304-764,,United_States,atlanta gastroenterology specialists pc,georgia,suwanee,30024,,4395 johns creek parkway
 19354,CDM,IQVIA,MLN0002SC-3031,58016,1-1SHCG45,United_States,atlanta gastroenterology specialists pc,suwanee,georgia,30024,,4395 johns creek parkwaysuite 130
@@ -69,14 +77,15 @@ SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_I
 19371,CDM,PPD,HOS,049,,United_States,emory university school of medicine,georgia,atlanta,30033,,1365 clifton roadbuilding bsuite 301
 19372,CDM,PPD,GOS,107,,United_States,emory university school of medicine,georgia,decatur,30033,,2165 north decatur roaddepartment of human geneticssuite 301
 19374,CDM,PPD,SHP647-305,1-1117TST,,United_States,soapstone center for clinical research,georgia,decatur,30034,,4201 rainbow drive
-19375,CDM,PPD,SHP647-301,1-ZH2G1G,,United_States,atlanta gastroenterology associates,georgia,cumming,30041,,1505 northside boulevardsuite 2000a0118 mcn
+19118,CDM,PPD,Brigatinib-1002,1-618BAS0,,United_States,secu cancer center,north carolina,asheville,28801,,21 hospital drive
 19120,CDM,PPD,TAK-071-2002,1-65RA3A9,,United_States,asheville neurology specialists pa,north carolina,asheville,28806,,1200 ridgefield boulevardsuite 250
 19121,CDM,PPD,SHP647-305,1-43I9SA6,,United_States,care access research,rhode island,warwick,2886,,215 toll gate roadsuite 309
+19375,CDM,PPD,SHP647-301,1-ZH2G1G,,United_States,atlanta gastroenterology associates,georgia,cumming,30041,,1505 northside boulevardsuite 2000a0118 mcn
 19377,CDM,PPD,SHP647-304,1-24OSZF8,,United_States,gi north,georgia,cumming,30041,,1505 northside boulevardsuite 1800
 19128,CDM,PPD,Brigatinib-1003,1-61FGWEZ,,United_States,hasbro childrens hospital,rhode island,providence,2903,,593 eddy street
-19385,CDM,PPD,SHP647-306,1-166S3SD,,United_States,gastroenterology specialists of gwinnett pc,georgia,lawrenceville,30046,,721 wellness waysuite 100
-19130,CDM,PPD,Pevonedistat-1016,1-3MMO59N,,United_States,rhode island hospital,rhode island,providence,2903,,593 eddy streetgeorge building
 19384,CDM,PPD,C16029,1-YQMMI3,,United_States,suburban hematology oncology associates,georgia,lawrenceville,30045,,600 professional drivesuite 210
+19130,CDM,PPD,Pevonedistat-1016,1-3MMO59N,,United_States,rhode island hospital,rhode island,providence,2903,,593 eddy streetgeorge building
+19385,CDM,PPD,SHP647-306,1-166S3SD,,United_States,gastroenterology specialists of gwinnett pc,georgia,lawrenceville,30046,,721 wellness waysuite 100
 19133,CDM,PPD,SHP647-303,1-16743WP,,United_States,university gastroenterology llc,rhode island,providence,2904,,148 w river streetsuite 3
 19392,CDM,ICON,C25003,,86964,United_States,gwinnett hospital system inc center for cancer care ,georgia,lawrenceville,30046,,631 professional drive
 19393,CDM,PPD,TAK-079-2001,58002,,United_States,north georgia rheumatology group pc,georgia,lawrenceville,30046,,500 medical center boulevardsuite 210
