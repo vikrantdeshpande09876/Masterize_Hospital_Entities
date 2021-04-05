@@ -58,7 +58,7 @@ processDedupBatch <- function(country_df){
 
 processLinkageBatch <- function(country_df, country_df2){
   tryCatch({
-    # Generate the match-scores for n(n-1)/2 candidate-pairs using the levenshtein stringComparison algorithm. Returns a list of pair-wise scores, input dataframes, and average-frequencies of unique values.
+    # Generate the match-scores for m*n candidate-pairs using the levenshtein stringComparison algorithm. Returns a list of pair-wise scores, input dataframes, and average-frequencies of unique values.
     data_candidate_pairs_freqs=compare_linkage(country_df, country_df2, strcmp = TRUE, strcmpfun = levenshteinSim, exclude=c("SR_NUM"))
     
     # Extract the pair-wise scores and delete the entire output-list to free up RAM

@@ -1,0 +1,8 @@
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,CONCAT_ADDRESS
+20514,CDM,PPD,SHP609-302,801,,,university of miami,florida,coral gables,33146,,1320 south dixie highwayoffice of research adminisstration orabrb369
+20515,CDM,IQVIA,TED-R13-002,0540,1-2URYAO9,,university of miami ins,coral gables,florida,33146,,1320 south dixie highwaysuite 650
+20516,CDM,PPD,SHP647-301,1-11164DE,,,advanced clinical research of miami,florida,miami,33155,,7815 coral way
+20518,CDM,PRA,Zik-101,58006,1-1GIH3NY,,applemed research,fl,miami,33155,,6850 coral waysuite 409
+20520,CDM,PPD,SHP647-301,1-43HT0XK,,,la salud research clinic,florida,miami,33155,,8415 southwest 24th streetsuite 203
+20521,CDM,PPD,SHP647-301,1-6YHA3WN,,,la salud research clinic,florida,miami,33155,,8415 southwest 24th street
+20511,CDM,PPD,SHP647-301,1-10NKVL1,,,lone star research center,florida,miami,33145,,2150 coral way2nd floor

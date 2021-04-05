@@ -1,0 +1,15 @@
+SR_NUM_1,SR_NUM_2,SITE_NAME_1,SITE_NAME_2,SITE_NAME_COMPARISON_SCORE,STATE_1,STATE_2,STATE_COMPARISON_SCORE,CITY_1,CITY_2,CITY_COMPARISON_SCORE,CONCAT_ADDRESS_1,CONCAT_ADDRESS_2,CONCAT_ADDRESS_COMPARISON_SCORE,POSTAL_CODE_1,POSTAL_CODE_2,POSTAL_CODE_COMPARISON_SCORE,NUM_OF_MATCHES_FOUND
+20511,20511,Lone Star Research Center,Lone Star Research Center,1.0,Florida,Florida,1.0,Miami,Miami,1.0,2150 Coral Way2nd Floor,2150 Coral Way2nd Floor,3.0,33145,33145,1.0,7.0
+20512,20511,Lone Star Research Center,Lone Star Research Center,1.0,Florida,Florida,1.0,Miami,Miami,1.0,2150 Coral Way2nd Floor,2150 Coral Way2nd Floor,3.0,33145,33145,1.0,7.0
+20513,20511,Lone Star Research Center,Lone Star Research Center,1.0,Florida,Florida,1.0,Miami,Miami,1.0,2150 Coral Way2nd Floor,2150 Coral Way2nd Floor,3.0,33145,33145,1.0,7.0
+20514,20514,University of Miami,University of Miami,1.0,Florida,Florida,1.0,Coral Gables,Coral Gables,1.0,1320 South Dixie HighwayOffice of Research Adminisstration (ORA)BRB-369,1320 South Dixie HighwayOffice of Research Adminisstration (ORA)BRB-369,3.0,33146,33146,1.0,7.0
+20515,20515,University of Miami Ins,University of Miami Ins,1.0,Coral Gables,Coral Gables,1.0,Florida,Florida,1.0,1320 South Dixie HighwaySuite 650,1320 South Dixie HighwaySuite 650,3.0,33146,33146,1.0,7.0
+20516,20516,Advanced Clinical Research of Miami,Advanced Clinical Research of Miami,1.0,Florida,Florida,1.0,Miami,Miami,1.0,7815 Coral Way,7815 Coral Way,3.0,33155,33155,1.0,7.0
+20517,20516,Advanced Clinical Research of Miami,Advanced Clinical Research of Miami,1.0,Florida,Florida,1.0,Miami,Miami,1.0,7815 Coral Way,7815 Coral Way,3.0,33155,33155,1.0,7.0
+20518,20518,AppleMed Research,AppleMed Research,1.0,FL,FL,1.0,Miami,Miami,1.0,6850 Coral WaySuite 409,6850 Coral WaySuite 409,3.0,33155,33155,1.0,7.0
+20519,20518,Cordova Research Institute,AppleMed Research,0.0,Miami,FL,0.0,Florida,Miami,0.0,7815 Coral WaySuite 103B,6850 Coral WaySuite 409,3.0,33155,33155,1.0,4.0
+20520,20520,La Salud Research Clinic,La Salud Research Clinic,1.0,Florida,Florida,1.0,Miami,Miami,1.0,8415 Southwest 24th StreetSuite 203,8415 Southwest 24th StreetSuite 203,3.0,33155,33155,1.0,7.0
+20521,20521,La Salud Research Clinic,La Salud Research Clinic,1.0,Florida,Florida,1.0,Miami,Miami,1.0,8415 Southwest 24th Street,8415 Southwest 24th Street,3.0,33155,33155,1.0,7.0
+20522,20521,La Salud Research Clinic,La Salud Research Clinic,1.0,Florida,Florida,1.0,Miami,Miami,1.0,8415 Southwest 24th Street,8415 Southwest 24th Street,3.0,33155,33155,1.0,7.0
+20523,20520,La Salud Research Clinic,La Salud Research Clinic,1.0,Florida,Florida,1.0,Miami,Miami,1.0,8415 Southwest 24th StreetSuite 203,8415 Southwest 24th StreetSuite 203,3.0,33155,33155,1.0,7.0
+20524,20520,La Salud Research Clinic,La Salud Research Clinic,1.0,Florida,Florida,1.0,Miami,Miami,1.0,8415 Southwest 24th StreetSuite 203,8415 Southwest 24th StreetSuite 203,3.0,33155,33155,1.0,7.0

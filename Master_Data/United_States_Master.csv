@@ -1,16 +1,28 @@
 SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,CONCAT_ADDRESS
 16384,CDM,PPD,SHP647-301,1-ZX03IP,,United_States,New York GI Center,New York,Bronx,10461,,1200 Waters Place
+20480,CDM,PPD,SHP647-306,306-868,,United_States,"A Positive Research, Inc.",Florida,Miami,33144,,8660 West Flagler StreetSuite 111
 16386,CDM,PPD,C16014,1-E46XW,,United_States,Our Lady of Mercy Medical Center,New York,Bronx,10466,,"600 East 233 Street, 7th Floor14a-36"
 16387,CDM,PPD,Pevonedistat-3001,1-16QRYFB,,United_States,Bronx River Medical Associates PC,New York,Bronx,10467,,60 East 208th Street
+20483,CDM,PPD,SHP647-306,1-25ETRGL,,United_States,"Alma Mater Research Center, LLC",Florida,Miami,33144,,8300 SW 8th StreetSuite 214
 16391,CDM,PPD,Brigatinib-1003,1-6E3MZKQ,,United_States,Children's Hospital at Montefiore,New York,Bronx,10467,,3415 Bainbridge Avenue
 16394,CDM,PPD,TAK-079-1004,1-61XFF93,,United_States,Dr Fernando J Camacho Private Practice,New York,Bronx,10467,,60 East 208th Street
+20490,CDM,PPD,SHP647-303,303-389,,United_States,Nuren Medical and Research Center,Florida,Miami,33144,,8260 West Flagler Street2-N
 16398,CDM,IQVIA,TAK-994-0001,58021,1-4VQLYND,United_States,Montefiore Medical Center,Bronx,New York,10467,,3411 Wayne AveGround Floor
 16399,CDM,PPD,TAK-788-2001,58007,,United_States,Montefiore Medical Center,New York,Bronx,10467,,111 East 210 Street
+20496,CDM,PPD,SHP647-301,1-YVY3EA,,United_States,Oceane7  Clinical Research,Florida,Miami,33144,,8100 West Flagler StreetSuite 101
 16407,CDM,PPD,TAK-007-2001,58011,,United_States,Montefiore Medical Center,New York,Bronx,10467,,2415 Banbridge Avenue
+20503,CDM,PPD,SHP647-302,1-4BFEE1S,,United_States,Paradise Clinical Research,Florida,Miami,33144,,7650 SW Flagler StreetSuite 104
+20507,CDM,PPD,SHP647-302,1-15SZ92I,,United_States,Lone Star Research Center,Florida,Miami,33145,,2150 Coral Way2nd Floor
 16416,CDM,IQVIA,TAK-994-1501,58021,1-4QYNB0L,United_States,Montefiore Medical Center PRIME,Bronx,New York,10467,,3411 Wayne AveGround Floor
+20514,CDM,PPD,SHP609-302,801,,United_States,University of Miami,Florida,Coral Gables,33146,,1320 South Dixie HighwayOffice of Research Adminisstration (ORA)BRB-369
 16419,CDM,ICON,C25003,,7949,United_States,Yeshiva University - Albert Einstein College of Medicine - Montefiore Medical Center (MMC),New York,Bronx,10467-2401,,111 E 210th St
 16420,CDM,IQVIA,TED-R13-002,0532,1-1U4URT8,United_States,Montefiore Medical Ctr Chld Spc,Bronx,New York,10467-2403,,3415 Bainbridge Ave
 16421,CDM,PPD,SHP647-301,1-10805JI,,United_States,Advantage Clinical Trials,New York,Bronx,10468,,2386 Jerome Avenue3rd Floor
+20515,CDM,IQVIA,TED-R13-002,0540,1-2URYAO9,United_States,University of Miami Ins,Coral Gables,Florida,33146,,1320 South Dixie HighwaySuite 650
+20516,CDM,PPD,SHP647-301,1-11164DE,,United_States,Advanced Clinical Research of Miami,Florida,Miami,33155,,7815 Coral Way
+20518,CDM,PRA,Zik-101,58006,1-1GIH3NY,United_States,AppleMed Research,FL,Miami,33155,,6850 Coral WaySuite 409
+20520,CDM,PPD,SHP647-301,1-43HT0XK,,United_States,La Salud Research Clinic,Florida,Miami,33155,,8415 Southwest 24th StreetSuite 203
+20521,CDM,PPD,SHP647-301,1-6YHA3WN,,United_States,La Salud Research Clinic,Florida,Miami,33155,,8415 Southwest 24th Street
 16432,CDM,PPD,SHP620-303,0061,,United_States,James J Peters Veterans Administration Medical Center - NAVREF - PPDS,New York,Bronx,10468,,130 West Kingsbridge Road
 16433,CDM,PPD,P2002,1-5J4N4Q1,,United_States,Albert Einstein College of Medicine,New York,Bronx,10469,,1461 Astor Avenue
 16435,CDM,PPD,NSMM-5001,1-LECJIK,,United_States,Eastchester Center For Cancer Care,New York,Bronx,10469,,2330 Eastchester Road
@@ -206,8 +218,10 @@ SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_I
 16959,CDM,PPD,SHP647-305,1-24SWYMQ,,United_States,Crouse Hospital,New York,West Seneca,14224,,3050 Orchard Park Road
 16960,CDM,PPD,SHP647-304,1-24J3WV2,,United_States,WNY GI Connection PLLC,New York,West Seneca,14224,,3050 Orchard Park Road
 16966,CDM,PPD,TAK-071-2002,1-65R9SEE,,United_States,Dent Neurologic Institute,New York,Amherst,14226,,3980 Sheridan DriveNeurologySuite 304
+20471,CDM,PRA,Zik-101,58003,1-1GGFLVY,United_States,Miami Research Associates,FL,South Miami,33143,,6280 Sunset DriveSuite 600
 16982,CDM,PRA,Ponatinib-3001,58014,1-1KR0CT3,United_States,Roswell Park Cancer Institute,NY,Buffalo,14263,,Cancer Cell CenterElm  Carlton StreetsRoom 506
 16983,CDM,PRA,C34004,58004,1-1D3P620,United_States,Roswell Park Cancer Institute,NY,Buffalo,14263,,Elm and Carlton Streets
+20472,CDM,IQVIA,NOR-213,204-01005,1-2XW2MX9,United_States,QPS MRA (Miami Research Associates),South Miami,Florida,33143,,"6280 Sunset DriveSte 600, 500 and 603"
 16985,CDM,PPD,TAK-007-2001,1-6ZX3V4U,,United_States,Roswell Park Comprehensive Cancer Center,New York,Buffalo,14263,,"Elm And Carlton StreetsHealth Research, Inc."
 16986,CDM,PRA,Vedolizumab-3035,58040,1-1OZBSGZ,United_States,Roswell Park Comprehensive Cancer Center,NY,Buffalo,14263,,665 Elm Street
 16987,CDM,PPD,SHP647-305,1-ZVDS6F,,United_States,North Worcester Gastroenterology Center PC,Massachusetts,Leominster,1453,,105 Erdman Way
@@ -218,6 +232,7 @@ SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_I
 16994,CDM,PPD,SHP647-301,1-ZWXR40,,United_States,Gastroenterology Group of Rochester,New York,Rochester,14618,,2080 Clinton Avenue South
 16996,CDM,PPD,SHP647-305,1-109GCS9,,United_States,University of Rochester Medical Center - PPDS,New York,Rochester,14618,,1065 Senator Keating BoulevardSuite 220
 16998,CDM,PPD,TAK-071-2002,1-B8X39SX,,United_States,University of Rochester Medicine - Movement Disorders Unit,New York,Rochester,14618-2628,,919 Westfall Rd Ste 220
+20475,CDM,PPD,SHP647-305,1-Y0ZAMK,,United_States,Sleep Wake Disorders Center,Florida,Miami,33143,,7325 Southwest 63rd AvenueSuite 301
 17001,CDM,PPD,NSMM-5001,1-LECJJY,,United_States,University of Rochester - Rochester General Hospital - PPDS,New York,Rochester,14621,,1425 Portland Avenue
 17004,CDM,PPD,SHP607-202,1-15NMQZU,,United_States,University of Rochester Medical Center - PPDS,New York,Rochester,14621,,601 Elmwood Avenue
 17005,CDM,PPD,SHP620-303,1-TIJFC6,,United_States,University of Rochester Medical Center - PPDS,New York,Rochester,14621,,601 Elmwood AvenueBox 690
@@ -225,6 +240,7 @@ SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_I
 17010,CDM,PPD,TAK-007-2001,1-7EZ4UFS,,United_States,James P. Wilmot Cancer Center,New York,Rochester,14642,,601 Elmwood AveUniversity of Rochester Medical Center
 17011,CDM,PPD,SHP647-305,1-Y0ZAK6,,United_States,Strong Memorial Hospital,New York,Rochester,14642,,601 Elmwood Avenue
 17012,CDM,PPD,Pevonedistat-3001,58026,,United_States,Strong Memorial Hospital,New York,Rochester,14642,,601 Elmwood AvenueJames P. Wilmot Cancer Center
+20479,CDM,PPD,TAK-007-2001,1-8WICNYB,,United_States,Baptist Health,Florida,South Miami,33143-5028,,6141 Sunset Dr
 17020,CDM,ICON,C25003,,84503,United_States,University of Rochester,New York,Rochester,14642,,"James P. Wilmot Cancer Center601 Elmwood Avenue, Box 704"
 17022,CDM,IQVIA,NOR-213,204-01003,1-2XU6CPG,United_States,University of Rochester,Rochester,New York,14642,,"601 Elmwood Avenue, Box 677Room 3-5021"
 17025,CDM,PPD,C16029,1-Y4811F,,United_States,University of Rochester Medical Center - PPDS,New York,Rochester,14642,,601 Elmwood AvenueUniversity of Rochester - James P. Wilmot Cancer CenterBox 704
@@ -1128,134 +1144,271 @@ SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_I
 15297,CDM,PPD,SHP607-202,1-15NMR79,,United_States,Boston Medical Center,Massachusetts,Boston,02118,,1 Boston Medical Center Place
 15299,CDM,PPD,NSMM-5001,58038,,United_States,Boston Medical Center,Massachusetts,Boston,02118,,820 Harrison AvenueHematology/Oncology
 15300,CDM,PPD,C16021,1-8JUVPI,,United_States,Boston Medical Center,Massachusetts,Boston,02118,,820 Harrison AvenueFGH Building
+19402,CDM,PPD,SHP647-303,1-247A581,,United_States,Gastrointestinal Specialists Georgia,Georgia,Marietta,30060,,61 Whitcher StreetSuite 300
 15306,CDM,PPD,SHP647-305,1-XFSIWE,,United_States,Boston Medical Center,Massachusetts,Boston,02118,,85 East Concord Street
 15311,CDM,ICON,C25001,,69807,United_States,Boston University,Massachusetts,Boston,02118,,Boston  University820 Harrison AvenueFGH Building - 2nd Floor
 15312,CDM,PPD,TAK-079-1004,1-FN0T8EI,,United_States,Boston Medical Center,Massachusetts,Boston,02118-2905,,820 Harrison Ave Bldg Fgh
+19409,CDM,PPD,SHP647-305,1-XZO9NS,,United_States,Gastrointestinal Specialists of Georgia PC,Georgia,Marietta,30060,,711 Canton RoadSuite 3100
 15313,CDM,PPD,TAK-079-1005,1-5D7PW31,,United_States,Caritas St. Elizabeth's Medical Center,Massachusetts,Boston,02135,,736 Cambridge StreetMultiple Sclerosis Center
 15315,CDM,PPD,SHP647-301,1-114L1SW,,United_States,Promedica Clinical Research Center Inc,Massachusetts,Brighton,02135,,77 Warren StreetBuilding #6
 15317,CDM,PPD,SHP647-305,1-ZWUDHL,,United_States,Saint Elizabeth's Medical Center,Massachusetts,Boston,02135,,736 Cambridge Street
+19420,CDM,PPD,C16010,58019,,United_States,Northwest Georgia Oncology Centers PC,Georgia,Marietta,30060,,340 Kennestone Hospital BoulevardSuite 200
 15324,CDM,PPD,SHP647-301,1-ZX0BAB,,United_States,Harbor Medical Associates,Massachusetts,Braintree,02184,,1681 Washington St.Highland Medical Center
 15326,CDM,PPD,SHP647-303,1-246T7E7,,United_States,Harbor Medical Associates,Massachusetts,South Weymouth,02190,,541 Main Street
+19424,CDM,PPD,SHP647-305,1-ZNUSAV,,United_States,Sestron Clinical Research,Georgia,Marietta,30060,,833 Campbell Hill Street
+19426,CDM,PPD,SHP647-301,1-112J8JD,,United_States,Atlanta Center For Clinical Research,Georgia,Roswell,30075,,11050 Crabapple Road
+19427,CDM,PPD,SHP647-301,1-203PC36,,United_States,"Gastroenterology Consultants, PC",Georgia,Roswell,30076,,11685 Alpharetta HighwaySuite 320#130
 15335,CDM,IQVIA,TAK-101-2001,58022,1-4YNINA9,United_States,Beth Israel Deaconess Medical Center,Boston,Massachusetts,02215,,330 Brookline AvenueCLS Bldg. Room 615
 15336,CDM,IQVIA,TAK-994-1501,58033,1-4QYFPCX,United_States,Beth Israel Deaconess Medical Center,Boston,Massachusetts,02215,,"330 Brookline Avenue.,Dana 637"
 15337,CDM,PRA,TAK-906-2002,58020,1-1JYIVGV,United_States,Beth Israel Deaconess Medical Center,MA,Boston,02215,,330 Brookline AvenueRabb Rose 1Room 501
+19434,CDM,PPD,SHP647-305,1-ZVG224,,United_States,Atlanta Gastroenterology Associates,Georgia,Snellville,30078,,1600 Medical WaySuite 270
 15339,CDM,PRA,AP32788-15-101 Extension Study,58031,1-1N45QBX,United_States,Beth Israel Deaconess Medical Center,MA,Boston,02215,,330 Brookline AvenueShapiro 9
+19436,CDM,PPD,SHP465-308,109,,United_States,Institute for Behavioral Medicine,Georgia,Smyrna,30082-2629,,696 Concord Road Southeast
+19437,CDM,PPD,TAK-788-2001,1-74VG50R,,United_States,Kaiser Permanente,Georgia,Tucker,30084,,200 Crescent Center Parkway
+19439,CDM,PPD,SHP647-304,1-166VPTR,,United_States,"One Health Research Clinic, Inc.",Georgia,Norcross,30093,,5430 Jimmy Carter Blvd.Suite 200B
+19448,CDM,PPD,SHP647-305,1-ZWUDAR,,United_States,Gastrointestinal Spec Georgia,Georgia,Austell,30106,,1700 Hospital South DriveSuite 410
+19450,CDM,PPD,SHP647-302,1-21RD31H,,United_States,Atlanta Gastroenterology Associates,Georgia,Canton,30114,,210 Oakside LaneSuite C
+19457,CDM,PPD,C16029,1-YF93FX,,United_States,Northwest Georgia Oncology Centers PC,Georgia,Carrollton,30117,,157 Clinic Avenue
+19458,CDM,PPD,SHP647-306,1-25ZAGGV,,United_States,West Georgia Gastroenterology,Georgia,Carrollton,30117,,157 Clinic AvenueSuite 201
+19465,CDM,PPD,SHP647-303,1-247A570,,United_States,Digestive Healthcare of Georgia PC,Georgia,Jasper,30143,,134 Mountainside Village Parkway Building 500
 15373,CDM,ICON,C25003,,86864,United_States,Dana Farber/Harvard Cancer Center,Massachusetts,Boston,02215,,"450 Brookline Av, PO box 849168"
+19472,CDM,PPD,SHP647-305,1-1117TOZ,,United_States,Prism Research Group LLC,Georgia,Rome,30165,,101 John Maddox Drive
 15376,CDM,PPD,TAK-341-1001,1-8DOV77W,,United_States,Beth Israel Deaconess Medical Center,Massachusetts,Boston,02215-5324,,185 Pilgrim Rd Palmer 111Center for Autonomic and Peripheral Nerve Disorders/Palmer Building111
+19474,CDM,PPD,SHP647-306,1-25ZAGJL,,United_States,Rome GI,Georgia,Rome,30165,,11 John Maddox Drive
 15381,CDM,PPD,SHP647-303,303-829,,United_States,Commonwealth Clinical Studies LLC,Massachusetts,Brockton,02302,,189 Quincy Street
+19481,CDM,PPD,SHP647-306,1-25ZAGKX,,United_States,Advanced Gastroenterology Group,Georgia,Woodstock,30189,,"4595 Towne Lake ParkwayBldg 300, Suite 200"
 15388,CDM,IQVIA,SHP643-303,106,1-4RY7H2J,United_States,Massachusetts General Hospital,Boston,Massachusetts,02421,,100 Blossom Street
 15391,CDM,PPD,SHP647-301,1-10TILFY,,United_States,Bay State Clinical Trials,Massachusetts,Watertown,02472,,521 Mount Auburn StreetSuite 209
+19488,CDM,PPD,SHP647-301,1-ZGHKIF,,United_States,Piedmont Fayetteville Hospital,Georgia,Fayetteville,30214,,1265 Highway 54 WSuite 402
 15393,CDM,PRA,TAK-041-2001,Ongur,1-1KTCE9T,United_States,McLean Hospital,MA,Belmont,02478-1064,,Schizophrenia and Bipolar Disorder Clinic115 Mill Street
+19490,CDM,PPD,SHP621-301,1-HKRK3T,,United_States,Atlanta Gastroenterology Associates,Georgia,Griffin,30224,,226 East College StreetSuite B
+19491,CDM,PPD,SHP647-306,306-825,,United_States,Infinite Clinical Trials,Georgia,Morrow,30260,,6685 Merchants Way
 15394,CDM,PPD,SHP647-305,1-112AV54,,United_States,Phase III Clinical Research,Massachusetts,Fall River,02720,,1030 President Avenue
 15396,CDM,PPD,SHP647-303,1-25ETRBZ,,United_States,Ocean State Clinical Research Partners,Rhode Island,Lincoln,02865,,2 Wake Robin Road
+19496,CDM,PPD,SHP647-302,1-15V8339,,United_States,Digestive and Liver Specialists,Georgia,Newnan,30263,,58 Hospital RoadSuite 1010
 15403,CDM,PPD,SHP647-305,1-1117NN7,,United_States,Velocity Clinical Research - Providence - ERN - PPDS,Rhode Island,Warwick,02886,,400 Bald Hill Road
 15406,CDM,PPD,SHP647-307,1-15Y7YN6,,United_States,Kent Hospital,Rhode Island,Warwick,02888,,1050 Warwick Avenue
+19504,CDM,PRA,SYR-322_309,58033,1-1L3IANX,United_States,Endocrine Consultants Research - Oak Hill Court,GA,Newnan,30265,,39 Oak Hill CourtBuilding C
+19505,CDM,PPD,NSMM-5001,1-M5FMP3,,United_States,Southeastern Regional Medical Center - CTCA - PPDS,Georgia,Newnan,30265,,600 Parkway NorthMedical Oncology Services
+19506,CDM,PPD,SHP647-305,1-14GB67A,,United_States,Infinite Clinical Trials,Georgia,Riverdale,30274,,113 Upper Riverdale Road
+19509,CDM,IQVIA,TAK-925-2002,58017,1-4SBARAO,United_States,Global Research Associates,Stockbridge,Georgia,30281,,1215 Eagles Landing PkwySuite 209
 15413,CDM,PPD,SHP647-306,1-25X1Z0R,,United_States,"Gastroenterology Specialists, Inc.",Rhode Island,Westerly,02891,,45 Wells StreetSuite 103
+19511,CDM,PPD,SHP647-305,1-24SZ0IS,,United_States,"Eagles Landing Gastroenterology, P.C.",Georgia,Stockbridge,30281-5047,,1500 Rock Quarry Road
 15420,CDM,PPD,TAK-981-1503,1-BAJ2GTN,,United_States,Brown University Oncology Research Group,Rhode Island,Providence,02903,,233 Richmond StreetThe Fain Health CenterRoom 377
 15421,CDM,IQVIA,C26002,58001,1-19938EM,United_States,"H. Lee Moffitt Cancer Center and Research Institute, Inc",Providence,RI,02903,,593 Eddy St.Lifespan Oncology Clinical Research Department
+19518,CDM,PRA,C16038,10036,1-1Q3IRGC,United_States,Winship Cancer Institute of Emory University,GA,Atlanta,30303-001,,80 Jesse Hill Drive Southeast
+19519,CDM,PPD,MLN0002-3024,1-7JU6M3B,,United_States,Emory University School of Medicine,Georgia,Atlanta,30303-3031,,80 Jesse Hill Jr Dr SE
+19520,CDM,PPD,VDZ-5034,58033,,United_States,"Atlanta Gastroenterology Specialists, PC",Georgia,Atlanta,30308,,"Associates, Llc, 550 Peachtree-dunwoody RoadSuite 1600"
+19521,CDM,PRA,Pevonedistat-1015,58003,1-1KHE33A,United_States,Emory University,GA,Atlanta,30308,,550 Peachtree Street Northeast
+19522,CDM,IQVIA,161406,161406-112,1-22RGF8D,United_States,Emory University Hospital - Midtown,Atlanta,Georgia,30308,,550 Peachtree St. NEGlenn Building Lobby Level
+19524,CDM,IQVIA,Vedolizumab-4014,58086,1-2R1NFYM,United_States,Atlanta Gastroenterology Associates LLC,Atlanta,Georgia,30309,,1355 Peachtree Street NESuite 1600
+19525,CDM,PPD,SHP647-302,1-166VPUR,,United_States,Digestive Healthcare of Georgia PC,Georgia,Atlanta,30309,,95 Collier Road NWSuite 4055
 15434,CDM,PPD,SHP647-301,1-ZK5DPZ,,United_States,Gastroenterology Associates,Rhode Island,Providence,02904,,44 West River Street
+19532,CDM,PPD,C16029,1-YQMMNC,,United_States,Piedmont Hospital,Georgia,Atlanta,30309,,105 Collier Road NorthwestSuite 3040
 15437,CDM,PPD,SHP607-202,1-15MY41X,,United_States,Women & Infants Hospital,Rhode Island,Providence,02905,,100 Dudley Street
+19534,CDM,PPD,SHP647-301,1-ZGYEB1,,United_States,Shepherd Center,Georgia,Atlanta,30309,,1968 Peachtree Road Northwest
 15439,CDM,PPD,SHP607-202,1-15MY3Z4,,United_States,Women & Infants Hospital,Rhode Island,Providence,02905-2499,,101 Dudley Street
+19536,CDM,PPD,VDZ-5034,58045,,United_States,Atlanta Gastroenterology Associates,Georgia,Atlanta,30312,,340 Boulevard NorthEastSuite 600
+19537,CDM,PPD,C16019,1-CIZIG7,,United_States,Peachtree Hematology Oncology Consultants,Georgia,Atlanta,30318,,1800 Howell Mill RoadSuite 800
 15441,CDM,PPD,TAK-981-1503,1-BO97IAJ,,United_States,Miriam Hospital,Rhode Island,Providence,02906,,164 Summit AvenueThe Fain Health Center
+19539,CDM,PPD,SHP611-201,104,,United_States,"Rare Disease Research, LLC",Georgia,Atlanta,30318,,1891 Howell Mill Road NWGround floor Research Office
+19540,CDM,PRA,Vedolizumab-3035,58039,1-1OZBSK7,United_States,Children's Healthcare of Atlanta,GA,Atlanta,30322,,1405 East Clifton Road Northeast
 15442,CDM,PPD,SHP620-303,1-TIJFG9,,United_States,Miriam Hospital,Rhode Island,Providence,02906,,164 Summit Avenue
+19542,CDM,PPD,Brigatinib-1003,1-619XIK0,,United_States,Children's Healthcare of Atlanta - Aflac Cancer and Blood Disorders Center - Egleston Hospital,Georgia,Atlanta,30322,,1405 Clifton Road NEEgleston HospitalAflac Cancer and Blood Disorders Center
 15444,CDM,PPD,SHP620-303,1-TIF985,,United_States,University Medicine,Rhode Island,Providence,02906,,1125 North Main StreetDivision of Infection Diseases
 15445,CDM,PPD,C16029,1-YQMMF1,,United_States,Roger Williams Medical Center,Rhode Island,Providence,02908,,825 Chalkstone Avenue
+19545,CDM,IQVIA,TED-R13-002,0550,1-13YFKRE,United_States,Emory University,Atlanta,Georgia,30322,,101 Woodruff Circle..Suite 6339
 15447,CDM,PPD,C16014,1-FQZPH,,United_States,Pharma Resource,Rhode Island,East Providence,02915,,2 Hemingway Drive
+19547,CDM,PPD,SHP620-302,014,,United_States,Emory University,Georgia,Atlanta,30322,,101 Woodruff CircleWoodruff Memorial Research BuildingSuite 2101
 15448,CDM,PPD,SHP647-305,1-25EUVV0,,United_States,Dartmouth Hitchcock Nashua East,New Hampshire,Nashua,03060,,21 E Hollis Street
+19550,CDM,PPD,C16027,58003,,United_States,Emory University,Georgia,Atlanta,30322,,1364 Clifton Road NortheastBuilding C
+19551,CDM,PPD,C16014,58040,,United_States,Emory University,Georgia,Atlanta,30322,,1365 Clifton Road Northeast
 15455,CDM,PPD,C16029,1-Y49D5Q,,United_States,New Hampshire Oncology Hematology,New Hampshire,Exeter,03106,,200 Technology Drive
 15456,CDM,PPD,SHP647-301,1-ZI69GK,,United_States,Dartmouth Hitchcock Medical Center,New Hampshire,Lebanon,03756,,1 Medical Center DriveSuite 200
 15457,CDM,PPD,Brigatinib-1003,1-619XIMU,,United_States,Dartmouth Hitchcock Medical Center,New Hampshire,Lebanon,03756,,One Medical Center DriveNorris Cotton Cancer Center
+19556,CDM,PRA,AP24534-14-203,058,1-1FBKO7P,United_States,Emory University - Winship Cancer Institute,GA,Atlanta,30322,,1365 Clifton Road
+19557,CDM,IQVIA,SHP655-101,110,1-4DMI8HP,United_States,Emory University School of Medicine,Atlanta,Georgia,30322,,"101 Woodruff CircleRoom 5105, Suite 6206"
+19559,CDM,PPD,SHP611-201,1-37RF581,,United_States,Emory University School of Medicine,Georgia,Atlanta,30322,,615 Michael StreetSuite 301
+19560,CDM,IQVIA,281102,024,1-2TUYIKA,United_States,Winship Cancer Institute,Atlanta,Georgia,30322,,1365-C Clifton Rd NE
+19561,CDM,PRA,AP32788-15-101,252,1-1K3BR0A,United_States,Winship Cancer Institute,GA,Atlanta,30322,,1365 Clifton Road NortheastSuite C5090
+19564,CDM,PPD,TAK-981-1503,58006,,United_States,"Winship Cancer Institute, Emory University",Georgia,Atlanta,30322,,"1365  Clifton Road, NortheastInvestigational Drug Service"
+19565,CDM,PPD,TAK-007-2001,1-6ZX3V2O,,United_States,"Winship Cancer Institute, Emory University",Georgia,Atlanta,30322,,1365 Clifton Rd. NE
+19566,CDM,PPD,TAK-788-3001,1-4YS0RNY,,United_States,"Winship Cancer Institute, Emory University",Georgia,Atlanta,30322,,1365 Clifton Road NortheastThe Emory Clinic - B
+19567,CDM,PPD,TAK-788-1502,1-6W6WVOL,,United_States,"Winship Cancer Institute, Emory University",Georgia,Atlanta,30322,,1365 Clifton Road Northeast
 15471,CDM,PRA,TAK-041-2001,Green A,1-1KTCE5L,United_States,Dartmouth-Hitchcock Medical Center,NH,Lebanon,03766-1488,,Psychiatric Research Center46 Centerra Parkway
 15472,CDM,PPD,SHP647-301,1-XEX59C,,United_States,ActivMed Practices & Research Inc,New Hampshire,Newington,03801,,2299 Woodbury Avenue2nd Floor
 15474,CDM,PPD,SHP647-307,1-269ZLYD,,United_States,Gastroenterology Professional Association,New Hampshire,Portsmouth,03801,,330 Borthwick AvenueAtlantic Digestive SpecialistsSuite 311/Jackson Gray Medical Bldg
 15481,CDM,PPD,C16014,1-LTWXA,,United_States,Portsmouth Regional Hospital,New Hampshire,Portsmouth,03801,,155 Borthwick AvenueSuite 303
 15483,CDM,PPD,C16014,58105,,United_States,Maine Center for Cancer Medicine and Blood Disorders,Maine,Scarborough,04074,,100 Campus DriveSuite 108
 15485,CDM,PPD,NSMM-5001,1-LE3LRW,,United_States,Maine Center for Cancer Medicine and Blood Disorders,Maine,Scarborough,04074,,100 Campus Drive
+19582,CDM,PPD,Pevonedistat-1016,1-3SBUO44,,United_States,"Winship Cancer Institute, Emory University",Georgia,Atlanta,30322-1013,,1365c Clifton Road Northeast
 15487,CDM,PPD,NSMM-5001,1-LOT0W7,,United_States,New England Cancer Specialists,Maine,Scarborough,04074,,100 Campus DriveSuite 108
+19584,CDM,PPD,MLN0002-3024,1-7JU6M4N,,United_States,Emory Childrens  Pediatric Research Center,Georgia,Atlanta,30322-1014,,2015 Upper Gate Dr
+19586,CDM,IQVIA,TAK-101-2001,58006,1-4Z3EV7H,United_States,Agile Clinical Research Trials,Atlanta,Georgia,30328,,750 Hammond Dr.Bldg 2 Suite 100
 15491,CDM,PPD,SHP647-302,1-21GAO4E,,United_States,Portland Gastroenterology Center,Maine,Portland,04101,,161 Marginal Way
+19588,CDM,PPD,SHP647-305,1-Y0ZAOA,,United_States,"Mount Vernon Clinical Research, LLC - M3 WR - ERN - PPDS",Georgia,Sandy Springs,30328,,755 Mount Vernon Highway
+19590,CDM,IQVIA,TAK-994-1501,58004,1-4QCYHFN,United_States,"NeuroTrials Research, Inc.",Atlanta,Georgia,30328,,5887 Glenridge DriveSuite 400
+19593,CDM,IQVIA,161503,120,1-307QFNG,United_States,Emory Healthcare,Atlanta,Georgia,30329,,"1400 Tullie Road, NE"
 15498,CDM,PPD,SHP607-202,1-15NMR5H,,United_States,Maine Medical Center (Scarborough),Maine,Portland,04102,,22 Bramhall Street
 15500,CDM,PPD,NSMM-5001,58047,,United_States,Central Maine Medical Center,Maine,Lewiston,04240,,12 High StreetSuite 205
+19597,CDM,IQVIA,TAK-831-2002,58002,1-45LSM4H,United_States,Atlanta Center for Medical Research,Atlanta,Georgia,30331,,"501 Fairburn Road, SW"
+19598,CDM,PPD,SHP647-301,1-XFSJ2D,,United_States,Alta Pharmaceutical Research Center Inc,Georgia,Dunwoody,30338,,4553 North Shallowford Road
 15501,CDM,PPD,C16014,1-QTRTH,,United_States,Maine VA Medical Center - NAVREF - PPDS,Maine,Augusta,04330,,1 VA Center
+19600,CDM,PPD,SHP465-308,154,,United_States,"Atlanta Behavioral Research, LLC - Clinedge - PPDS",Georgia,Atlanta,30338,,2150 Peachford Rd.
+19601,CDM,IQVIA,MLN0002SC-3031,58081,1-21HM3S8,United_States,Atlanta Gastroenterology Associates,Atlanta,Georgia,30342,,5671 Peachtree Dunwoody Road NESuite 512
 15502,CDM,PPD,SHP647-301,1-110ZJPK,,United_States,Acadia Clinical Research LLC,Maine,Bangor,04401,,792 Stillwater Avenue
+19603,CDM,PRA,TAK-018-2001,58006,1-1MZT5UF,United_States,Atlanta Gastroenterology Associates,GA,Atlanta,30342,,5671 Peachtree Dunwoody RoadSuite 600
+19604,CDM,PPD,SHP647-303,1-4NYPL6V,,United_States,Atlanta Gastroenterology Associates,Georgia,Atlanta,30342,,5671 Peachtree Dunwoody RoadSuite 512
 15504,CDM,PPD,SHP607-202,1-15NMR54,,United_States,Eastern Maine Medical Center,Maine,Bangor,04401,,489 State Street
 15505,CDM,PPD,C16014,1-HHSUD,,United_States,Eastern Maine Medical Center,Maine,Brewer,04412,,33 Whiting Hill RoadSuite 21
 15506,CDM,PPD,C16014,1-HHSTE,,United_States,White River Junction Veterans Affairs Medical Center - NAVREF - PPDS,Vermont,White River Junction,05009-0001,,215 North Main Street
 15511,CDM,PPD,SHP647-301,1-ZWUDDV,,United_States,"Dr. Ronald S. Mensh, MD",Vermont,Bennington,05201,,140 Hospital Drive
+19609,CDM,PPD,SHP647-305,1-ZWUD9E,,United_States,Atlanta Gastroenterology Associates,Georgia,Atlanta,30342,,980 Johnson Ferry RoadSuite 820
 15513,CDM,PPD,MLN0002-3024,1-7JXXRC0,,United_States,Fletcher Allen Health Care,Vermont,Burlington,05401,,199 Main StreetCourthouse Plaza
+19611,CDM,PPD,Pevonedistat-2001,1-D8ZX5Q,,United_States,Blood and Marrow Transplant Group of Georgia at Northside Hospital (Clinic),Georgia,Atlanta,30342,,5670 Peachtree Dunwoody Road
+19612,CDM,PPD,P2002,1-5J4N4M6,,United_States,Blood and Marrow Transplant Group of Georgia at Northside Hospital (Clinic),Georgia,Atlanta,30342,,"5670 Peachtree Dunwoody Road NortheastBlood and Marrow Transplant Group of Georgia,  Northside Hospital Cancer Institute"
+19613,CDM,PPD,C16029,1-YFEFM7,,United_States,Blood Marrow Transplant Group of Georgia at Northside Hospital (Atlanta),Georgia,Atlanta,30342,,1000 Johnson Ferry Road
 15514,CDM,PPD,TAK-079-1005,1-5D8IV2Y,,United_States,University of Vermont,Vermont,Burlington,05401,,1 South Prospect StreetArnold Level 2
 15516,CDM,PPD,C16019,1-CJ0OXM,,United_States,University of Vermont,Vermont,Burlington,05401,,111 Colchester Avenue
+19617,CDM,PPD,SHP621-303,303-117,,United_States,Childrens Center For Digestive Healthcare,Georgia,Atlanta,30342,,"993 F Johnson Ferry Road Northeast,  Research DirectorChildren's Center for Digestive Health"
+19620,CDM,PRA,Vedolizumab-2005,58005,1-1BUWNKC,United_States,Children's Center for Digestive Healthcare,GA,Atlanta,30342,,993D Johnson Ferry RoadSuite 440
+19622,CDM,PPD,SHP647-301,1-ZGHKCB,,United_States,Gastroenterology North Georgia,Georgia,Atlanta,30342,,960 Johnson Ferry RoadSuite 515
 15526,CDM,PPD,SHP607-202,1-15MWYL7,,United_States,Vermont Childrens Hospital,Vermont,Burlington,05401,,111 Colchester Avenue
+19624,CDM,PPD,C16014,1-HCHW3,,United_States,Georgia Cancer Specialists,Georgia,Sandy Springs,30342,,1100 Johnson Ferry Road
 15528,CDM,PPD,SHP647-301,1-XEOOKC,,United_States,Fletcher Allen Health Care,Vermont,Burlington,05405,,89 Beaumont Avenue
+19627,CDM,PPD,MLN0002-3025,3025-58002,,United_States,Childrens Center For Digestive Healthcare,Georgia,Atlanta,30342-1602,,993D Johnson Ferry Rd Fl 4
 15532,CDM,PPD,C16021,1-8JW0N3,,United_States,Fletcher Allen Health Care,Vermont,Burlington,05405,,89 Beaumont AvenueGiven Building
+19629,CDM,PPD,SHP647-306,1-25R0VTE,,United_States,"Gastroenterology Consultants, P.C. - Sandy Springs/Atlanta Office",Georgia,Atlanta,30342-1786,,"5669 Peachtree Dunwoody RoadGastroenterology Consultants, PCSuite 270"
 15533,CDM,PPD,Pevonedistat-2001,1-JUL91K,,United_States,University of Vermont,Vermont,Burlington,05405,,89 Beaumont AvenueGiven Building
 15535,CDM,PPD,C16011,58018,,United_States,Mayo Clinic - PPDS,Minnesota,Rochester,05590,,"200 1st Street, SouthwestTransplant Center"
 15536,CDM,PPD,SHP621-301,301-139,,United_States,Connecticut Clinical Research Foundation,Connecticut,Bristol,06010,,39 Brewster Road
+19636,CDM,PPD,SHP647-305,1-14HUSI7,,United_States,JPF Clinical Research,Georgia,East Point,30344,,1151 Cleveland AvenueD
 15542,CDM,PPD,SHP621-301,1-LUTH05,,United_States,Connecticut GI,Connecticut,Farmington,06032,,21 South Road
 15543,CDM,PPD,SHP621-303,303-160,,United_States,"Connecticut GI, PC - Research Division",Connecticut,Farmington,06032,,21 South RoadSuite 1000
 15546,CDM,PPD,VDZ-5034,58080,,United_States,Connecticut Gastroenterology,Connecticut,Glastonbury,06033,,300 Western BoulevardSuite 716
+19643,CDM,PPD,Pevonedistat-1016,1-3LL4R8M,,United_States,Sarah Cannon Research Institute,Georgia,Atlanta,30384-7816,,Po Box 277816Suite 110
+19644,CDM,PPD,SHP647-305,1-24SWYYF,,United_States,Gastroenterology Institute,Georgia,Statesboro,30458,,114 Hill Pond Lane
 15547,CDM,PPD,TAK-071-2002,1-65R9S8X,,United_States,"Eastern Connecticut Neurology Specialists, LLC",Connecticut,Manchester,06040,,394 West Center Street
 15548,CDM,PPD,SHP647-301,1-ZNUS6Y,,United_States,CT Gastroenterology and Associates,Connecticut,Hartford,06105,,1000 Asylum Ave#3212
 15549,CDM,PPD,SHP647-307,1-15V83A9,,United_States,CT Gastroenterology and Associates,Connecticut,Hartford,06105,,3212 Asylum Avenue#3212
+19651,CDM,PPD,SHP647-301,1-ZVCYDU,,United_States,"Gastroenterology Associates of Gainesville, P.C - Elligo - PPDS",Georgia,Gainesville,30501,,2324 Limestone  Overlook
 15555,CDM,PPD,C16014,58045,,United_States,Saint Francis Hospital and Medical Center,Connecticut,Hartford,06105,,114 Woodland Street
+19653,CDM,PPD,SHP465-308,121,,United_States,Buford Family Practice Research - IACT - PPDS,Georgia,Buford,30519,,2805 Hamilton Mill Road
+19654,CDM,PPD,SHP647-305,1-ZK0ODI,,United_States,Athens Gastroenterology Association,Georgia,Athens,30607,,3320 Old Jefferson RoadSuite 400
 15558,CDM,PPD,Pevonedistat-2001,1-IPEJPJ,,United_States,Saint Francis Hospital and Medical Center,Connecticut,Hartford,06105-1208,,114 Woodland StreetSaint Francis/Mount Sinai Regional Cancer Center
+19656,CDM,PPD,TAK-079-1004,1-5QGG683,,United_States,Hematology and Oncology of Northeast Georgia,Georgia,Athens,30607,,"3320 Old Jefferson RoadAthens Pulmonary, Critical Care And Sleep Medicine, Building 200"
 15559,CDM,PPD,SHP647-301,1-XZL2S9,,United_States,Connecticut Children's Medical Center,Connecticut,Hartford,06106,,123 Address
+19658,CDM,PPD,C16021,1-8IWLZ9,,United_States,Northeast Georgia Cancer Care LLC,Georgia,Athens,30607,,3320 Old Jefferson RoadBuilding 700
 15561,CDM,PPD,HOS,058,,United_States,Connecticut Children's Medical Center,Connecticut,Hartford,06106,,282 Washington Street
+19661,CDM,PRA,Brigatinib-3001,58010,1-1L8CLV5,United_States,University Cancer and Blood Center,GA,Athens,30607,,Clarke County Medical Oncology Clinic3320 Old Jefferson RoadBuilding 700
+19662,CDM,PPD,NSMM-5001,1-LE53Y5,,United_States,"University Cancer and Blood Center, LLC",Georgia,Athens,30607,,3320 Old Jefferson RoadBuilding 700
 15565,CDM,PRA,Vedolizumab-2005,58010,1-1BUYDSD,United_States,Connecticut Children's Medical Center,CT,Hartford,06106,,282 Washington StreetSuite 2K
 15567,CDM,IQVIA,161503,108,1-2XDM8BV,United_States,Connecticut Children's Medical Center,Hartford,Connecticut,06106,,282 Washington St.Suite 4B
+19666,CDM,PPD,SHP647-305,1-114L1JH,,United_States,Gastroenterology Consultants of Augusta,Georgia,Evans,30809,,393 North Belair Road
 15570,CDM,PPD,SHP647-304,1-24Q9X3U,,United_States,Connecticut GI,Connecticut,Hartford,06106,,85 Seymour Street
+19668,CDM,PPD,SHP647-307,1-26COL8Q,,United_States,University Hospital,Georgia,Evans,30809,,465 North Belair RoadMedical Building 3 Suite 2B
 15571,CDM,PPD,SHP647-302,1-21RD31U,,United_States,Connecticut GI,Connecticut,Hartford,06106,,85 Seymour StreetSuite 1000
 15577,CDM,PPD,MLN0002-3025,3025-58015,,United_States,Connecticut Children's Medical Center,Connecticut,Hartford,06106-3322,,282 Washington St
+19675,CDM,PPD,C16029,1-YQMMJT,,United_States,Augusta Oncology,Georgia,Augusta,30901,,1348 Walton Way
+19676,CDM,PPD,C16014,1-F45RZ,,United_States,Augusta Oncology,Georgia,Augusta,30901,,820 Saint Sebastian Way
+19677,CDM,PPD,C16029,1-YQMPDF,,United_States,Medical Oncology Associates of Augusta,Georgia,Augusta,30901,,1340 Walton WaySuite 6700
 15579,CDM,PPD,TAK-071-2002,1-65RA3AL,,United_States,"Coastal Connecticut Research, LLC - ClinEdge - PPDS",Connecticut,New London,06320,,342 Montauk Avenue
+19679,CDM,PPD,SHP647-305,1-ZWUDA3,,United_States,Gastroenterology Consultants of Augusta,Georgia,Augusta,30901-2637,,820 Saint Sebastian Way
 15582,CDM,PPD,C16021,1-8JW0J0,,United_States,Oncology and Hematology Associates PC,Connecticut,New London,06320,,3 Shaw's CoveSuite 201
+19681,CDM,IQVIA,TAK-831-2002,58018,1-4CQU61M,United_States,Augusta University,Augusta,Georgia,30912,,1120 15th StAR 0117
+19682,CDM,PPD,C16021,1-8INZ1W,,United_States,Augusta University,Georgia,Augusta,30912,,1120 15th StreetSuite C1152
+19683,CDM,PPD,SHP647-306,1-163Z5MA,,United_States,Augusta University,Georgia,Augusta,30912,,1120 15th Street
 15584,CDM,PPD,C16014,1-DX4GV,,United_States,Eastern CT Hematology and Oncology Associates,Connecticut,Norwich,06360,,330 Washington StreetSuite 220
 15588,CDM,PPD,SHP647-305,1-ZI69K4,,United_States,Connecticut Gastroenterology,Connecticut,Guilford,06437,,111 Goose Lane2nd Floor
 15590,CDM,PPD,TAK-079-1004,1-5QGG605,,United_States,Smilow Cancer Hospital Care Center at Guilford,Connecticut,Guilford,06437,,111 Goose Lane
 15591,CDM,PPD,SHP647-306,1-167WPRA,,United_States,Midstate Gastroenterology Specialists,Connecticut,Meriden,06451,,455 Lewis AvenueSuite 105
+19691,CDM,PPD,SHP621-301,1-HK0J0X,,United_States,Augusta University,Georgia,Augusta,30912,,1120 Fifteenth StreetDigestive Health CenterAD-2226
+19694,CDM,PPD,TAK-071-2002,58007,,United_States,Augusta University,Georgia,Augusta,30912,,1429 Harper Street
 15598,CDM,PPD,NSMM-5001,1-SY84YL,,United_States,Connecticut Oncology Group,Connecticut,Middletown,06457,,536 Saybrook RoadConnecticut Oncology Group
 15600,CDM,IQVIA,MLN0002SC-3030,58117,1-2Q8753I,United_States,Middlesex Gastroenterology Associates,Middletown,Connecticut,06457,,410 Saybrook RoadSuite 201
+19697,CDM,PRA,Ponatinib-3001,58018,1-1MQFDAO,United_States,Augusta University Georgia Cancer Center,GA,Augusta,30912,,1411 Laney Walker Boulevard
 15602,CDM,PPD,SHP647-305,1-24QTFKI,,United_States,Danbury Internal Medicine Associates,Connecticut,Newtown,06470-2791,,153 South Main StreetSuite 8
+19699,CDM,PPD,C16014,1-F0YGY,,United_States,Georgia Health Sciences University,Georgia,Augusta,30912,,1423 Harper StreetWomens Health Research Center
+19700,CDM,PPD,SHP607-202,1-15NMQQR,,United_States,Medical College of Georgia,Georgia,Agusta,30912,,1120 15th Street
+19704,CDM,PPD,TAK-981-1502,1-6TY38C3,,United_States,Georgia Cancer Center at Augusta University,Georgia,Augusta,30912-0002,,"1411 Laney Walker BlvdGeorgia Cancer Center, Section of Gynecologic OncologyCN-4327"
 15609,CDM,PPD,C16029,1-Y5U6BH,,United_States,Cancer Center of Central Connecticut,Connecticut,Southington,06489,,55 Meriden AvenueSuite 1-a
+19707,CDM,PPD,TAK-981-1503,1-COG9XV1,,United_States,Augusta University,Georgia,Augusta,30912-0020,,1447 Harper St
 15611,CDM,PPD,SHP607-202,1-15MX1GK,,United_States,Yale-New Haven Children's Hospital,Connecticut,New Haven,06504,,1 Park Street
 15613,CDM,PPD,TAK-071-2002,1-65RA3BA,,United_States,Institute For Neurodegenerative Disorders,Connecticut,New Haven,06510,,60 Temple StreetSuite 8B
 15615,CDM,PPD,Pevonedistat-1016,58002,,United_States,Smilow Cancer Hospital at Yale New Haven,Connecticut,New Haven,06510,,20 York Street
+19712,CDM,PPD,C16029,1-YQM99V,,United_States,Central Georgia Cancer Care,Georgia,Macon,31201,,1062 Forsyth StreetSuite C-1
 15618,CDM,PPD,Brigatinib-1002,1-616LFAN,,United_States,Smilow Cancer Hospital at Yale New Haven,Connecticut,New Haven,06510,,35 Park Street
+19716,CDM,IQVIA,MLN0002SC-3030,58004,1-262JKE6,United_States,Gastroenterology Associates of Central Georgia,Macon,Georgia,31201,,610 Third StreetSuite 204
+19718,CDM,PPD,VDZ-5034,58036,,United_States,"Gastroenterology Associates of Central Georgia, LLC",Georgia,Macon,31201,,610 3rd StreetSuite 204
 15622,CDM,PPD,C16021,1-8JF3RH,,United_States,Yale New Haven Hospital,Connecticut,New Haven,06510,,20 York Street7th Floor
 15624,CDM,PPD,SHP647-305,1-Y14R7L,,United_States,Yale University School of Medicine,Connecticut,New Haven,06510,,135 College StreetInternal Medicine/Digestive Diseases1A
 15626,CDM,PRA,SYR-322_309,58016,1-1JRF7ZN,United_States,Yale New Haven Hospital,CT,New Haven,06511,,1 Long Wharf DriveSuite 503
+19724,CDM,PPD,SHP647-307,1-26COL9R,,United_States,Georgia Gastroenterology Center,Georgia,Macon,31201,,1014 Forsyth StreetSuite 300
 15628,CDM,PPD,VDZ-5034,58078,,United_States,Gastroenterology Center of Connecticut,Connecticut,Hamden,06518,,2200 Whitney Ave.Spring Glen Medical CenterSuite 300
 15629,CDM,PPD,SHP647-301,1-XE0L01,,United_States,Medical Research Center of Connecticut LLC,Connecticut,Hamden,06518,,2200 Whitney AvenueSuite 300
 15631,CDM,IQVIA,MLN0002SC-3031,58007,1-1RW8CFJ,United_States,"Medical Research Center of Connecticut, LLC",Hamden,Connecticut,06518,,2200 Whitney AvenueSuite 360
 15633,CDM,IQVIA,TAK-831-2002,58014,1-45LRUDA,United_States,Connecticut Mental Health Center - Yale University,New Haven,Connecticut,06519,,34 Park St.
 15634,CDM,PPD,TAK-079-2001,58019,,United_States,Yale University,Connecticut,New Haven,06519,,2 Church St SouthYale Center for Clinical InvestigationSuite 525B
 15635,CDM,IQVIA,SHP643-403,104,1-49SEY56,United_States,Yale University School of Medicine,New Haven,Connecticut,06519,,789 Howard Ave Fitkin Building 2nd Floor
+19732,CDM,PPD,P2002,1-5IZUHMX,,United_States,Memorial University Medical Center,Georgia,Savannah,31404,,4700 Waters AvenueCurtis and Elizabeth Anderson Cancer Institute
+19733,CDM,PPD,C16014,1-AQTJD,,United_States,St Joseph's Candler Health System Inc,Georgia,Savannah,31405,,5353 Reynolds StreetSuite 300
+19734,CDM,PPD,TAK-788-2001,1-74VG4LE,,United_States,Summit Cancer Care PC,Georgia,Savannah,31405,,225 Candler Drive
+19735,CDM,PPD,C16021,1-8IWLQ9,,United_States,Summit Cancer Care PC,Georgia,Savannah,31405,,5400 Sutlive StreetSuite 300
 15636,CDM,PPD,C16021,1-E5U6XM,,United_States,Yale Cancer Center,Connecticut,New Haven,06520,,310 Cedar Street
 15637,CDM,PPD,TAK-007-2001,1-7EZ4UGU,,United_States,Yale Cancer Center,Connecticut,New Haven,06520,,310 Cedar StreetFMP 130PO Box 208032
+19738,CDM,IQVIA,Vedolizumab-4014,58061,1-2YN2QON,United_States,"Meridian Clinical Research, LLC",Savannah,Georgia,31406,,340 Eisenhower Dr.Suite 1200
+19737,CDM,PPD,TAK-007-2001,1-7EY4W13,,United_States,Icahn School of Medicine at Mount Sinai,New York,New York,31406,,1470 Madison Avenue3rd Floor
+19739,CDM,PPD,C16027,1-RZRR8S,,United_States,Mount Sinai Medical Center,New York,New York,31406,,1470 Madison Avenue
 15645,CDM,PPD,Pevonedistat-2001,1-ESQMRH,,United_States,Yale University School of Medicine,Connecticut,New Haven,06520,,333 Cedar Street
 15646,CDM,PPD,SHP620-303,034,,United_States,Yale University School of Medicine,Connecticut,New Haven,06520,,333 Cedar StreetSection of Infectious Diseases
+19744,CDM,PPD,TAK-071-2002,1-B8T8JBL,,United_States,Meridian Clinical Research-(Savannah Georgia) - Platinum - PPDS,Georgia,Savannah,31406-2778,,6602 Waters Ave Bldg C
+19745,CDM,IQVIA,161503,123,1-38IJQWS,United_States,"Georgia Pollens Clinical Research Centers, Inc.",Albany,Georgia,31707,,105 Spanish Court
+19747,CDM,PPD,SHP647-305,1-Y0ZAUE,,United_States,Columbus Regional Research Institute at Talbotton - IACT - PPDS,Georgia,Columbus,31904,,800 Talbotton RoadSuite 400
 15652,CDM,IQVIA,Vedolizumab-4014,58048,1-2R9E4TM,United_States,Gastroenterology Associates of Fairfield County,Bridgeport,Connecticut,06606,,2660 Main StreetSuite 203
 15654,CDM,PPD,SHP647-305,1-XEQAQS,,United_States,Gastroenterology Associates of Fairfield County,Connecticut,Bridgeport,06606,,2660 Main StreetSuite 203
 15656,CDM,PPD,SHP647-301,1-ZGYX1F,,United_States,Bridgeport Hospital,Connecticut,Bridgeport,06610,,267 Grant Street
 15658,CDM,PPD,C16029,1-10W6Y25,,United_States,Trumbull Care Center,Connecticut,Trumbull,06611,,5520 Park AvenueSmilow Cancer CareSuite 203
+19755,CDM,PPD,SHP647-301,1-203PC0G,,United_States,"Gastrointestinal Diseases, Inc Research - IACT- PPDS",Georgia,Columbus,31904,,1130 Talbotton Rd
 15659,CDM,PPD,SHP647-301,1-Y0ZAS0,,United_States,Chase Medical Research LLC,Connecticut,Waterbury,06708,,500 Chase Parkway
 15661,CDM,PPD,C16014,1-E0ITJ,,United_States,Medical Oncology and Hematology PC,Connecticut,Waterbury,06708,,1075 Chase ParkwaySuite B
 15663,CDM,PPD,SHP647-301,1-204NMCK,,United_States,Naugatuck Valley Gastroenterology,Connecticut,Waterbury,06708,,1312 W. Main Street101
+19762,CDM,PPD,SHP647-306,1-1J8R8FZ,,United_States,"Gastrointestinal Diseases, Inc Research - IACT- PPDS",Georgia,Columbus,31904,,1130 Talbotton RoadSuite 400
 15671,CDM,PPD,SHP465-308,1-1B15795,,United_States,Supreme Clinical Research Management,Connecticut,Newtown,06740,,20 Church Hill Road
+19769,CDM,PPD,C16021,1-8JF3QX,,United_States,John B. Amos Cancer Center Research - IACT - PPDS,Georgia,Columbus,31904,,1831 5th Avenue
+19770,CDM,PRA,SYR-322_309,58003,1-1ENE1NG,United_States,Endocrine Consultants Research,GA,Columbus,31904-4501,,2425 Brookstone Centre Parkway
+19771,CDM,PRA,C16047,58129B,1-1LZ8XDM,United_States,Florida Cancer Specialists,FL,Fleming Island,32003,,4689 US Highway 17Suite 2
+19772,CDM,PPD,C16021,1-8INYY2,,United_States,Cancer Care of North Florida,Florida,Lake City,32024,,289 Southwest Stonegate TerraceSuite 103
 15673,CDM,PPD,TAK-079-1004,1-5QH85EP,,United_States,Davita Inc Clinical Research Unit,Connecticut,Middlebury,06762,,850 Sraits TurnpikeSuite 300
 15674,CDM,PPD,SHP647-305,1-10B2OOD,,United_States,Danbury Hospital,Connecticut,Danbury,06810,,24 Hospital Avenue
+19775,CDM,IQVIA,Vedolizumab-4014,58034,1-2WGWYQX,United_States,Sarkis Clinical Trials - Parent,Lake City,Florida,32055,,611 NW 60th Street
+19776,CDM,PPD,C16014,1-LOPYZ,,United_States,Cancer Specialists of North Florida (San Marco),Florida,Orange County Park,32073,,2161 Kingsley AvenueSuite 560
 15676,CDM,PPD,NSMM-5001,ON-HOLD,,United_States,Praxair Cancer Center at Danbury Hospital,Connecticut,Danbury,06810,,95 Locust AvenuePraxair Cancer Center
+19778,CDM,PPD,TAK-079-1005,1-5D85A7L,,United_States,Neurologique Foundation,Florida,Ponte Vedra Beach,32082-4040,,"6 Fairfield Boulevard, Azalea Office ParkSuite 11"
+19779,CDM,IQVIA,Vedolizumab-4014,58043,1-2VV1YVY,United_States,East Coast Institute for Research at Baker Gilmour Cardiovascular Institute,St. Augustine,Florida,32086,,216 Southpark Circle East
+19780,CDM,PPD,SHP647-304,304-362,,United_States,"East Coast Institute for Research, LLC",Florida,Saint Augustine,32086,,201 Health Park BoulevardSuite 105
 15677,CDM,PPD,SHP647-301,1-204NM9I,,United_States,Gastroenterology Associates of Fairfield County,Connecticut,Fairfield,06824,,425 Post Road
+19782,CDM,PPD,SHP647-305,305-362,,United_States,"East Coast Institute for Research, LLC",Florida,Saint Augustine,32086,,201 Health Park BoulevardGIS Associates of Saint Augustine
 15685,CDM,PPD,TAK-071-2002,1-67NFXFU,,United_States,Yale University School of Medicine,Connecticut,Fairfield,06824,,75 Kings Highway CutoffDepartment of Neurology5th Floor
 15686,CDM,PPD,C16014,1-EE673,,United_States,Whittingham Cancer Center at Norwalk Hospital,Connecticut,Norwalk,06850,,30 Stevens Street
 15687,CDM,PPD,SHP620-303,1-TIJF4D,,United_States,Stamford Hospital,Connecticut,Stamford,06902,,166 W Broad StreetStamford Health Integrated Practices - Stamford Infectious Diseases
 15688,CDM,PPD,C16014,1-CK4RW,,United_States,Stamford Hospital,Connecticut,Stamford,06902,,30 Shelburne Road
 15691,CDM,PPD,SHP647-301,1-14GQV4O,,United_States,Stamford Therapeutics Consortium - ClinEdge - PPDS,Connecticut,Stamford,06905,,47 Oak Street
+19789,CDM,PPD,SHP647-302,1-21RD2VR,,United_States,Gastroenterology Associates of St. Augustine,Florida,St. Augustine,32086,,216 Southpark Circle East
 15698,CDM,PPD,SHP647-305,1-25EUVVO,,United_States,Summit Medical Group,New Jersey,Clifton,07012,,6 Brighton Road
+19796,CDM,IQVIA,TAK-743-1002,103,1-53R271K,United_States,Cardiology Associates Research Company,Daytona Beach,Florida,32117,,305 Memorial Medical ParkwaySuite 301
+19797,CDM,PPD,SHP647-305,1-1081XGA,,United_States,Ormond Beach Clinical Research,Florida,Daytona Beach,32117,,305 Memorial Medical ParkwaySuite 301
+19799,CDM,PPD,SHP647-302,1-4GAXJ6S,,United_States,Advanced Gastroenterology and Endoscopy Center,Florida,Port Orange County,32127,,1690 Dunlawton Avenue
 15705,CDM,PPD,C16029,1-YQM9BL,,United_States,Veterans Affairs New Jersey Health Care System - NAVREF - PPDS,New Jersey,East Orange,07018,,385 Tremont Avenue
 15708,CDM,PPD,SHP620-303,1-TJB5QP,,United_States,Hoboken University Medical Center (HUMC),New Jersey,Hoboken,07030,,308 Willow Avenue
 15709,CDM,PPD,C16029,1-YQMM7P,,United_States,Saint Barnabas Medical Center,New Jersey,Livingston,07039,,200 South Orange Avenue
+19806,CDM,PRA,TAK-906-2002,58025,1-1JYHX9F,United_States,Advanced Medical Research Center,FL,Port Orange,32127,,1690 Dunlawton AvenueSuite 110
 15710,CDM,PPD,SHP607-202,1-15NMQM8,,United_States,Saint Barnabas Medical Center,New Jersey,Livingston,07039,,94 Old Short Hills Road
+19808,CDM,IQVIA,AD-4833-TOMM40_303,5021,1-1F6LWTE,United_States,Progressive Medical Research,Port Orange,FL,32127,,5111 Ridgewood Ave.Suite 200
 15713,CDM,PPD,C16014,1-C26DH,,United_States,Oncology and Hematology Specialists PA,New Jersey,Mountain Lakes,07046,,420 Boulevard
+19810,CDM,PPD,SHP621-301,301-108,,United_States,Accord Clinical Research LLC,Florida,Port Orange,32129,,3635 South Clyde Morris BoulevardSuite 800
+19811,CDM,PPD,SHP647-305,1-XZO9NG,,United_States,ENCORE Borland-Groover Clinical Research - ERN - PPDS,Florida,Port Orange,32129,,3635 S. Clyde Morris Boulevard
 15714,CDM,PPD,SHP647-305,1-1117O5L,,United_States,Gastroenterology Medical Associates,New Jersey,North Berger,07047,,9223 Kennedy Boulevard
+19813,CDM,PPD,SHP647-306,1-1ZFJQI0,,United_States,Riverside Clinical Research,Florida,Edgewater,32132,,1410 South Ridgewood Avenue
 15716,CDM,PPD,TAK-071-2002,1-B8W5L62,,United_States,The Cognitive and Research Center of New Jersey - ERG - PPDS,New Jersey,Springfield,07081-1755,,195 Mountain Ave
 15717,CDM,PPD,SHP620-303,1-TIF9BC,,United_States,Prime healthcare services – St Michael’s LLC d/b/a Saint Michael’s medical center,New Jersey,Newark,07102-1909,,111 Central AvenuePeter Ho Memorial Clinic
 15718,CDM,IQVIA,161403,514,1-4GTM0FF,United_States,Rutgers New Jersey Medical School,Newark,New Jersey,07103,,185 S. Orange AvenueRM UH F189
@@ -1264,135 +1417,285 @@ SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_I
 15722,CDM,PPD,C16014,1-E7UP5,,United_States,Essex Hematology Oncology Group PA,New Jersey,Belleville,07109,,36 Newark AvenueSuite 214
 15723,CDM,PPD,SHP643-301,643301-109,,United_States,Hudson-Essex Allergy,New Jersey,Belleville,07109,,5 Franklin AvenueSuite 102
 15725,CDM,PPD,C16014,1-HCR97,,United_States,Newark Beth Israel Medical Center,New Jersey,Newark,07112,,201 Lyons Avenue
+19822,CDM,PPD,TAK-071-2002,1-FVDJ5UV,,United_States,Charter Research,Florida,Lady Lake,32159,,757 County Road 466
+19823,CDM,PRA,TAK-906-2002,58078,1-1RHVGRU,United_States,Synexus Clinical Research - The Villages,FL,The Villages,32162,,3201 Wedgewood Lane
+19824,CDM,PPD,SHP647-305,1-43HYM3E,,United_States,NSB Research,Florida,New Smyrna Beach,32168,,308 Palmetto Street
 15727,CDM,IQVIA,SHP643-303,104,1-4RYCI8S,United_States,"Jay M Kashkin, MD Allergy, Asthma and Immunology",Fair Lawn,New Jersey,07410,,23-00 Route 208South Suite 2-1
 15730,CDM,PPD,SHP647-305,1-XZL2PR,,United_States,Holt Institute of Medicine,New Jersey,Little Falls,07424,,47 Center Avenue
 15732,CDM,PPD,SHP647-307,1-163XC74,,United_States,Joseph Shami's Private Practice,New Jersey,West Paterson,07424,,205 Browertown RoadSuite 206
+19831,CDM,PPD,SHP647-301,1-1117TQE,,United_States,United Medical Research,Florida,New Smyrna Beach,32168,,612 Palmetto Street
+19833,CDM,PPD,C16014,1-F3TPD,,United_States,Florida Hospital Cancer Institute,Florida,Ormond Beach,32174,,873 Sterthaus AvenueDepartment Of Oncology
+19834,CDM,PPD,SHP647-305,1-Y22BYK,,United_States,Gastroenterology Consultants,Florida,Ormond Beach,32174,,300 Clyde Morris Boulevard
 15739,CDM,PPD,SHP647-301,1-112J5AJ,,United_States,Arysmed Clinical Research Solutions,New Jersey,Ridgewood,07450,,562 Barnett Place
+19836,CDM,PPD,TAK-079-2001,58007,,United_States,Millennium Research,Florida,Ormond Beach,32174,,1545 Hand AvenueSuite 301
+19837,CDM,PPD,TAK-071-2002,1-65R9SDQ,,United_States,Neurology Associates of Ormond Beach,Florida,Ormond Beach,32174,,8 Mirror Lake DriveSuite A
+19838,CDM,PPD,SHP647-305,1-ZGYDVK,,United_States,"Digestive Disease Consultants, PA",Florida,Jacksonville,32204,,2151 Riverside Avenue
 15741,CDM,PPD,SHP647-301,1-1119KE6,,United_States,Jeffrey B Danzig MD PC,New Jersey,Ridgewood,07450,,127 Union Street
+19840,CDM,PPD,SHP647-305,1-114LI8I,,United_States,Westside Center for Clinical Research - ERN - PPDS,Florida,Jacksonville,32205,,810 Lane Avenue South
 15743,CDM,PRA,SYR-322_309,58025,1-1JRFQRP,United_States,Saint Joseph's Regional Medical Center - Paterson,NJ,Paterson,07503,,703 Main Street
+19842,CDM,PPD,TAK-079-1004,1-5QGG5ZS,,United_States,21st Century Oncology,Florida,Jacksonville,32207,,820 Prodential DriveResearch and EducationSuite 601
+19843,CDM,PPD,C16029,1-Y4IEVS,,United_States,Baptist - MD Anderson Cancer Center,Florida,Jacksonville,32207,,1235 San Marco Boulevard
 15744,CDM,PPD,HOS,124,,United_States,St Joseph's Regional Medical Center,New Jersey,Paterson,07503,,703 Main Street
+19845,CDM,PPD,C16021,1-8JW0CO,,United_States,Baptist Cancer Institute,Florida,Jacksonville,32207,,1235 San Marco BoulevardResearch and EducationSuite 601
+19846,CDM,PPD,C16014,58086,,United_States,Baptist Cancer Institute,Florida,Jacksonville,32207,,1235 San Marco Boulevard
 15746,CDM,PPD,SHP609-302,201,,United_States,Hackensack University Medical Center,New Jersey,Hackensack,07601,,30 Prospect AvenueJoseph M. Sanzari Children's Hospital
+19848,CDM,PRA,Vedolizumab-2005,58024,1-1DV0K4K,United_States,Nemours Children's Specialty Care - Jacksonville,FL,Jacksonville,32207,,807 Childrens Way
 15747,CDM,PPD,C16029,1-YFEFPS,,United_States,Hackensack University Medical Center,New Jersey,Hackensack,07601,,30 Prospect Avenue
 15749,CDM,PPD,SHP620-303,047,,United_States,Hackensack University Medical Center,New Jersey,Hackensack,07601,,92 2nd StreetJohn Theurer Cancer CenterSuite 400
 15750,CDM,PPD,Pevonedistat-1016,1-3SBUO4H,,United_States,Hackensack University Medical Center,New Jersey,Hackensack,07601,,92 2nd Street
 15758,CDM,PPD,C16010,58011,,United_States,Hackensack University Medical Center,New Jersey,Hackensack,07601,,92 Second StreetSuite 302
+19857,CDM,IQVIA,TAK-994-1501,58023,1-4RCE6BR,United_States,Jacksonville Center for Clinical Research,Jacksonville,Florida,32216,,4085 University Boulevard SouthSuite 1
 15761,CDM,PRA,AP24534-14-203,128,1-1FBMCLR,United_States,Hackensack University Medical Center,NJ,Hackensack,07601,,92 2nd Street
+19859,CDM,PPD,SHP647-305,1-1119KMD,,United_States,Jacksonville Center For Clinical Research - ERN-PPDS,Florida,Jacksonville,32216,,4085 University Boulevard SouthSuite 1
 15764,CDM,PPD,Pevonedistat-1016,1-3LL4R6V,,United_States,John Theurer Cancer Center,New Jersey,Hackensack,07601,,92 2nd StreetJohn Theurer Cancer Center
 15765,CDM,PPD,P2002,1-6CH93IS,,United_States,John Theurer Cancer Center,New Jersey,Hackensack,07601,,92 2nd Street
+19862,CDM,PPD,SHP647-305,1-111235P,,United_States,Southeast Clinical Research LLC,Florida,Jacksonville,32216,,6817 Southpoint ParkwaySuite 902
+19864,CDM,PRA,TAK-906-2002,58030,1-1JYIVEF,United_States,Mayo Clinic,FL,Jacksonville,32224,,4500 San Pablo Road
+19867,CDM,PPD,MLN0002-3024,1-7JU6LYF,,United_States,Mayo Clinic - PPDS,Florida,Jacksonville,32224,,4500 San Pablo RoadNCI Designated Comprehensive Cancer Center
+19868,CDM,PPD,Pevonedistat-2001,1-D902EW,,United_States,Mayo Clinic - PPDS,Florida,Jacksonville,32224,,4500 San Pablo Road
 15775,CDM,IQVIA,C34001,58004,1-1GB32UI,United_States,Regional Cancer Care Associates,Hackensack,New Jersey,07601,,100 First StreetSuite 301
 15777,CDM,PPD,C16029,1-YQM99I,,United_States,Drs. Forte Schleider & Attas PA,New Jersey,Englewood,07631,,25 Rockwood Place
+19874,CDM,PPD,TAK-079-1005,1-5D85A8A,,United_States,Mayo Clinic Jacksonville - PPDS,Florida,Jacksonville,32224,,4500 San Pablo RoadDepartment of Dermatology3rd Floor
 15778,CDM,PPD,C16014,PND 000,,United_States,Drs. Forte Schleider & Attas PA,New Jersey,Englewood,07631,,350 Engle Street
+19876,CDM,PPD,Pevonedistat-1016,1-3M8FDVP,,United_States,Mayo Clinic Jacksonville - PPDS,Florida,Jacksonville,32224,,4500 San Pablo Road
 15780,CDM,PPD,SHP647-301,301-394,,United_States,Englewood Hospital and Medical Center - Clinical Research Center,New Jersey,Englewood,07631,,"350 Engle StreetNorth Annex, 3rd FloorSuite 101"
 15781,CDM,PPD,SHP647-302,1-21XXSVY,,United_States,The Gastroenterology Group of Northern NJ LLC,New Jersey,Englewood Cliffs,07632,,140 Sylvan AveSuite 101A
+19879,CDM,PPD,TAK-007-2001,58013,,United_States,Mayo Clinic Jacksonville - PPDS,Florida,Jacksonville,32224,,4500 San Pablo RoadNCI Designated Comprehensive Cancer Center
 15788,CDM,PPD,C16014,1-FWGJI,,United_States,Hematology Oncology Associates of NJ PA,New Jersey,Paramus,07652,,One Valley Health Plaza
+19886,CDM,PPD,P2002,1-5J5URNS,,United_States,Cancer Specialists of North Florida (Roberts) - USOR,Florida,Jacksonville Beach,32250,,1375 Roberts DriveSuite 560
+19887,CDM,PPD,SHP647-306,1-18K8OOZ,,United_States,Clinical Neuroscience Solutions Inc,Florida,Jacksonville,32256,,5200 Belfort Road
 15790,CDM,PPD,SHP620-303,1-TIF96Q,,United_States,Holy Name Hospital,New Jersey,Teaneck,07666,,718 Teaneck RoadThe Institute for Clinical Research
 15791,CDM,PPD,TAK-079-1005,1-5D8IV18,,United_States,Progressive Neurology,New Jersey,Westwood,07675,,260 Old Hook RoadSuite 200
 15792,CDM,PPD,SHP647-301,1-1113F2J,,United_States,ProMetrix Clinical Studies,New Jersey,Wall,07719,,3350 Highway 138Building 2Suite 128
 15794,CDM,PPD,NSMM-5001,1-T7RG0Z,,United_States,"American Oncology Partners of Maryland,  PA",New Jersey,Little Silver,07739,,180 White Road
 15795,CDM,PPD,SHP607-202,1-15NMQMK,,United_States,Monmouth Medical Center,New Jersey,Long Branch,07740,,300 Second Avenue
+19893,CDM,IQVIA,SPD503-401,701,1-4NJH5VH,United_States,"Clinical Neuroscience Solutions, Inc.",Jacksonville,Florida,32256,,5200 Belfort RDSuite 420
+19894,CDM,PPD,SHP647-306,1-15OFKX0,,United_States,ENCORE Borland-Groover Clinical Research - ERN - PPDS,Florida,Jacksonville,32256,,4800 Belfort Road
 15796,CDM,PRA,C31004,58011A,1-1N7YN2W,United_States,Memorial Sloan Kettering Cancer Center - Monmouth,NJ,Middletown,07748,,480 Red Hill Road
 15797,CDM,IQVIA,Vedolizumab-4014,58093,1-2WL9JNW,United_States,Atlantic Gastroenterology Associates,Neptune,New Jersey,07753,,1944 Corlies Ave.Suite 205
 15798,CDM,PPD,SHP620-303,1-TIJFHW,,United_States,Jersey Shore University Medical Center,New Jersey,Neptune,07753,,1945 Route 33
+19898,CDM,PPD,SHP621-301,301-178,,United_States,ENCORE Borland-Groover Clinical Research - ERN - PPDS,Florida,Jacksonville,32256,,4800 Belfort RoadSuite 301
 15799,CDM,PPD,C16029,1-Y4HKH3,,United_States,Jersey Shore University Medical Center,New Jersey,Neptune,07753,,1945 State Route 33
 15802,CDM,PPD,SHP647-301,1-205DFZ2,,United_States,Monmouth Gastroenterology,New Jersey,Oakhurst,07755,,1912 State Route 35A Division of Allied Digestive Health#201
+19903,CDM,ICON,C25003,,86961,United_States,Integrated Community Oncology Network,Florida,Jacksonville,32256,,7015 AC Skinner Parkway
+19904,CDM,PPD,SHP647-305,1-ZUUUQK,,United_States,Digestive Disease Clinic,Florida,Tallahassee,32308,,2400 Miccosukee Road
 15809,CDM,PPD,SHP647-303,1-15MO4VK,,United_States,Wellness and Research Center,New Jersey,Belvidere,07823,,526 Water Street
+19906,CDM,PRA,C16047,58129A,1-1LZ6F22,United_States,Florida Cancer Specialists,FL,Tallahassee,32308,,2626 Car DriveSuite 200
+19907,CDM,PPD,SHP647-305,1-YBB3BL,,United_States,GI Associates of Tallahassee,Florida,Tallahassee,32308,,2457 Care DriveSuite D100
+19909,CDM,PRA,C16047,58129,1-1KDIW91,United_States,SCRI - Florida Cancer Specialists - Panhandle,FL,Tallahasse,32308,,1600 Phillips RoadSuite 300
+19910,CDM,PPD,C16029,1-10NUR6F,,United_States,Tallahassee Memorial Hospital,Florida,Tallahassee,32308,,1775 Healing Place
+19911,CDM,PPD,SHP647-301,1-204S389,,United_States,Emerald Coast Gastroenterology,Florida,Panama City,32405,,2202 State Avenue
 15816,CDM,PPD,C16014,1-C0N3X,,United_States,Oncology & Hematology Associates PA,New Jersey,Denville,07834,,23 Pocono RoadSuite 201
 15817,CDM,PPD,C16021,1-8K3AW3,,United_States,Oncology and Hematology Specialists PA,New Jersey,Denville,07834,,23 Pocono Road
 15818,CDM,PPD,SHP465-308,1-1FNGP2X,,United_States,The NeuroCognitive Institute,New Jersey,Mt Arlington,07856,,111 Howard Blvd
 15819,CDM,PPD,C16029,1-YQMPAM,,United_States,Sparta Cancer Center,New Jersey,Sparta,07871,,89 Sparta AvenueSuite 203
 15820,CDM,PPD,NSMM-5001,1-T7RG1C,,United_States,Overlook Medical Center,New Jersey,Summit,07901,,99 Beauvoir Avenue
 15821,CDM,PPD,P2002,1-5IZYBGU,,United_States,Summit Medical Group,New Jersey,Summit,07901,,33 Overlook RoadCarol G. Simon Cancer Center2nd Floor
+19918,CDM,PPD,SHP647-307,1-167O6D9,,United_States,Emerald Coast Research Associates (Normal ),Florida,Panama City,32405,,221 East 23rd StreetSuite C
 15822,CDM,ICON,C25003,,307986,United_States,Memorial Sloan-Kettering Cancer Center @ Basking Ridge,New Jersey,Basking Ridge,07920,,136 Mountain View Blvd.
 15823,CDM,PPD,C16014,1-KNHUE,,United_States,Summit Medical Group,New Jersey,Berkeley Heights,07922,,1 Diamond Hill Road
+19925,CDM,PPD,SHP647-305,1-1113F11,,United_States,Mariusz Jerzy Klin MD,Florida,Panamá,32405,,2905 Highway 77
 15832,CDM,PPD,SHP647-305,1-XFUBY3,,United_States,Gastroenterology Research Associates LLC,New Jersey,Cedar Knolls,07927,,65 Ridgedale Avenue
 15834,CDM,PPD,SHP647-301,1-ZK5DH1,,United_States,Florham Park Endoscopy Center,New Jersey,Florham Park,07932,,195 Columbia TurnpikeSuite 201
+19932,CDM,PPD,SHP647-305,1-1113EZD,,United_States,Panama Clinical Research Associates,Florida,Lynn Haven,32444,,1000 Ohio Avenue
 15836,CDM,IQVIA,TED-R13-002,0518,1-1E7YTFJ,United_States,Saint Barnabas Health Care System,Mendham,New Jersey,07945,,15 White Oak Ridge Court
+19934,CDM,PPD,TAK-951-2001,1-70OOVK2,,United_States,Baptist Healthcare,Florida,Pensacola,32501,,1000 West Moreno Street
+19935,CDM,PPD,SHP647-307,1-26B8BSV,,United_States,Gastroenterology Associates - Baptist Division,Florida,Pensacola,32501,,1717 North ''E'' StreetSuite 308
 15837,CDM,PRA,AP32788-15-101 Extension Study,58267,1-1N43N45,United_States,Atlantic Health - Morristown Medical Center,NJ,Morristown,07960,,100 Madison Avenue
 15839,CDM,PPD,Brigatinib-1002,1-616GIXA,,United_States,Goryeb Children's Hospital,New Jersey,Morristown,07960,,100 Madison Ave
 15842,CDM,PPD,SHP647-301,1-YBATFD,,United_States,Morristown Medical Center,New Jersey,Morristown,07960,,435 South StreetRoom 266
 15845,CDM,PPD,Pevonedistat-2001,1-D8Y267,,United_States,Hematology Oncology Associates of Northern New Jersey,New Jersey,Morristown,07960-1089,,100 Madison AvenueCarol G. Simon Cancer Center
+19942,CDM,PRA,C16038,10012,1-1I8KUCQ,United_States,Woodlands Medical Specialists - Pensacola,FL,Pensacola,32503,,4724 North Davis Highway
+19943,CDM,PPD,SHP647-305,1-ZWXR7Q,,United_States,"Gastroenterology Consultants, P.A.",Florida,Pensacola,32504,,5147 N 9th AvenueSuite 311Suite 201
 15846,CDM,PPD,MLN0002-3024,3024-58013,,United_States,Goryeb Children's Hospital,New Jersey,Morristown,07960-6136,,100 Madison Ave
+19945,CDM,PPD,SHP620-303,1-TIF9CF,,United_States,Pensacola Healthcare Center,Florida,Pensacola,32504,,4300 Bayou BoulevardSuite 305
+19946,CDM,PPD,TAK-951-2001,1-70MN819,,United_States,Sacred Heart Hospital,Florida,Pensacola,32504,,5151 North 9th Avenue
+19947,CDM,PPD,C16029,1-Y4IES6,,United_States,Sacred Heart Medical Oncology Group,Florida,Pensacola,32504,,1545 Airport BoulevardSuite 2000
+19948,CDM,PPD,Brigatinib-1002,1-618BAUS,,United_States,The Studer Family Children's Hospital at Sacred Heart,Florida,Pensacola,32504,,5151 North 9th Avenue
 15850,CDM,PPD,P2002,1-5J5URUC,,United_States,Hematology Oncology Associates of Northern New Jersey,New Jersey,Morristown,07962,,100 Madison Avenue
+19950,CDM,PPD,TAK665-4003,1-GO0XDDJ,,United_States,"Nemours Children’s Specialty Care, Jacksonville",Florida,Pensacola,32504-8785,,5153 N 9th Ave
+19951,CDM,PPD,SHP647-305,1-10B2OQH,,United_States,Gulf Region Clinical Research Institute,Florida,Pensacola,32514,,8333 North Davis Highway
 15854,CDM,IQVIA,TED-R13-002,0525,1-1A1YYU3,United_States,Metabolic Medicine & Weight Control Center,Morristown,New Jersey,07962,,435 South StreetSuite 310
+19953,CDM,PPD,C16014,1-AHP4O,,United_States,University of Florida,Florida,Gainsville,32603,,"1600 Southwest Archer RoadAcademic Research Building, #201, University Of Flordia, Division Of Hematology/oncology"
+19954,CDM,PPD,SHP647-303,1-246IKUT,,United_States,Digestive Disease Associates,Florida,Gainesville,32605,,6400 West Newberry Road
+19955,CDM,PPD,SHP647-306,1-25R0W0T,,United_States,Digestive Disease Associates,Florida,Gainesville,32605,,6400 West Newberry RoadSuite 302
 15855,CDM,PPD,SHP647-301,1-XFTXRV,,United_States,Atlantic Health System,New Jersey,Morristown,07962-1089,,100 Madison Avenue
 15857,CDM,PPD,SHP647-305,1-ZK5DPB,,United_States,Hanover Endoscopy Center,New Jersey,Whippany,07981,,91 S Jefferson Road
 15859,CDM,PPD,SHP647-302,1-167WFXD,,United_States,Professional Gastroenterology,New Jersey,Cherry Hill,08003,,1939 Marlton Pike E
+19961,CDM,PPD,SHP647-307,1-1670W0J,,United_States,Florida Medical Research,Florida,Gainesville,32605,,6400 West Newberry RoadSuite 17
 15866,CDM,PPD,C16014,1-E62N1,,United_States,The Center For Cancer And Hematologic Disease,New Jersey,Camden,08003,,1930 Route 70 EastSuite V-107
 15867,CDM,PPD,C16014,1-HGPAH,,United_States,CINJ at Cooper Hospital,New Jersey,Voorhees,08043,,900 Centennial BoulevardSuite M
 15868,CDM,PPD,TAK-071-2002,1-65R9S87,,United_States,Cooper University Hospital,New Jersey,Voorhees,08043,,900 Centennial BoulevardMovement Disorders CenterSuite 104
 15869,CDM,PPD,SHP647-305,1-111646J,,United_States,Sunset Road Professional Building South,New Jersey,Willingboro,08046,,218 C Sunset RoadCooper University Physicians
+19966,CDM,PPD,SHP647-305,1-XEW9SK,,United_States,"Florida Research Network, LLC",Florida,Gainesville,32605,,6800 Northwest 9th BoulevardSuite 17
+19969,CDM,IQVIA,Vedolizumab-4014,58071,1-351C1RD,United_States,"Florida Research Network, LLC",Gainesville,Florida,32605,,6800 NW 9th BlvdSuite 1
+19970,CDM,PPD,C16014,1-E46RF,,United_States,Gainsville Hematology Oncology Associates,Florida,Gainesville,32605,,1147 Northwest 64th TerraceSuite 160
+19971,CDM,PPD,C16021,1-8K3ATZ,,United_States,Robert R Carroll MD PA,Florida,Gainesville,32605,,6400 West Newberry RoadSuite 206
 15876,CDM,PPD,SHP621-301,301-134,,United_States,South Jersey Gastroenterology,New Jersey,Marlton,08053,,406 Lippincott DriveSuite E
+19973,CDM,PPD,SHP647-305,1-1119KPQ,,United_States,Southeastern Integrated Medical,Florida,Gainesville,32607,,4343 West Newberry RoadSuite 17
+19975,CDM,PPD,TAK-071-2002,1-65R9SDE,,United_States,University of Florida Center for Movement Disorders & Neurorestoration,Florida,Gainesville,32607,,3450 Hull Road4th Floor
+19976,CDM,PPD,SHP620-303,1-169WTFX,,United_States,UF_Shands Health Shands Cancer Hospital,Florida,Gainesville,32608,,1515 Southwest Archer RoadNephrology
 15880,CDM,PPD,SHP647-306,1-25TK5I5,,United_States,The Gastroenterology Group PA,New Jersey,Mount Laurel,08054,,15000 Midlantic DriveSuite 110
+19978,CDM,PPD,SHP607-202,1-15MY417,,United_States,UF_Shands Health Shands Cancer Hospital,Florida,Gainesville,32608,,1600 Southwest Archer Road
+19983,CDM,PPD,SHP647-301,1-XZL2IS,,United_States,University of Florida,Florida,Gainesville,32608,,2001 Southwest 13th StreetShands Endoscopy Center
 15887,CDM,PPD,SHP647-301,1-ZGYEDS,,United_States,Dimarino Kroop Prieto Gastro Intestinal Associates,New Jersey,Woodbury,08096,,26 E Red Bank AvenueSuite 101
 15889,CDM,PPD,SHP607-202,1-15NMQLV,,United_States,Cooper University Hospital,New Jersey,Camden,08103,,1 Cooper PlazaDepartment of Neonatology
+19986,CDM,PPD,SHP607-202,1-15MY47Y,,United_States,University of Florida,Florida,Gainesville,32608-1136,,2000 Southwest Archer Road
+19987,CDM,PPD,Brigatinib-1003,1-6185EA3,,United_States,Pediatric Sarcoma Center at the University of Florida,Florida,Gainesville,32610,,"1600, Southwest Archer Road"
 15891,CDM,IQVIA,MLN0002SC-3031,58063,1-213IFNP,United_States,"AGA Clinical Research Associates, LLC",Egg Harbor Township,New Jersey,08234,,3205 Fire Road
+19989,CDM,IQVIA,261203,113,1-1X5XPJI,United_States,UF Health Shands Hospital,Gainesville,Florida,32610,,1600 SW Archer Rd
+19990,CDM,PPD,Pevonedistat-3001,1-16PZHR8,,United_States,UF_Shands Health Shands Cancer Hospital,Florida,Gainesville,32610,,1600 Southwest Archer RoadDepartment of MedicinePO Box 100278
+19991,CDM,PRA,SYR-322_309,58029,1-1FJWY3D,United_States,University of Florida,FL,Gainesville,32610,,1699 Southwest 16th Avenue
+19992,CDM,PPD,C16010,58010,,United_States,University of Florida,Florida,Gainesville,32610,,"1600 Archer RoadAcademic Research Building, #201, University Of Flordia, Division Of Hematology/oncology"
 15893,CDM,PPD,SHP647-301,1-112J8IP,,United_States,"AGA Clinical Research Associates, LLC",New Jersey,Egg Harbor Township,08234,,3205 Fire Road
+19995,CDM,PPD,TAK-079-2001,1-3SXKPXA,,United_States,University of Florida,Florida,Gainesville,32610,,1600 Southwest Archer Road
 15900,CDM,PPD,SHP647-305,1-1113ESB,,United_States,Gastroenterology Group of South Jersey,New Jersey,Vineland,08360,,602 West Sherman AvenueResearch Department
 15901,CDM,PPD,SHP647-302,1-15TZTN1,,United_States,Gastroenterology Group of South Jersey,New Jersey,Vineland,08360,,602 West Sherman Avenue
+20000,CDM,IQVIA,241302,004,1-1YONIZR,United_States,University of Florida,Gainsville,Florida,32610,,1600 SW Archer RoadPO Box 10278
+20001,CDM,IQVIA,241501,143,1-4AX5RK8,United_States,University of Florida - Shands,Gainesville,Florida,32610,,"1601 SW Archer Road, RM HD-204PO Box 100298"
+20002,CDM,IQVIA,TED-R13-002,0549,1-2ZND8BP,United_States,University of Florida College of Medicine,Gainesville,Florida,32610,,1600 SW Archer RdBox 100296
 15909,CDM,IQVIA,TED-R13-002,0509,1-13YHNIJ,United_States,The Gastroenterology Group of South Jersey,Vineland,New Jersey,08360,,602 W. Sherman Ave
 15910,CDM,PPD,SHP647-307,1-26BIRLT,,United_States,Princeton Road Medical Bldg,New Jersey,East Windsor,08520,,254  Princeton-Hightstown Road
+20007,CDM,PPD,SHP465-308,136,,United_States,Altamonte Pediatrics,Florida,Altamonte Springs,32701,,475 Osceola Street
+20008,CDM,PPD,SHP647-306,1-25R0VY4,,United_States,Digestive Disease Consultants Orlando,Florida,Altamonte Springs,32701,,623 Maitland AvenueSuite 201
 15917,CDM,PPD,SHP647-307,1-26BIRNH,,United_States,Capital Health Center for Digestive Health,New Jersey,Pennington,08534,,Two Capital WaySuite 380
+20015,CDM,PPD,SHP647-305,1-24QTFMU,,United_States,The Gastroenterology Group,Florida,Altamonte,32714,,205 Loraine Drive
 15924,CDM,IQVIA,Vedolizumab-4014,58087,1-3J4V7RN,United_States,Capital Health System Inc.,Pennington,New Jersey,08534,,2 Capital Way
 15925,CDM,PPD,SHP647-303,1-2468B7L,,United_States,Princeton Medicine,New Jersey,Plainsboro,08536,,5 Plainsboro RoadSuite 300
+20022,CDM,PPD,SHP647-305,1-XZL2L0,,United_States,Avail Clinical Research LLC,Florida,DeLand,32720,,860 Peachwood Drive
+20024,CDM,PPD,SHP647-304,1-166YDU2,,United_States,Center for Advanced Gastroenterology,Florida,Maitland,32751,,1101 North Maitland Avenue
 15932,CDM,PPD,SHP647-304,1-24J3WUD,,United_States,"Princeton Gastroenterology Associates, PA",New Jersey,Princeton,08540,,731 Alexander RoadSuite 100
+20031,CDM,IQVIA,Vedolizumab-4014,58021,1-2VT531A,United_States,"CFAGI, LLC",Maitland,Florida,32751,,"740 South Concourse Pkwy, Suite 200"
+20032,CDM,PPD,TAK-079-1005,58502,,United_States,Neurology Associates PA,Florida,Maitland,32751,,301 North Maitland AvenueResearch DepartmentSuite A-1
+20033,CDM,PPD,TAK-981-1502,1-7MSD5J4,,United_States,Florida Cancer Specialists - SOUTH - SCRI - PPDS,Florida,Orange City,32763,,765 Image WaySuite 200
+20034,CDM,PPD,SHP465-308,1-1S4V8GN,,United_States,Medical Research of Central Florida - ClinEdge - PPDS,Florida,Orange City,32763,,2725 Rebecca Lane
+20035,CDM,PPD,C16029,58008,,United_States,Mid Florida Hematology and Oncology Centers PA,Florida,Orange City,32763,,2776 Enterprise RoadSuite 100
+20036,CDM,PPD,C16019,1-CJ0OTP,,United_States,Mid Florida Hematology and Oncology Centers PA,Florida,Orange County City,32763,,2276 Enterprise RoadResearch Department
 15939,CDM,PPD,Brigatinib-1002,1-615RB31,,United_States,Rutgers Cancer Institute of New Jersey,New Jersey,Hamilton,08690,,2575 Klockner Road
+20038,CDM,PPD,SHP647-305,1-1113FD7,,United_States,International Clinical Research US LLC,Florida,Sanford,32771,,819 East 1st StreetSuite 6
 15941,CDM,PPD,P2002,1-5J4N4PO,,United_States,New Jersey Hematology Oncology Associates LLC,New Jersey,Brick,08724,,1608 Route 88 West
+20040,CDM,IQVIA,TAK-883-3001,107,1-4UK4U7W,United_States,"Florida Pulmonary Research Institute, LLC",Winter Park,Florida,32789,,1788 West Fairbanks AvenueSuite B
 15944,CDM,PPD,TAK-071-2002,1-65RE4HB,,United_States,Shore Neurology,New Jersey,Toms River,08755,,633 Route 37 WestResearch Department
 15945,CDM,PPD,SHP465-308,151,,United_States,Children Specialized Hospital,New Jersey,Toms River,08755-1490,,94 Stevens Rd
+20043,CDM,PPD,SHP647-304,1-163URTV,,United_States,Shafran Gastroenterology Center,Florida,Winter Park,32789,,601 West Morse Boulevard
 15946,CDM,PPD,P2002,1-5J4N4W1,,United_States,Clinical Research Alliance Inc,New Jersey,East Brunswick,08816,,J 2 Brier Hill Ct
 15947,CDM,PPD,SHP647-305,1-ZH2FRX,,United_States,"Gastroenterology Associates Of Centeral Jersey, PA",New Jersey,Edison,08820,,1921 Oak Tree RoadSuite 250
 15949,CDM,PPD,TAK-341-1001,1-8DOV7A5,,United_States,New Jersey Neuroscience Institute,New Jersey,Edison,08820-3947,,65 James St
 15950,CDM,PPD,SHP647-302,1-21XXSWA,,United_States,"Hunterdon Digestive Health Specialists, P.A.",New Jersey,Flemington,08822,,"1100 Wescott DriveSuite 106, Doctors Office Bldg."
+20051,CDM,IQVIA,MLN0002SC-3031,58025,1-1T7KTOX,United_States,Shafran Gastroenterology Center,Winter Park,Florida,32789,,701 West Morse Boulevard
 15957,CDM,PPD,NSMM-5001,58058,,United_States,Hunterdon Hematology Oncology,New Jersey,Fleming,08822,,2100 Wescott DrHunterdon Hematology Oncology
+20054,CDM,PPD,SHP647-302,1-18KBGUL,,United_States,"Research Institute of Central Florida, LLC",Florida,Winter Park,32792,,2830 Casa Aloma Way
 15958,CDM,PPD,TAK-788-2001,1-74VXRZE,,United_States,Hunterdon Regional Cancer Center,New Jersey,Flemington,08822,,2100 Wescott Drive
+20056,CDM,PPD,C16021,1-8IVGA0,,United_States,Space Coast Medical Associates,Florida,Titusville,32796,,490 North Washington
 15959,CDM,PPD,SHP647-305,1-ZH2FVS,,United_States,Gastroenterology Consultants PA,New Jersey,Edison,08837,,205 May StreetSuite 101
 15961,CDM,PPD,SHP647-301,1-1118OD0,,United_States,Digestive Health Care Center Pa,New Jersey,Hillsborough,08844,,511 Courtyard DriveBuilding 500
+20059,CDM,PPD,SHP647-306,1-18K6N97,,United_States,Clinical Neuroscience Solutions Inc,Florida,Jacksonville,32801,,618 East South StreetSuite 100Suite 202
 15963,CDM,PPD,SHP647-305,1-11164FC,,United_States,Pharma Trials Inc,New Jersey,Hillsborough,08844,,401 Omni Drive
 15965,CDM,PPD,TAK-071-2002,1-B8T8JD6,,United_States,Rutgers University- Robert Wood Johnson Medical School,New Jersey,Piscataway,08854,,33 Knightsbridge Road2 East
 15966,CDM,PPD,C16021,1-8IWLJZ,,United_States,Somerset Hematology Oncology Associates,New Jersey,Somerville,08876,,30 Rehill AvenueSuite 2500
+20063,CDM,PPD,SHP647-301,1-111XYPH,,United_States,Clinical Neuroscience Solutions Inc,Florida,Orlando,32801,,618 East South StreetSuite 100
 15967,CDM,PPD,C16029,1-Y4814K,,United_States,Cancer Institute of New Jersey,New Jersey,New Brunswick,08901,,195 Little Albany Street
 15971,CDM,PPD,SHP607-202,001,,United_States,Robert Wood Johnson Medical School,New Jersey,New Brunswick,08901,,1 Robert Wood Johnson Place
+20070,CDM,IQVIA,MLN0002SC-3030,58084,1-262IGX6,United_States,"Clinical Neuroscience Solutions, Inc.",Orlando,Florida,32801,,618 East South StreetSuite 100
 15974,CDM,PPD,SHP647-301,1-YBATHK,,United_States,Robert Wood Johnson University Hospital,New Jersey,New Brunswick,08901,,1 Robert Wood Johnson PlacePost Office Box 19
+20072,CDM,PPD,SHP647-304,1-18HAJ6O,,United_States,CNS Healthcare,Florida,Orlando,32801,,618 East South StreetSuite 202
 15976,CDM,IQVIA,071301,116,1-2ET1D50,United_States,Rutgers - Robert Wood Johnson Medical School,New Brunswick,New Jersey,08901,,"125 Paterson St,Room 6218"
 15977,CDM,PPD,P2002,1-5J5URVF,,United_States,Rutgers Cancer Institute of New Jersey,New Jersey,New Brunswick,08901,,195 Little Albany Street
+20076,CDM,PPD,SHP620-303,030,,United_States,AdventHealth,Florida,Orlando,32803,,601 E. Rollins St.Suite 700
+20077,CDM,PPD,TAK-788-2001,58003,,United_States,AdventHealth Orlando,Florida,Orlando,32803,,601 East Rollins Street
+20078,CDM,PPD,C16014,1-HCRE7,,United_States,"AES - DRS - Synexus Clinical Research US, Inc. - Orlando",Florida,Orlando,32803,,1219 East LivingstonSuite A
+20079,CDM,PPD,SHP647-304,304-826,,United_States,Center For Digestive Health,Florida,Orlando,32803,,1817 North Mills AvenueEndoscopic Research Center
 15982,CDM,PPD,TAK-007-2001,1-7EYM68C,,United_States,Rutgers Cancer Institute of New Jersey,New Jersey,New Brunswick,08901-1914,,195 Little Albany StMain Facility Location
 15985,CDM,PPD,SHP647-304,1-163URRS,,United_States,Robert Wood Johnson University Hospital,New Jersey,New Brunswick,08903,,One Robert Wood Johnson PlaceMEB 478
+20086,CDM,PPD,TAK-071-2002,1-65RA398,,United_States,Combined Research Orlando Phase I-IV LLC,Florida,Orlando,32803,,715 North Fern Creek AvenueSuite B
+20087,CDM,PPD,VDZ-5034,58030,,United_States,Florida Hospital,Florida,Orlando,32803,,601 East Rolling Street
+20089,CDM,PPD,SHP620-303,1-TIJF64,,United_States,Orlando VA Medical Center,Florida,Orlando,32803,,5201 Raymond Street
 15994,CDM,PPD,C16014,1-LP5Z5,,United_States,Beth Israel Comprehensive Cancer Center,New York,New York,10003,,10 Union Square East
+20091,CDM,PPD,TAK-788-3001,58003,,United_States,AdventHealth,Florida,Orlando,32804,,2501 North Orange AvenueSuite 689
+20092,CDM,IQVIA,TED-R13-002,0568,1-507UB7S,United_States,AdventHealth,Orlando,Florida,32804,,2501 North Orange Avenue8th Floor
+20093,CDM,PPD,P2002,58008,,United_States,AdventHealth (Florida Hospital) - Transplant Institute,Florida,Orlando,32804,,2415 North Orange Avenue
+20094,CDM,PRA,Brigatinib-2002,58008,1-1KAE3DP,United_States,AdventHealth Orlando,FL,Orlando,32804,,2501 North Orange AvenueSuite 689
+20095,CDM,PRA,AP32788-15-101 Extension Study,58261,1-1N460XC,United_States,AdventHealth Orlando,FL,Orlando,32804,,2501 North Orange Avenue
 15995,CDM,PPD,C16021,1-8INZ66,,United_States,Beth Israel Medical Center,New York,New York,10003,,10 Union Square EastCancer Center
 15996,CDM,PPD,C16014,1-HG2JM,,United_States,Beth Israel New York,New York,New York,10003,,10 Union Square EastPhillips Ambulatory Care Center
+20098,CDM,IQVIA,Vedolizumab-4014,58024,1-2VT6N7Y,United_States,AdventHealth Orlando,Orlando,Florida,32804-5521,,2415 N Orange Ave Ste 300
+20099,CDM,PPD,TAK-341-1001,1-B8WPVBG,,United_States,AdventHealth Research Institute,Florida,Orlando,32804-5546,,301 E Princeton St
+20100,CDM,PPD,SHP621-303,303-141,,United_States,Arnold Palmer Hospital For Children,Florida,Orlando,32806,,60 West Gore Street
 15997,CDM,PPD,SHP647-306,1-15Y78FP,,United_States,Icahn School of Medicine at Mount Sinai,New York,New York,10003,,10 Union Square East
 16004,CDM,PPD,SHP647-302,1-22FSDJ1,,United_States,Jerome H Siegel MD PC,New York,New York,10003,,305 Second AvenueSuite 3
+20103,CDM,PPD,SHP647-305,1-XFVR4X,,United_States,Citrus Ambulatory Surgery Center,Florida,Orlando,32806,,2861 Delaney Ave #B#B
+20105,CDM,PPD,SHP465-308,116,,United_States,Clinical Associates of Orlando LLC,Florida,Orlando,32806,,80 Bonnie Loch Court
+20107,CDM,ICON,C25003,,87354,United_States,MD Anderson Cancer Center Orlando,Florida,Orlando,32806,,1400 S. Orange Ave
+20108,CDM,PPD,Brigatinib-1003,1-61DPFBU,,United_States,Nemours Children's Clinic,Florida,Orlando,32806,,1717 South Orange Avenue
 16012,CDM,PPD,Pevonedistat-3001,1-16PZHKN,,United_States,Crescent City Research Consortium LLC,Louisiana,Metairie,10006,,4228 Houma BoulevardEast Jefferson Hematology OncologySuite 130
 16013,CDM,PPD,SHP647-301,1-Y14RB2,,United_States,NYU Bluestone Center For Clinical Research,New York,New York,10010,,421 First Avenue
+20112,CDM,PPD,Brigatinib-1002,1-616GJ16,,United_States,Orlando Health Cancer Institute,Florida,Orlando,32806,,1400 S. Orange Avenue
 16020,CDM,PPD,TAK-079-1501,58102,,United_States,Mount Sinai Hospital-The Donald H. Ruttenberg Cancer Treatment Center,New York,New York,10011,,325 West 15th StreetBox 1128
+20117,CDM,PPD,TAK-071-2002,1-CSO3LL5,,United_States,Bioclinica Orlando,Florida,Orlando,32806-1041,,100 W Gore St Ste 202
 16022,CDM,PPD,SHP647-301,1-ZWXGIU,,United_States,"Murray Orbuch, MD",New York,New York,10012,,202 Spring StreetFL 2
+20119,CDM,PPD,MLN0002-3024,1-7JSVWK2,,United_States,Arnold Palmer Hospital Center for Digestive Health and Nutrition,Florida,Orlando,32806-1141,,60 W Gore St
+20120,CDM,PPD,SHP647-304,1-15VW2MF,,United_States,Gutierrez Medical Center,Florida,Orlando,32807,,5804 Lake Underhill RdSuite ASuite A
 16029,CDM,PPD,SHP647-306,1-25ZAG3B,,United_States,Bellevue Hospital,New York,New York,10016,,1st Avenue 27th Street
+20127,CDM,PPD,SHP647-304,304-365,,United_States,Omega Research Consultants LLC - Clinedge - PPDS,Florida,Orlando,32810,,7912 Forest City RoadSuite 101
 16036,CDM,IQVIA,TED-R13-002,0561,1-3A9TF7Y,United_States,Concord Medical Group PLLC,New York,New York,10016,,40 Park Avenue
+20134,CDM,PPD,SHP647-305,1-111U0X3,,United_States,"AES - DRS - Synexus Clinical Research US, Inc. - Orlando",Florida,Orlando,32812,,100 West Gore StreetSuite 202
+20136,CDM,PPD,SHP647-307,1-26B8BRV,,United_States,Nasir Alarakhia MD PA,Florida,Orlando,32819,,7328 Stonerock Circle
 16043,CDM,PPD,TAK-981-1502,58013,,United_States,Laura And Isaac Perlmutter Cancer Center,New York,New York,10016,,160 East 34th StreetNYU Medical Oncology AssociatesFloor 8
 16045,CDM,PPD,SHP647-303,1-15G647V,,United_States,Manhattan Medical Research Practice PLLC,New York,New York,10016,,215 Lexington Avenue21st Floor
+20143,CDM,PPD,SHP621-301,1-H6UQNQ,,United_States,Nemours Children's Hospital,Florida,Orlando,32827,,13535 Nemours Parkway
+20145,CDM,PPD,SHP647-302,1-21RD2T4,,United_States,Central Florida Gastroenterology,Florida,Orlando,32835,,6735 Conroy-Windermere RoadSuite 214
 16054,CDM,PRA,C34005,58010,1-1BRNLB7,United_States,New York University Langone Medical Center,NY,New York,10016,,160 East 34th StreetRoom 936
+20152,CDM,PPD,SHP647-307,1-4NE3GW6,,United_States,"Orlando Gastroenterology, P.A.",Florida,Orlando,32835,,1507 S Hiawassee Road#105
 16059,CDM,IQVIA,Vedolizumab-4014,58057,1-2YOZXJD,United_States,New York University School of Medicine,New York,New York,10016,,"240 East 38th Street, 23rd Floor"
 16060,CDM,PPD,TAK-788-1502,1-6W6QJX6,,United_States,NYU Cancer Institute,New York,New York,10016,,160 East 34th Street
+20159,CDM,PPD,SHP647-305,1-1119KAR,,United_States,Melbourne Internal Medicine Associates Century Research Associates,Florida,Melbourne,32901,,1223 Gateway DriveClinical Research
 16064,CDM,PPD,SHP647-301,1-XZL2QT,,United_States,NYU Langone Long Island Clinical Research Associates,New York,New York,10016,,240 E 38th Street
+20161,CDM,PPD,C16014,1-HCRRY,,United_States,Clinical Research Center at Indian River Medical Center,Florida,Vero Beach,32960,,1460 36th StreetSuite 200
+20162,CDM,PPD,C16014,1-F9G5V,,United_States,Geffen Cancer Center,Florida,Vero Beach,32960,,981 37th Place
 16066,CDM,PPD,C16014,58030,,United_States,NYU Langone Medical Center,New York,New York,10016,,160 East 32nd StreetThe Fink Children's Ambulatory Care Center
+20164,CDM,PPD,TAK-071-2002,1-65RA3CL,,United_States,Vero Neurology,Florida,Vero Beach,32960,,1155 35th LaneSuite 106
+20165,CDM,IQVIA,TAK-925-2002,58008,1-4R5OXUJ,United_States,MD Clinical,Hallandale Beach,Florida,33009,,911 E Hallandale Bch Blvd
+20166,CDM,PPD,TAK-071-2002,1-65RA3BW,,United_States,Velocity Clinical Research - Hallandale Beach - ERN - PPDS,Florida,Hallandale Beach,33009,,911 East Hallandale Beach Boulevard
 16070,CDM,PPD,TAK-007-2001,1-7EY5P9F,,United_States,NYU Langone Medical Center,New York,New York,10016,,240 E. 38th Street19th Floor
+20168,CDM,PPD,SHP647-301,1-Y22SO5,,United_States,Research Consultants Group,Florida,Hialeah,33010,,765 East 9 Street
+20170,CDM,PPD,TAK665-4003,1-GNTNXVS,,United_States,University of Miami,Florida,Miami,33010,,1475 Northwest 12th AveuneSylvester Comprehensive Cancer Center
+20171,CDM,PPD,SHP647-305,1-43IEFC4,,United_States,Direct Helpers Medical Center,Florida,Hialeah,33012,,425 West 51 PlaceSuite #505
 16074,CDM,PPD,SHP-GCB-402,101,,United_States,NYU School of Medicine,New York,New York,10016,,240 East 38th StreetDepartment of Neurology4th Floor
 16076,CDM,IQVIA,161503,101,1-2X95WFP,United_States,"Parikh Institute for Research, LLC",New York,New York,10016,,35 East 35th StreetSuite 202
 16077,CDM,PPD,Brigatinib-1002,1-61KU6OL,,United_States,Steven Hassenfeld Children's Center For Cancer and Blood Disorders,New York,New York,10016,,160 East 32nd Street2nd Floor
 16079,CDM,PPD,SHP647-302,1-22G0NMO,,United_States,Union Square Gastroenterology,New York,New York,10016,,55 East 34th Street
+20178,CDM,PPD,SHP647-307,307-869,,United_States,Direct Helpers Research Center,Florida,Hialeah,33012,,425 West 51 PlaceSuite 220
+20181,CDM,PRA,TAK-906-2002,58061,1-1PMAC1Y,United_States,Elias Research Associates - Direct Helpers Research Center - Hialeah,FL,Hialeah,33012,,425 West 51 Place
+20182,CDM,PRA,TAK-906-2002,58005,1-1K2GV5D,United_States,International Research Associates,FL,Hialeah,33012,,1490 West 49th PlaceSuite 508
 16086,CDM,PPD,TAK-676-1003,58002,,United_States,Laura And Isaac Perlmutter Cancer Center,New York,New York,10016-4744,,160 E 34th St
+20184,CDM,PPD,SHP465-308,130,,United_States,Power MD Clinical Research Institute,Florida,Hialeah,33012,,4395 Palm Avenue
+20185,CDM,PPD,TAK-771-1001,001,,United_States,"Clinical Pharmacology of Miami, Inc. - ERG - PPDS",Florida,Miami,33014,,550 West 84th StreetSuite 210
+20186,CDM,PPD,SHP647-304,304-798,,United_States,Crystal Biomedical Research,Florida,Miami Lakes,33014,,15495 Eagle Nest LaneSuite 225
 16091,CDM,PPD,TAK-341-1001,1-8DOV777,,United_States,NYU Langone Health,New York,New York,10016-6402,,550 1st Ave
 16092,CDM,PPD,SHP647-302,1-4GAXIPL,,United_States,Beth Israel Comprehensive Cancer Center,New York,New York,10017,,155 East 47th StreetSuite 1a
+20193,CDM,PPD,TAK-079-1004,1-5QH857H,,United_States,Lakes Research -ClinEdge - PPDS,Florida,Miami Lakes,33014,,5801 NW 151 StreetSuite 503A
+20194,CDM,PPD,SHP647-301,1-XE276O,,United_States,New Life Medical Research,Florida,Miami,33014,,13903 NW 67 Avenue
 16099,CDM,PPD,SHP647-301,1-ZGHKKH,,United_States,Gotham Gastroenterology,New York,New York,10017,,535 5Th AvenueSuite 1B
+20196,CDM,PPD,SHP647-301,1-1191GRE,,United_States,"Integrity Clinical Research Center,Inc.",Florida,Miami,33015,,7590 NW 186 StreetSuite 209
 16101,CDM,PPD,C16021,1-E5TKJ2,,United_States,Memorial Sloan Kettering Cancer Center,New York,New York,10017,,633 3rd AvenueClinical Trials Office
 16106,CDM,PPD,C16014,1-BKA8B,,United_States,Memorial Sloan Kettering Cancer Center,New York,New York,10017,,"633 3rd Avenue, Clinical Trials Office, 15th FloorMemorial Sloan-kettering Cancer Center"
+20203,CDM,PPD,SHP647-305,1-1117O0K,,United_States,Nuren Medical and Research Center,Florida,Miami,33015,,8260 West Flagler Street2-N
+20204,CDM,PPD,SHP647-305,1-110ZJMJ,,United_States,San Marcus Research Clinic Inc,Florida,Miami,33015,,5941 Northwest 173 DriveSuite 1
 16109,CDM,PPD,SHP647-304,1-15MOLPX,,United_States,New York Clinical Trials,New York,New York,10018,,229 West 36th Street10th Floor
+20211,CDM,PPD,SHP647-302,302-792,,United_States,Floridian Clinical Research - ClinEdge - PPDS,Florida,Hialeah,33016,,2337 West 76th StreetSuite 302
+20212,CDM,PPD,SHP647-306,306-792,,United_States,Floridian Clinical Research - ClinEdge - PPDS,Florida,Hialeah,33016,,2337 West 76th Street
 16115,CDM,PPD,SHP465-308,1-1GFLBLD,,United_States,New York Clinical Trials,New York,New York,10018,,229 West 36th Street
 16117,CDM,PPD,TAK-007-2001,1-7EY4W0D,,United_States,Columbia University Medical Center,New York,New York,10019,,51 West 51st StreetSmilow Room 1120
 16118,CDM,PPD,C16014,1-HFCW5,,United_States,Mount Sinai and Roosevelt Hospital,New York,New York,10019,,1000 10th Avenue
 16120,CDM,ICON,C25003,,2568,United_States,St. Luke's Roosevelt Hospital Center,New York,New York,10019,,"1000, 10th Ave, Suite 11C"
+20218,CDM,PPD,SHP647-301,1-111U126,,United_States,GF Professional Research Group Corporation,Florida,Miami Lakes,33016,,7980 Northwest 155 Street
 16122,CDM,PPD,TAK-981-1503,1-BAJ2GQ7,,United_States,Columbia University Medical Center,New York,New York,10021,,1275 York AvenueMemorial Sloan-kettering Cancer Center
+20220,CDM,IQVIA,TED-R13-002,0521,1-1I2VI2L,United_States,Global Health Research Center,Miami Lakes,Florida,33016,,"14505 Commerce Way, Suite 535"
+20221,CDM,IQVIA,TED-R13-002,0519,1-1IMZQ1G,United_States,"Palmetto Professional Research, Corp",Hialeah,Florida,33016,,7100 W 20 AveSuite 412
+20222,CDM,PRA,TAK-906-2002,58018,1-1KIQI0E,United_States,Palmetto Research,FL,Hialeah,33016,,2140 West 68th StreetSuite 303  305
+20223,CDM,PPD,SHP647-305,1-111649K,,United_States,Palmetto Research LLC,Florida,Hialeah,33016,,2140 West 68th StreetSuite 305
 16123,CDM,PPD,SHP647-305,1-ZWXGJV,,United_States,Gotham Gastroenterology,New York,New York,10021,,1317 3rd AveFL 7
+20225,CDM,PPD,SHP647-302,1-15G641Q,,United_States,South Florida Clinical Trials,Florida,Hialeah,33016,,"7100 West 20th Avenue7th Floor, Suite 701"
 16125,CDM,IQVIA,161403,502,1-1JFDTF9,United_States,Hospital for Special Surgery,New York,New York,10021,,525 East 71st Street5th Floor
 16126,CDM,PPD,TAK-079-1005,58511,,United_States,Hospital For Special Surgery,New York,New York,10021,,535 East 70th Street
 16128,CDM,PPD,SHP647-305,1-YBB3A6,,United_States,Jill Roberts Center for Inflammatory Bowel Disease,New York,New York,10021,,1315 York AvenueNew York Presbyterian Hospital-Weill Medical College of Cornell University
@@ -1400,78 +1703,151 @@ SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_I
 16131,CDM,ICON,C25002,,69929,United_States,Memorial Sloan - Kettering Cancer Center,New York,New York,10021,,1275 York Avenue
 16132,CDM,PPD,TAK-981-1503,1-BAJ2GPB,,United_States,Memorial Sloan Kettering Cancer Center,New York,New York,10021,,1275 York AvenueMemorial Sloan-kettering Cancer Center
 16138,CDM,PPD,Pevonedistat-2001,1-IV1O25,,United_States,Memorial Sloan Kettering Cancer Center,New York,New York,10021,,1275 York AvenueNew York - Memorial Hospital
+20240,CDM,IQVIA,Vedolizumab-4014,58007,1-2QRXSYB,United_States,Wellness Clinical Research,Miami Lakes,Florida,33016,,8181 NW 154th StreetSuite 290
+20241,CDM,PPD,SHP647-301,1-14KW67Q,,United_States,Alix Gay MD PA,Florida,Hollywood,33020,,2600 Van Buren Street
 16146,CDM,PPD,C16021,58106,,United_States,New York Presbyterian Hospital - Weill-Cornell,New York,New York,10021,,428 East 72nd StreetSuite 300
 16147,CDM,PPD,P2002,1-5J5US14,,United_States,New York Presbyterian Hospital - Weill-Cornell,New York,New York,10021,,520 East 70th StreetStarr Pavilion3rd Floor
+20248,CDM,PPD,SHP647-305,1-ZH2FPJ,,United_States,"Gastroenterology Consultants, PA",Florida,Hollywood,33021,,4700 Sheridan StreetSuite F
 16152,CDM,PPD,TAK-079-1004,1-5QH8587,,United_States,Stony Brook University Physicians,New York,East Setauket,10021,,37 Research Way
+20250,CDM,PPD,TAK665-4003,1-GNYP6LO,,United_States,Joe Dimaggio Children’s Hospital,Florida,Hollywood,33021,,1000 Joe Dimaggio Drive
 16154,CDM,PPD,C16027,1-RZQ4EE,,United_States,Weill Cornell Medical Center,New York,New York,10021,,"1305 York AvenuePayson Pavailion, 3"
+20252,CDM,PPD,SHP647-301,1-111U0V4,,United_States,Medical Research Centers of South Florida Inc,Florida,Hollywood,33021,,3939 Hollywood BoulevardSuite 3b
 16157,CDM,PPD,Pevonedistat-2001,58023,,United_States,Weill Cornell Medical College,New York,New York,10021,,1305 York Avenue
+20254,CDM,PPD,C16021,1-8JF3QD,,United_States,Memorial Cancer Institute,Florida,Hollywood,33021,,3501 Johnson StreetBreast Cancer Institute
+20256,CDM,IQVIA,MLN0002SC-3030,58091,1-262JK5Z,United_States,The Center for Gastrointestinal Disorders,Hollywood,Florida,33021,,"3800 Johnson Street, Ste DSuite 445"
+20257,CDM,PPD,SHP647-301,1-112J4PD,,United_States,Doctors Health Group,Florida,Pembroke Pines,33024,,10081 Pines BoulevardSuite 200
 16160,CDM,PPD,Pevonedistat-3001,1-1EVPFXY,,United_States,Weill Cornell Medical College,New York,New York,10021,,520 East 70th StreetRoom Y217
+20259,CDM,PPD,SHP647-303,1-246Z7KJ,,United_States,Gastrointestinal Diagnostic Centers,Florida,Pembroke Pines,33024,,2245 N. University Drive
 16161,CDM,PPD,MLN0002-3024,1-7JXXRH6,,United_States,Weill Cornell Medical College,New York,New York,10021,,525 South 68th StreetDepartment Of Genetic Medicine
 16165,CDM,PPD,Pevonedistat-1016,1-3SBUO6Z,,United_States,Memorial Sloan Kettering Cancer Center,New York,New York,10021-0005,,1275 York AvePo Box 113
 16169,CDM,PPD,Brigatinib-1002,1-67BJQST,,United_States,Memorial Sloan Kettering Cancer Center,New York,New York,10021-0005,,"Po Box 113, 1275 York AvePediatric Oncology"
 16171,CDM,PPD,Pevonedistat-1016,1-3SBUQVX,,United_States,Weill Cornell Medical College,New York,New York,10021-0005,,525 E 68th St
+20268,CDM,IQVIA,471101,120,1-3UJMVB9,United_States,"DBC Research, Corp",Pembroke Pines,Florida,33025,,18503 Pines Blvd.Suite 300
+20269,CDM,PPD,TAK-071-2002,1-65RE4I9,,United_States,Broward Research Center,Florida,Pembroke Pines,33026,,12251 Taft StreetSuite 301
+20270,CDM,PPD,SHP647-306,1-6YHA3SU,,United_States,Family Clinical Trials,Florida,Pembroke Pines,33026,,1601 North Palm AvenueSuite 102
 16173,CDM,PPD,VDZ-5034,58082,,United_States,"Gotham Medical Associates, PLLC",New York,New York,10022,,60 East 56th St7th Floor
 16175,CDM,PPD,SHP647-301,1-ZWXGDO,,United_States,Westside Gastroenterology,New York,New York,10024,,620 Columbus AvenueSuite 2
 16178,CDM,PPD,SHP647-305,1-24SWYPF,,United_States,"Eastside Medical Associates, PC",New York,New York,10028,,178 East 85th Street4th Floor
+20276,CDM,PPD,SHP647-301,1-YVY3EZ,,United_States,"BRCR Medical Center, Inc",Florida,Pembroke Pines,33028,,601 North Flamingo RoadSuite D3
+20281,CDM,IQVIA,MLN0002SC-3030,58035,1-262JKFP,United_States,"BRCR Medical Center, Inc.",Pembroke Pines,Florida,33028,,601 North Flamingo RoadSuite 309
 16185,CDM,PPD,SHP647-304,1-24J3WX2,,United_States,Manhattan Gastroenterology,New York,New York,10028,,983 Park AvenueSuite 1D
+20285,CDM,PPD,SHP647-301,1-1KK8MNN,,United_States,DBC Research USA,Florida,Pembroke Pines,33029,,18503 Pines BlvdSuite 303
 16193,CDM,PPD,SHP647-301,1-Y14RDG,,United_States,Present Chapman Marion and Steinlauf MD PC,New York,New York,10028,,12 East 86th StreetSuite 100
+20292,CDM,IQVIA,SPD503-401,708,1-4NUSCB4,United_States,Homestead Medical Research,Homestead,Florida,33030,,830 North Krome AvenueSuite C
+20293,CDM,PRA,TAK-906-2002,58069,1-1PY2VT5,United_States,Homestead Associates in Research,FL,Homestead,33032,,27535 South Dixie Highway
 16196,CDM,PPD,SHP620-303,1-TIJF33,,United_States,Icahn School of Medicine at Mount Sinai,New York,New York,10029,,1 Gustave L Levy PlaceMount Sinai HospitalRoom 558
+20295,CDM,PPD,SHP647-101,001,,United_States,"Clinical Pharmacology of Miami, Inc. - ERG - PPDS",Florida,Miami,33037,,550 West 84th Street
+20296,CDM,PPD,MLN0002-3024,1-7JSADHO,,United_States,Clinical Research Center of Florida,Florida,Pompano Beach,33060-6934,,550 SW 3rd St Ste 305/306
+20297,CDM,PPD,SHP647-307,307-744,,United_States,Alliance Medical Research LLC,Florida,Lighthouse Point,33064,,5340 North Federal HighwaySuite 100
 16197,CDM,PPD,Pevonedistat-1016,58001,,United_States,Icahn School of Medicine at Mount Sinai,New York,New York,10029,,1 Gustave L. Levy Place
 16201,CDM,PPD,MLN0002-3024,1-7JSVWLG,,United_States,Icahn School of Medicine at Mount Sinai,New York,New York,10029,,1190 5th AvenueRuttenberg Treatment Center
-16203,CDM,PPD,SHP620-302,017,,United_States,Icahn School of Medicine at Mount Sinai,New York,New York,10029,,"1425 Madison Avenue3rd Floor, L3-80"
-16204,CDM,PPD,SHP620-302,1-SMY42O,,United_States,Icahn School of Medicine at Mount Sinai,New York,New York,10029,,1450 Madison Avenue
+20302,CDM,PPD,MLN0002-3024,1-7JXXRE0,,United_States,Alliance Medical Research LLC,Florida,Lighthouse Point,33064-7058,,5340 N Federal Hwy
+20303,CDM,PPD,SHP647-303,1-246IKTV,,United_States,Digestive Care of North Broward,Florida,Coral Springs,33065,,3001 Coral Hills DriveBuilding ASuite 111
 16211,CDM,PPD,Brigatinib-1002,1-6185EGD,,United_States,Icahn School of Medicine at Mount Sinai - Mount Sinai Ruttenberg Treatment Center,New York,New York,10029,,1470 Madison AvenuePediatric Blood and Marrow Transplantation Program3rd Floor
+20310,CDM,PPD,C16029,1-YQMPCQ,,United_States,Northwest Oncology and Hematology Associates,Florida,Coral Springs,33065,,8170 Royal Palm Boulevard
 16214,CDM,PPD,SHP621-303,303-133,,United_States,Mount Sinai Hospital,New York,New York,10029,,5 East 98th Street
+20314,CDM,PPD,SHP-GCB-402,1-HX1O59,,United_States,University of Miami,Florida,Coral Springs,33065,,8170 Royal Palm BoulevardSylvester-Coral Springs
+20315,CDM,PPD,SHP647-301,1-11FE1PX,,United_States,Pioneer Clinical Research,Florida,Coconut Creek,33066,,3880 Coconut Creek ParkwaySuite 200
 16218,CDM,PPD,C16014,58115,,United_States,Mount Sinai Medical Center,New York,New York,10029,,1 Gustave L. Levy PlaceBox 1128
+20317,CDM,PPD,SHP647-305,1-1444GLX,,United_States,Alliance Medical Research LLC,Florida,Coral Springs,33071,,1500 N. University DriveSuite 110
 16219,CDM,PPD,P2002,1-5J5US1R,,United_States,Mount Sinai Medical Center,New York,New York,10029,,1 Gustave L. Levy Place
+20319,CDM,PPD,C16021,1-8IWM0W,,United_States,Cancer Research Network Inc,Florida,Coconut Creek,33073,,6810 Lyons Technology CircleSylvester At Deerfield Beach
 16221,CDM,PPD,TAK-981-1503,1-BQZT8AW,,United_States,Mount Sinai Medical Center,New York,New York,10029,,1190 5th AvenueRuttenberg Treatment CenterBox 1090
+20321,CDM,PPD,VDZ-5034,58065,,United_States,University of Miami,Florida,Miami,33101,,5 East 98th StreetMiller School of Medicine
+20322,CDM,PPD,SHP647-305,1-XZL2I3,,United_States,Medical Research Center of Florida,Florida,Miami,33122,,7500 NW 25th StreetSouth Florida Gastroenterology AssociatesSuite 258
 16227,CDM,IQVIA,AskBio009-101,02,1-1FH2191,United_States,Mount Sinai Medical Center,New York,New York,10029,,19 East 98th StreetSuite 9D Box 1078
+20324,CDM,PPD,SHP647-305,1-XE0KZ1,,United_States,Medical Research Center of Florida,Florida,Miami,33122,,7500 NW 25th StreetSuite 620
+20326,CDM,PPD,SHP647-307,1-1654BNR,,United_States,Premier Clinical Research Institute - Miami - Clinedge - PPDS,Florida,Miami,33122,,3100 Northwest 72nd AvenueSuite 125
 16233,CDM,PPD,MLN0002-3024,1-7M6NFDB,,United_States,Susan and Leonard Feinstein Inflammatory Bowel Disease Clinical Center,New York,New York,10029,,17 East 102 Street
 16234,CDM,PPD,SHP647-304,1-4NH3JUJ,,United_States,Susan and Leonard Feinstein Inflammatory Bowel Disease Clinical Center,New York,New York,10029,,17 East 102nd StreetMount Sinai Hospital5th Floor
+20334,CDM,PPD,SHP647-301,1-XFTXRJ,,United_States,"Alta Research Group, LLC",Florida,Miami,33125,,701 N.w. 57th AvenueSuite 260
 16239,CDM,PPD,SHP647-301,1-YBATH4,,United_States,Susan and Leonard Feinstein Inflammatory Bowel Disease Clinical Center,New York,New York,10029,,17 East 102nd Street5th Floor
+20336,CDM,PPD,SHP647-305,1-11164LL,,United_States,Future Care Solution LLC,Florida,Miami,33125,,1951 Northwest 17th Avenue
+20339,CDM,PPD,SHP620-303,1-TIJF4Q,,United_States,Miami VA Medical Center - NAVREF - PPDS,Florida,Miami,33125,,1201 Northwest 16th Street
+20340,CDM,PPD,SHP647-307,1-4NJL0C2,,United_States,Millennium Clinical Research Inc,Florida,Miami,33125,,3271 Northwest 7 StreetSuite 206-207
 16246,CDM,PPD,SHP647-305,1-49V7MQ7,,United_States,Susan and Leonard Feinstein Inflammatory Bowel Disease Clinical Center,New York,New York,10029-5204,,17 E 102nd Street5th Floor5th Floor
 16249,CDM,PPD,SHP634-404,111,,United_States,Columbia University Medical Center,New York,New York,1003,,180 Fort Washington AvenueDivision of Endocrinology
+20347,CDM,PPD,C16029,1-Y493KY,,United_States,Advanced Medical Specialties,Florida,Miami,33125-1653,,1321 Northwest 14th
+20348,CDM,PPD,SHP647-305,1-YWG2FV,,United_States,"Clinical Research of Miami, Inc",Florida,Miami,33126,,7200 Northwest 7th Street
 16252,CDM,ICON,C25003,,87083,United_States,Columbia University,New York,New York,10032,,"161 Fort Washington AveHervert Irving Pavilion, Garden Level"
+20350,CDM,PPD,SHP647-301,1-YVY32N,,United_States,Medical Research & South Florida Bariatric Institute,Florida,Miami,33126,,351 North West 42 AvenueSuite 408
 16255,CDM,PRA,TAK-018-2001,58021,1-1PYRW6F,United_States,Columbia University Irving Medical Center,NY,New York,10032,,161 Fort Washington Avenue8th Floor
+20352,CDM,PPD,SHP647-305,1-Y0ZO5B,,United_States,Pharmax Research Clinic LLC,Florida,Miami,33126,,7200 Northwest 7th Street
+20354,CDM,IQVIA,TAK-994-1501,58034,1-4YIC6C2,United_States,Sleep Medicine Specialists of South Florida,Miami,Florida,33126,,"351 NW Lejeune Rd,Ste 308"
+20355,CDM,PPD,SHP647-307,1-2HV8QDS,,United_States,Sunrise Research Instiute,Florida,Miami,33130,,434 Southwest 12th AvenueSuite 302
 16258,CDM,PPD,Pevonedistat-2001,58012,,United_States,Columbia University Medical Center,New York,New York,10032,,161 Fort Washington AvenueRoom 216
+20362,CDM,PPD,C16029,1-YQM9DJ,,United_States,Concentra,Florida,Miami,33133,,3659 South Miami AvenueSuite B
+20363,CDM,PPD,SHP647-301,301-395,,United_States,Advanced Clinical Research Network,Florida,Coral Gables,33134,,3940 West Flagler StreetSuite 202
 16271,CDM,IQVIA,TED-R13-002,0548,1-2XDV6PW,United_States,Columbia University Medical Center,New York,New York,10032,,622 West 168th StreetPH 7 Rm 314
+20369,CDM,PPD,SHP620-302,1-1A6F79P,,United_States,Clinical Research of South Florida,Florida,Coral Gables,33134,,370 Minorca Avenue2nd Floor
+20372,CDM,PPD,SHP647-301,1-111648A,,United_States,"Florida Medical Center & Research, Inc",Florida,Coral Gables,33134,,3818 Southwest 8th Street
 16277,CDM,PRA,Vedolizumab-2005,58031,1-1DV24T7,United_States,Columbia University Medical Center,NY,New York,10032,,630 West 168th Street
+20375,CDM,PPD,SHP647-306,306-797,,United_States,"Hi Tech and Global Research, LLc",Florida,Coral Gables,33134,,5524 SouthWest 8 StreetSuite 304
 16279,CDM,PPD,SHP620-302,018,,United_States,Columbia University Medical Center - PIN,New York,New York,10032,,3959 BroadwayPediatrics at Columbia University - PINSuite 1701C
 16282,CDM,PRA,Vedolizumab-3035,58013,1-1N4K8CW,United_States,Columbia University Medical Center - The Columbia Center for Translational Immunology,NY,New York,10032,,650 West 168th StreetBB1701C
 16283,CDM,PRA,AP26113-13-301,038,1-1F5B7QA,United_States,Montefiore Medical Center,NY,New York,10032,,622 West 168th Street18th FloorRoom 200
 16284,CDM,PPD,SHP607-202,1-15MY43P,,United_States,Morgan Stanley Childrens Hospital of New York Presbyterian (CHONY) - PIN,New York,New York,10032,,3959 Broadway
+20381,CDM,PPD,SHP647-301,1-XFTXZP,,United_States,"Research Associates of South Florida, LLC",Florida,Miami,33134,,5101 Southwest 8th StreetSuite A-107
 16285,CDM,PRA,TAK-041-2001,Lieberman J,1-1KTCE6T,United_States,New York State Psychiatric Institute,NY,New York,10032,,1051 Riverside Drive
+20383,CDM,PPD,SHP647-305,1-12FTM8E,,United_States,"Universal Medical and Research Center, LLC",Florida,Coral Gables,33134,,801 Monterrey StreetSuite 101
 16286,CDM,PPD,TAK620-5004,009,,United_States,Columbia University Medical Center,New York,New York,10032-3720,,622 W 168th St Rm 876
+20385,CDM,PPD,SHP647-305,1-YVY38H,,United_States,Yaneicy Gonzalez Rojas,Florida,Coral Gables,33134,,3900 West Flagler StreetSuite I
 16289,CDM,PPD,SHP647-301,1-111645V,,United_States,New York Center for Women's Health Research,New York,New York,10038,,90 Maiden Lane
+20387,CDM,PPD,SHP647-302,1-15O9OJ3,,United_States,RG Research Institute,Florida,Coral Gables,33135,,45 Ponce De Leon Blvd
 16291,CDM,PPD,SHP620-303,021,,United_States,Memorial Sloan Kettering Cancer Center,New York,New York,10065,,1275 York Avenue
+20394,CDM,PPD,SHP647-307,1-1653B8X,,United_States,Suncoast Research Group LLC - ERN-PPDS,Florida,Miami,33135,,2128 West Flagler StreetSuite 405
 16304,CDM,PPD,TAK-079-1501,58105,,United_States,New York Presbyterian Hospital - Weill-Cornell,New York,New York,10065,,425 East 61st StreetHematology & Medical Oncology DepartmentSuite 800
+20401,CDM,PPD,SHP607-202,1-15MUJOK,,United_States,Bascom Palmer Eye Institute,Florida,Miami,33136,,900 Northwest 17th StreetOpthalmoogy
+20402,CDM,PPD,TAK-951-2001,1-76PIOJF,,United_States,Cedars Medical Center,Florida,Miami,33136,,1400 North West 12th AvenueDeparthment Of Orthopedics
+20404,CDM,PPD,SHP647-302,1-21ZVD98,,United_States,Jackson Health System,Florida,Miami,33136,,1611 N.W. 12Th. Avenue
 16308,CDM,IQVIA,C16008PH2,58019,1-3IT5BK,United_States,University of Chicago Medical Center,New York,NY,10065,,407 E 61st Street2nd Floor
 16309,CDM,PPD,SHP647-303,303-777,,United_States,Weill Cornell Medical College,New York,New York,10065,,1283 York Avenue9th Floor
+20411,CDM,PPD,SHP607-202,1-15MUJRE,,United_States,Jackson Memorial Hospital,Florida,Miami,33136,,1611 Northwest 12th Avenue
 16315,CDM,PPD,Pevonedistat-3001,1-16PZHOS,,United_States,Weill Cornell Medical College,New York,New York,10065,,1300 York Avenue
 16316,CDM,PPD,SHP647-306,306-777,,United_States,Weill Cornell Medical College,New York,New York,10065,,1300 York AvenueNew York Presbyterian Hospital-Weill Medical College of Cornell University
+20415,CDM,PPD,Brigatinib-1003,1-61KU6A7,,United_States,Sylvester Comprehensive Cancer Center,Florida,Miami,33136,,1475 Northwest 12th Avenue
 16322,CDM,PPD,TAK-788-2001,1-7ABXTRZ,,United_States,Weill Cornell Medical College,New York,New York,10065,,420 East 70th Street
+20420,CDM,PPD,C16029,1-Y4930T,,United_States,Sylvester Comprehensive Cancer Center,Florida,Miami,33136,,1550 Northwest 10th AvenueHematology-Oncology DepartmentSuite # 3300
+20424,CDM,PPD,SHP620-302,029,,United_States,University of Miami,Florida,Miami,33136,,1120 NW 14th StreetSuite 842 (r-21)
+20425,CDM,PPD,SHP620-302,1-11D7XNG,,United_States,University of Miami,Florida,Miami,33136,,1120 NW 14th Street
+20426,CDM,PPD,TAK-007-2001,58007,,United_States,University of Miami,Florida,Miami,33136,,1475 N.W. 12th Avenue
 16328,CDM,IQVIA,261203,128,1-1XQW8RK,United_States,Weill Cornell Medical College (WCMC) - Judith Jaffe Multiple Sclerosis Center (JJMSC),New York,New York,10065,,525 E 68th StRm P695
+20428,CDM,PPD,TAK-071-2002,99999,,United_States,University of Miami,Florida,Miami,33136,,1475 Northwest 12th AvenueHematology-Oncology Department1383
 16329,CDM,PPD,Brigatinib-1002,1-619OZ46,,United_States,Weill Cornell Physicians,New York,New York,10065,,525 East 68th Street 695
 16331,CDM,PPD,Pevonedistat-1016,1-3SBUQV7,,United_States,Memorial Sloan Kettering Cancer Center,New York,New York,10065-6007,,1275 York Ave
 16334,CDM,PRA,AP24534-14-203,078,1-1FBKODB,United_States,Memorial Sloan-Kettering Cancer Center - New York,NY,New York,10065-6007,,Dept of Hematology and Oncology1275 York Avenue
 16335,CDM,PRA,C31004,58011,1-1C1OLVF,United_States,Memorial Sloan Kettering Cancer Center,NY,New York,10065-6094,,Department of Internal Medicine1275 York Avenue
 16336,CDM,PPD,SHP647-301,1-YBATP1,,United_States,New York Gastroenterology Associates,New York,New York,10075,,311 E 79th StSuite 2a
 16338,CDM,PPD,SHP647-301,1-XZL31F,,United_States,Asher Kornbluth MD,New York,New York,10128,,1751 York Avenue
+20435,CDM,PPD,SHP607-202,1-15MUJNV,,United_States,University of Miami,Florida,Miami,33136,,1800 Northwest 10th AvenueResearch Clinical Unit
+20436,CDM,IQVIA,471101,101,1-1QATYLK,United_States,University of Miami,Miami,Florida,33136,,1321 NW 14 StreetSuite 606/607
 16340,CDM,PPD,SHP647-305,1-YBB39H,,United_States,Kornbluth Legnani and George MDS,New York,New York,10128,,1150 Fifth Avenue
+20438,CDM,IQVIA,TED-R13-002,0565,1-3WM76GH,United_States,University of Miami - Miller School of Medicine,Miami,Florida,33136,,1611 NW 12th AvenueCentral Building C455 (D60)
 16342,CDM,PPD,MLN0002-3024,1-7JXXRHJ,,United_States,University of Connecticut,New York,Staten Island,10301,,263 Farmington Avenue
+20440,CDM,PRA,TAK-018-2001,58010,1-1MZT5Y6,United_States,University of Miami Leonard M. Miller School of Medicine,FL,Miami,33136,,1400 Northwest 10th Avenue10th Floor
 16343,CDM,PPD,C16014,1-E7UPL,,United_States,Staten Island University Hospital,New York,Staten Island,10305,,"256 Mason Avenue, Nalitt Center"
+20442,CDM,PPD,SHP647-307,1-15Y1YRB,,United_States,University of Miami Miller School of Medicine,Florida,Miami,33136,,1120 Northwest 14th Street
 16348,CDM,PPD,SHP647-305,1-ZGYX13,,United_States,"Sottile, Megna MD, Pc",New York,Staten Island,10306,,360 Edison Street
 16350,CDM,PPD,C16029,1-YQMMDN,,United_States,Richmond University Medical Center,New York,Staten Island,10310,,355 Bard AvenueSuite 625
+20448,CDM,PPD,Pevonedistat-3001,58031,,United_States,University of Miami Miller School of Medicine,Florida,Miami,33136,,1475 Northwest 12th AvenueSylvester Comprehensive Cancer Center
 16352,CDM,PPD,SHP647-301,1-ZUUUQ8,,United_States,Dr. Joseph W. Roberts MD,New York,Staten Island,10312,,3700 Richmond Avenue
 16354,CDM,IQVIA,TAK-831-2002,58022,1-4P7Q6TH,United_States,"ERG Clinical Research - New York PLLC, Richmond Behavioral Associates",Staten Island,New York,10312,,4349 Hylan Boulevard
 16355,CDM,PPD,SHP647-305,1-25FHE73,,United_States,Bronx Care,New York,Bronx,10457,,1650 Selwyn Avenue10th Floor
 16362,CDM,PPD,SHP620-303,1-TJB5JK,,United_States,Saint Barnabas Hospital (SBH),New York,Bronx,10457,,4422 3rd Avenue
+20459,CDM,IQVIA,TED-R13-002,0530,1-1BLO4LZ,United_States,University of Miami Schiff Center for Liver Disease,Miami,Florida,33136,,"1500 NW 12th Ave, Suite 1101Jackson Medical Tower"
+20460,CDM,PPD,MLN0002-3024,1-7JSVWJ2,,United_States,Nicklaus Children's Hospital,Florida,Miami,33137-3730,,3915 Biscayne Blvd Ste 314
+20461,CDM,PPD,TAK-981-1502,1-6TY38K2,,United_States,Mount Sinai Medical Center,Florida,Miami Beach,33140,,4300 Alton Road
 16363,CDM,PPD,Pevonedistat-2001,1-D901XR,,United_States,Albert Einstein College of Medicine,New York,Bronx,10461,,1300 Morris Park AvenueDevelopmental and Molecular BiologySuite 802
 16365,CDM,PPD,SHP607-202,1-15NMQXR,,United_States,Albert Einstein College of Medicine,New York,Bronx,10461,,1825 Eastchester Road
 16366,CDM,PPD,SHP647-306,1-25TK5L7,,United_States,Bronx Gastroenterology,New York,Bronx,10461,,1842 Wiliamsbridge Road3rd Floor
+20466,CDM,PPD,SHP647-305,1-YBATDO,,United_States,Physician Practices of MSMC,Florida,Miami Beach,33140,,4306 Alton RoadFloor 2
+20468,CDM,PPD,MLN0002-3024,1-7JSADQ7,,United_States,IMIC Inc.,Florida,Miami Beach,33140-3627,,300 W 41st St Ste 200
 16373,CDM,PPD,TAK-981-1502,58007,,United_States,Montefiore Einstein Cancer Center,New York,Bronx,10461,,1695 Eastchester RoadMontefiore-Einstein Center for Cancer Care2nd Floor
+20470,CDM,IQVIA,TED-R13-002,0502,1-1BU6XZO,United_States,Florida Medical Center & Research Inc,Miami,Florida,33142,,1501 NW 36th Street
 16375,CDM,IQVIA,161403,524,1-4K8WSPM,United_States,Montefiore Medical Center,Bronx,New York,10461,,"1525 Blondell Avenue, Suite 101"
 16376,CDM,PPD,SHP647-304,1-4NH3JOS,,United_States,Montefiore Medical Center,New York,Bronx,10461,,1250 Waters PlaceThe University Hospital for Albert Einstein College of Medicine
+20474,CDM,IQVIA,TAK-994-1501,58010,1-4QAIHRJ,United_States,Research Centers of America,Miami,Florida,33143,,7500 SW 87th AvenueSuite 200
 16379,CDM,PPD,TAK-007-2001,1-7EY4W3J,,United_States,Montefiore Medical Center,New York,Bronx,10461,,1695 Eastchester Road
 16380,CDM,PPD,Pevonedistat-1016,58006,,United_States,Montefiore Medical Center,New York,Bronx,10461,,1695 Eastchester Road2nd Floor2nd Floor
+20478,CDM,IQVIA,MLN0002SC-3031,58011,1-1S8WEY2,United_States,"Tellus Clinical Research, Inc.",Coral Gables,Florida,33143,,2500 Douglas RoadSuites B & C
 16383,CDM,IQVIA,161503,128,1-3SU446T,United_States,Montefiore Medical Center PRIME,Bronx,New York,10461,,1695 Eastchester RdSuite 505
