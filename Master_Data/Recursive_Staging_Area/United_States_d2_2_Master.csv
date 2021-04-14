@@ -1,4 +1,0 @@
-SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,Unnamed: 15,CONCAT_ADDRESS
-15179,CDM,IQVIA,TED-R13-002,529,1-13YHNGN,United_States,massachusetts general hospital,boston,massachusetts,2114,,121.0,55 fruit st suite 1201warren building
-15181,CDM,PRA,TAK-018-2001,58003,1-1MZT64F,United_States,massachusetts general hospital,ma,boston,2114,,123.0,55 fruit street
-15182,CDM,PRA,TAK-164-1001,58005,1-1LE5Z2A,United_States,massachusetts general hospital,ma,boston,2114,,124.0,55 fruit streetlawrence house 226
