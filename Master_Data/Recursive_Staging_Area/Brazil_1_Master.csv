@@ -1,0 +1,13 @@
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,rnum,CONCAT_ADDRESS
+3137,CDM,IQVIA,MLN0002SC-3030,05011,1-2R1YA4E,Brazil,hospital são vicente de paulo,passo fundo,rio grande do sul,99010080,,517,rua teixeira soares 808centro
+3139,CDM,PPD,Ponatinib-1501,1-5VW1SFG,,Brazil,hospital são vicente de paulo  ppds,rio grande do sul,passo fundo,99010080,,519,rua teixeira soares 808
+3148,CDM,PRA,Ponatinib-3001,05006,1-1L9OCFC,Brazil,hospital da cidade,rio grande do sul,passo fundo,99010260,,528,rua tiradentes 295
+3149,CDM,PPD,C16029,1-YWTNI3,,Brazil,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260,,529,rua tiradentes 295sector de oncologia
+3152,CDM,PPD,SHP647-302,1-16DG2WL,,Brazil,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260,,532,rua tiradentes 295
+3121,CDM,PPD,TAK-788-3001,05007,,Brazil,hospital sao lucas da pontificia universidade catolica do rio grande do sul pucrs,rio grande do sul,porto alegre,90610000,,501,avenida ipiranga 6690
+3125,CDM,PPD,NSMM-5001,05004,,Brazil,hospital nossa senhora da conceição,rio grande do sul,porto alegre,91350200,,505,rua francisco trein 596 1 andar sala 24 cristo redentor
+3126,CDM,PRA,SYR-322_309,05001,1-1FLHI2N,Brazil,instituto da crianca com diabetes,rio grande do sul,porto alegre,91350250,,506,rua lvares cabral 529
+3127,CDM,PPD,TAK-788-3001,1-507A42H,,Brazil,instituto de pesquisas clínicas para estudos multicêntricos,rio grande do sul,caxias do sul,95070560,,507,rua francisco getúlio vargas 1130
+3128,CDM,PPD,C16021,05121,,Brazil,universidade de caxias do sul,rio grande do sul,caxias do sul,95070560,,508,rua francisco getúlio vargas 1130ipcem504
+3131,CDM,PPD,TAK-788-3001,1-590OEFT,,Brazil,hospital tacchini,rio grande do sul,bento gonçalves,95700084,,511,rua general osorio 235subsolo
+3132,CDM,PPD,TAK-981-1502,05002,,Brazil,associação hospital de caridade ijuí,rio grande do sul,ijuí,98700000,,512,av david josé martins 152departamento de oncologia

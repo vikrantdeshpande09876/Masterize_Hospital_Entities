@@ -1,7 +1,9 @@
 import os
 
-class Environment_Directory_Config:
-    _STATIC_FILE_NAME="DM_SITE_INFORMATION_SRC_EXTRACT.xlsx"
+class Config:
+    
+    ''' Environment Directory Config '''
+    _STATIC_FILE_NAME="Site_Master_Extract.xlsx"
     _RAW_SCORES_DIRECTORY='Raw_Scores'
     _CLEANED_SCORES_DIRECTORY='Cleaned_Scores'
     _MASTER_DATA_DIRECTORY='Master_Data'
@@ -12,14 +14,14 @@ class Environment_Directory_Config:
     
     
     
-# class Data_Fields_Config:
+    ''' Data_Fields Config '''
     _FIELDS_TO_CONCAT={ 'CONCAT_ADDRESS':   ['ADDRESS_LINE_1','ADDRESS_LINE_2','ADDRESS_LINE_3'] }
     _COLUMNS_TO_CLEAN=['ADDRESS_LINE_1','ADDRESS_LINE_2','ADDRESS_LINE_3','SITE_NAME','STATE','CITY','POSTAL_CODE']
-    _MAXSIZE=5000
+    _MAXSIZE=500
 
 
 
-# class R_Code_Config:
+    ''' R_Code Config '''
     _RSCRIPT_CMD="C:/Program Files/R/R-3.4.4/bin/i386/Rscript"
     #_RSCRIPT_CMD="Rscript"
     _SCRIPT_NAME="Site_Master_Record_Linkage.R"
@@ -28,7 +30,7 @@ class Environment_Directory_Config:
     
 
 
-# class Match_Score_Computation_Config:
+    ''' Match_Score_Computation '''
     _BINARIES_NAME="levenshtein"
     _BINARIES_EXTENSION=".dll"
     #_BINARIES_EXTENSION=".so"

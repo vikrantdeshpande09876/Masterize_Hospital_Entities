@@ -1,0 +1,4 @@
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,rnum,CONCAT_ADDRESS
+2124,CDM,PRA,Ponatinib-3001,60003,1-1KQ02PC,Belarus,minsk scientific and practical center of surgery transplantation and haematology,minsk,minsk,220045,,1,semashko street 8
+2125,CDM,PRA,Ponatinib-3001,60001,1-1KQ02L8,Belarus,republican scientific and practical center of childrens oncology hematology and immunology,minsk,minsk,223053,,2,frunzenskaya street 43village borovlyanyborovlyanskiy ss
+2126,CDM,PRA,Ponatinib-3001,60002,1-1KQ02NU,Belarus,republican research centre for radiation medicine and human ecology,homyelrskaya,gomel,246040,,3,ilyicha street 290

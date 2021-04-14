@@ -1,0 +1,155 @@
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,rnum,CONCAT_ADDRESS
+21505,CDM,PPD,C16014,1-JJ2D0,,United_States,physicians resource group llc,alabama,dothan,36305,,6447,3160 west main streetsuite 6
+21506,CDM,PPD,Pevonedistat-3001,58014,,United_States,southern cancer center,alabama,daphne,36526,,6448,29653 anchor cross boulevard
+21507,CDM,PPD,SHP647-305,1-25B4G0Q,,United_States,gastroenterologists pc,alabama,foley,36532,,6449,1625 n alston street
+21514,CDM,PPD,SHP647-306,1-15XCBGA,,United_States,g  l research llc,alabama,foley,36535,,6456,1600 north mckenzie streetsuite 408
+21521,CDM,PPD,SHP647-305,1-109GCOK,,United_States,imc diagnostic  medical clinic,alabama,mobile,36604,,6463,1700 spring hill avenuesuite 100
+21531,CDM,PPD,SHP620-303,1-TIJFGZ,,United_States,university of south alabama,alabama,mobile,36604,,6473,1504 spring hill avenuechildrens  womens hospital  childrens specialty clinicfloor 5
+21533,CDM,PPD,TAK-079-1004,1-5QHGE5E,,United_States,university of south alabama mitchell cancer institute,alabama,mobile,36604,,6475,1660 springhill avenueclinical trials department
+21535,CDM,PPD,SHP-607-201,023,,United_States,university of south alabama childrens and womens hospital,alabama,mobile,366043391,,6477,1700 center street
+21537,CDM,PPD,SHP647-301,1-111U0YS,,United_States,meridien research  bradenton,florida,tampa,36606,,6479,501 south boulevard
+21539,CDM,PPD,SHP647-301,1-112J54L,,United_States,internal medicine center,alabama,mobile,36608,,6481,101 memorial hospital drive
+21541,CDM,PPD,C16014,1-CK4X4,,United_States,sacred heart medical oncology group,alabama,mobile,36608,,6483,6701 airport boulevard
+21542,CDM,PPD,Pevonedistat-1016,1-3SHMBQW,,United_States,southern cancer center,alabama,mobile,36608,,6484,3719 dauphin street
+21544,CDM,PPD,SHP647-301,1-112AVBQ,,United_States,mobile medical and diagnostic center,alabama,mobile,36617,,6486,2261 costarides street
+21546,CDM,PPD,P2002,1-7ENFP5V,,United_States,university of south alabama,alabama,mobile,36688,,6488,307 north university boulevard
+21549,CDM,PPD,VDZ-5034,58039,,United_States,internal medicine center,alabama,mobile,36693,,6491,3828 saint andrews loop east
+21550,CDM,PPD,VDZ-5034,58010,,United_States,university of south alabama,alabama,mobile,36693,,6492,5600 girby road
+21551,CDM,PPD,SHP647-305,1-ZWXGE0,,United_States,diagnostic  medical clinic,alabama,mobile,36695,,6493,831 hillcrest road c
+21553,CDM,IQVIA,TAK-994-1501,58032,1-4SB1THT,United_States,global research associates,auburn,alabama,36832,,6495,183 e university drive
+21554,CDM,PPD,SHP647-305,1-ZVCYBF,,United_States,vanderbilt university medical center,tennessee,franklin,37027,,6496,2105 edward curd lane
+21556,CDM,PPD,C16014,1-CLB7N,,United_States,alpha clinical research llc,tennessee,clarksville,37043,,6498,279 clear sky courtsuite c
+21557,CDM,PPD,SHP647-301,1-205IHIH,,United_States,clarksville gastroenterology pc,tennessee,clarksville,37043,,6499,132 hillcrest drive
+21059,CDM,PPD,TAK-788-2001,1-74VG4XL,,United_States,scri florida cancer specialists south,florida,fort myers,33916,,6001,4331 veronica south shoemaker boulevard  unit 15
+21061,CDM,PPD,SHP647-306,1-25R0W0H,,United_States,digestive health physicians,florida,fort myers,33919,,6003,12700 creekside ln302
+21068,CDM,PPD,TAK-079-1005,58524,,United_States,medsol clinical research center inc,florida,port charlotte,33952,,6010,3390 tamiami trailsuite 201
+21069,CDM,PPD,SHP647-302,1-15YDWM8,,United_States,volunteer medical research,florida,port charlotte,33952,,6011,3221 tamiami trail
+21076,CDM,PPD,TAK-071-2002,1-B8X39T8,,United_States,neurostudies inc,florida,port charlotte,339529204,,6018,4161 tamiami trl
+21077,CDM,PPD,SHP647-304,304-827,,United_States,renaissance research medical group inc,florida,cape coral,33991,,6019,629 sw 4th st
+21083,CDM,PPD,SHP647-305,1-1LKFC8B,,United_States,advanced research for health improvement llc  clinedge  ppds,florida,naples,34102,,6025,1168 goodlette frank road northsuite 301
+21084,CDM,PPD,SHP647-301,301-821,,United_States,gastroenterology group of naples,florida,naples,34102,,6026,1064 goodlette road
+21094,CDM,PPD,TAK-951-2001,1-70MN85D,,United_States,naples anesthesia and physician associates napa,florida,naples,34108,,6036,840 111th avenue north
+21096,CDM,IQVIA,161406,161406-108,1-1VR6C14,United_States,care one health center​,naples,florida,34109,,6038,2500 vanderbilt beach rd ste 1103
+21097,CDM,PPD,SHP647-301,1-1117TR2,,United_States,pharma research international inc,florida,naples,34109,,6039,3439 pine ridge road
+21099,CDM,PPD,SHP465-308,1-1B157EK,,United_States,kidz medical services,florida,naples,34110,,6041,2600 immokalee roadpediatric neurology
+21101,CDM,PPD,SHP647-306,1-25R0W3W,,United_States,millennium physicians group,florida,naples,34110,,6043,11181 healthpark blvdste 3010
+21108,CDM,PPD,SHP647-304,304-758,,United_States,pharma research international inc,florida,naples,34110,,6050,1656 medical boulevardsuite 301
+21115,CDM,PPD,SHP647-306,1-25R0W49,,United_States,physicians regional medical group,florida,naples,34119,,6057,6101 pine ridge road
+21122,CDM,PPD,SHP647-306,1-18W7KF1,,United_States,meridien research  bradenton,florida,bradenton,34201,,6064,8043 cooper creek boulevard
+21123,CDM,IQVIA,MLN0002SC-3031,58122,1-30ROT0Z,United_States,florida research institute,lakewood ranch,florida,34211,,6065,10920 technology terrace
+21124,CDM,ICON,C25003,,4864,United_States,florida cancer specialists,florida,englewood,342233992,,6066,714 doctors drive
+21125,CDM,IQVIA,C34001,58005,1-1CXN4QR,United_States,florida cancer specialists sarasota fl,sarasota,florida,34232,,6067,600 north cattlemen roadsuite 200
+21126,CDM,PRA,TAK-931-2001,58003,1-1FO6G4Q,United_States,sarah cannon research institute,fl,sarasota,34232,,6068,florida cancer specialists600 north cattlemen roadsuite 200
+21127,CDM,PPD,TAK-788-1502,1-6W6QJOU,,United_States,scri florida cancer specialists south,florida,sarasota,34232,,6069,600 north cattlemen road
+21128,CDM,PPD,SHP647-301,1-XZL2E9,,United_States,center for digestive diseases,florida,sarasota,34239,,6070,3325 south tamiami trail
+21130,CDM,PPD,SHP647-306,1-25R8VYO,,United_States,florida digestive health specialist,florida,sarasota,34239,,6072,2089 hawthorne streetsuite 200
+21137,CDM,IQVIA,161406,161406-128,1-1ZUO0UA,United_States,windom allergy asthma  sinus dba sarasota clinical research,sarasota,florida,34239,,6079,3570 s tuttle avenue
+21138,CDM,PPD,SHP647-305,1-24R8923,,United_States,peter r dumas md pa,florida,venice,34292,,6080,1215 jacaranda blvd
+21145,CDM,PPD,C16014,1-E46Z7,,United_States,citrus hematology and oncology,florida,crystal river,34429,,6087,770 southeast 5th terrace
+21146,CDM,PPD,SHP647-301,1-XE26K9,,United_States,gastroenterology associatescrystal river,florida,crystal river,34452,,6088,6412 west gulf to lake highway
+21148,CDM,PRA,TAK-906-2002,58017,1-1JYHX7N,United_States,nature coast clinical research,fl,inverness,34452,,6090,411 west highland boulevard
+21149,CDM,PPD,C16021,1-8MV4A4,,United_States,nature coast clinical research,florida,inverness,34452,,6091,212 south pine avenue
+21154,CDM,IQVIA,MLN0002SC-3030,58002,1-262JJZK,United_States,nature coast clinical research llc,inverness,florida,34452,,6096,411 west highland boulevard
+21156,CDM,PPD,C16029,1-Y4HKHG,,United_States,cancer and blood disease center,florida,lecanto,34461,,6098,521 north lecanto highwayresearch office north regionsuite 220
+21161,CDM,PPD,C16029,1-YQMPMW,,United_States,ocala oncology center  usor,florida,ocala,34471,,6103,433 sw 10th street
+21164,CDM,PPD,SHP647-301,1-204S378,,United_States,gastroenterology associaes of ocala,florida,ocala,344718213,,6106,1901 se 18th avenuesuite 400
+21171,CDM,PPD,SHP647-301,1-1118O8O,,United_States,lakeview medical research,florida,summerfield,34491,,6113,10250 se 167th place rdresearch deptsuite 53
+21173,CDM,PPD,SHP647-307,1-18HO52L,,United_States,meridien research  bradenton,florida,brooksville,34601,,6115,16176 cortez boulevard
+21174,CDM,PPD,SHP647-301,1-16BFFZQ,,United_States,meridien research  brooksville,florida,brooksville,34601,,6116,16176 cortez boulevard
+21176,CDM,PPD,SHP647-304,1-24Q9082,,United_States,hernando gastroenterology associates,florida,brooksville,34613,,6118,12190 cortez blvd
+21183,CDM,PPD,C16021,1-8JF3UZ,,United_States,pasco hernando oncology,florida,brooksville,34613,,6125,14529 cortez boulevard
+21186,CDM,PPD,C16029,1-YQMMGP,,United_States,pasco hernando oncology,florida,new port richey,34652,,6128,5802 state road 54
+21188,CDM,PPD,SHP647-301,1-114LI6S,,United_States,suncoast clinical research inc  clinedge  ppds,florida,new port richey,34652,,6130,5604 gulf drivesuite 100
+21190,CDM,PRA,TAK-906-2002,58068,1-1PXCPLA,United_States,advanced research institute  new port richey,fl,new port richey,34653,,6132,7114 congress street
+21191,CDM,PPD,SHP647-305,1-Y22BU0,,United_States,advanced research institute inc,florida,new port richey,34653,,6133,6716 congress streetsuite 102
+21194,CDM,PPD,SHP647-305,1-32W0TJF,,United_States,bayside clinical research  new port richey,florida,new port richey,34655,,6136,3633 little roadsuite 115
+21201,CDM,PPD,C16014,1-KC920,,United_States,florida cancer affiliates  usor,florida,new port richey,34655,,6143,5500 little road
+21202,CDM,PPD,C16019,1-CJ0UG0,,United_States,florida cancer institute,florida,new port richey,34655,,6144,8763 river crossing boulevardresearch office north regionsuite 220
+21205,CDM,PPD,C16014,1-AHQO0,,United_States,cancer care centers of florida,florida,hudson,34667,,6147,13904 lakeshore boulevard
+21206,CDM,PPD,SHP647-305,1-XEX4YW,,United_States,advanced gastroenterology highland medical center,florida,palm harbor,34684,,6148,34041 us 19 northsuite a
+21208,CDM,PPD,SHP647-302,1-1643IIR,,United_States,palm harbor medical associates  clinedge  ppds,florida,palm harbor,34684,,6150,3820 tampa roadsuite 102 and 202
+21215,CDM,PPD,GOS,105,,United_States,east lake oncology pa,florida,palm harbor,34685,,6157,4114 woodlands parkwaysuite 301
+21216,CDM,PPD,SHP647-302,1-21ZVD4X,,United_States,south lake gastroenterology,florida,clermont,34711,,6158,821 oakley seaver drive
+21223,CDM,PPD,SHP647-301,1-1191GU4,,United_States,south lake pain institute pa  clinedge  ppds,florida,clermont,34711,,6165,2440 hooks st
+21230,CDM,PPD,SHP647-304,1-24Q90B8,,United_States,gastroenterology associates osceola pa,florida,kissimmee,34741,,6172,710 oak commons boulevard
+21237,CDM,PPD,MLN0002-3024,3024-58005,,United_States,ihs health llc,florida,kissimmee,34741,,6179,445 west oak street
+21238,CDM,IQVIA,TAK-925-2002,58007,1-4QRHCQF,United_States,pulmonary disease specialists pa dba pds research,kissimmee,florida,34741,,6180,1121 north central avenue
+21240,CDM,PPD,SHP647-304,304-814,,United_States,sih research,florida,kissimmee,34741,,6182,724 w vine st
+21245,CDM,PPD,MLN0002-3025,3025-58005,,United_States,ihs health llc,florida,kissimmee,347416627,,6187,445 w oak st
+21246,CDM,PPD,SHP647-303,1-246IKVI,,United_States,digestive disease clinic of central florida,florida,kissimmee,34744,,6188,2400 north orange blossom trailsuite 200
+21253,CDM,PPD,SHP647-301,1-204S303,,United_States,advanced gastroenterological associates of central flor,florida,celebration,34747,,6195,410 celebration placesuite 400
+21260,CDM,PRA,TAK-954-2004,58020,1-1NACWQL,United_States,center for colon  rectal surgery   celebration,fl,celebration,34747,,6202,400 celebration place
+21261,CDM,PPD,C16014,1-HG2KV,,United_States,lake heart and cancer medical center,florida,leesburg,34748,,6203,732 north 3rd street
+21262,CDM,PPD,SHP647-301,1-14GH5NX,,United_States,sih research,florida,poinciana,34759,,6204,1000 cypress parkwaysuite 115
+21264,CDM,PPD,SHP647-306,1-25R0W26,,United_States,advanced gastroenterology surgery associates,florida,leesburg,34788,,6206,8110 cr 44 leg a
+21271,CDM,PPD,SHP647-301,1-XFSIQ4,,United_States,prevention  strengthening solutions inc,florida,fort pierce,34947,,6213,317 n 27th street
+21272,CDM,PPD,SHP647-307,1-15MOLOU,,United_States,health awareness inc,florida,port st lucie,34952,,6214,1801 southeast hillmoor drivesuite c109
+21279,CDM,PPD,SHP647-303,1-246Z7L7,,United_States,heart and family health institute,florida,port st lucie,34952,,6221,1700 se hillmoor dr
+21287,CDM,PPD,C16029,1-Y4IF5S,,United_States,hematology oncology associates of the treasure coast,florida,port saint lucie,34952,,6229,1871 southeast tiffany avenuesuite 100
+21289,CDM,PPD,C16014,1-B4ATT,,United_States,hematology oncology associates of the treasure coast,florida,port st lucie,34952,,6231,1871 se tiffany avesuite 100suite 100
+21291,CDM,PPD,SHP647-305,1-24R8903,,United_States,st lucie gastrointestinal diseases pl,florida,port st lucie,34952,,6233,1822 se port st lucie blvd
+21298,CDM,PPD,SHP620-303,1-TJB62C,,United_States,midway immunology and research center,florida,fort pierce,34982,,6240,356 east midway roadresearch department
+21299,CDM,PPD,SHP647-305,1-24R8914,,United_States,gastroenterology consultants of stuart,florida,stuart,34994,,6241,1050 se monterey roadsuite 204
+21306,CDM,PPD,C16029,1-YQMPXQ,,United_States,stuart oncology,florida,stuart,34994,,6248,501 e osceola streetsuite 301
+21307,CDM,PPD,SHP647-305,1-25B4FZP,,United_States,gastroenterology associates na pc,alabama,alabaster,35007,,6249,1010 1st street northsuite 112
+21314,CDM,IQVIA,TAK-925-2002,58012,1-4RCTUG6,United_States,wright clinical research,alabaster,alabama,35007,,6256,122 1st street south3rd floor
+21316,CDM,PPD,SHP465-308,137,,United_States,utmost healthcare center,alabama,bessemer,35020,,6258,1007 9th avenue north
+21317,CDM,PPD,C16029,1-Y4IEW5,,United_States,alabama oncologyalabaster,alabama,birmingham,35205,,6259,2728 10th avenue south
+21318,CDM,PPD,SHP647-307,1-26C3UG8,,United_States,southview medical group pc,alabama,birmingham,35205,,6260,833 st vincents drivepo box 3
+21325,CDM,PPD,SHP647-305,1-ZI69B9,,United_States,university of alabama at birmingham the kirklin clinic,alabama,birmingham,35205,,6267,2000 6th avenue south
+21327,CDM,PPD,SHP647-301,1-XFRQKD,,United_States,birmingham gastroenterology associates,alabama,birminham,35209,,6269,one independence plazasuite 900
+21336,CDM,IQVIA,TAK-743-3001,105,1-54WV8HJ,United_States,clinical research center of alabama,birmingham,alabama,35209,,6278,504 brookwood boulevardsuite 250
+21340,CDM,PPD,NSMM-5001,1-LECJH6,,United_States,alabama oncologyalabaster,alabama,birmingham,35211,,6282,833 princeton avenue southwest
+21343,CDM,IQVIA,NOR-213,204-01008,1-2XUCAQZ,United_States,synexus clinical research us inc,birmingham,alabama,35211,,6285,832 princeton ave sw
+21344,CDM,PPD,SHP647-303,1-15O9OKI,,United_States,alliance clinical researchvestavia hills,alabama,birmingham,35213,,6286,3918 montclair road
+21352,CDM,PPD,SHP647-305,1-114L19A,,United_States,accel research site  achieve  birmingham  ern  ppds,alabama,birmingham,35216,,6294,2017 canyon roadsuite 41
+21354,CDM,PPD,C16014,1-CLBIU,,United_States,clinical research consultants incorporated,alabama,hoover,35216,,6296,3100 lorna road
+21356,CDM,PPD,SHP620-303,004,,United_States,university of alabama at birmingham,alabama,birmingham,35226,,6298,1250 east marshall streettinsley harrison towerdivision of infectious diseasesuite 229
+21357,CDM,PPD,SHP621-303,303-151,,United_States,childrens hospital,alabama,birmingham,35233,,6299,1600 7th avenue southpharmacy deptsuite 618
+21360,CDM,IQVIA,TED-R13-002,0533,1-15BKDIT,United_States,childrens hospital of alabama,birmingham,alabama,35233,,6302,1600 7th avenue southsuite 618 acc buildinguab dept of pediatrics
+21361,CDM,ICON,C25001,,272432,United_States,uab department of dermatology,alabama,birmingham,35233,,6303,2000 6th ave sotkc 3rd floor
+21362,CDM,PPD,TAK-981-1501,58104,,United_States,university of alabama at birmingham,alabama,birmingham,35233,,6304,1600 7th avenue southchildrens harbor
+21375,CDM,IQVIA,SHP655-101,112,1-4DI073F,United_States,university of alabama at birmingham,birmingham,alabama,35233,,6317,2000 6th ave southfloor 4
+21376,CDM,PRA,TAK-981-1501,58104,8206,United_States,university of alabama at birmingham school of medicine,alabama,birmingham,35233,,6318,510 20th street south
+21378,CDM,PPD,SHP607-202,1-15MWYZU,,United_States,university of south alabama childrens and womens hospital,alabama,birmingham,35233,,6320,1700 6th avenue southwoman and infants center
+21379,CDM,PPD,P2002,58028,,United_States,university of alabama at birmingham,alabama,birmingham,352331900,,6321,625 19th st s
+21380,CDM,PPD,TAK-981-1002,58012,,United_States,uab comprehensive cancer center,alabama,birmingham,352331932,,6322,1802 6th ave s
+21381,CDM,PPD,SHP647-301,1-203I2XU,,United_States,gastroenterology associates of north alabama,alabama,birmingham,35235,,6323,100 pilot medical drivesuite 250
+21388,CDM,IQVIA,SHP655-201,501,1-45ECVGY,United_States,university of alabama birmingham,birmingham,alabama,35249,,6330,shelby 237 1825 university boulevard
+21390,CDM,PPD,C16014,58088,,United_States,university of alabama at birmingham,alabama,birmingham,352493300,,6332,619 19th street southuab comprhensive cancer center
+21391,CDM,PPD,SHP621-301,1-H0FFFG,,United_States,children´s of alabama  allergy asthma immunology,alabama,birmingham,35294,,6333,1600 7th ave s park placesuite m20
+21392,CDM,PPD,SHP647-301,1-XE0L89,,United_States,uab liver center,alabama,binghamton,35294,,6334,1918 university boulevardmclm 208c8
+21394,CDM,PRA,C34008,58009,1-1HDOKAL,United_States,university of alabama at birmingham,al,birmingham,35294,,6336,1720 2nd avenue southnp 2540
+21398,CDM,PPD,TAK-079-2001,58013,,United_States,university of alabama at birmingham,alabama,birmingham,35294,,6340,1717 6th avenue southsrc 076suite 076
+21402,CDM,PPD,SHP634-404,117,,United_States,university of alabama at birmingham,alabama,birmingham,35294,,6344,510 20th street southfot 702
+21406,CDM,IQVIA,TAK-883-3001,114,1-4RG71FB,United_States,university of alabama at birmingham  uab,birmingham,alabama,35294,,6348,526 20th street southsuite 802fot
+21409,CDM,PPD,C16014,1-H1HOL,,United_States,university of alabama school of medicine  division of gyn oncology,alabama,birmingham,35294,,6351,618 south 20th street
+21410,CDM,PPD,Pevonedistat-3001,1-16PZHNC,,United_States,comprehensive cancer center,alabama,birmingham,352943300,,6352,1824 6th avenue southwti 110
+21411,CDM,PPD,NSMM-5001,1-WZ4BZ6,,United_States,university of alabama at birmingham,alabama,birmingham,352943300,,6353,1720 2nd avenue south
+21414,CDM,PPD,SHP647-303,1-246T79H,,United_States,walker gastroenterology,alabama,jasper,35501,,6356,3400 hwy 78 eastmedical arts towersuite 406
+21421,CDM,PPD,C16014,1-FZQW7,,United_States,cancer care center of decatur,alabama,decatur,35601,,6363,1107 14th avenue southeastsuite 200
+21422,CDM,PPD,SHP647-302,1-4GAXIP8,,United_States,north alabama research center llc,alabama,athens,35611,,6364,721 west market streetsuite b
+21429,CDM,PPD,C16014,1-CK4RG,,United_States,northwest alabama cancer center pc,alabama,florence,35630,,6371,305 west doctor hicks boulevard
+21430,CDM,PPD,TAK-951-2001,58005,,United_States,shoals medical trials,alabama,sheffield,35660,,6372,1300 south montgomery avenue
+21431,CDM,PPD,SHP647-302,1-18KKME1,,United_States,syed research consultants llc,alabama,sheffield,35660,,6373,342 cox boulevard
+21438,CDM,PPD,C16021,1-8JF3O7,,United_States,northwest alabama cancer center pc,alabama,muscle shoals,35661,,6380,101 dr wh blake jr drive
+21439,CDM,PPD,SHP647-301,1-203I2YU,,United_States,the center for colon and digestive diseases,alabama,madison,35758,,6381,460 lanier roadsuite 201
+21446,CDM,PPD,SHP647-306,1-4GD678D,,United_States,clinical research associates,alabama,huntersville,35801,,6388,131 longwood drive
+21453,CDM,PPD,TAK-788-2001,1-74VG4QN,,United_States,comprehensive cancer institute,alabama,huntersville,35801,,6395,201 sivley road
+21455,CDM,PPD,SHP647-301,1-ZVCYOU,,United_States,digestive disease center,alabama,huntsville,35801,,6397,420 lowell drive southeastsuite 204
+21457,CDM,PPD,SHP647-305,1-ZVCYOI,,United_States,huntsville gastroenterology associates pc,alabama,huntsville,35801,,6399,119 longwood drive sw
+21459,CDM,PPD,SHP647-301,1-111XYGG,,United_States,medical affiliated research center inc,alabama,huntersville,35801,,6401,303 williams avenuesuite 512
+21461,CDM,PPD,DEN-303,58080,,United_States,aes  drs  optimal research alabama  huntsville,alabama,huntsville,35802,,6403,2089 cecil ashburn drivesuite 203
+21462,CDM,PPD,SHP647-305,1-112J4YK,,United_States,alabama digestive disorders center pc,alabama,huntersville,35802,,6404,4601 whitesburg drive southsuite 101
+21469,CDM,PPD,C16014,1-AHP6H,,United_States,oncology specialties pc,alabama,huntersville,35805,,6411,3601 cci drive oncology specialties pc
+21470,CDM,PPD,SHP647-305,1-112AVIY,,United_States,community medical plaza,alabama,tallassee,36078,,6412,80 herren hill road
+21472,CDM,IQVIA,TAK-883-3001,113,1-4RG71BS,United_States,cleveland clinic florida  weston,weston,florida,3609,,6414,2950 cleveland clinical blvd
+21475,CDM,PPD,SHP647-305,1-ZWXGHG,,United_States,capital city gastroenterology pc,alabama,montgomery,36106,,6417,4126 carmichael court
+21477,CDM,PPD,SHP647-307,1-26C3UHL,,United_States,digestive disorders and liver diseases,alabama,montgomery,36106,,6419,1301 forest avenue
+21484,CDM,PPD,SHP647-305,1-Y22C22,,United_States,advanced clinical research llc,alabama,montgomery,36111,,6426,128 mitylene park lanesuite 103 box 123
+21486,CDM,PPD,SHP647-301,1-Y22SK9,,United_States,alabama liver and digestive specialists research center,alabama,montgomery county,36116,,6428,2055 east south boulevardsuite 209
+21488,CDM,PPD,C16014,1-FASDA,,United_States,anniston medical clinic,alabama,anniston,36207,,6430,1010 christine avenue
+21489,CDM,PPD,SHP647-304,1-15TRHLV,,United_States,internal medicine associates pc,alabama,anniston,36207,,6431,901 leighton avenuesuite 101
+21496,CDM,PPD,TAK-079-2001,58006,,United_States,pinnacle research group,alabama,anniston,36207,,6438,321 east 10th street200
+21499,CDM,PPD,SHP465-308,156,,United_States,harmonex inc,alabama,dothan,36303,,6441,408 healthwest drive
+21501,CDM,PRA,TAK-906-2002,58053,1-1JYNBMR,United_States,digestive health specialists of the southeast,al,dothan,36305,,6443,480 honeysuckle road

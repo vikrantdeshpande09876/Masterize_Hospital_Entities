@@ -1,0 +1,157 @@
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,rnum,CONCAT_ADDRESS
+15876,CDM,PPD,SHP621-301,301-134,,United_States,south jersey gastroenterology,new jersey,marlton,08053,,818,406 lippincott drivesuite e
+15880,CDM,PPD,SHP647-306,1-25TK5I5,,United_States,the gastroenterology group pa,new jersey,mount laurel,08054,,822,15000 midlantic drivesuite 110
+15887,CDM,PPD,SHP647-301,1-ZGYEDS,,United_States,dimarino kroop prieto gastro intestinal associates,new jersey,woodbury,08096,,829,26 e red bank avenuesuite 101
+15889,CDM,PPD,SHP607-202,1-15NMQLV,,United_States,cooper university hospital,new jersey,camden,08103,,831,1 cooper plazadepartment of neonatology
+15891,CDM,IQVIA,MLN0002SC-3031,58063,1-213IFNP,United_States,aga clinical research associates llc,egg harbor township,new jersey,08234,,833,3205 fire road
+15900,CDM,PPD,SHP647-305,1-1113ESB,,United_States,gastroenterology group of south jersey,new jersey,vineland,08360,,842,602 west sherman avenueresearch department
+15909,CDM,IQVIA,TED-R13-002,0509,1-13YHNIJ,United_States,the gastroenterology group of south jersey,vineland,new jersey,08360,,851,602 w sherman ave
+15910,CDM,PPD,SHP647-307,1-26BIRLT,,United_States,princeton road medical bldg,new jersey,east windsor,08520,,852,254  princetonhightstown road
+15917,CDM,PPD,SHP647-307,1-26BIRNH,,United_States,capital health center for digestive health,new jersey,pennington,08534,,859,two capital waysuite 380
+15924,CDM,IQVIA,Vedolizumab-4014,58087,1-3J4V7RN,United_States,capital health system inc,pennington,new jersey,08534,,866,2 capital way
+15925,CDM,PPD,SHP647-303,1-2468B7L,,United_States,princeton medicine,new jersey,plainsboro,08536,,867,5 plainsboro roadsuite 300
+15932,CDM,PPD,SHP647-304,1-24J3WUD,,United_States,princeton gastroenterology associates pa,new jersey,princeton,08540,,874,731 alexander roadsuite 100
+15939,CDM,PPD,Brigatinib-1002,1-615RB31,,United_States,rutgers cancer institute of new jersey,new jersey,hamilton,08690,,881,2575 klockner road
+15941,CDM,PPD,P2002,1-5J4N4PO,,United_States,new jersey hematology oncology associates llc,new jersey,brick,08724,,883,1608 route 88 west
+15944,CDM,PPD,TAK-071-2002,1-65RE4HB,,United_States,shore neurology,new jersey,toms river,08755,,886,633 route 37 westresearch department
+15945,CDM,PPD,SHP465-308,151,,United_States,children specialized hospital,new jersey,toms river,087551490,,887,94 stevens rd
+15946,CDM,PPD,P2002,1-5J4N4W1,,United_States,clinical research alliance inc,new jersey,east brunswick,08816,,888,j 2 brier hill ct
+15947,CDM,PPD,SHP647-305,1-ZH2FRX,,United_States,gastroenterology associates of centeral jersey pa,new jersey,edison,08820,,889,1921 oak tree roadsuite 250
+15949,CDM,PPD,TAK-341-1001,1-8DOV7A5,,United_States,new jersey neuroscience institute,new jersey,edison,088203947,,891,65 james st
+15950,CDM,PPD,SHP647-302,1-21XXSWA,,United_States,hunterdon digestive health specialists pa,new jersey,flemington,08822,,892,1100 wescott drivesuite 106 doctors office bldg
+15957,CDM,PPD,NSMM-5001,58058,,United_States,hunterdon hematology oncology,new jersey,fleming,08822,,899,2100 wescott drhunterdon hematology oncology
+15958,CDM,PPD,TAK-788-2001,1-74VXRZE,,United_States,hunterdon regional cancer center,new jersey,flemington,08822,,900,2100 wescott drive
+15959,CDM,PPD,SHP647-305,1-ZH2FVS,,United_States,gastroenterology consultants pa,new jersey,edison,08837,,901,205 may streetsuite 101
+15961,CDM,PPD,SHP647-301,1-1118OD0,,United_States,digestive health care center pa,new jersey,hillsborough,08844,,903,511 courtyard drivebuilding 500
+15963,CDM,PPD,SHP647-305,1-11164FC,,United_States,pharma trials inc,new jersey,hillsborough,08844,,905,401 omni drive
+15965,CDM,PPD,TAK-071-2002,1-B8T8JD6,,United_States,rutgers university robert wood johnson medical school,new jersey,piscataway,08854,,907,33 knightsbridge road2 east
+15966,CDM,PPD,C16021,1-8IWLJZ,,United_States,somerset hematology oncology associates,new jersey,somerville,08876,,908,30 rehill avenuesuite 2500
+15967,CDM,PPD,C16029,1-Y4814K,,United_States,cancer institute of new jersey,new jersey,new brunswick,08901,,909,195 little albany street
+15971,CDM,PPD,SHP607-202,001,,United_States,robert wood johnson medical school,new jersey,new brunswick,08901,,913,1 robert wood johnson place
+15974,CDM,PPD,SHP647-301,1-YBATHK,,United_States,robert wood johnson university hospital,new jersey,new brunswick,08901,,916,1 robert wood johnson placepost office box 19
+15976,CDM,IQVIA,071301,116,1-2ET1D50,United_States,rutgers  robert wood johnson medical school,new brunswick,new jersey,08901,,918,125 paterson stroom 6218
+15977,CDM,PPD,P2002,1-5J5URVF,,United_States,rutgers cancer institute of new jersey,new jersey,new brunswick,08901,,919,195 little albany street
+15982,CDM,PPD,TAK-007-2001,1-7EYM68C,,United_States,rutgers cancer institute of new jersey,new jersey,new brunswick,089011914,,924,195 little albany stmain facility location
+15993,CDM,PPD,C16027,1-RZRR8F,,United_States,mount sinai hospital  canada,new york,new york,10001,,935,276 7th avenue
+15994,CDM,PPD,C16014,1-LP5Z5,,United_States,beth israel comprehensive cancer center,new york,new york,10003,,936,10 union square east
+15995,CDM,PPD,C16021,1-8INZ66,,United_States,beth israel medical center,new york,new york,10003,,937,10 union square eastcancer center
+15996,CDM,PPD,C16014,1-HG2JM,,United_States,beth israel new york,new york,new york,10003,,938,10 union square eastphillips ambulatory care center
+15997,CDM,PPD,SHP647-306,1-15Y78FP,,United_States,icahn school of medicine at mount sinai,new york,new york,10003,,939,10 union square east
+16004,CDM,PPD,SHP647-302,1-22FSDJ1,,United_States,jerome h siegel md pc,new york,new york,10003,,946,305 second avenuesuite 3
+16012,CDM,PPD,Pevonedistat-3001,1-16PZHKN,,United_States,crescent city research consortium llc,louisiana,metairie,10006,,954,4228 houma boulevardeast jefferson hematology oncologysuite 130
+16013,CDM,PPD,SHP647-301,1-Y14RB2,,United_States,nyu bluestone center for clinical research,new york,new york,10010,,955,421 first avenue
+16020,CDM,PPD,TAK-079-1501,58102,,United_States,mount sinai hospitalthe donald h ruttenberg cancer treatment center,new york,new york,10011,,962,325 west 15th streetbox 1128
+16021,CDM,PPD,C16021,1-8IVGEZ,,United_States,st vincents comprehensive cancer center,new york,new york,10011,,963,325 west 15th street
+16022,CDM,PPD,SHP647-301,1-ZWXGIU,,United_States,murray orbuch md,new york,new york,10012,,964,202 spring streetfl 2
+16029,CDM,PPD,SHP647-306,1-25ZAG3B,,United_States,bellevue hospital,new york,new york,10016,,971,1st avenue 27th street
+16036,CDM,IQVIA,TED-R13-002,0561,1-3A9TF7Y,United_States,concord medical group pllc,new york,new york,10016,,978,40 park avenue
+16037,CDM,PPD,SHP647-301,301-408,,United_States,concorde medical group pllc,new york,new york,10016,,979,232 east 30th street
+16043,CDM,PPD,TAK-981-1502,58013,,United_States,laura and isaac perlmutter cancer center,new york,new york,10016,,985,160 east 34th streetnyu medical oncology associatesfloor 8
+16045,CDM,PPD,SHP647-303,1-15G647V,,United_States,manhattan medical research practice pllc,new york,new york,10016,,987,215 lexington avenue21st floor
+16054,CDM,PRA,C34005,58010,1-1BRNLB7,United_States,new york university langone medical center,ny,new york,10016,,996,160 east 34th streetroom 936
+15559,CDM,PPD,SHP647-301,1-XZL2S9,,United_States,connecticut childrens medical center,connecticut,hartford,06106,,501,123 address
+15565,CDM,PRA,Vedolizumab-2005,58010,1-1BUYDSD,United_States,connecticut childrens medical center,ct,hartford,06106,,507,282 washington streetsuite 2k
+15570,CDM,PPD,SHP647-304,1-24Q9X3U,,United_States,connecticut gi,connecticut,hartford,06106,,512,85 seymour street
+15579,CDM,PPD,TAK-071-2002,1-65RA3AL,,United_States,coastal connecticut research llc  clinedge  ppds,connecticut,new london,06320,,521,342 montauk avenue
+15582,CDM,PPD,C16021,1-8JW0J0,,United_States,oncology and hematology associates pc,connecticut,new london,06320,,524,3 shaws covesuite 201
+15584,CDM,PPD,C16014,1-DX4GV,,United_States,eastern ct hematology and oncology associates,connecticut,norwich,06360,,526,330 washington streetsuite 220
+15588,CDM,PPD,SHP647-305,1-ZI69K4,,United_States,connecticut gastroenterology,connecticut,guilford,06437,,530,111 goose lane2nd floor
+15590,CDM,PPD,TAK-079-1004,1-5QGG605,,United_States,smilow cancer hospital care center at guilford,connecticut,guilford,06437,,532,111 goose lane
+15591,CDM,PPD,SHP647-306,1-167WPRA,,United_States,midstate gastroenterology specialists,connecticut,meriden,06451,,533,455 lewis avenuesuite 105
+15598,CDM,PPD,NSMM-5001,1-SY84YL,,United_States,connecticut oncology group,connecticut,middletown,06457,,540,536 saybrook roadconnecticut oncology group
+15600,CDM,IQVIA,MLN0002SC-3030,58117,1-2Q8753I,United_States,middlesex gastroenterology associates,middletown,connecticut,06457,,542,410 saybrook roadsuite 201
+15602,CDM,PPD,SHP647-305,1-24QTFKI,,United_States,danbury internal medicine associates,connecticut,newtown,064702791,,544,153 south main streetsuite 8
+15609,CDM,PPD,C16029,1-Y5U6BH,,United_States,cancer center of central connecticut,connecticut,southington,06489,,551,55 meriden avenuesuite 1a
+15611,CDM,PPD,SHP607-202,1-15MX1GK,,United_States,yalenew haven childrens hospital,connecticut,new haven,06504,,553,1 park street
+15613,CDM,PPD,TAK-071-2002,1-65RA3BA,,United_States,institute for neurodegenerative disorders,connecticut,new haven,06510,,555,60 temple streetsuite 8b
+15615,CDM,PPD,Pevonedistat-1016,58002,,United_States,smilow cancer hospital at yale new haven,connecticut,new haven,06510,,557,20 york street
+15618,CDM,PPD,Brigatinib-1002,1-616LFAN,,United_States,smilow cancer hospital at yale new haven,connecticut,new haven,06510,,560,35 park street
+15622,CDM,PPD,C16021,1-8JF3RH,,United_States,yale new haven hospital,connecticut,new haven,06510,,564,20 york street7th floor
+15624,CDM,PPD,SHP647-305,1-Y14R7L,,United_States,yale university school of medicine,connecticut,new haven,06510,,566,135 college streetinternal medicinedigestive diseases1a
+15626,CDM,PRA,SYR-322_309,58016,1-1JRF7ZN,United_States,yale new haven hospital,ct,new haven,06511,,568,1 long wharf drivesuite 503
+15628,CDM,PPD,VDZ-5034,58078,,United_States,gastroenterology center of connecticut,connecticut,hamden,06518,,570,2200 whitney avespring glen medical centersuite 300
+15629,CDM,PPD,SHP647-301,1-XE0L01,,United_States,medical research center of connecticut llc,connecticut,hamden,06518,,571,2200 whitney avenuesuite 300
+15633,CDM,IQVIA,TAK-831-2002,58014,1-45LRUDA,United_States,connecticut mental health center  yale university,new haven,connecticut,06519,,575,34 park st
+15634,CDM,PPD,TAK-079-2001,58019,,United_States,yale university,connecticut,new haven,06519,,576,2 church st southyale center for clinical investigationsuite 525b
+15635,CDM,IQVIA,SHP643-403,104,1-49SEY56,United_States,yale university school of medicine,new haven,connecticut,06519,,577,789 howard ave fitkin building 2nd floor
+15636,CDM,PPD,C16021,1-E5U6XM,,United_States,yale cancer center,connecticut,new haven,06520,,578,310 cedar street
+15645,CDM,PPD,Pevonedistat-2001,1-ESQMRH,,United_States,yale university school of medicine,connecticut,new haven,06520,,587,333 cedar street
+15652,CDM,IQVIA,Vedolizumab-4014,58048,1-2R9E4TM,United_States,gastroenterology associates of fairfield county,bridgeport,connecticut,06606,,594,2660 main streetsuite 203
+15656,CDM,PPD,SHP647-301,1-ZGYX1F,,United_States,bridgeport hospital,connecticut,bridgeport,06610,,598,267 grant street
+15658,CDM,PPD,C16029,1-10W6Y25,,United_States,trumbull care center,connecticut,trumbull,06611,,600,5520 park avenuesmilow cancer caresuite 203
+15659,CDM,PPD,SHP647-301,1-Y0ZAS0,,United_States,chase medical research llc,connecticut,waterbury,06708,,601,500 chase parkway
+15661,CDM,PPD,C16014,1-E0ITJ,,United_States,medical oncology and hematology pc,connecticut,waterbury,06708,,603,1075 chase parkwaysuite b
+15663,CDM,PPD,SHP647-301,1-204NMCK,,United_States,naugatuck valley gastroenterology,connecticut,waterbury,06708,,605,1312 w main street101
+15671,CDM,PPD,SHP465-308,1-1B15795,,United_States,supreme clinical research management,connecticut,newtown,06740,,613,20 church hill road
+15673,CDM,PPD,TAK-079-1004,1-5QH85EP,,United_States,davita inc clinical research unit,connecticut,middlebury,06762,,615,850 sraits turnpikesuite 300
+15674,CDM,PPD,SHP647-305,1-10B2OOD,,United_States,danbury hospital,connecticut,danbury,06810,,616,24 hospital avenue
+15676,CDM,PPD,NSMM-5001,ON-HOLD,,United_States,praxair cancer center at danbury hospital,connecticut,danbury,06810,,618,95 locust avenuepraxair cancer center
+15677,CDM,PPD,SHP647-301,1-204NM9I,,United_States,gastroenterology associates of fairfield county,connecticut,fairfield,06824,,619,425 post road
+15685,CDM,PPD,TAK-071-2002,1-67NFXFU,,United_States,yale university school of medicine,connecticut,fairfield,06824,,627,75 kings highway cutoffdepartment of neurology5th floor
+15686,CDM,PPD,C16014,1-EE673,,United_States,whittingham cancer center at norwalk hospital,connecticut,norwalk,06850,,628,30 stevens street
+15687,CDM,PPD,SHP620-303,1-TIJF4D,,United_States,stamford hospital,connecticut,stamford,06902,,629,166 w broad streetstamford health integrated practices  stamford infectious diseases
+15691,CDM,PPD,SHP647-301,1-14GQV4O,,United_States,stamford therapeutics consortium  clinedge  ppds,connecticut,stamford,06905,,633,47 oak street
+15698,CDM,PPD,SHP647-305,1-25EUVVO,,United_States,summit medical group,new jersey,clifton,07012,,640,6 brighton road
+15705,CDM,PPD,C16029,1-YQM9BL,,United_States,veterans affairs new jersey health care system  navref  ppds,new jersey,east orange,07018,,647,385 tremont avenue
+15707,CDM,IQVIA,SHP633-304,0426,1-2QT691Z,United_States,columbia university medical center,new york,new york,07024,,649,622 west 168th streetph 17
+15708,CDM,PPD,SHP620-303,1-TJB5QP,,United_States,hoboken university medical center humc,new jersey,hoboken,07030,,650,308 willow avenue
+15709,CDM,PPD,C16029,1-YQMM7P,,United_States,saint barnabas medical center,new jersey,livingston,07039,,651,200 south orange avenue
+15713,CDM,PPD,C16014,1-C26DH,,United_States,oncology and hematology specialists pa,new jersey,mountain lakes,07046,,655,420 boulevard
+15714,CDM,PPD,SHP647-305,1-1117O5L,,United_States,gastroenterology medical associates,new jersey,north berger,07047,,656,9223 kennedy boulevard
+15716,CDM,PPD,TAK-071-2002,1-B8W5L62,,United_States,the cognitive and research center of new jersey  erg  ppds,new jersey,springfield,070811755,,658,195 mountain ave
+15717,CDM,PPD,SHP620-303,1-TIF9BC,,United_States,prime healthcare services – st michael’s llc dba saint michael’s medical center,new jersey,newark,071021909,,659,111 central avenuepeter ho memorial clinic
+15718,CDM,IQVIA,161403,514,1-4GTM0FF,United_States,rutgers new jersey medical school,newark,new jersey,07103,,660,185 s orange avenuerm uh f189
+15719,CDM,PPD,SHP620-303,1-TIJF52,,United_States,rutgers the state university of new jersey,new jersey,newark,07103,,661,150 bergen streetuniversity hospital
+15720,CDM,PPD,SHP647-305,1-112D97O,,United_States,umdnj,new jersey,newark,07103,,662,90 bergen street
+15722,CDM,PPD,C16014,1-E7UP5,,United_States,essex hematology oncology group pa,new jersey,belleville,07109,,664,36 newark avenuesuite 214
+15723,CDM,PPD,SHP643-301,643301-109,,United_States,hudsonessex allergy,new jersey,belleville,07109,,665,5 franklin avenuesuite 102
+15725,CDM,PPD,C16014,1-HCR97,,United_States,newark beth israel medical center,new jersey,newark,07112,,667,201 lyons avenue
+15727,CDM,IQVIA,SHP643-303,104,1-4RYCI8S,United_States,jay m kashkin md allergy asthma and immunology,fair lawn,new jersey,07410,,669,2300 route 208south suite 21
+15730,CDM,PPD,SHP647-305,1-XZL2PR,,United_States,holt institute of medicine,new jersey,little falls,07424,,672,47 center avenue
+15732,CDM,PPD,SHP647-307,1-163XC74,,United_States,joseph shamis private practice,new jersey,west paterson,07424,,674,205 browertown roadsuite 206
+15739,CDM,PPD,SHP647-301,1-112J5AJ,,United_States,arysmed clinical research solutions,new jersey,ridgewood,07450,,681,562 barnett place
+15741,CDM,PPD,SHP647-301,1-1119KE6,,United_States,jeffrey b danzig md pc,new jersey,ridgewood,07450,,683,127 union street
+15743,CDM,PRA,SYR-322_309,58025,1-1JRFQRP,United_States,saint josephs regional medical center  paterson,nj,paterson,07503,,685,703 main street
+15744,CDM,PPD,HOS,124,,United_States,st josephs regional medical center,new jersey,paterson,07503,,686,703 main street
+15746,CDM,PPD,SHP609-302,201,,United_States,hackensack university medical center,new jersey,hackensack,07601,,688,30 prospect avenuejoseph m sanzari childrens hospital
+15764,CDM,PPD,Pevonedistat-1016,1-3LL4R6V,,United_States,john theurer cancer center,new jersey,hackensack,07601,,706,92 2nd streetjohn theurer cancer center
+15765,CDM,PPD,P2002,1-6CH93IS,,United_States,john theurer cancer center,new jersey,hackensack,07601,,707,92 2nd street
+15775,CDM,IQVIA,C34001,58004,1-1GB32UI,United_States,regional cancer care associates,hackensack,new jersey,07601,,717,100 first streetsuite 301
+15777,CDM,PPD,C16029,1-YQM99I,,United_States,drs forte schleider  attas pa,new jersey,englewood,07631,,719,25 rockwood place
+15780,CDM,PPD,SHP647-301,301-394,,United_States,englewood hospital and medical center  clinical research center,new jersey,englewood,07631,,722,350 engle streetnorth annex 3rd floorsuite 101
+15781,CDM,PPD,SHP647-302,1-21XXSVY,,United_States,the gastroenterology group of northern nj llc,new jersey,englewood cliffs,07632,,723,140 sylvan avesuite 101a
+15788,CDM,PPD,C16014,1-FWGJI,,United_States,hematology oncology associates of nj pa,new jersey,paramus,07652,,730,one valley health plaza
+15790,CDM,PPD,SHP620-303,1-TIF96Q,,United_States,holy name hospital,new jersey,teaneck,07666,,732,718 teaneck roadthe institute for clinical research
+15791,CDM,PPD,TAK-079-1005,1-5D8IV18,,United_States,progressive neurology,new jersey,westwood,07675,,733,260 old hook roadsuite 200
+15792,CDM,PPD,SHP647-301,1-1113F2J,,United_States,prometrix clinical studies,new jersey,wall,07719,,734,3350 highway 138building 2suite 128
+15794,CDM,PPD,NSMM-5001,1-T7RG0Z,,United_States,american oncology partners of maryland  pa,new jersey,little silver,07739,,736,180 white road
+15795,CDM,PPD,SHP607-202,1-15NMQMK,,United_States,monmouth medical center,new jersey,long branch,07740,,737,300 second avenue
+15796,CDM,PRA,C31004,58011A,1-1N7YN2W,United_States,memorial sloan kettering cancer center  monmouth,nj,middletown,07748,,738,480 red hill road
+15797,CDM,IQVIA,Vedolizumab-4014,58093,1-2WL9JNW,United_States,atlantic gastroenterology associates,neptune,new jersey,07753,,739,1944 corlies avesuite 205
+15798,CDM,PPD,SHP620-303,1-TIJFHW,,United_States,jersey shore university medical center,new jersey,neptune,07753,,740,1945 route 33
+15802,CDM,PPD,SHP647-301,1-205DFZ2,,United_States,monmouth gastroenterology,new jersey,oakhurst,07755,,744,1912 state route 35a division of allied digestive health201
+15809,CDM,PPD,SHP647-303,1-15MO4VK,,United_States,wellness and research center,new jersey,belvidere,07823,,751,526 water street
+15816,CDM,PPD,C16014,1-C0N3X,,United_States,oncology  hematology associates pa,new jersey,denville,07834,,758,23 pocono roadsuite 201
+15817,CDM,PPD,C16021,1-8K3AW3,,United_States,oncology and hematology specialists pa,new jersey,denville,07834,,759,23 pocono road
+15818,CDM,PPD,SHP465-308,1-1FNGP2X,,United_States,the neurocognitive institute,new jersey,mt arlington,07856,,760,111 howard blvd
+15819,CDM,PPD,C16029,1-YQMPAM,,United_States,sparta cancer center,new jersey,sparta,07871,,761,89 sparta avenuesuite 203
+15820,CDM,PPD,NSMM-5001,1-T7RG1C,,United_States,overlook medical center,new jersey,summit,07901,,762,99 beauvoir avenue
+15821,CDM,PPD,P2002,1-5IZYBGU,,United_States,summit medical group,new jersey,summit,07901,,763,33 overlook roadcarol g simon cancer center2nd floor
+15822,CDM,ICON,C25003,,307986,United_States,memorial sloankettering cancer center  basking ridge,new jersey,basking ridge,07920,,764,136 mountain view blvd
+15823,CDM,PPD,C16014,1-KNHUE,,United_States,summit medical group,new jersey,berkeley heights,07922,,765,1 diamond hill road
+15832,CDM,PPD,SHP647-305,1-XFUBY3,,United_States,gastroenterology research associates llc,new jersey,cedar knolls,07927,,774,65 ridgedale avenue
+15834,CDM,PPD,SHP647-301,1-ZK5DH1,,United_States,florham park endoscopy center,new jersey,florham park,07932,,776,195 columbia turnpikesuite 201
+15836,CDM,IQVIA,TED-R13-002,0518,1-1E7YTFJ,United_States,saint barnabas health care system,mendham,new jersey,07945,,778,15 white oak ridge court
+15837,CDM,PRA,AP32788-15-101 Extension Study,58267,1-1N43N45,United_States,atlantic health  morristown medical center,nj,morristown,07960,,779,100 madison avenue
+15839,CDM,PPD,Brigatinib-1002,1-616GIXA,,United_States,goryeb childrens hospital,new jersey,morristown,07960,,781,100 madison ave
+15842,CDM,PPD,SHP647-301,1-YBATFD,,United_States,morristown medical center,new jersey,morristown,07960,,784,435 south streetroom 266
+15845,CDM,PPD,Pevonedistat-2001,1-D8Y267,,United_States,hematology oncology associates of northern new jersey,new jersey,morristown,079601089,,787,100 madison avenuecarol g simon cancer center
+15850,CDM,PPD,P2002,1-5J5URUC,,United_States,hematology oncology associates of northern new jersey,new jersey,morristown,07962,,792,100 madison avenue
+15854,CDM,IQVIA,TED-R13-002,0525,1-1A1YYU3,United_States,metabolic medicine  weight control center,morristown,new jersey,07962,,796,435 south streetsuite 310
+15855,CDM,PPD,SHP647-301,1-XFTXRV,,United_States,atlantic health system,new jersey,morristown,079621089,,797,100 madison avenue
+15857,CDM,PPD,SHP647-305,1-ZK5DPB,,United_States,hanover endoscopy center,new jersey,whippany,07981,,799,91 s jefferson road
+15859,CDM,PPD,SHP647-302,1-167WFXD,,United_States,professional gastroenterology,new jersey,cherry hill,08003,,801,1939 marlton pike e
+15866,CDM,PPD,C16014,1-E62N1,,United_States,the center for cancer and hematologic disease,new jersey,camden,08003,,808,1930 route 70 eastsuite v107
+15867,CDM,PPD,C16014,1-HGPAH,,United_States,cinj at cooper hospital,new jersey,voorhees,08043,,809,900 centennial boulevardsuite m
+15868,CDM,PPD,TAK-071-2002,1-65R9S87,,United_States,cooper university hospital,new jersey,voorhees,08043,,810,900 centennial boulevardmovement disorders centersuite 104
+15869,CDM,PPD,SHP647-305,1-111646J,,United_States,sunset road professional building south,new jersey,willingboro,08046,,811,218 c sunset roadcooper university physicians

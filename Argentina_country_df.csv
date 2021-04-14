@@ -1,462 +1,310 @@
 SR_NUM,CONCAT_ADDRESS,SITE_NAME,STATE,CITY,POSTAL_CODE
-972949,9 de julio 279 4000,clinica mayo de umcb srl,,tucuman,
-966189,9 de julio 279 4000,clinica mayo de umcb srl,,tucuman,
-965941,la rioja 36 q8300 neuquén capital,clínica pasteur,,neuquen,
-976355,la rioja 36 q8300 neuquén capital,clínica pasteur,,neuquen,
-968141,obispo trejo 733,consultorios independencia,,cordoba,
-969792,obispo trejo 733,consultorios independencia,,cordoba,
-964697,obispo trejo 733,consultorios independencia,,cordoba,
-989010,obispo trejo 733,consultorios independencia,,cordoba,
-982509,obispo trejo 733,consultorios independencia,,cordoba,
-975343,obispo trejo 733,consultorios independencia,,cordoba,
-968706,obispo trejo 733,consultorios independencia,,cordoba,
-957207,av calchaquí 5401 florencio varela,hospital de alta complejidad en red el cruce dr néstor kirchner  samic,buenos aires,buenos aires,
-977579,benito lynch 2615 5 ª planta,hospital gral de agudos dr cosme argerich,ciudad autónoma de buenosaires,buenos aires,
-975388,benito lynch 2615 5 ª planta,hospital gral de agudos dr cosme argerich,ciudad autónoma de buenosaires,buenos aires,
-963353,benito lynch 2615 5 ª planta,hospital gral de agudos dr cosme argerich,ciudad autónoma de buenosaires,buenos aires,
-968432,benito lynch 2615 5 ª planta,hospital gral de agudos dr cosme argerich,ciudad autónoma de buenosaires,buenos aires,
-967768,benito lynch 2615 5 ª planta,hospital gral de agudos dr cosme argerich,ciudad autónoma de buenosaires,buenos aires,
-948016,estomba 968 departamento de oncologia,hospital municipal de agudos leonidas lucero,,bahia blanca,
-965013,av juan domingo perón 1500 pilar centro buenos aires argentinagastroenterología,hospital universitario austral  pin,,pilar,
-976360,av juan domingo perón 1500 pilar centro buenos aires argentinagastroenterología,hospital universitario austral  pin,,pilar,
-968776,vicente lópez 449,instituto de gastroenterologia salim gasali,,salta,
-975260,vicente lópez 449,instituto de gastroenterologia salim gasali,,salta,
-964424,vicente lópez 449,instituto de gastroenterologia salim gasali,,salta,
-966172,vicente lópez 449,instituto de gastroenterologia salim gasali,,salta,
-976608,vicente lópez 449,instituto de gastroenterologia salim gasali,,salta,
-976094,hipolito yrigoyen 8612,investigación gastroenterologica asociación civil,ciudad autónoma de buenosaires,buenos aires,
-964950,hipolito yrigoyen 8612,investigación gastroenterologica asociación civil,ciudad autónoma de buenosaires,buenos aires,
-992758,crisostomo alvarez 1756,nefrologos asociados,,san miguel de tucuman,
-995649,cordoba 445,sanatorio 9 de julio sa,,san miguel de tucuman,
-969004,cordoba 445,sanatorio 9 de julio sa,,san miguel de tucuman,
-970260,cordoba 445,sanatorio 9 de julio sa,,san miguel de tucuman,
-947386,avenida juan d peron 1500,hospital universitario austral,buenos aires,buenos aires,1629
-942095,josé euriburu 1450,fundaleu  fundacion para combatir la leucemia,ciudad autonoma buenos aires,ciudad autonoma buenos aires,1114
-940077,solis 2171,hospital británico,ciudad autonoma buenos aires,ciudad autonoma buenos aires,1134
-983121,,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,1181
-997292,calle tte gral juan domingo peron 4190department of oncology,hospital italiano de buenos aires,ciudad autónoma de buenosaires,ciudad autonoma de buenos aires,1199
-949223,urquiza 609,hospital general de agudos dr jose maria ramos mejia,,buenos aires,1221
-938678,perdriel 74,hospital britanico de buenos aires,ciudad autonoma buenos aires,ciudad autonoma buenos aires,1280
-939049,perdriel 74,hospital britanico de buenos aires,ciudad autonoma buenos aires,ciudad autonoma buenos aires,1280
-938747,uspallata 3400,complejo medico de la policia federal argentina churruca visca,ciudad autonoma buenos aires,ciudad autonoma buenos aires,1416
-938715,uspallata 3400,complejo medico de la policia federal argentina churruca visca,ciudad autonoma buenos aires,ciudad autonoma buenos aires,1416
-977580,ecuador 1481,centro integral de gastroenterología,ciudad autónoma de buenosaires,buenos aires,1425
-975390,ecuador 1481,centro integral de gastroenterología,ciudad autónoma de buenosaires,buenos aires,1425
-995122,ecuador 1481,centro integral de gastroenterología,ciudad autónoma de buenosaires,buenos aires,1425
-970329,ecuador 1481,centro integral de gastroenterología,ciudad autónoma de buenosaires,buenos aires,1425
-960367,ecuador 1481,centro integral de gastroenterología,ciudad autónoma de buenosaires,buenos aires,1425
-966912,ecuador 1481,centro integral de gastroenterología,ciudad autónoma de buenosaires,buenos aires,1425
-959151,calle gallo 1330 division promocion y proteccion de lane saluddivision promocion y proteccion de lane salud,hospital de ninos ricardo gutierrez,ciudad autónoma de buenosaires,buenos aires,1426
-982749,,hospital zonal general de agudos dr carlos bocalandro,ciudad autónoma de buenosaires,buenos aires,1657
-971499,ruta 8 km 20500loma hermosa,hospital zonal general de agudos dr carlos bocalandro,ciudad autónoma de buenosaires,buenos aires,1657
-965943,ruta 8 km 20500loma hermosa,hospital zonal general de agudos dr carlos bocalandro,ciudad autónoma de buenosaires,buenos aires,1657
-951712,illia sn y marconi,hospital nacional alejandro posadas,buenos aires,el palomar,1684
-975391,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
-972646,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
-961413,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
-995123,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
-995396,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
-995741,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
-965914,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
-949283,,instituto fides,buenos aires,manuel b gonnet la plata,1897
-949053,calle 51 n° 315 entre 1 y 2,instituto medico platense,buenos aires,la plata,1897
-960130,calle 14 nro 1631 sala 6,hospital de niños sor maria ludovica,buenos aires,la plata,1900
-958394,calle 14 numero 1631,hospital de niños sor maria ludovica,buenos aires,la plata,1900
-973515,avenida 51 no 1725,hospital italiano de la plata,,la plata,1900
-996469,avenida 51 no 1725,hospital italiano de la plata,,la plata,1900
-963226,avenida 51 no 1725,hospital italiano de la plata,,la plata,1900
-972590,avenida 51 no 1725,hospital italiano de la plata,,la plata,1900
-967720,avenida 51 no 1725,hospital italiano de la plata,,la plata,1900
-968098,avenida 51 no 1725,hospital italiano de la plata,,la plata,1900
-967959,avenida 51 no 1725,hospital italiano de la plata,,la plata,1900
-958030,avenida 51 nº1725 e29 y 30,hospital italiano de la plata,buenos aires,la plata,1900
-949963,calle 47 y 115facultad de ciencias exactas catedra de inmunologia,national university of la plata,buenos aires,la plata,1900
-946271,laprida 1061,instituto de hematologia y medicina clinica dr ruben davoli,santa fe,rosario,2000
-948008,laprida 1061,instituto de hematologia y medicina clinica dr ruben davoli,santa fe,rosario,2000
-951849,25 de mayo 282,instituto de medicina respiratoria infantil,,rafaela,2300
-957892,,fundacin para la lucha contra las enfermedades neurolgicas de la infancia,ciudad autónoma de buenosaires,buenos aires,2325
-946788,presidente peron numero 450,hospital san martin,entre ríos,paraná,3100
-946828,sarmiento 157,caipo centro para la atención integral del paciente oncológico,,san miguel de tucumán,4000
-982151,avenida domingo faustino sarmiento 157,centro para la atencion integral del paciente oncologico,tucuman,san miguel de tucuman,4000
-965489,zabala 432,centro diagnostico zabala,salta,salta,4400
-972726,zabala 432,centro diagnostico zabala,salta,salta,4400
-952166,agustin garzon aguila 187,centro privado metabólico,córdoba,córdoba,5000
-951764,agustin garzon aguila 187,centro privado metabólico,córdoba,córdoba,5000
-992760,bajada pucará esquina ferroviarios,hospital de niños de la santisima trinidad,,córdoba,5000
-947036,bajada pucará 1900,hospital san roque,córdoba,córdoba,5000
-960128,rodriguez peña 285,hospital universitario de maternidad y neonatología,córdoba,córdoba,5000
-997778,avenida duarte quiros 1948,sanatorio duarte quiros,cordoba,cordoba,5000
-939482,av naciones unidas 346parque velez sarsfield,hospital privado centro medico de cordoba sa,cordoba,cordoba,5016
-941647,av naciones unidas 346parque velez sarsfield,hospital privado centro medico de cordoba sa,cordoba,cordoba,5016
-983829,montecaseros 1020,fundación centro oncológico de integración regional coir,mendoza,mendoza city,5500
-946487,montecaseros 1020,fundación centro oncológico de integración regional coir,mendoza,mendoza city,5500
-948144,montecaseros 1020,fundación centro oncológico de integración regional coir,mendoza,mendoza city,5500
-986089,,hospital lagomaggiore,mendoza,mendoza city,5500
-974407,timoteo gordillo sn,hospital lagomaggiore,mendoza,mendoza city,5500
-947372,timoteo gordillo sn,hospital lagomaggiore,mendoza,mendoza city,5500
-994726,timoteo gordillo sn,hospital lagomaggiore,mendoza,mendoza city,5500
-992355,timoteo gordillo sn,hospital lagomaggiore,mendoza,mendoza city,5500
-976927,paso de los andes 3051,hospital universitario,,mendoza,5501
-966962,paso de los andes 3051,hospital universitario,,mendoza,5501
-962022,aveinda lateral acceso este 1070 dorrego,hospital italiano,,guaymallen mendoza city,5519
-971505,aveinda lateral acceso este 1070 dorrego,hospital italiano,,guaymallen mendoza city,5519
-980789,hipólito irigoyen 1020,instituto médico río cuarto,córdoba,rio cuarto,5800
-990075,telen 1639,fundacion koriza,la pampa,santa rosa,6300
-973472,cordoba 4545,hospital privado de la comunidad,,mar del plata,7600
-969363,cordoba 4545,hospital privado de la comunidad,,mar del plata,7600
-976351,cordoba 4545,hospital privado de la comunidad,,mar del plata,7600
-967616,cordoba 4545,hospital privado de la comunidad,,mar del plata,7600
-984514,cordoba 4545,hospital privado de la comunidad,,mar del plata,7600
-996470,cordoba 4545,hospital privado de la comunidad,,mar del plata,7600
-965006,cordoba 4545,hospital privado de la comunidad,,mar del plata,7600
-965759,cordoba 4545,hospital privado de la comunidad,,mar del plata,7600
-966911,calle vicente lopez 449,instituto de gastroenterologia salim gasali,,salta,a4400dyi
-977581,calle vicente lopez 449,instituto de gastroenterologia salim gasali,,salta,a4400dyi
-965078,calle vicente lopez 449,instituto de gastroenterologia salim gasali,,salta,a4400dyi
-975116,calle vicente lopez 449,instituto de gastroenterologia salim gasali,,salta,a4400dyi
-972791,calle vicente lopez 449,instituto de gastroenterologia salim gasali,,salta,a4400dyi
-963537,calle vicente lopez 449,instituto de gastroenterologia salim gasali,,salta,a4400dyi
-974324,calle vicente lopez 449,instituto de gastroenterologia salim gasali,,salta,a4400dyi
-995395,calle vicente lopez 449,instituto de gastroenterologia salim gasali,,salta,a4400dyi
-968099,calle vicente lopez 449,instituto de gastroenterologia salim gasali,,salta,a4400dyi
-948268,sarmiento 557,clínica señor de los milagros,salta,salta,a4400erf
-962408,,hospital italiano de buenos aires,buenos aires,pilar,b1629ahj
-938471,avenida juan domingo perón al 1500pilar,hospital universitario austral,,buenos aires,b1629ahj
-957894,,hospital universitario austral,buenos aires,pilar,b1629ahj
-993687,avenida juan domingo peron 1500,hospital universitario austral,buenos aires,pilar,b1629ahj
-958999,,hospital universitario austral,ciudad autónoma de buenosaires,buenos aires,b1629ahj
-958997,avenida juan d peron 1500 asociacion civil de estudios superiores,hospital universitario austral,ciudad autónoma de buenosaires,buenos aires,b1629ahj
-952747,avenida juan d peron 1500 asociacion civil de estudios superiores,hospital universitario austral,ciudad autónoma de buenosaires,buenos aires,b1629ahj
-962114,avenida juan domingo peron 1500,hospital universitario austral  pin,buenos aires,pilar,b1629ahj
-960865,avenida puente juan domingo perón 234avenue porte,hospital universitario austral  pin,buenos aires,pilar,b1629ahj
-951732,,hospital universitario austral,buenos aires,derqui pilar,b1629odt
-981588,,hospital universitario austral,buenos aires,pilar,b1629odt
-980630,avenida juan domingo peron 1500,hospital universitario austral,buenos aires,pilar,b1629odt
-960368,avenida juan domingo perón 1500,hospital universitario austral,buenos aires,pilar,b1629odt
-940671,av pte juan domingo peron 1500ex ruta 234  derqui,hospital universitario austral,pilar,buenos aires,b1629odt
-951663,,hospital universitario austral  pin,buenos aires,derqui pilar,b1629odt
-993856,avenida juan domingo perón 1500,hospital universitario austral  pin,buenos aires,pilar,b1629odt
-982290,avenida del libertador n° 16131,centro médico santa maría de la salud,buenos aires,san isidro,b1642
-968926,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
-966949,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
-975339,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
-996398,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
-989043,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
-961360,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
-973801,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
-977546,,centro integral de atencion al diabetico ciad,buenos aires,morón,b1708iff
-948017,tucumán 1314,cimel,buenos aires,lanús,b1824 kaj
-949224,alsina 174,sanatorio itoiz,buenos aires,avellaneda,b1870cid
-950060,,coiba centro de oncología e investigación buenos aires,buenos aires,quilmes,b1878dvb
-992267,vicente lopez 1441,coiba centro de oncología e investigación buenos aires,buenos aires,quilmes,b1878dvb
-990497,,instituto cer sa,buenos aires,quilmes,b1878dvb
-941832,vicente lopez 1441,instituto medico cer,quilmes,buenos aires,b1878dvb
-942517,vicente lopez 1441,instituto medico cer,quilmes,buenos aires,b1878dvb
-951076,urquiza 1537,sanatorio urquiza,buenos aires,quilmes,b1878eme
-951493,urquiza 1537,sanatorio urquiza,buenos aires,quilmes,b1878eme
-947072,calle 51 numero 1724 entre 29 y 30,hospital italiano de la plata,buenos aires,la plata,b1900ax
-947508,av 51 no 1725,hospital italiano de la plata,buenos aires,la plata,b1900axi
-941889,av 51 entre 29 y 30,hospital italiano de la plata,la plata,buenos aires,b1900axi
-981978,avenida 51 n 1725entre 29 y 30,hospital italiano la plata,buenos aires,la plata,b1900axi
-957479,avenida 1 n° 1791,hospital interzonal general de agudos general san martín,buenos aires,la plata,b1904cfh
-960666,calle 14 n° 1631,hospital de niños sor maria ludovica,,la plata,b1904csi
-982291,avenida de mayo 1115,instituto de nefrología pergamino,buenos aires,pergamino,b2700cpm
-980629,calle rawson 180,instituto superior de neumonologia y alergia isna,,campana,b2804gdd
-949958,calle 8 n°866,centro nefrologico de la costa,buenos aires,santa teresita,b7107dir
-976332,jujuy 2176,clínica privada pueyrredón,,mar del plata,b7600dcr
-968982,jujuy 2176,clínica privada pueyrredón,,mar del plata,b7600dcr
-996406,jujuy 2176,clínica privada pueyrredón,,mar del plata,b7600dcr
-971648,jujuy 2176,clínica privada pueyrredón,,mar del plata,b7600dcr
-979407,jujuy 2176,clínica privada pueyrredón,,mar del plata,b7600dcr
-994715,jujuy 2176,clínica privada pueyrredón,,mar del plata,b7600dcr
-967301,jujuy 2176,clínica privada pueyrredón,,mar del plata,b7600dcr
-941173,av colón 3083 1 y  5to piso,centro de investigaciones medicas mar del plata,mar del plata,buenos aires,b7600fyk
-940763,av colón 3083 1 y  5to piso,centro de investigaciones medicas mar del plata,mar del plata,buenos aires,b7600fyk
-992356,avenida colón 3651,clínica colón,buenos aires,mar del plata,b7600fzd
-994486,avenida colón 3364,instituto de investigaciones clínicas mar del plata,,mar del plata,b7600fzn
-975310,avenida colón 3364,instituto de investigaciones clínicas mar del plata,,mar del plata,b7600fzn
-958825,avenida juan b justo 6701,hospital interzonal general de agudos higa oscar alende,,mar del plata,b7604abe
-948207,lavalle 257,instituto lavalle de oncologia y terapia radiante,buenos aires,bahía blanca,b8000ine
-957601,lavalle 257,office of horacio d caferri md,buenos aires,bahía blanca,b8000ine
-984513,libertad 836 cordoba 2351,instituto de investigaciones metabólicas  idim,buenos aires,buenos aires,c1012aar
-961900,,organizacin mdica de investigacin,ciudad autónoma de buenosaires,buenos aires,c1015abo
-961569,,consultores oftalmolgicos,ciudad autónoma de buenosaires,caba,c1018acf
-996071,marcelo t de alvear 1381,sociedad argentina de gastroenterologia  sage,,buenos aires,c1058aau
-966071,marcelo t de alvear 1381,sociedad argentina de gastroenterologia  sage,,buenos aires,c1058aau
-957893,,diabaid,ciudad autónoma de buenosaires,buenos aires,c1061abd
-980922,,diabaid,ciudad autónoma de buenosaires,ciudad autónoma de buenos aires,c1061abd
-943472,av belgrano 1746,fundacion favaloro,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1093aas
-990517,,fundacion favaloro,ciudad autónoma de buenosaires,buenos aires,c1093aas
-970960,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
-995650,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
-976855,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
-969668,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
-994437,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
-970261,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
-978640,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
-958077,avenida belgrano 1746,fundación favaloro,ciudad autónoma de buenosaires,buenos aires,c1093aas
-980142,avenida belgrano 1746,fundación favaloro,ciudad autónoma de buenosaires,buenos aires,c1093aas
-973229,avenida belgrano 1746,fundación favaloro,ciudad autónoma de buenosaires,buenos aires,c1093aas
-960360,avenida belgrano 1746,fundación favaloro,ciudad autónoma de buenosaires,buenos aires,c1093aas
-985822,avenida belgrano 1746,fundacion favaloro hospital universitario,buenos aires,ciudad autonoma de buenos aires,c1093aas
-960597,presidente josé evaristo uriburu 1450,fundaleu,buenos aires,buenos aires,c1114aan
-997734,jos e uriburu 1450,fundaleu,buenos aires,ciudad autonoma de buenos aires,c1114aan
-958273,pte j east uriburu 1450 pte j east uriburu 1520,fundaleu,ciudad autónoma de buenosaires,buenos aires,c1114aan  c1114aap
-948018,pte j east uriburu 1450 pte j east uriburu 1520,fundaleu,ciudad autónoma de buenosaires,buenos aires,c1114aan  c1114aap
-968431,azcuénaga 1275,gedyt,buenos aires,buenos aires,c1115aai
-967718,azcuénaga 1275,gedyt,buenos aires,buenos aires,c1115aai
-973471,azcuénaga 1275,gedyt,buenos aires,buenos aires,c1115aai
-969362,azcuénaga 1275,gedyt,buenos aires,buenos aires,c1115aai
-974561,azcuénaga 1275,gedyt,buenos aires,buenos aires,c1115aai
-974924,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
-996659,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
-995550,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
-965967,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
-969417,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
-972772,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
-964884,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
-997644,,hospital alemán,buenos aires,buenos aires,c1118aat
-986085,,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
-964745,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
-968805,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
-969008,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
-970578,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
-978237,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
-961765,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
-986593,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
-960715,avenida juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
-940450,av pueyrredon 1746 2 a,ciprec,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1119acn
-941215,avcordoba 2019,centro medico viamonte srl,ciudad autonoma de buenos aires,ciudad autonoma buenos aires,c1120aac
-941610,avcordoba 2019,centro medico viamonte srl,ciudad autonoma de buenos aires,ciudad autonoma buenos aires,c1120aac
-955769,marcelo t de alvear 2346,instituto argentino de diagnostico y tratamiento,ciudad autónoma de buenosaires,buenos aires,c1122aal
-946519,marcelo t de alvear 2346,instituto argentino de diagnostico y tratamiento,ciudad autónoma de buenosaires,buenos aires,c1122aal
-958470,cramer 1180 caba,instituto médico especializado alexander fleming,buenos aires,buenos aires,c1122aal
-984181,juncal 2222pb,fundación cenit para la investigación en neurociencias,buenos aires,caba,c1125abd
-959356,,instituto de neurologia cognitiva,ciudad autónoma de buenosaires,buenos aires,c1126aab
-941559,azcuénaga 1860 8ºpiso 8,expertia sa mautalen salud e investigación,ciudad autonoma buenos aires,buenos aires,c1128aaf
-976316,almirante brown 240,hospital gral de agudos dr cosme argerich,ciudad autónoma de buenosaires,buenos aires,c1155adp
-962015,benito lynch 2615 5 ª planta,hospital gral de agudos dr cosme argerich,ciudad autónoma de buenosaires,buenos aires,c1155ahd
-985820,,fundación sanatorio güemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
-946787,francisco acuña de figueroa 1240,fundación sanatorio güemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
-996996,,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
-974683,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
-968592,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
-968326,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
-963887,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
-979094,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
-968375,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
-981088,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
-970527,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
-960135,honduras 4160,fundasamin  fundación para la salud maternoinfantil,,buenos aires,c1180acj
-958806,esteban a gascón 450,hospital italiano,buenos aires,buenos aires,c1181ach
-938910,juan d perón 4190,hospital italiano,ciudad autonoma buenos aires,buenos aires,c1181ach
-940924,juan d perón 4190,hospital italiano,ciudad autonoma buenos aires,buenos aires,c1181ach
-941143,juan d perón 4190,hospital italiano,ciudad autonoma buenos aires,buenos aires,c1181ach
-941843,juan d perón 4190,hospital italiano,ciudad autonoma buenos aires,buenos aires,c1181ach
-941646,juan d perón 4190,hospital italiano,ciudad autonoma buenos aires,buenos aires,c1181ach
-938900,juan d perón 4190,hospital italiano,ciudad autonoma buenos aires,buenos aires,c1181ach
-990805,calle esteban a gascn 450suite 1202,hospital italiano de buenos aires,buenos aires,ciudad autonoma de buenos aires,c1181ach
-985819,,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
-981504,,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
-971260,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
-977396,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
-976865,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
-965689,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
-966563,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
-969477,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
-978815,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
-993575,servicio de psiquiatrica gascon 450 capital federal,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
-946727,tte general juan domingo perón 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,ciudad autonoma de buenos aires,c1181ach
-946507,tte general juan domingo perón 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,ciudad autonoma de buenos aires,c1181ach
-956518,tte general juan domingo perón 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,ciudad autonoma de buenos aires,c1181ach
-997912,juan d pern 4190,hospital italiano de buenos aires,,ciudad autonoma de buenos aires,c1181ach
-957362,calle tte gral juan domingo peron 4190,hospital italiano de buenos aires,,buenos aires,c1199abb
-994042,juan domingo perón 4190,hospital italiano de buenos aires,buenos aires,buenos aires,c1199abb
-997913,teniente general juan domingo peron 4190,hospital privado centro medico de cordoba,,ciudad autonoma de buenos aires,c1199abb
-960136,potosi 4215,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1199ack
-992354,avenida belgrano 2975,hospital español,ciudad autónoma de buenosaires,buenos aires,c1209aab
-981666,,hospital cesar milstein,ciudad autónoma de buenosaires,buenos aires,c1213aah
-983345,urquiza 609,hospital general de agudo jose maria ramos mejia,buenos aires,buenos aires,c1221adc
-961805,,hospital general de agudos dr jose maria ramos mejia,buenos aires,buenos aires,c1221adc
-960265,,hospital general de agudos dr jose maria ramos mejia,buenos aires,ciudad autonoma de buenos aires,c1221adc
-982748,,hospital general de agudos dr jose maria ramos mejia,ciudad autónoma de buenosaires,buenos aires,c1221adc
-965642,urquiza 609,hospital general de agudos dr jose maria ramos mejia,ciudad autónoma de buenosaires,buenos aires,c1221adc
-974315,urquiza 609,hospital general de agudos dr jose maria ramos mejia,ciudad autónoma de buenosaires,buenos aires,c1221adc
-993990,,hospital de pediatra samic prof dr juan p garrahan,ciudad autónoma de buenosaires,buenos aires,c1245aam
-960134,combate de los pozos 1881,hospital de pediatría samic prof dr juan p garrahan,ciudad autónoma de buenosaires,buenos aires,c1245aam
-993898,esteban de luca 2151,hospital materno infantil ramón sardá,ciudad autónoma de buenosaires,buenos aires,c1246abq
-958672,esteban de luca 2151,hospital materno infantil ramón sardá,ciudad autónoma de buenosaires,buenos aires,c1246abq
-981502,,hospital de gastroenterología dr bonorino udaondo,ciudad autónoma de buenosaires,buenos aires,c1264aaa
-974414,avenida caseros 2061,hospital de gastroenterología dr bonorino udaondo,ciudad autónoma de buenosaires,buenos aires,c1264aaa
-962807,avenida caseros 2061,hospital de gastroenterología dr bonorino udaondo,ciudad autónoma de buenosaires,buenos aires,c1264aaa
-996894,,hospital general de ninos dr pedro de elizalde,buenos aires,buenos aires,c1270aan
-957600,av montes de oca 40,hospital general de ninos dr pedro de elizalde,ciudad autónoma de buenosaires,buenos aires,c1270aan
-959777,montes de oca 40 subsuelo sector docencia east investigación,hospital general de ninos dr pedro de elizalde,ciudad autónoma de buenosaires,buenos aires,c1270aan
-964944,perdriel 74,hospital britanico de buenos aires,buenos aires,ciudad autónoma de buenosaires,c1280aeb
-976314,perdriel 74,hospital britanico de buenos aires,buenos aires,ciudad autónoma de buenosaires,c1280aeb
-955770,perdriel 74,hospital britanico de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1280aeb
-962086,perdriel 74,hospital británico de buenos aires,buenos aires,buenos aires,c1280aeb
-976758,calle perdriel 74,hospital británico de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1280aeb
-996079,pedriel 74,hospital británico de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1280aeb
-948442,pedriel 74,hospital británico de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1280aeb
-965932,pedriel 74,hospital británico de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1280aeb
-956673,perdriel 74,hospital británico de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1280aeb
-960269,,hospital britnico de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1280aeb
-955941,avenida gral díaz velez 5044,hospital general de agudos carlos g durand,buenos aires,buenos aires,c1405dcs
-996063,avenida díaz velez 5044,hospital general de agudos carlos g durand,ciudad autónoma de buenosaires,buenos aires,c1405dcs
-966679,avenida díaz velez 5044,hospital general de agudos carlos g durand,ciudad autónoma de buenosaires,buenos aires,c1405dcs
-947507,avenida díaz velez 5044,hospital general de agudos carlos g durand,ciudad autónoma de buenosaires,buenos aires,c1405dcs
-940925,av san martin 5481,instituto de oncologia angel roffo,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1417dtb
-960650,cerviño 3356,hospital juan a fernandez,buenos aires,buenos aires,c1425agp
-982289,cerviño 3356,hospital juan a fernandez,ciudad autónoma de buenosaires,buenos aires,c1425agp
-958671,cerviño 4720,sanatorio de la trinidad,ciudad autónoma de buenosaires,buenos aires,c1425ain
-993648,josé andrés pacheco de melo 3081,academia nacional de medicina,buenos aires,buenos aires,c1425aum
-939952,j a pacheco de melo 3081,academia nacional de medicina,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1425aum
-946779,j a pacheco de melo 3081,academia nacional de medicina,ciudad autónoma de buenosaires,buenos aires,c1425aum
-958824,josé andrés pacheco de melo 3081,instituto de investigaciones hematologicas mariano castex,buenos aires,buenos aires,c1425aum
-948671,j a pacheco de melo 3081,instituto de investigaciones hematologicas mariano castex,ciudad autónoma de buenosaires,buenos aires,c1425aum
-951184,paraguay 2935,instituto william osler patologías especiales s a,buenos aires,ciudad autónoma de buenos aires,c1425bri
-968096,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
-976311,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
-978664,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
-973513,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
-972512,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
-961625,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
-966896,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
-980820,,hospital de ninos ricardo gutierrez,ciudad autónoma de buenosaires,buenos aires,c1425efd
-959093,gallo 1330,hospital de ninos ricardo gutierrez,ciudad autónoma de buenosaires,buenos aires,c1425efd
-980143,uriarte 2383,fundación para el estudio de enfermedades neurometabólicasfesen,ciudad autónoma de buenosaires,buenos aires,c1425fng
-965595,avenida cabildo 1548 piso 1°a,centro médico dra de salvo  ppds,,buenos aires,c1426abp
-996590,avenida cabildo 1548,centro médico dra de salvo  ppds,,ciudad autónoma de buenos aires,c1426abp
-968399,avenida cabildo 1548,centro médico dra de salvo  ppds,,ciudad autónoma de buenos aires,c1426abp
-979165,avenida cabildo 1548,centro médico dra de salvo  ppds,,ciudad autónoma de buenos aires,c1426abp
-970019,avenida cabildo 1548,centro médico dra de salvo  ppds,,ciudad autónoma de buenos aires,c1426abp
-972351,avenida cabildo 1548,centro médico dra de salvo  ppds,,ciudad autónoma de buenos aires,c1426abp
-971663,avenida cabildo 1548,centro médico dra de salvo  ppds,,ciudad autónoma de buenos aires,c1426abp
-964263,avenida cabildo 1548,centro médico dra de salvo  ppds,,ciudad autónoma de buenos aires,c1426abp
-981488,avenida cabildo 1548,centro médico dra de salvo  ppds,buenos aires,ciudad autónoma de buenos aires,c1426abp
-979930,avenida cabildo 1548,centro médico dra de salvo  ppds,buenos aires,ciudad autónoma de buenos aires,c1426abp
-970496,avenida cabildo 1548,centro médico dra de salvo  ppds,buenos aires,ciudad autónoma de buenos aires,c1426abp
-967231,avenida cabildo 1548,centro médico dra de salvo  ppds,buenos aires,ciudad autónoma de buenos aires,c1426abp
-970581,avenida cabildo 1548,centro médico dra de salvo  ppds,ciudad autónoma de buenosaires,ciudad autónoma de buenos aires,c1426abp
-964262,avenida cabildo 1548,centro médico dra de salvo  ppds,ciudad autónoma de buenosaires,ciudad autónoma de buenos aires,c1426abp
-941098,cramer 1180,instituto alexander fleming,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1426anz
-986476,avenida crmer 1180,instituto alexander fleming,,cuidad autonoma de buenos aires,c1426anz
-957841,avenida crámer 1180,instituto médico especializado alexander fleming,ciudad autónoma de buenosaires,buenos aires,c1426anz
-961209,avenida crámer 1180,instituto médico especializado alexander fleming,ciudad autónoma de buenosaires,buenos aires,c1426anz
-979449,cramer 1180,instituto médico especializado alexander fleming,ciudad autónoma de buenosaires,buenos aires,c1426anz
-992266,cramer 1180,instituto médico especializado alexander fleming,ciudad autónoma de buenosaires,buenos aires,c1426anz
-949056,cramer 1180,instituto médico especializado alexander fleming,ciudad autónoma de buenosaires,buenos aires,c1426anz
-946780,avenida crámer 1180,instituto médico especializado srl,ciudad autónoma de buenosaires,buenos aires,c1426anz
-971939,avenida combtes de malvinas 3150,universidad de buenos aires  instituto de investigaciones medicas alfredo lanari,ciudad autónoma de buenosaires,buenos aires,c1427aro
-964266,avenida combtes de malvinas 3150,universidad de buenos aires  instituto de investigaciones medicas alfredo lanari,ciudad autónoma de buenosaires,buenos aires,c1427aro
-967479,avenida combtes de malvinas 3150,universidad de buenos aires  instituto de investigaciones medicas alfredo lanari,ciudad autónoma de buenosaires,buenos aires,c1427aro
-975564,avenida combtes de malvinas 3150,universidad de buenos aires  instituto de investigaciones medicas alfredo lanari,ciudad autónoma de buenosaires,buenos aires,c1427aro
-971089,avenida combtes de malvinas 3150,universidad de buenos aires  instituto de investigaciones medicas alfredo lanari,ciudad autónoma de buenosaires,buenos aires,c1427aro
-938739,montañeses 2325sede belgrano,instituto de investigaciones neurologicas raul carrea fleni,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1428aqk
-939302,montañeses 2325sede belgrano,instituto de investigaciones neurologicas raul carrea fleni,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1428aqk
-989950,estomba 1710,clinica adventista belgrano,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1430egf
-946517,elías galván 4102,centro de educación médica e investigaciones clínicas norberto quirno cemic,buenos aires,caba,c1430fwo
-986096,,hospital británico de buenos aires,buenos aires,caba,c1430fwo
-963998,elías galván 4102,centro de educación médica e investigaciones clínicas norberto quirno,buenos aires,buenos aires,c1431fwo
-993640,elías galván 4102,centro de educación médica e investigaciones clínicas norberto quirno,buenos aires,buenos aires,c1431fwo
-972807,elías galván 4102,centro de educación médica e investigaciones clínicas norberto quirno,buenos aires,buenos aires,c1431fwo
-960714,avenida galvan 4102,centro de educación médica e investigaciones clínicas norberto quirno cemic,buenos aires,buenos aires,c1431fwo
-947959,elías galván 4102,centro de educación médica e investigaciones clínicas norberto quirno cemic,buenos aires,buenos aires,c1431fwo
-997619,,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1431fwo
-990033,avenida galvan 4102,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1431fwo
-948015,profesor dr pedro chutro 3380,hospital general de agudos dr teodoro alvarez,ciudad autónoma de buenosaires,buenos aires,c1437iyp
-948007,uspallata 3400,churruca htal,ciudad autónoma de buenosaires,buenos aires,c1437jch
-996931,,centro medico de nutricion y diabetes,ciudad autónoma de buenosaires,buenos aires,c1440aad
-982300,dorrego 269,centro oncologico riojano integral,la rioja,la rioja,f5300coe
-947631,,centro oncologico riojano integral cori,la rioja,la rioja,f5300coe
-983828,dorrego 269,centro oncologico riojano integral cori,la rioja,la rioja,f5300coe
-992759,25 de mayo 425,centro mayo de onco hematologia y hemoterapia,santiago del estero,santiago del estero,g4200awi
-958395,avenida jd perón 1500,hospital universitario austral,buenos aires,pilar,g4230xai
-989278,chacabuco 675,sanatorio pasteur,córdoba,catamarca,k4703afi
-981756,,hospital central de mendoza,mendoza,mendoza,m5500chq
-990032,sarmiento 253oncology department,centro de investigación clínica  clínica viedma,río negro,viedma,r8500ace
-949047,mendoza 2612,instituto caici,santa fe,rosario,s2000 pbj
-963515,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
-975115,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
-977796,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
-971259,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
-967369,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
-995729,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
-963982,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
-948013,paraguay 40,sanatorio britanico de rosario,santa fe,rosario,s2000cvb
-959578,paraguay 40,sanatorio britanico de rosario,santa fe,rosario,s2000cvb
-947572,paraguay 40,sanatorio britanico de rosario,santa fe,rosario,s2000cvb
-983979,paraguay 40,sanatorio britanico de rosario,santa fe,rosario,s2000cvb
-949282,,sanatorio parque de rosario,santa fe,rosario,s2000dsv
-963535,boulevard oroño 860,sanatorio parque de rosario,santa fe,rosario,s2000dsv
-947573,boulevard oroño 860,sanatorio parque de rosario,santa fe,rosario,s2000dsv
-990073,boulevard oroño 860,sanatorio parque de rosario,santa fe,rosario,s2000dsv
-971321,boulevard oroño 860,sanatorio parque de rosario,santa fe,rosario,s2000dsv
-995394,boulevard oroño 866,sanatorio parque de rosario,santa fe,rosario,s2000dsv
-968097,boulevard oroño 866,sanatorio parque de rosario,santa fe,rosario,s2000dsv
-967719,boulevard oroño 866,sanatorio parque de rosario,santa fe,rosario,s2000dsv
-975389,boulevard oroño 866,sanatorio parque de rosario,santa fe,rosario,s2000dsv
-973514,boulevard oroño 866,sanatorio parque de rosario,santa fe,rosario,s2000dsv
-971511,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
-995739,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
-996219,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
-978666,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
-968433,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
-966898,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
-963996,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
-990498,,hospital provincial del centenario,santa fe,rosario,s2000kds
-965647,urquiza 3100,hospital provincial del centenario,santa fe,rosario,s2000kds
-971343,urquiza 3100,hospital provincial del centenario,santa fe,rosario,s2000kds
-948474,cordoba 2457,instituto de oncologia y especialidades medicas,santa fe,rosario,s2000kze
-940980,urquiza 3101,hospital provincial del centenario,rosario,santa fe,s2002kds
-941730,urquiza 3101,hospital provincial del centenario,rosario,santa fe,s2002kds
-990074,urquiza 3101,hospital provincial del centenario,santa fe,rosario,s2002kds
-959086,boulevard carlos pellegrini 3551,hospital iturraspe,santa fe,santa fe,s3000adl
-947960,boulevard carlos pellegrini 3551,hospital iturraspe,santa fe,santa fe,s3000adl
-947571,blas parera 8308349,hospital iturraspe,santa fe,santa fe,s3006ftp
-960045,avenida fernando mate de luna 1535,instituto de maternidad nuestra señora de la merced,tucumán,san miguel de tucumán,t4000cpc
-959085,avenida fernando mate de luna 1535,instituto de maternidad nuestra señora de la merced,tucumán,san miguel de tucumán,t4000cpc
-970526,25 de mayo 372,sanatorio 9 de julio sa,,san miguel de tucumán,t4000dgf
-963358,25 de mayo 372,sanatorio 9 de julio sa,,san miguel de tucumán,t4000dgf
-947506,avenue avellaneda 750,hospital centro de salud zenon santillan,,san miguel de tucumán,t4000hxu
-978665,cordoba 445,sanatorio 9 de julio sa,,san miguel de tucuman,t4000ifl
-975421,cordoba 445,sanatorio 9 de julio sa,,san miguel de tucuman,t4000ifl
-950979,bajada pucara 1900 departamento de infectologia polo hospitalario de cordoba,hospital de niños de la santisima trinidad,córdoba,córdoba,x5000bnb
-997618,,hospital san roque,córdoba,córdoba,x5000epu
-940762,la rioja 881,centro de investigaciones clinicas instituto del corazon,cordoba,cordoba,x5000evq
-972644,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
-960129,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
-975114,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
-967368,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
-995393,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
-976313,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
-964001,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
-966678,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
-984157,avenida hiplito yrigoyen 384,sanatorio allende,cordoba,cordoba,x5000jhq
-994404,avenida hipólito yrigoyen 384,sanatorio allende sa,,córdoba,x5000jhq
-973236,avenida hipólito yrigoyen 384,sanatorio allende sa,,córdoba,x5000jhq
-960841,av hipólito yrigoyen 384,sanatorio allende sa,córdoba,córdoba,x5000jhq
-948931,hipolito yrigoyen 384,sanatorio allende sa,córdoba,córdoba,x5000jhq
-946789,roma 550,hospital italiano,córdoba,córdoba,x5004bal
-946518,roma 550,hospital italiano de córdoba,córdoba,córdoba,x5004bal
-948269,general ramón deheza 542,sanatorio del salvador,,ciudad de cordoba,x5004bcl
-946759,avenida patria 656,hospital cordoba,córdoba,córdoba,x5004cdt
-946786,avenue caraffa 2532,ipac caraffa,córdoba,córdoba,x5009bsn
-959369,,asociacin civil de esclerosis mltiple,córdoba,córdoba,x5014hyr
-982800,naciones unidas 346,hospital privado centro medico de cordoba,cordoba,cordoba,x5014keh
-960270,,hospital privado centro mdico de crdoba,córdoba,córdoba,x5016keh
-965594,avenida naciones unidas 346b° parque vélez sarsfield,hospital privado centro médico de córdoba,,córdoba,x5016keh
-967747,avenida naciones unidas 346b° parque vélez sarsfield,hospital privado centro médico de córdoba,,córdoba,x5016keh
-975241,avenida naciones unidas 346b° parque vélez sarsfield,hospital privado centro médico de córdoba,,córdoba,x5016keh
-970495,avenida naciones unidas 346b° parque vélez sarsfield,hospital privado centro médico de córdoba,,córdoba,x5016keh
-964571,avenida naciones unidas 346b° parque vélez sarsfield,hospital privado centro médico de córdoba,,córdoba,x5016keh
-989194,avenida naciones unidas 346b° parque vélez sarsfield,hospital privado centro médico de córdoba,,córdoba,x5016keh
-975303,avenida naciones unidas 346b° parque vélez sarsfield,hospital privado centro médico de córdoba,,córdoba,x5016keh
-958393,naciones unidas 346,hospital privado centro médico de córdoba,córdoba,córdoba,x5016keh
-970163,naciones unidas 346,hospital privado centro médico de córdoba,córdoba,córdoba,x5016keh
-961422,naciones unidas 346,hospital privado centro médico de córdoba,córdoba,córdoba,x5016keh
-959579,naciones unidas 346,hospital privado centro médico de córdoba,córdoba,córdoba,x5016keh
-957478,naciones unidas 346,hospital privado centro médico de córdoba,córdoba,córdoba,x5016keh
-949225,naciones unidas 346,hospital privado centro médico de córdoba,córdoba,córdoba,x5016keh
-984515,güemes esq coronel puch,fundación ars medica,,san salvador,y4600afw
+1006,avenida juan d peron 1500,hospital universitario austral,buenos aires,buenos aires,01629
+1007,josé euriburu 1450,fundaleu  fundacion para combatir la leucemia,ciudad autonoma buenos aires,ciudad autonoma buenos aires,1114
+1008,solis 2171,hospital británico,ciudad autonoma buenos aires,ciudad autonoma buenos aires,1134
+1009,calle tte gral juan domingo peron 4190department of oncology,hospital italiano de buenos aires,ciudad autónoma de buenosaires,ciudad autonoma de buenos aires,1199
+1010,perdriel 74,hospital britanico de buenos aires,ciudad autonoma buenos aires,ciudad autonoma buenos aires,1280
+1011,perdriel 74,hospital britanico de buenos aires,ciudad autonoma buenos aires,ciudad autonoma buenos aires,1280
+1012,uspallata 3400,complejo medico de la policia federal argentina churruca visca,ciudad autonoma buenos aires,ciudad autonoma buenos aires,1416
+1013,uspallata 3400,complejo medico de la policia federal argentina churruca visca,ciudad autonoma buenos aires,ciudad autonoma buenos aires,1416
+1014,ecuador 1481centro integral de gastroenterología,centro integral de gastroenterología,ciudad autónoma de buenosaires,buenos aires,1425
+1015,ecuador 1481centro integral de gastroenterología,centro integral de gastroenterología,ciudad autónoma de buenosaires,buenos aires,1425
+1016,ecuador 1481,centro integral de gastroenterología,ciudad autónoma de buenosaires,buenos aires,1425
+1017,ecuador 1481centro integral de gastroenterología,centro integral de gastroenterología,ciudad autónoma de buenosaires,buenos aires,1425
+1018,ecuador 1481centro integral de gastroenterología,centro integral de gastroenterología,ciudad autónoma de buenosaires,buenos aires,1425
+1019,ecuador 1481centro integral de gastroenterología,centro integral de gastroenterología,ciudad autónoma de buenosaires,buenos aires,1425
+1020,calle gallo 1330 division promocion y proteccion de lane saluddivision promocion y proteccion de lane salud,hospital de ninos ricardo gutierrez,ciudad autónoma de buenosaires,buenos aires,1426
+1021,ruta 8 km 20500loma hermosa,hospital zonal general de agudos dr carlos bocalandro,ciudad autónoma de buenosaires,buenos aires,1657
+1022,ruta 8 km 20500loma hermosa,hospital zonal general de agudos dr carlos bocalandro,ciudad autónoma de buenosaires,buenos aires,1657
+1023,illia sn y marconi,hospital nacional alejandro posadas,buenos aires,el palomar,1684
+1024,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
+1025,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
+1026,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
+1027,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
+1028,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
+1029,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
+1030,vincente lopez 1441,instituto cer sa,buenos aires,quilmes,1878
+1031,calle 51 n° 315 entre 1 y 2,instituto medico platense,buenos aires,la plata,1897
+1032,calle 14 nro 1631 sala 6,hospital de niños sor maria ludovica,buenos aires,la plata,1900
+1033,calle 14 numero 1631hematologia y hemoterapia,hospital de niños sor maria ludovica,buenos aires,la plata,1900
+1034,avenida 51 nº1725 e29 y 30,hospital italiano de la plata,buenos aires,la plata,1900
+1035,calle 47 y 115facultad de ciencias exactas catedra de inmunologia,national university of la plata,buenos aires,la plata,1900
+1036,laprida 1061,instituto de hematologia y medicina clinica dr ruben davoli,santa fe,rosario,2000
+1037,laprida 1061,instituto de hematologia y medicina clinica dr ruben davoli,santa fe,rosario,2000
+1038,presidente peron numero 450,hospital san martin,entre ríos,paraná,3100
+1039,avenida domingo faustino sarmiento 157,centro para la atencion integral del paciente oncologico,tucuman,san miguel de tucuman,4000
+1040,zabala 432,centro diagnostico zabala,salta,salta,4400
+1041,zabala 432,centro diagnostico zabala,salta,salta,4400
+1042,agustin garzon aguila 187,centro privado metabólico,córdoba,córdoba,5000
+1043,agustin garzon aguila 187,centro privado metabólico,córdoba,córdoba,5000
+1044,bajada pucará 1900,hospital san roque,córdoba,córdoba,5000
+1045,rodriguez peña 285,hospital universitario de maternidad y neonatología,córdoba,córdoba,5000
+1046,avenida duarte quiros 1948,sanatorio duarte quiros,cordoba,cordoba,5000
+1047,av naciones unidas 346parque velez sarsfield,hospital privado centro medico de cordoba sa,cordoba,cordoba,5016
+1048,av naciones unidas 346parque velez sarsfield,hospital privado centro medico de cordoba sa,cordoba,cordoba,5016
+1049,montecaseros 1020,fundación centro oncológico de integración regional coir,mendoza,mendoza city,5500
+1050,montecaseros 1020,fundación centro oncológico de integración regional coir,mendoza,mendoza city,5500
+1051,montecaseros 1020,fundación centro oncológico de integración regional coir,mendoza,mendoza city,5500
+1052,timoteo gordillo sn,hospital lagomaggiore,mendoza,mendoza city,5500
+1053,timoteo gordillo sn,hospital lagomaggiore,mendoza,mendoza city,5500
+1054,timoteo gordillo sn,hospital lagomaggiore,mendoza,mendoza city,5500
+1055,timoteo gordillo sn,hospital lagomaggiore,mendoza,mendoza city,5500
+1056,hipólito irigoyen 1020,instituto médico río cuarto,córdoba,rio cuarto,5800
+1057,telen 1639,fundacion koriza,la pampa,santa rosa,6300
+1058,sarmiento 557,clínica señor de los milagros,salta,salta,a4400erf
+1059,avenida juan domingo peron 1500,hospital universitario austral,buenos aires,pilar,b1629ahj
+1060,avenida juan d peron 1500 asociacion civil de estudios superiores,hospital universitario austral,ciudad autónoma de buenosaires,buenos aires,b1629ahj
+1061,avenida juan d peron 1500 asociacion civil de estudios superiores,hospital universitario austral,ciudad autónoma de buenosaires,buenos aires,b1629ahj
+1062,avenida juan domingo peron 1500,hospital universitario austral  pin,buenos aires,pilar,b1629ahj
+1063,avenida puente juan domingo perón 234avenue porte,hospital universitario austral  pin,buenos aires,pilar,b1629ahj
+1064,avenida juan domingo peron 1500,hospital universitario austral,buenos aires,pilar,b1629odt
+1065,avenida juan domingo perón 1500,hospital universitario austral,buenos aires,pilar,b1629odt
+1066,av pte juan domingo peron 1500ex ruta 234  derqui,hospital universitario austral,pilar,buenos aires,b1629odt
+1067,avenida juan domingo perón 1500,hospital universitario austral  pin,buenos aires,pilar,b1629odt
+1068,avenida del libertador n° 16131,centro médico santa maría de la salud,buenos aires,san isidro,b1642
+1069,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
+1070,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
+1071,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
+1072,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
+1073,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
+1074,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
+1075,av marconi y pte illia,hospital nacional alejandro posadas,buenos aires,el palomar,b1684
+1076,tucumán 1314,cimel,buenos aires,lanús,b1824 kaj
+1077,alsina 174,sanatorio itoiz,buenos aires,avellaneda,b1870cid
+1078,vicente lopez 1441,coiba centro de oncología e investigación buenos aires,buenos aires,quilmes,b1878dvb
+1079,vicente lopez 1441,instituto medico cer,quilmes,buenos aires,b1878dvb
+1080,vicente lopez 1441,instituto medico cer,quilmes,buenos aires,b1878dvb
+1081,urquiza 1537,sanatorio urquiza,buenos aires,quilmes,b1878eme
+1082,urquiza 1537,sanatorio urquiza,buenos aires,quilmes,b1878eme
+1083,calle 51 numero 1724 entre 29 y 30,hospital italiano de la plata,buenos aires,la plata,b1900ax
+1084,av 51 no 1725,hospital italiano de la plata,buenos aires,la plata,b1900axi
+1085,av 51 entre 29 y 30,hospital italiano de la plata,la plata,buenos aires,b1900axi
+1086,avenida 51 n 1725entre 29 y 30,hospital italiano la plata,buenos aires,la plata,b1900axi
+1087,avenida 1 n° 1791,hospital interzonal general de agudos general san martín,buenos aires,la plata,b1904cfh
+1088,avenida de mayo 1115,instituto de nefrología pergamino,buenos aires,pergamino,b2700cpm
+1089,calle 8 n°866,centro nefrologico de la costa,buenos aires,santa teresita,b7107dir
+1090,av colón 3083 1 y  5to piso,centro de investigaciones medicas mar del plata,mar del plata,buenos aires,b7600fyk
+1091,av colón 3083 1 y  5to piso,centro de investigaciones medicas mar del plata,mar del plata,buenos aires,b7600fyk
+1092,avenida colón 3651,clínica colón,buenos aires,mar del plata,b7600fzd
+1093,lavalle 257,instituto lavalle de oncologia y terapia radiante,buenos aires,bahía blanca,b8000ine
+1094,lavalle 257,office of horacio d caferri md,buenos aires,bahía blanca,b8000ine
+1095,libertad 836 cordoba 2351,instituto de investigaciones metabólicas  idim,buenos aires,buenos aires,c1012aar
+1096,av belgrano 1746,fundacion favaloro,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1093aas
+1097,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
+1098,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
+1099,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
+1100,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
+1101,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
+1102,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
+1103,av belgrano 1746 7º piso,fundación favaloro,buenos aires,buenos aires,c1093aas
+1104,avenida belgrano 1746,fundación favaloro,ciudad autónoma de buenosaires,buenos aires,c1093aas
+1105,avenida belgrano 1746,fundación favaloro,ciudad autónoma de buenosaires,buenos aires,c1093aas
+1106,avenida belgrano 1746,fundación favaloro,ciudad autónoma de buenosaires,buenos aires,c1093aas
+1107,avenida belgrano 1746,fundación favaloro,ciudad autónoma de buenosaires,buenos aires,c1093aas
+1108,avenida belgrano 1746,fundacion favaloro hospital universitario,buenos aires,ciudad autonoma de buenos aires,c1093aas
+1109,presidente josé evaristo uriburu 1450,fundaleu,buenos aires,buenos aires,c1114aan
+1110,jos e uriburu 1450,fundaleu,buenos aires,ciudad autonoma de buenos aires,c1114aan
+1111,pte j east uriburu 1450 pte j east uriburu 1520,fundaleu,ciudad autónoma de buenosaires,buenos aires,c1114aan  c1114aap
+1112,pte j east uriburu 1450 pte j east uriburu 1520,fundaleu,ciudad autónoma de buenosaires,buenos aires,c1114aan  c1114aap
+1113,azcuénaga 1275,gedyt,buenos aires,buenos aires,c1115aai
+1114,azcuénaga 1275,gedyt,buenos aires,buenos aires,c1115aai
+1115,azcuénaga 1275,gedyt,buenos aires,buenos aires,c1115aai
+1116,azcuénaga 1275,gedyt,buenos aires,buenos aires,c1115aai
+1117,azcuénaga 1275,gedyt,buenos aires,buenos aires,c1115aai
+1118,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
+1119,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
+1120,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
+1121,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
+1122,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
+1123,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
+1124,av pueyrredón 1640 c1118aat,hospital aleman,buenos aires,buenos aires,c1118aat
+1125,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
+1126,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
+1127,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
+1128,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
+1129,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
+1130,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
+1131,av juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
+1132,avenida juan m de pueyrredón 1640,hospital alemán,ciudad autónoma de buenosaires,buenos aires,c1118aat
+1133,av pueyrredon 1746 2 a,ciprec,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1119acn
+1134,avcordoba 2019,centro medico viamonte srl,ciudad autonoma de buenos aires,ciudad autonoma buenos aires,c1120aac
+1135,avcordoba 2019,centro medico viamonte srl,ciudad autonoma de buenos aires,ciudad autonoma buenos aires,c1120aac
+1136,marcelo t de alvear 2346,instituto argentino de diagnostico y tratamiento,ciudad autónoma de buenosaires,buenos aires,c1122aal
+1137,marcelo t de alvear 2346,instituto argentino de diagnostico y tratamiento,ciudad autónoma de buenosaires,buenos aires,c1122aal
+1138,cramer 1180 caba,instituto médico especializado alexander fleming,buenos aires,buenos aires,c1122aal
+1139,juncal 2222pb,fundación cenit para la investigación en neurociencias,buenos aires,caba,c1125abd
+1140,azcuénaga 1860 8ºpiso 8,expertia sa mautalen salud e investigación,ciudad autonoma buenos aires,buenos aires,c1128aaf
+1141,almirante brown 240,hospital gral de agudos dr cosme argerich,ciudad autónoma de buenosaires,buenos aires,c1155adp
+1142,benito lynch 2615 5 ª planta,hospital gral de agudos dr cosme argerich,ciudad autónoma de buenosaires,buenos aires,c1155ahd
+1143,francisco acuña de figueroa 1240,fundación sanatorio güemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
+1144,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
+1145,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
+1146,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
+1147,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
+1148,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
+1149,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
+1150,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
+1151,francisco acuña de figueroa 1240,sanatorio guemes,ciudad autónoma de buenosaires,buenos aires,c1180aax
+1152,esteban a gascón 450,hospital italiano,buenos aires,buenos aires,c1181ach
+1153,juan d perón 4190,hospital italiano,ciudad autonoma buenos aires,buenos aires,c1181ach
+1154,juan d perón 4190,hospital italiano,ciudad autonoma buenos aires,buenos aires,c1181ach
+1155,juan d perón 4190,hospital italiano,ciudad autonoma buenos aires,buenos aires,c1181ach
+1156,juan d perón 4190,hospital italiano,ciudad autonoma buenos aires,buenos aires,c1181ach
+1157,juan d perón 4190,hospital italiano,ciudad autonoma buenos aires,buenos aires,c1181ach
+1158,juan d perón 4190,hospital italiano,ciudad autonoma buenos aires,buenos aires,c1181ach
+1159,calle esteban a gascn 450suite 1202,hospital italiano de buenos aires,buenos aires,ciudad autonoma de buenos aires,c1181ach
+1160,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
+1161,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
+1162,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
+1163,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
+1164,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
+1165,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
+1166,juan d peron 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
+1167,servicio de psiquiatrica gascon 450 capital federal,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1181ach
+1168,tte general juan domingo perón 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,ciudad autonoma de buenos aires,c1181ach
+1169,tte general juan domingo perón 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,ciudad autonoma de buenos aires,c1181ach
+1170,tte general juan domingo perón 4190,hospital italiano de buenos aires,ciudad autónoma de buenosaires,ciudad autonoma de buenos aires,c1181ach
+1171,juan d pern 4190,hospital italiano de buenos aires,,ciudad autonoma de buenos aires,c1181ach
+1172,juan domingo perón 4190,hospital italiano de buenos aires,buenos aires,buenos aires,c1199abb
+1173,potosi 4215,hospital italiano de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1199ack
+1174,avenida belgrano 2975,hospital español,ciudad autónoma de buenosaires,buenos aires,c1209aab
+1175,urquiza 609,hospital general de agudo jose maria ramos mejia,buenos aires,buenos aires,c1221adc
+1176,urquiza 609,hospital general de agudos dr jose maria ramos mejia,ciudad autónoma de buenosaires,buenos aires,c1221adc
+1177,urquiza 609,hospital general de agudos dr jose maria ramos mejia,ciudad autónoma de buenosaires,buenos aires,c1221adc
+1178,combate de los pozos 1881,hospital de pediatría samic prof dr juan p garrahan,ciudad autónoma de buenosaires,buenos aires,c1245aam
+1179,esteban de luca 2151,hospital materno infantil ramón sardá,ciudad autónoma de buenosaires,buenos aires,c1246abq
+1180,esteban de luca 2151,hospital materno infantil ramón sardá,ciudad autónoma de buenosaires,buenos aires,c1246abq
+1181,avenida caseros 2061,hospital de gastroenterología dr bonorino udaondo,ciudad autónoma de buenosaires,buenos aires,c1264aaa
+1182,avenida caseros 2061,hospital de gastroenterología dr bonorino udaondo,ciudad autónoma de buenosaires,buenos aires,c1264aaa
+1183,av montes de oca 40,hospital general de ninos dr pedro de elizalde,ciudad autónoma de buenosaires,buenos aires,c1270aan
+1184,montes de oca 40 subsuelo sector docencia east investigación,hospital general de ninos dr pedro de elizalde,ciudad autónoma de buenosaires,buenos aires,c1270aan
+1185,perdriel 74,hospital britanico de buenos aires,buenos aires,ciudad autónoma de buenosaires,c1280aeb
+1186,perdriel 74,hospital britanico de buenos aires,buenos aires,ciudad autónoma de buenosaires,c1280aeb
+1187,perdriel 74,hospital britanico de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1280aeb
+1188,perdriel 74,hospital británico de buenos aires,buenos aires,buenos aires,c1280aeb
+1189,calle perdriel 74,hospital británico de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1280aeb
+1190,pedriel 74,hospital británico de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1280aeb
+1191,pedriel 74,hospital británico de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1280aeb
+1192,pedriel 74,hospital británico de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1280aeb
+1193,perdriel 74,hospital británico de buenos aires,ciudad autónoma de buenosaires,buenos aires,c1280aeb
+1194,avenida gral díaz velez 5044,hospital general de agudos carlos g durand,buenos aires,buenos aires,c1405dcs
+1195,avenida díaz velez 5044,hospital general de agudos carlos g durand,ciudad autónoma de buenosaires,buenos aires,c1405dcs
+1196,avenida díaz velez 5044,hospital general de agudos carlos g durand,ciudad autónoma de buenosaires,buenos aires,c1405dcs
+1197,avenida díaz velez 5044,hospital general de agudos carlos g durand,ciudad autónoma de buenosaires,buenos aires,c1405dcs
+1198,av san martin 5481,instituto de oncologia angel roffo,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1417dtb
+1199,cerviño 3356,hospital juan a fernandez,buenos aires,buenos aires,c1425agp
+1200,cerviño 3356,hospital juan a fernandez,ciudad autónoma de buenosaires,buenos aires,c1425agp
+1201,cerviño 4720,sanatorio de la trinidad,ciudad autónoma de buenosaires,buenos aires,c1425ain
+1202,josé andrés pacheco de melo 3081,academia nacional de medicina,buenos aires,buenos aires,c1425aum
+1203,j a pacheco de melo 3081,academia nacional de medicina,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1425aum
+1204,j a pacheco de melo 3081,academia nacional de medicina,ciudad autónoma de buenosaires,buenos aires,c1425aum
+1205,josé andrés pacheco de melo 3081,instituto de investigaciones hematologicas mariano castex,buenos aires,buenos aires,c1425aum
+1206,j a pacheco de melo 3081,instituto de investigaciones hematologicas mariano castex,ciudad autónoma de buenosaires,buenos aires,c1425aum
+1207,paraguay 2935,instituto william osler patologías especiales s a,buenos aires,ciudad autónoma de buenos aires,c1425bri
+1208,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
+1209,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
+1210,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
+1211,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
+1212,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
+1213,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
+1214,coronel diaz 2423,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1425dqk
+1215,gallo 1330,hospital de ninos ricardo gutierrez,ciudad autónoma de buenosaires,buenos aires,c1425efd
+1216,uriarte 2383,fundación para el estudio de enfermedades neurometabólicasfesen,ciudad autónoma de buenosaires,buenos aires,c1425fng
+1217,avenida cabildo 1548,centro médico dra de salvo  ppds,buenos aires,ciudad autónoma de buenos aires,c1426abp
+1218,avenida cabildo 1548,centro médico dra de salvo  ppds,buenos aires,ciudad autónoma de buenos aires,c1426abp
+1219,avenida cabildo 1548,centro médico dra de salvo  ppds,buenos aires,ciudad autónoma de buenos aires,c1426abp
+1220,avenida cabildo 1548,centro médico dra de salvo  ppds,buenos aires,ciudad autónoma de buenos aires,c1426abp
+1221,avenida cabildo 1548,centro médico dra de salvo  ppds,ciudad autónoma de buenosaires,ciudad autónoma de buenos aires,c1426abp
+1222,avenida cabildo 1548,centro médico dra de salvo  ppds,ciudad autónoma de buenosaires,ciudad autónoma de buenos aires,c1426abp
+1223,cramer 1180,instituto alexander fleming,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1426anz
+1224,avenida crmer 1180,instituto alexander fleming,,cuidad autonoma de buenos aires,c1426anz
+1225,avenida crámer 1180,instituto médico especializado alexander fleming,ciudad autónoma de buenosaires,buenos aires,c1426anz
+1226,avenida crámer 1180,instituto médico especializado alexander fleming,ciudad autónoma de buenosaires,buenos aires,c1426anz
+1227,cramer 1180,instituto médico especializado alexander fleming,ciudad autónoma de buenosaires,buenos aires,c1426anz
+1228,cramer 1180,instituto médico especializado alexander fleming,ciudad autónoma de buenosaires,buenos aires,c1426anz
+1229,cramer 1180,instituto médico especializado alexander fleming,ciudad autónoma de buenosaires,buenos aires,c1426anz
+1230,avenida crámer 1180,instituto médico especializado srl,ciudad autónoma de buenosaires,buenos aires,c1426anz
+1231,avenida combtes de malvinas 3150,universidad de buenos aires  instituto de investigaciones medicas alfredo lanari,ciudad autónoma de buenosaires,buenos aires,c1427aro
+1232,avenida combtes de malvinas 3150,universidad de buenos aires  instituto de investigaciones medicas alfredo lanari,ciudad autónoma de buenosaires,buenos aires,c1427aro
+1233,avenida combtes de malvinas 3150,universidad de buenos aires  instituto de investigaciones medicas alfredo lanari,ciudad autónoma de buenosaires,buenos aires,c1427aro
+1234,montañeses 2325sede belgrano,instituto de investigaciones neurologicas raul carrea fleni,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1428aqk
+1235,montañeses 2325sede belgrano,instituto de investigaciones neurologicas raul carrea fleni,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1428aqk
+1236,estomba 1710,clinica adventista belgrano,ciudad autonoma buenos aires,ciudad autonoma buenos aires,c1430egf
+1237,elías galván 4102,centro de educación médica e investigaciones clínicas norberto quirno cemic,buenos aires,caba,c1430fwo
+1238,avenida galvan 4102,centro de educación médica e investigaciones clínicas norberto quirno cemic,buenos aires,buenos aires,c1431fwo
+1239,elías galván 4102,centro de educación médica e investigaciones clínicas norberto quirno cemic,buenos aires,buenos aires,c1431fwo
+1240,avenida galvan 4102,centro de educación médica e investigaciones clínicas norberto quirno cemic,ciudad autónoma de buenosaires,buenos aires,c1431fwo
+1241,elías galván 4102,centro de educación médica e investigaciones clínicas norberto quirno,buenos aires,buenos aires,c1431fwo
+1242,elías galván 4102hematology,centro de educación médica e investigaciones clínicas norberto quirno,buenos aires,buenos aires,c1431fwo
+1243,elías galván 4102,centro de educación médica e investigaciones clínicas norberto quirno,buenos aires,buenos aires,c1431fwo
+1244,profesor dr pedro chutro 3380,hospital general de agudos dr teodoro alvarez,ciudad autónoma de buenosaires,buenos aires,c1437iyp
+1245,uspallata 3400,churruca htal,ciudad autónoma de buenosaires,buenos aires,c1437jch
+1246,dorrego 269,centro oncologico riojano integral,la rioja,la rioja,f5300coe
+1247,dorrego 269,centro oncologico riojano integral cori,la rioja,la rioja,f5300coe
+1248,25 de mayo 425,centro mayo de onco hematologia y hemoterapia,santiago del estero,santiago del estero,g4200awi
+1249,avenida jd perón 1500,hospital universitario austral,buenos aires,pilar,g4230xai
+1250,chacabuco 675,sanatorio pasteur,córdoba,catamarca,k4703afi
+1251,sarmiento 253oncology department,centro de investigación clínica – clínica viedma,río negro,viedma,r8500ace
+1252,mendoza 2612,instituto caici,santa fe,rosario,s2000 pbj
+1253,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
+1254,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
+1255,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
+1256,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
+1257,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
+1258,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
+1259,tucumán 1813,centro de gastroenterología,santa fe,rosario,s2000ams
+1260,paraguay 40,sanatorio britanico de rosario,santa fe,rosario,s2000cvb
+1261,paraguay 40clínica hematológica dr cerutti,sanatorio britanico de rosario,santa fe,rosario,s2000cvb
+1262,paraguay 40clínica hematológica dr cerutti,sanatorio britanico de rosario,santa fe,rosario,s2000cvb
+1263,paraguay 40clínica hematológica dr cerutti,sanatorio britanico de rosario,santa fe,rosario,s2000cvb
+1264,boulevard oroño 860,sanatorio parque de rosario,santa fe,rosario,s2000dsv
+1265,boulevard oroño 860,sanatorio parque de rosario,santa fe,rosario,s2000dsv
+1266,boulevard oroño 860,sanatorio parque de rosario,santa fe,rosario,s2000dsv
+1267,boulevard oroño 860,sanatorio parque de rosario,santa fe,rosario,s2000dsv
+1268,boulevard oroño 866,sanatorio parque de rosario,santa fe,rosario,s2000dsv
+1269,boulevard oroño 866,sanatorio parque de rosario,santa fe,rosario,s2000dsv
+1270,boulevard oroño 866,sanatorio parque de rosario,santa fe,rosario,s2000dsv
+1271,boulevard oroño 866,sanatorio parque de rosario,santa fe,rosario,s2000dsv
+1272,boulevard oroño 866,sanatorio parque de rosario,santa fe,rosario,s2000dsv
+1273,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
+1274,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
+1275,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
+1276,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
+1277,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
+1278,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
+1279,italia 428,instituto médico de la fundación estudios clínicos,santa fe,rosario,s2000dtc
+1280,urquiza 3100,hospital provincial del centenario,santa fe,rosario,s2000kds
+1281,urquiza 3100,hospital provincial del centenario,santa fe,rosario,s2000kds
+1282,cordoba 2457,instituto de oncologia y especialidades medicas,santa fe,rosario,s2000kze
+1283,urquiza 3101,hospital provincial del centenario,rosario,santa fe,s2002kds
+1284,urquiza 3101,hospital provincial del centenario,rosario,santa fe,s2002kds
+1285,urquiza 3101,hospital provincial del centenario,santa fe,rosario,s2002kds
+1286,boulevard carlos pellegrini 3551,hospital iturraspe,santa fe,santa fe,s3000adl
+1287,boulevard carlos pellegrini 3551,hospital iturraspe,santa fe,santa fe,s3000adl
+1288,blas parera 8308349,hospital iturraspe,santa fe,santa fe,s3006ftp
+1289,avenida fernando mate de luna 1535,instituto de maternidad nuestra señora de la merced,tucumán,san miguel de tucumán,t4000cpc
+1290,avenida fernando mate de luna 1535,instituto de maternidad nuestra señora de la merced,tucumán,san miguel de tucumán,t4000cpc
+1291,bajada pucara 1900 departamento de infectologia polo hospitalario de cordoba,hospital de niños de la santisima trinidad,córdoba,córdoba,x5000bnb
+1292,la rioja 881,centro de investigaciones clinicas instituto del corazon,cordoba,cordoba,x5000evq
+1293,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
+1294,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
+1295,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
+1296,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
+1297,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
+1298,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
+1299,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
+1300,oncativo 1248,clinica universitaria reina fabiola,córdoba,córdoba,x5000fhp
+1301,avenida hiplito yrigoyen 384,sanatorio allende,cordoba,cordoba,x5000jhq
+1302,av hipólito yrigoyen 384,sanatorio allende sa,córdoba,córdoba,x5000jhq
+1303,hipolito yrigoyen 384,sanatorio allende sa,córdoba,córdoba,x5000jhq
+1304,roma 550,hospital italiano,córdoba,córdoba,x5004bal
+1305,roma 550,hospital italiano de córdoba,córdoba,córdoba,x5004bal
+1306,avenida patria 656,hospital cordoba,córdoba,córdoba,x5004cdt
+1307,avenue caraffa 2532,ipac caraffa,córdoba,córdoba,x5009bsn
+1308,naciones unidas 346,hospital privado centro medico de cordoba,cordoba,cordoba,x5014keh
+1309,naciones unidas 346,hospital privado centro médico de córdoba,córdoba,córdoba,x5016keh
+1310,naciones unidas 346,hospital privado centro médico de córdoba,córdoba,córdoba,x5016keh
+1311,naciones unidas 346,hospital privado centro médico de córdoba,córdoba,córdoba,x5016keh
+1312,naciones unidas 346,hospital privado centro médico de córdoba,córdoba,córdoba,x5016keh
+1313,naciones unidas 346,hospital privado centro médico de córdoba,córdoba,córdoba,x5016keh
+1314,naciones unidas 346,hospital privado centro médico de córdoba,córdoba,córdoba,x5016keh

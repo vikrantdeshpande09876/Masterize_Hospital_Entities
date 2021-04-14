@@ -1,0 +1,170 @@
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,rnum,CONCAT_ADDRESS
+20993,CDM,PPD,SHP647-305,1-112J59H,,United_States,alba clinical research,florida,clearwater,33756,,5935,1180 ponce de leon boulevardsuite c2
+20995,CDM,PPD,SHP647-301,1-YB11DS,,United_States,gastro florida,florida,clearwater,33756,,5937,508 jeffords street
+21001,CDM,PPD,SHP647-305,1-XEQAM0,,United_States,gastroenterology consultants of clearwater,florida,clearwater,33756,,5943,508 jeffords street
+21004,CDM,PRA,TAK-906-2002,58066,1-1PLXE65,United_States,iss  innovative research of west florida,fl,clearwater,33756,,5946,1573 south fort harrison avenue
+21006,CDM,PPD,SHP647-301,1-1114N0K,,United_States,florida clinical research group,florida,clearwater,33759,,5948,2454 mcmullen booth roadsuite 610
+21010,CDM,PPD,SHP647-305,1-YB11E4,,United_States,gastro florida,florida,clearwater,33762,,5952,3001 executive dr suite 130
+21011,CDM,PPD,VDZ-5034,58061,,United_States,gastro florida,florida,tampa,33762,,5953,3001 executive drive
+21014,CDM,PPD,TAK-079-2001,58004,,United_States,clinical research of west florida inc  clearwater,florida,clearwater,33765,,5956,2147 northeast coachman road
+21015,CDM,IQVIA,TAK-883-3001,103,1-4RFWGVI,United_States,st francis holdings llc dba st francis medical institute,clearwater,florida,33765,,5957,804 north belcher road
+21016,CDM,IQVIA,TAK-994-0001,58031,1-4YG1Z3X,United_States,st francis medical institute,clear water,florida,33765,,5958,802 n belcher rd
+21019,CDM,PPD,SHP647-305,1-XFTFRU,,United_States,florida center for gastroenterology,florida,largo,33777,,5961,8250 bryan dairy roadsuite 200
+21021,CDM,IQVIA,MLN0002SC-3030,58051,1-262JKD7,United_States,florida center for gastroenterology,largo,florida,33777,,5963,8250 bryan dairy road
+21022,CDM,PPD,SHP647-304,304-760,,United_States,accel research sites  st petersburg  ern  ppds,florida,pinellas park,33781,,5964,6217 66th street north
+21027,CDM,PPD,SHP647-301,1-109770M,,United_States,advanced gastro  liver care pa,florida,pinellas park,33781,,5969,6225 66th street north
+21029,CDM,PPD,SHP647-304,1-18HO528,,United_States,meridien research  bradenton,florida,pinellas park,33781,,5971,6217 66th street north
+21033,CDM,PPD,C16021,1-8IWLXL,,United_States,lakeland regional medical center,fl,lakeland,33805,,5975,3525 lakeland hills boulevardlakeland regional cancer center
+21035,CDM,PPD,SHP647-301,1-YBATQ3,,United_States,lakeland regional medical center,florida,lakeland,33805,,5977,1324 lakeland hills boulevard
+21039,CDM,IQVIA,TAK-883-3001,106,1-4RT1DKW,United_States,bassetti medical research inc,sebring,florida,33870,,5981,5825 us highway 27 north2nd floor
+21040,CDM,PPD,C16029,1-Y4930H,,United_States,bond clinic pa,florida,winter haven,33880,,5982,500 east central avenue
+21042,CDM,PPD,SHP647-305,1-1113F1P,,United_States,clinical research of central florida  clinedge  ppds,florida,winter haven,33880,,5984,500 east central avenueresearch department
+21044,CDM,PPD,TAK665-4003,1-GO0XDC7,,United_States,east tennessee childrens hospital,florida,winter haven,338803053,,5986,500 e central ave
+21045,CDM,PPD,SHP647-301,1-ZUUUM4,,United_States,gessler clinic,florida,winter haven,33881,,5987,635 1st street n
+21047,CDM,PPD,C16014,58126,,United_States,scri florida cancer specialists south,florida,fort myers,33901,,5989,3840 broadway
+21048,CDM,PPD,SHP647-305,1-26DTI2E,,United_States,renaissance research medical group inc,florida,fort myers,33907,,5990,4790 barkley cirbldg a
+21049,CDM,PRA,C31005,58015,1-1BZOP4E,United_States,florida cancer specialists  research institute,fl,fort myers,33908,,5991,8260 gladiolus drive
+21050,CDM,PPD,SHP620-303,1-TJB5O6,,United_States,lee memorial health system,florida,fort myers,33908,,5992,9981 south healthpark drivesuite 156
+21051,CDM,PPD,TAK-071-2002,1-FVDJ5VJ,,United_States,neuropsychiatric research center of southwest florida  erg  ppds,florida,fort myers,339124302,,5993,14271 metropolis ave ste a
+21052,CDM,PPD,TAK-079-1002,1-4MXSM26,,United_States,florida cancer specialists  south  scri  ppds,florida,cape coral,33914,,5994,1708 cape coral parkway westunit 15
+21053,CDM,PPD,TAK-788-3001,1-4YT5P5I,,United_States,scri florida cancer specialists south,florida,fort myers,33916,,5995,4331 veronica south shoemaker boulevardunit 15
+20559,CDM,PPD,SHP647-302,1-1653BB2,,United_States,imic inc,florida,palmetto bay,33157,,5501,18320 franjo road
+20563,CDM,IQVIA,MLN0002SC-3031,58119,1-1XHA9LM,United_States,imic inc,palmetto bay,florida,33157,,5505,18320 franjo roadsuite 200
+20565,CDM,PPD,SHP647-304,1-6YHA3UV,,United_States,innovation clinical trials inc,florida,palmetto bay,33157,,5507,9000 southwest 1522nd streetsuite 206
+20571,CDM,PPD,SHP647-306,306-795,,United_States,sanchez clinical research inc,florida,miami,33157,,5513,11468 quail roost drive
+20578,CDM,PPD,SHP465-308,103,,United_States,scientific clinical research inc,florida,north miami,33161,,5520,1065 ne 125th street
+20580,CDM,PPD,SHP647-302,1-166VPWF,,United_States,abel and buchheim pr inc,florida,miami,33165,,5522,2760 sw 97th avenuesuite 103
+20587,CDM,PRA,TAK-906-5006,58011,1-1SF31UB,United_States,pharmasouth research,fl,miami,33165,,5529,2530 southwest 87th avenuesuite d
+20589,CDM,PPD,SHP647-303,1-163TFZV,,United_States,asclepius medical research,florida,doral,33166,,5531,3900 northwest 79 avenuesuite 228230
+20596,CDM,PPD,SHP465-308,135,,United_States,care research center inc,florida,doral,33166,,5538,3900 nw 79th avenue
+20597,CDM,PPD,SHP647-305,1-1119KJ1,,United_States,columbus clinical services llc,florida,doral,33166,,5539,3900 northwest 79 avenue
+20599,CDM,PPD,SHP647-301,1-111U0XG,,United_States,dmr medical researchllc,florida,miami springs,33166,,5541,5201 northwest 36th streetresearch
+20601,CDM,PPD,SHP647-302,1-18K8OQQ,,United_States,innovation research institute inc,florida,miami,33166,,5543,3650 northwest 82nd avenuesuite 503
+20609,CDM,PPD,SHP647-305,1-XFTFOT,,United_States,jackson north medical center,florida,north miami beach,33169,,5551,160 northwest 170 street
+20616,CDM,PPD,SHP647-301,1-1116RZA,,United_States,phase one solutions inc,florida,miami,33169,,5558,1405 northwest 167th street
+20618,CDM,PPD,SHP647-305,1-XZL2HF,,United_States,lenus research  medical group,florida,sweetwater,33172,,5560,1414 nw 107 avenuesuite 214
+20620,CDM,PPD,SHP647-305,1-XFSIR5,,United_States,universal medical research inc,florida,doral,33172,,5562,10200 northwest 25 streetsuite 114b
+20622,CDM,PPD,MLN0002-3024,1-7JSADSH,,United_States,lenus research  medical group,florida,sweetwater,331722732,,5564,1414 nw 107th ave
+20623,CDM,PPD,SHP647-301,1-1113F6T,,United_States,gastro health pl,florida,miami,33173,,5565,7500 southwest 87th avenue
+20625,CDM,PPD,SHP647-303,1-4NFTMNQ,,United_States,research institute of south florida inc,florida,miami,33173,,5567,9835 southwest 72nd streetsuite 201
+20632,CDM,PPD,SHP647-307,1-15VIF5W,,United_States,revival research corporation  clinedge  ppds,florida,miami,33173,,5574,9425 sunset drivesuite 504
+20640,CDM,PPD,SHP647-302,1-163TFFV,,United_States,advanced clinical research network,florida,miami,33174,,5582,10700 kendall drive 305suite 305a
+20641,CDM,PPD,SHP620-302,1-1ZQ81WP,,United_States,advanced medical research institute amri,florida,miami,33174,,5583,8780 sw 8th street
+20642,CDM,IQVIA,SPD503-401,722,1-4NJMIZU,United_States,care research center inc,miami,florida,33175,,5584,11760 sw 40th stsuite 502
+20643,CDM,PPD,SHP647-301,1-1LKFC5N,,United_States,dr abreu edel md,florida,miami,33175,,5585,2450 southwest 137 avenuesuite 226
+20645,CDM,PPD,SHP647-302,1-15VIFC3,,United_States,intermed medical research center,florida,miami,33175,,5587,13055 sw 42nd streetsuite 103
+20654,CDM,PPD,SHP647-304,1-15XCBKD,,United_States,new horizon research center,florida,miami,33175,,5596,11880 bird roadsuite 216
+20661,CDM,PPD,SHP647-301,1-10805J6,,United_States,p  s research llc,florida,miami,33175,,5603,12905 sw 42nd streetsuite 201
+20663,CDM,PPD,SHP465-308,139,,United_States,pharmacology research llc,florida,miami,33175,,5605,2418 sw 137th avenue
+20664,CDM,PRA,TAK-906-5006,58067,1-1SF52EW,United_States,anchor medical research,fl,miami,33176,,5606,11440 north kendall drive
+20666,CDM,PPD,C16014,58044,,United_States,baptist health medical group oncology llc,florida,miami,33176,,5608,8900 north kendall drive
+20667,CDM,PPD,Pevonedistat-3001,58015,,United_States,baptist health system n kendall  usor,florida,miami,33176,,5609,8900 north kendall drive
+20678,CDM,IQVIA,MLN0002SC-3030,58114,1-2BO0QB9,United_States,l  l research choices inc,miami,florida,33176,,5620,8300 west flagler suite 112 250 and 258csuite 250
+20680,CDM,PPD,Brigatinib-1002,1-61A60TW,,United_States,miami cancer institute,florida,miami,33176,,5622,8900 north kendall drive
+20682,CDM,PRA,TAK-906-5006,58055,1-1SF52GD,United_States,miami dade medical research institute,fl,miami,33176,,5624,8955 southwest 87th courtsuite 112
+20685,CDM,PPD,TAK-071-2002,1-FVDJ5VV,,United_States,visionary investigators network,florida,miami,331762148,,5627,8940 n kendall dr
+20686,CDM,PPD,C16029,1-YQM97C,,United_States,innovative medical research of south florida inc,florida,miami,33179,,5628,1380 northeast miami gardens drivesuite 100
+20688,CDM,PPD,SHP647-305,1-XFRPMV,,United_States,elixir clinical research,florida,aventura,33180,,5630,21110 biscayne boulevard
+20690,CDM,PPD,C16021,1-8JUVOZ,,United_States,innovative medical research of south florida inc,florida,aventura,33180,,5632,2999 northeast 191 streetsuite 100
+20691,CDM,PPD,TAK-788-2001,1-8SBSLKP,,United_States,genesiscare of florida,florida,aventura,331801267,,5633,2801 ne 213th st ste 1209
+20693,CDM,IQVIA,TAK-994-1501,58022,1-4SGGV0X,United_States,clinical trials of florida,miami,florida,33186,,5635,12600 sw 120 streetsuite 117
+20694,CDM,PPD,SHP647-304,1-4NH3JRF,,United_States,top medical research inc,florida,cutler bay,33189,,5636,11285 southwest 211 street
+20701,CDM,PPD,C16021,1-8JW0LP,,United_States,horizon institute for clinical research,florida,hollywood,33201,,5643,3389 sheridan street 192suite 210
+20702,CDM,PPD,TAK665-4003,1-GO0XDAM,,United_States,cincinnati childrens hospital medical center  pin,ohio,dmidctm not required for low risk,333,,5644,dmidctm not required for low risk
+20705,CDM,PPD,SHP647-301,1-ZVCYCG,,United_States,gastroenterology  consultants,florida,ft lauderdale,33301,,5647,121 s gordon road
+20707,CDM,PPD,SHP647-301,1-ZI69E3,,United_States,gastroenterology institute of fort lauderdale,florida,fort lauderdale,33308,,5649,2021 east commercial boulevardsuite 202
+20709,CDM,PPD,C16014,1-CLB8D,,United_States,holy cross hospital clinical laboratory,florida,ft lauderdale,33308,,5651,4725 north federal highway
+20710,CDM,PPD,TAK-079-2001,58003,,United_States,centre for rheumatology immunology and arthritis,florida,fort lauderdale,33309,,5652,2900 west cypress creek rdsuite 110
+20711,CDM,PPD,TAK-079-1005,1-5D85A4V,,United_States,cleveland clinic florida,florida,fort lauderdale,33309,,5653,3000 west cypress creek road
+20712,CDM,PPD,Brigatinib-1002,1-6188XLY,,United_States,broward general medical center,florida,fort lauderdale,33316,,5654,1600 south andrews avenue
+20715,CDM,PPD,SHP647-305,1-XEX51P,,United_States,precision clinical research  west palm beach  clinedge  ppds,florida,lauderdale lakes,33319,,5657,4620 north state road 7building hsuite 250
+20717,CDM,PPD,SHP647-305,1-Y22BPE,,United_States,vita research solutions inc,florida,tamarac,33319,,5659,4600 west commercial boulevardsuite 1
+20719,CDM,PPD,SHP647-302,302-772,,United_States,dbc research,florida,tamarac,33321,,5661,7707 north university drivesuite 106
+20727,CDM,PPD,SHP647-302,302-761,,United_States,brcr medical center inc,florida,plantation,33322,,5669,8200 w sunrise blvdsuite d3
+20730,CDM,PPD,Brigatinib-1002,1-619XIHU,,United_States,university of miami  sylvester at plantation,florida,plantation,33324,,5672,8100 sw 10th street crossroads business parkbuilding 3
+20732,CDM,PPD,SHP647-306,1-15NSS8D,,United_States,west broward gastroenterology internal medical,florida,plantation,33324,,5674,201 northwest 82nd avenuesuite 505
+20739,CDM,PRA,TAK-954-2004,58010,1-1MBCYYD,United_States,cleveland clinic florida,fl,weston,33331,,5681,2950 cleveland clinic boulevardmail code wstn
+20740,CDM,PPD,SHP647-301,1-ZUUUQW,,United_States,cleveland clinic florida,florida,weston,33331,,5682,2950 cleveland clinic boulevard
+20748,CDM,PPD,C16014,1-K8BT5,,United_States,horizon institute for clinical research,florida,fort lauderdale,33334,,5690,5757 north dixie highway
+20749,CDM,PPD,TAK-071-2002,58006,,United_States,infinity clinical research llc,florida,sunrise,33351,,5691,3537 n pine island rd
+20750,CDM,PPD,C16014,1-E7V3L,,United_States,bay area oncology,florida,tampa,33360,,5692,4301 north habana avenue
+20751,CDM,PRA,C31004,58002,1-1C6T9DA,United_States,florida cancer specialists,fl,west palm beach,33401,,5693,1309 north flagler drive
+20753,CDM,PPD,NSMM-5001,58019-SCRI,,United_States,florida cancer specialists  east  scri  ppds,florida,west palm beach,33401,,5695,1309 north flagler drivememorial medical centersuite 300
+20755,CDM,PRA,C31004,58002A,1-1EI4CGC,United_States,scri  florida cancer specialists  orlando,fl,west palm beach,33401,,5697,1515 north flagler drivesuite 700
+20756,CDM,PPD,C16029,1-1110A5I,,United_States,scri florida cancer specialists south,florida,west palm beach,33401,,5698,1309 north flagler drive
+20758,CDM,PPD,SHP647-304,1-15Y78L5,,United_States,triple o medical services inc,florida,west palm beach,33401,,5700,1515 north flagler drivesuite 200
+20765,CDM,PPD,Brigatinib-1002,1-616GIQA,,United_States,childrens hematology and oncology associates,florida,west palm beach,33407,,5707,5325 greenwood avenue
+20767,CDM,PPD,TAK-951-2001,1-70MN7ZT,,United_States,presidential womens center   hunt ppds,florida,west palm beach,33407,,5709,100 northpoint parkwaysuite 100b
+20768,CDM,IQVIA,161406,161406-100,1-1VJXS08,United_States,allergy associates of palm beaches,north palm beach,florida,33408,,5710,840 us highway 1suite 250
+20769,CDM,PPD,SHP647-305,1-128QVUD,,United_States,south florida center of gastroenterology pa,florida,wellington,33414,,5711,1447 medical park boulevardsuite 205
+20778,CDM,PPD,SHP647-301,1-XFSIPD,,United_States,consultants for clinical research of south florida,florida,boynton beach,33426,,5720,1325 south congress avenuesuite 111
+20781,CDM,PPD,SHP647-304,1-24Q90K1,,United_States,boca raton gastroenterology associates,florida,boca raton,33428,,5723,9970 central park blvd nsuite 101
+20788,CDM,PPD,TAK-788-3001,1-4ZI0H7D,,United_States,florida precision oncology,florida,boca raton,334316489,,5730,3651 fau boulevard
+20789,CDM,PPD,C16019,1-CIZIAN,,United_States,bethesda hospital research center,florida,boynton beach,33435,,5731,2320 south seacrest boulevardpalm beach institute of hematology and oncologysuite 300
+20790,CDM,PPD,C16014,1-C26FV,,United_States,hematology and medical oncology of south palm beach county,florida,boynton beach,33435,,5732,2623 south seacrest boulevarduniversity cancer institutesuite 108
+20791,CDM,PPD,C16014,1-C0N7D,,United_States,palm beach institute of hematology and oncology,florida,boynton beach,33435,,5733,2320 south seacrest boulevardsuite 300
+20793,CDM,PPD,SHP647-305,1-136L6XL,,United_States,helix biomedics llc,florida,boynton beach,33436,,5735,2609 woolbright roadsuite 3
+20795,CDM,PRA,AP26113-13-301,241,1-1F5H9T6,United_States,sylvester comprehensive cancer center,fl,deerfield beach,334427753,,5737,1192 east newport center drive
+20796,CDM,PPD,SHP647-301,1-12FTM51,,United_States,advanced pharma research,florida,delray beach,33445,,5738,2150 lake ida
+20798,CDM,PPD,SHP647-303,1-166YDRW,,United_States,health awareness inc,florida,jupiter,33458,,5740,1094 military trail
+20805,CDM,PPD,C16029,1-YQM9E8,,United_States,jupiter medical center,florida,jupiter,33458,,5747,1210 south old dixie highwaysouth florida oncology and hematologysuite 2
+20807,CDM,PPD,SHP647-301,1-204S32M,,United_States,sumant k chakravorty md pa,florida,jupiter,334583539,,5749,125 w indiantown roadsuite 106
+20814,CDM,PPD,C16014,1-CK5DQ,,United_States,hematologyoncology associates,florida,lake worth,33461,,5756,4685 south congress avenue
+20815,CDM,PPD,TAK-071-2002,1-FVDJ5V8,,United_States,jem research institute,florida,lake worth,33462,,5757,30 john f kennedy drsuite 203
+20816,CDM,PPD,SHP647-307,1-26BGRC6,,United_States,medical specialists of the palm beaches,florida,atlantis,33462,,5758,5401 south congress avenuesuite 211
+20823,CDM,PPD,SHP647-304,1-24Q90HO,,United_States,healthcare specialists of the palm beaches,florida,loxahatchee,33470,,5765,12953 palms west drivesuite 201
+20830,CDM,PPD,C16014,1-AD7PC,,United_States,center for hematology oncology,florida,boca raton,33486,,5772,1001 nw 13th streetsuite 201
+20831,CDM,PPD,SHP647-301,1-ZGYDVW,,United_States,gastrohealth center,florida,boca raton,33486,,5773,801 meadows roadsuite 107
+20833,CDM,PPD,NSMM-5001,1-TL3KH5,,United_States,lynn cancer institute,florida,boca raton,33486,,5775,701 northwest 13th streetboca raton community hospital3rd floor rm 3014
+20836,CDM,PPD,TAK-079-1005,58501,,United_States,sfm clinical research llc,florida,boca raton,33487,,5778,1601 clint moore roadsuite 120
+20837,CDM,PPD,C16014,1-HCRUH,,United_States,florida cancer specialists  east  scri  ppds,florida,brandon,33511,,5779,425 south parsons avenuesuite 101
+20838,CDM,PPD,SHP647-305,1-1113FAB,,United_States,pab clinical research  clinedge  ppds,florida,brandon,33511,,5780,910 oakfield drivesuite 201
+20840,CDM,IQVIA,471101,121,1-3V59V6K,United_States,tampa bay clinical research center,brandon,florida,33511,,5782,402 noland dr
+20841,CDM,PPD,C16014,1-HGO2C,,United_States,florida medical clinic pa,florida,zephyr hills,33542,,5783,38135 market square
+20850,CDM,IQVIA,MLN0002SC-3030,58083,1-262IGQ3,United_States,florida medical clinic llc,zephyrhills,florida,33542,,5792,38135 market squareclinical research division
+20853,CDM,PPD,SHP647-305,1-ZUXX7F,,United_States,digestive disease associates of central florida,florida,wesley chapel,33544,,5795,2050 ashley oaks circlesuite 102
+20855,CDM,PPD,SHP647-302,1-21ZVD7Y,,United_States,baycare medical group,florida,lutz,33558,,5797,4211 van dyke roadsuite 201
+20862,CDM,PPD,TAK-079-1004,1-5VRWD50,,United_States,tampa general hospital cancer center,florida,tampa,33594,,5804,9 tampa general circleh lee moffitt cancer center
+20863,CDM,PPD,TAK-951-2001,1-70MN83M,,United_States,tampa general hospital,florida,tampa,33601,,5805,po box 1289regional truama center
+20864,CDM,PPD,SHP647-302,1-15TRHHQ,,United_States,eminence medical and clinical research,florida,tampa,33604,,5806,1419 w waters avesuite 115
+20878,CDM,IQVIA,471101,105,1-1QAVW3W,United_States,tampa general hospital,tampa,florida,33606,,5820,5 tampa general circle hmt suite 300
+20879,CDM,PPD,Pevonedistat-3001,1-16PZHKA,,United_States,university of florida,florida,tampa,33606,,5821,4 columbia drive harbourside medical tower
+20880,CDM,PPD,SHP647-307,1-15FTRIU,,United_States,clinical research trials of florida inc,florida,tampa,33607,,5822,2713 west virginia avenuesuite 106
+20887,CDM,PPD,SHP647-301,1-ZI69I0,,United_States,west wind research and development,florida,tampa,33607,,5829,4224 north tampania avenue
+20889,CDM,PPD,SHP647-301,1-ZGHKCZ,,United_States,office of morris hanan md,florida,tampa,33609,,5831,508 south habana avenuesuite 260
+20891,CDM,PPD,TAK-788-3001,1-4YUHUHW,,United_States,h lee moffitt cancer center,florida,tampa,33612,,5833,12902 magnolia drive
+20892,CDM,PPD,TAK-981-1503,1-COG9XUO,,United_States,h lee moffitt cancer center and research institute,florida,tampa,33612,,5834,10920 north mckinley drivemoffitt cancer center
+20894,CDM,PPD,Pevonedistat-1016,1-3M8FE0I,,United_States,h lee moffitt cancer center and research institute,florida,tampa,33612,,5836,12902 magnolia drive
+20910,CDM,PPD,SHP647-303,1-167WPKJ,,United_States,james a haley veteran affairs medical center  navref  ppds,florida,tampa,33612,,5852,13000 bruce b downs boulevard
+20917,CDM,PPD,SHP620-303,1-15GC66X,,United_States,moffitt cancer center,florida,tampa,33612,,5859,12902 magnolia drive
+20920,CDM,ICON,C25001,,69816,United_States,moffitt cancer center  research institute,florida,tampa,33612,,5862,moffitt cancer center12902 magnolia drive
+20921,CDM,PPD,TAK-079-1004,1-5QH85DA,,United_States,university of south florida,florida,tampa,33612,,5863,13220 usf laurel driveataxia research center
+20922,CDM,IQVIA,161505,503,1-4KPW0I6,United_States,university of south florida  parent,tampa,florida,33612,,5864,12901 bruce b downs blvdmdc 28
+20924,CDM,PRA,TAK-164-1001,58003,1-1JQ1PY6,United_States,university of south florida h lee moffitt cancer center and research institute,fl,tampa,33612,,5866,12902 magnolia drive
+20927,CDM,PRA,SYR-322_309,58011,1-1FJVA45,United_States,university of south floridausf health,fl,tampa,33612,,5869,13330 university of south florida laurel drive
+20929,CDM,PPD,SHP620-303,1-TIJFBT,,United_States,university of south florida,florida,tampa,336124742,,5871,12901 bruce b downs boulevardmorsani college of medicine
+20930,CDM,PPD,TAK-071-2002,58021,,United_States,usf medical clinic,florida,tampa,336124742,,5872,12901 bruce b downs blvdataxia research center
+20933,CDM,PPD,Pevonedistat-2001,1-IV23L3,,United_States,university of south florida,florida,tampa,336129416,,5875,12902 usf magnolia driveh lee moffitt cancer center and research institute
+20935,CDM,IQVIA,Vedolizumab-4014,58090,1-3II53YB,United_States,florida hospital physicians group,tampa,florida,33613,,5877,3000 medical park drivesuite 500
+20936,CDM,PPD,SHP647-301,1-12SKL40,,United_States,florida hospital tampa,florida,tampa,33613,,5878,3100 east fletcher avenue
+20938,CDM,PPD,SHP647-307,1-26B8BUW,,United_States,florida medical clinic pa,florida,tampa,33613,,5880,14547 bruce b downs boulevard
+20945,CDM,PPD,C16014,1-FWGKU,,United_States,university community hospital center for cancer,florida,hillsborough,33613,,5887,3100 east fletcher avenueradiation therapy
+20946,CDM,IQVIA,TAK-743-3001,116,1-54ZWZ0U,United_States,university of south florida asthma allergy  immunology,tampa,florida,33613,,5888,13801 bruce b downs blvdsuite 505
+20949,CDM,PPD,SHP621-301,1-R9YP76,,United_States,usf asthma allergy and immunology cru,florida,tampa,33613,,5891,13801 bruce b downs boulevarddivision of allergy and immunololgysuite 505
+20950,CDM,PPD,TAK-341-1001,1-8DOV78J,,United_States,university of south florida,florida,tampa,336134808,,5892,4001 e fletcher ave fl 66
+20952,CDM,PPD,SHP647-306,1-15O9OCP,,United_States,florida hospital tampa,florida,tampa,336136600,,5894,3000 medical park drivesuite 500
+20959,CDM,PPD,SHP647-306,1-2HWX1S9,,United_States,guardian angel research  clinedge  ppds,florida,tampa,33614,,5901,8011 n himes ave ste 2suite 102
+20966,CDM,PPD,SHP620-303,1-TIF9AA,,United_States,infectious disease research institute inc,florida,tampa,33614,,5908,4620 north habana avenuesuite 103
+20968,CDM,PRA,TAK-954-2004,58016,1-1MRZI21,United_States,university of south alabama medical center,al,mobile,33617,,5910,2451 fillingim street
+20969,CDM,PPD,SHP621-301,1-H0CA4N,,United_States,university of south florida,florida,tampa,33620,,5911,4202 east fowler avenueasthma allergy and immunology clinical research unitsuite 505
+20970,CDM,IQVIA,TAK-994-1501,58045,1-59XZH17,United_States,jsv clinical research study inc,tampa,florida,33624,,5912,7345 jackson springs blvdsuite a
+20971,CDM,PPD,SHP607-202,1-15MY42N,,United_States,all childrens hospital,florida,saint petersburg,33701,,5913,601 5th street south
+20974,CDM,IQVIA,161503,111,1-2X90CXO,United_States,university of south florida  parent,st petersburg,florida,33701,,5916,601 4th street cri 4008
+20975,CDM,PPD,TAK-788-2001,1-74VG4YY,,United_States,florida cancer specialists  north  scri  ppds,florida,saint petersburg,33705,,5917,560 jackson streetreseach office north region
+20980,CDM,PPD,C16021,1-8INZ4K,,United_States,gulfcoast oncology,florida,saint petersburg,33705,,5922,1201 fifth avenue northsuite 505
+20982,CDM,PPD,SHP647-301,1-112J4TL,,United_States,center for digestive diseases,florida,clearwater,33707,,5924,1609 pasadena avenue south
+20984,CDM,PPD,SHP647-305,1-XE1CYV,,United_States,meridien research  bradenton,florida,saint petersburg,33709,,5926,4751 66th street north
+20985,CDM,PPD,SHP647-301,1-114L1RI,,United_States,pioneer research solutions,texas,houston,33709,,5927,4101 greenbriarclinical researchsuite 200
+20987,CDM,IQVIA,161505,500,1-4JCM1RF,United_States,suncoast neuroscience and associates inc,st petersburg,florida,33713,,5929,2201 central avesuite 301
+20989,CDM,PPD,TAK-071-2002,58005,,United_States,suncoast neuroscience associates inc,florida,saint petersburg,33713,,5931,2201 central avenuesuite 301
+20991,CDM,PPD,C16014,1-CLB75,,United_States,bay pines va medical center  navref  ppds,florida,bay pines,33744,,5933,10000 bay pines boulevardbuilding 100room 4c 106

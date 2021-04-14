@@ -1,2 +1,121 @@
-SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,CONCAT_ADDRESS
-1006,CDM,PPD,C16021,01104,,Argentina,Hospital Universitario Austral,Buenos Aires,Buenos Aires,01629,,Avenida Juan D. Peron 1500
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,rnum,CONCAT_ADDRESS
+1024,CDM,PPD,SHP647-303,1-15FCJWR,,Argentina,Instituto CER S.A.,Buenos Aires,Quilmes,1878,,19,Vincente Lopez 1441
+1280,CDM,PPD,SHP647-305,1-XVOCEY,,Argentina,Hospital Provincial Del Centenario,Santa Fe,Rosario,S2000KDS,,275,Urquiza 3100
+1282,CDM,PPD,C16021,1-8DTJF6,,Argentina,Instituto de Oncologia Y Especialidades Medicas,Santa Fe,Rosario,S2000KZE,,277,Cordoba 2457
+1286,CDM,PPD,C16021,01102,,Argentina,Hospital Iturraspe,Santa Fe,Santa Fe,S3000ADL,,281,Boulevard Carlos Pellegrini 3551
+1031,CDM,PPD,C16021,1-8DTJFP,,Argentina,Instituto Medico Platense,Buenos Aires,La Plata,1897,,26,Calle 51 N° 315 Entre 1 Y 2
+1288,CDM,PPD,C16019,01902,,Argentina,Hospital Iturraspe,Santa Fe,Santa Fe,S3006FTP,,283,Blas Parera 830-8349
+1032,CDM,PPD,SHP607-202,1-15NDZEL,,Argentina,Hospital de Niños Sor Maria Ludovica,Buenos Aires,La Plata,1900,,27,"Calle 14 Nro 1631, Sala 6"
+1034,CDM,PPD,Pevonedistat-3001,1-17Y2SJ8,,Argentina,Hospital Italiano de La Plata,Buenos Aires,La Plata,1900,,29,Avenida 51 nº1725 e/29 y 30
+1035,CDM,PPD,FOS,161,,Argentina,National University of La Plata,Buenos Aires,La Plata,1900,,30,"Calle 47 y 115Facultad de Ciencias Exactas, Catedra de Inmunologia"
+1291,CDM,PPD,HOS,127,,Argentina,Hospital de Niños de La Santisima Trinidad,Córdoba,Córdoba,X5000BNB,,286,"Bajada Pucara 1900, Departamento De Infectologia, Polo Hospitalario De Cordoba"
+1292,CDM,IQVIA,MLN0002SC-3030,01003,1-2H5JBPO,Argentina,Centro de Investigaciones Clinicas Instituto del Corazon,Cordoba,Cordoba,X5000EVQ,,287,La Rioja 881
+1038,CDM,PPD,C16021,1-CPUXQW,,Argentina,Hospital San Martin,Entre Ríos,Paraná,3100,,33,Presidente Peron Numero 450
+1039,CDM,PRA,Brigatinib-3001,01002,1-1LRDX2U,Argentina,Centro Para la Atencion Integral del Paciente Oncologico,TUCUMAN,San Miguel De Tucuman,4000,,34,Avenida Domingo Faustino Sarmiento 157
+1289,CDM,PPD,SHP607-202,1-1DINJAI,,Argentina,Instituto de Maternidad Nuestra Señora de La Merced,Tucumán,San Miguel de Tucumán,T4000CPC,,284,Avenida Fernando Mate de Luna 1535
+1036,CDM,PPD,C16021,1-8B77E4,,Argentina,Instituto de Hematologia Y Medicina Clinica Dr Ruben Davoli,Santa Fe,Rosario,2000,,31,Laprida 1061
+1293,CDM,PPD,SHP647-303,1-15ERY56,,Argentina,Clinica Universitaria Reina Fabiola,Córdoba,Córdoba,X5000FHP,,288,Oncativo 1248
+1040,CDM,PPD,SHP647-301,1-XVMKOV,,Argentina,Centro Diagnostico Zabala,Salta,Salta,4400,,35,Zabala 432
+1044,CDM,PPD,C16021,1-CPUXPI,,Argentina,Hospital San Roque,Córdoba,Córdoba,5000,,39,Bajada Pucará 1900
+1045,CDM,PPD,SHP607-202,1-15NDZDM,,Argentina,Hospital Universitario de Maternidad Y Neonatología,Córdoba,Córdoba,5000,,40,Rodriguez Peña 285
+1046,CDM,PRA,Brigatinib-3001,01004,1-1LR6Q30,Argentina,Sanatorio Duarte Quiros,CORDOBA,Cordoba,5000,,41,Avenida Duarte Quiros 1948
+1042,CDM,PPD,GOS,1103,,Argentina,Centro Privado Metabólico,Córdoba,Córdoba,5000,,37,Agustin Garzon Aguila 187
+1301,CDM,PRA,Ponatinib-3001,01002,1-1KD1XEI,Argentina,Sanatorio Allende,CORDOBA,Cordoba,X5000JHQ,,296,Avenida Hiplito Yrigoyen 384
+1047,CDM,IQVIA,CHL-5001,032004,1-34Y578I,Argentina,Hospital Privado Centro Medico de Cordoba S.A,Cordoba,Cordoba,5016,,42,Av. Naciones Unidas 346Parque Velez Sarsfield
+1306,CDM,PPD,C16021,1035,,Argentina,Hospital Cordoba,Córdoba,Córdoba,X5004CDT,,301,Avenida Patria 656
+1307,CDM,PPD,C16021,1-CPUXOG,,Argentina,IPAC CARAFFA,Córdoba,Córdoba,X5009BSN,,302,Avenue Caraffa 2532
+1049,CDM,PPD,C16019,1-2PWBPJ,,Argentina,Fundación Centro Oncológico de Integración Regional (COIR),Mendoza,Mendoza City,5500,,44,Montecaseros 1020
+1304,CDM,PPD,C16021,1-CPUXRX,,Argentina,Hospital Italiano,Córdoba,Córdoba,X5004BAL,,299,Roma 550
+1052,CDM,PPD,C16021,1-CPUXR9,,Argentina,Hospital Lagomaggiore,Mendoza,Mendoza City,5500,,47,Timoteo Gordillo S/n
+1308,CDM,PRA,Ponatinib-3001,01003,1-1KD4OEQ,Argentina,Hospital Privado Centro Medico de Cordoba,CORDOBA,Cordoba,X5014KEH,,303,Naciones Unidas 346
+1056,CDM,PPD,TAK-788-3001,1525ZZZZ,,Argentina,Instituto Médico Río Cuarto,Córdoba,Rio Cuarto,5800,,51,Hipólito Irigoyen 1020
+1057,CDM,PPD,TAK-788-3001,1-50EM49C,,Argentina,Fundacion Koriza,La Pampa,Santa Rosa,6300,,52,Telen 1639
+1058,CDM,PPD,C16021,1-CPUXP5,,Argentina,Clínica Señor de Los Milagros,Salta,Salta,A4400ERF,,53,Sarmiento 557
+1060,CDM,PPD,SHP609-302,006,,Argentina,Hospital Universitario Austral,Ciudad Autónoma de BuenosAires,Buenos Aires,B1629AHJ,,55,"Avenida Juan D. Peron 1500, Asociacion Civil De Estudios Superiores"
+1066,CDM,IQVIA,CHL-5001,032005,1-34Y574A,Argentina,Hospital Universitario Austral,Pilar,Buenos Aires,B1629ODT,,61,Av. Pte. Juan Domingo Peron 1500Ex Ruta 234 - Derqui
+1068,CDM,PPD,SHP675-301,1-78W14RI,,Argentina,Centro Médico Santa María de la Salud,Buenos Aires,San Isidro,B1642,,63,Avenida del Libertador N° 16131
+1069,CDM,PPD,SHP647-301,1-43I9S93,,Argentina,Hospital Nacional Alejandro Posadas,Buenos Aires,El Palomar,B1684,,64,Av. Marconi y Pte. Illia
+1076,CDM,PPD,C16021,1-8DTJIZ,,Argentina,CIMEL,Buenos Aires,Lanús,B1824 KAJ,,71,Tucumán 1314
+1077,CDM,PPD,C16021,1-8DTJHW,,Argentina,Sanatorio Itoiz,Buenos Aires,Avellaneda,B1870CID,,72,Alsina 174
+1079,CDM,IQVIA,MLN0002SC-3030,01002,1-2H5JBP9,Argentina,Instituto Medico CER,Quilmes,Buenos Aires,B1878DVB,,74,Vicente Lopez 1441
+1081,CDM,PPD,FOS,422,,Argentina,Sanatorio Urquiza,Buenos Aires,Quilmes,B1878EME,,76,Urquiza 1537
+1083,CDM,PPD,C16019,01906,,Argentina,Hospital Italiano de La Plata,Buenos Aires,La Plata,B1900AX,,78,Calle 51 Numero 1724 Entre 29 Y 30
+1085,CDM,IQVIA,NDMM-5002,032003,1-3ARZ359,Argentina,Hospital Italiano de La Plata,La Plata,Buenos Aires,B1900AXI,,80,Av. 51 entre 29 y 30
+1087,CDM,PPD,Pevonedistat-3001,1-17Y2SIK,,Argentina,Hospital Interzonal General de Agudos General San Martín,Buenos Aires,La Plata,B1904CFH,,82,"Avenida 1, N° 1791"
+1088,CDM,PPD,SHP675-301,1-78W14S7,,Argentina,Instituto de Nefrología Pergamino,Buenos Aires,Pergamino,B2700CPM,,83,Avenida de Mayo 1115
+1089,CDM,PPD,FOS,1-37TU24T,,Argentina,Centro Nefrologico de la Costa,Buenos Aires,Santa Teresita,B7107DIR,,84,Calle 8 N°866
+1090,CDM,IQVIA,MLN0002SC-3031,01005,1-2CVPP0J,Argentina,Centro de Investigaciones Medicas Mar del Plata,Mar del Plata,Buenos Aires,B7600FYK,,85,"Av. Colón 3083, 1 y  5to piso"
+1092,CDM,PPD,C16021,1-CPUXRL,,Argentina,Clínica Colón,Buenos Aires,Mar del Plata,B7600FZD,,87,Avenida Colón 3651
+1093,CDM,PPD,C16021,1-CPUXOS,,Argentina,Instituto Lavalle de Oncologia Y Terapia Radiante,Buenos Aires,Bahía Blanca,B8000INE,,88,Lavalle 257
+1095,CDM,PPD,TAK-788-3001,1-50EM422,,Argentina,Instituto de Investigaciones Metabólicas - IDIM,Buenos Aires,Buenos Aires,C1012AAR,,90,Libertad 836 Cordoba 2351
+1096,CDM,IQVIA,TED-R13-002,1600,1-3ETFHS0,Argentina,Fundacion Favaloro,Ciudad Autonoma Buenos Aires,Ciudad Autonoma Buenos Aires,C1093AAS,,91,Av. Belgrano 1746
+1097,CDM,PPD,SHP647-306,306-418,,Argentina,Fundación Favaloro,Buenos Aires,Buenos Aires,C1093AAS,,92,"Av. Belgrano 1746, 7º piso"
+1104,CDM,PPD,SHP647-305,1-1113EYC,,Argentina,Fundación Favaloro,Ciudad Autónoma de BuenosAires,Buenos Aires,C1093AAS,,99,Avenida Belgrano 1746
+1109,CDM,PPD,SHP620-302,1-22H8N26,,Argentina,FUNDALEU,Buenos Aires,Buenos Aires,C1114AAN,,104,Presidente José Evaristo Uriburu 1450
+1111,CDM,PPD,Pevonedistat-3001,1-16Q49VU,,Argentina,FUNDALEU,Ciudad Autónoma de BuenosAires,Buenos Aires,C1114AAN / C1114AAP,,106,"Pte. J. East Uriburu 1450, Pte. J. East Uriburu 1520"
+1113,CDM,PPD,SHP647-302,1-15ERY8L,,Argentina,Gedyt,Buenos Aires,Buenos Aires,C1115AAI,,108,Azcuénaga 1275
+1118,CDM,PPD,SHP647-303,1-2RFUEI1,,Argentina,Hospital Aleman,Buenos Aires,Buenos Aires,C1118AAT,,113,"Av Pueyrredón 1640, C1118AAT"
+1125,CDM,PPD,SHP647-304,1-1912YDI,,Argentina,Hospital Alemán,Ciudad Autónoma de BuenosAires,Buenos Aires,C1118AAT,,120,Av. Juan M. de Pueyrredón 1640
+1133,CDM,IQVIA,CHL-5001,032009,1-3P7MDW8,Argentina,CIPREC,Ciudad Autonoma Buenos Aires,Ciudad Autonoma Buenos Aires,C1119ACN,,128,Av. Pueyrredon 1746 2 A
+1134,CDM,IQVIA,MLN0002SC-3031,01008,1-2HRKYNY,Argentina,Centro Medico Viamonte SRL,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma Buenos Aires,C1120AAC,,129,Av.Cordoba 2019
+1136,CDM,PPD,Pevonedistat-3001,1-16Q49W6,,Argentina,Instituto Argentino de Diagnostico Y Tratamiento,Ciudad Autónoma de BuenosAires,Buenos Aires,C1122AAL,,131,Marcelo T De Alvear 2346
+1138,CDM,PPD,Pevonedistat-3001,1-17QOUWP,,Argentina,Instituto Médico Especializado Alexander Fleming,Buenos Aires,Buenos Aires,C1122AAL,,133,"Cramer 1180, CABA"
+1139,CDM,PPD,TAK-788-3001,1-50EM43T,,Argentina,Fundación CENIT para la Investigación en Neurociencias,Buenos Aires,CABA,C1125ABD,,134,Juncal 2222PB
+1140,CDM,IQVIA,MLN0002SC-3030,01004,1-2H5JBQ3,Argentina,Expertia S.A- Mautalen Salud e Investigación,Ciudad Autonoma Buenos Aires,Buenos Aires,C1128AAF,,135,Azcuénaga 1860 8ºPiso 8
+1141,CDM,PPD,SHP647-305,1-XVOCEA,,Argentina,Hospital Gral de Agudos Dr Cosme Argerich,Ciudad Autónoma de BuenosAires,Buenos Aires,C1155ADP,,136,Almirante Brown 240
+1142,CDM,PPD,SHP647-301,1-XXUI54,,Argentina,Hospital Gral de Agudos Dr Cosme Argerich,Ciudad Autónoma de BuenosAires,Buenos Aires,C1155AHD,,137,"Benito Lynch 2615, 5 ª Planta"
+1143,CDM,PPD,C16021,1-CPUXPU,,Argentina,Fundación Sanatorio Güemes,Ciudad Autónoma de BuenosAires,Buenos Aires,C1180AAX,,138,Francisco Acuña de Figueroa 1240
+1144,CDM,PPD,SHP647-301,1-171JN5V,,Argentina,Sanatorio Guemes,Ciudad Autónoma de BuenosAires,Buenos Aires,C1180AAX,,139,Francisco Acuña de Figueroa 1240
+1152,CDM,PPD,SHP607-202,1-1DINJA5,,Argentina,Hospital Italiano,Buenos Aires,Buenos Aires,C1181ACH,,147,Esteban A. Gascón 450
+1153,CDM,IQVIA,161403,548,1-2Q6XM9U,Argentina,Hospital Italiano,Ciudad Autonoma Buenos Aires,Buenos Aires,C1181ACH,,148,Juan D. Perón 4190
+1159,CDM,PRA,Ponatinib-3001,01001,1-1KD4OCA,Argentina,Hospital Italiano de Buenos Aires,BUENOS AIRES,Ciudad Autonoma de Buenos Aires,C1181ACH,,154,Calle Esteban A Gascn 450Suite 1202
+1160,CDM,PPD,SHP647-306,1-15FCJIL,,Argentina,Hospital Italiano de Buenos Aires,Ciudad Autónoma de BuenosAires,Buenos Aires,C1181ACH,,155,Juan D. Peron 4190
+1168,CDM,PPD,C16021,01105,,Argentina,Hospital Italiano de Buenos Aires,Ciudad Autónoma de BuenosAires,Ciudad Autonoma de Buenos Aires,C1181ACH,,163,Tte. General Juan Domingo Perón 4190
+1172,CDM,PPD,SHP620-302,1-22H8N1T,,Argentina,Hospital Italiano de Buenos Aires,Buenos Aires,Buenos Aires,C1199ABB,,167,Juan Domingo Perón 4190
+1173,CDM,PPD,SHP607-202,1-15NL04P,,Argentina,Hospital Italiano de Buenos Aires,Ciudad Autónoma de BuenosAires,Buenos Aires,C1199ACK,,168,Potosi 4215
+1175,CDM,PRA,AP24534-14-203,826,1-1FC3WQZ,Argentina,Hospital General de Agudo Jose Maria Ramos Mejia,BUENOS AIRES,Buenos Aires,C1221ADC,,170,Urquiza 609
+1176,CDM,PPD,SHP647-301,1-XUQRCY,,Argentina,Hospital General de Agudos Dr. Jose Maria Ramos Mejia,Ciudad Autónoma de BuenosAires,Buenos Aires,C1221ADC,,171,Urquiza 609
+1178,CDM,PPD,SHP607-202,1-15NL03C,,Argentina,Hospital de Pediatría S.A.M.I.C.- Prof. Dr. Juan P. Garrahan,Ciudad Autónoma de BuenosAires,Buenos Aires,C1245AAM,,173,Combate De Los Pozos 1881
+1179,CDM,PPD,SHP607-202,1-1DINJAV,,Argentina,Hospital Materno Infantil Ramón Sardá,Ciudad Autónoma de BuenosAires,Buenos Aires,C1246ABQ,,174,Esteban De Luca 2151
+1181,CDM,PPD,SHP647-301,1-XZDURJ,,Argentina,Hospital de Gastroenterología Dr Bonorino Udaondo,Ciudad Autónoma de BuenosAires,Buenos Aires,C1264AAA,,176,Avenida Caseros 2061
+1183,CDM,PPD,Ponatinib-1501,1-5VVKG1Y,,Argentina,Hospital General de Ninos Dr. Pedro de Elizalde,Ciudad Autónoma de BuenosAires,Buenos Aires,C1270AAN,,178,Av. Montes de Oca 40
+1194,CDM,PPD,Pevonedistat-3001,1-17Y2SJL,,Argentina,Hospital General de Agudos Carlos G. Durand,Buenos Aires,Buenos Aires,C1405DCS,,189,Avenida Gral. Díaz Velez 5044
+1198,CDM,IQVIA,CHL-5001,032002,1-31R089K,Argentina,Instituto de Oncologia Angel Roffo,Ciudad Autonoma Buenos Aires,Ciudad Autonoma Buenos Aires,C1417DTB,,193,Av. San Martin 5481
+1199,CDM,PPD,SHP607-202,1-1DINJDT,,Argentina,Hospital Juan A Fernandez,Buenos Aires,Buenos Aires,C1425AGP,,194,Cerviño 3356
+1201,CDM,PPD,SHP607-202,1-15NL02Z,,Argentina,Sanatorio de La Trinidad,Ciudad Autónoma de BuenosAires,Buenos Aires,C1425AIN,,196,Cerviño 4720
+1202,CDM,PPD,Pevonedistat-3001,1-19MI73K,,Argentina,Academia Nacional de Medicina,Buenos Aires,Buenos Aires,C1425AUM,,197,José Andrés Pacheco de Melo 3081
+1207,CDM,PPD,GOS,1034,,Argentina,Instituto William Osler Patologías Especiales S. A.,Buenos Aires,Ciudad Autónoma de Buenos Aires,C1425BRI,,202,Paraguay 2935
+1208,CDM,PPD,SHP647-306,1-15ERY3U,,Argentina,"Centro de Educación Médica e Investigaciones Clínicas ""Norberto Quirno"" (CEMIC)",Ciudad Autónoma de BuenosAires,Buenos Aires,C1425DQK,,203,Coronel Diaz 2423
+1215,CDM,PPD,SHP607-202,1-15NL040,,Argentina,Hospital de Ninos Ricardo Gutierrez,Ciudad Autónoma de BuenosAires,Buenos Aires,C1425EFD,,210,Gallo 1330
+1216,CDM,PPD,SHP675-301,1-78W14RV,,Argentina,Fundación para el estudio de enfermedades Neurometabólicas-FESEN,Ciudad Autónoma de BuenosAires,Buenos Aires,C1425FNG,,211,Uriarte 2383
+1217,CDM,PPD,SHP647-303,303-419,,Argentina,Centro Médico Dra de Salvo - PPDS,Buenos Aires,Ciudad autónoma de Buenos Aires,C1426ABP,,212,Avenida Cabildo 1548
+1223,CDM,IQVIA,CHL-5001,032007,1-3512RY8,Argentina,Instituto Alexander Fleming,Ciudad Autonoma Buenos Aires,Ciudad Autonoma Buenos Aires,C1426ANZ,,218,Cramer 1180
+1224,CDM,PRA,Brigatinib-3001,01001,1-1LRDX43,Argentina,Instituto Alexander Fleming,,Cuidad Autonoma de Buenos Aires,C1426ANZ,,219,Avenida Crmer 1180
+1225,CDM,PPD,SHP620-302,1-22H8MY0,,Argentina,Instituto Médico Especializado Alexander Fleming,Ciudad Autónoma de BuenosAires,Buenos Aires,C1426ANZ,,220,Avenida Crámer 1180
+1227,CDM,PPD,C16021,1-8DTOI9,,Argentina,Instituto Médico Especializado Alexander Fleming,Ciudad Autónoma de BuenosAires,Buenos Aires,C1426ANZ,,222,Cramer 1180
+1231,CDM,PPD,SHP647-302,1-1X3RYWO,,Argentina,Universidad de Buenos Aires - Instituto de Investigaciones Medicas Alfredo Lanari,Ciudad Autónoma de BuenosAires,Buenos Aires,C1427ARO,,226,Avenida Combtes De Malvinas 3150
+1234,CDM,IQVIA,161505,546,1-37YA0SZ,Argentina,"Instituto de Investigaciones Neurologicas Raul Carrea, FLENI",Ciudad Autonoma Buenos Aires,Ciudad Autonoma Buenos Aires,C1428AQK,,229,Montañeses 2325Sede Belgrano
+1236,CDM,IQVIA,CHL-5001,032008,1-3S030PY,Argentina,Clinica Adventista Belgrano,Ciudad Autonoma Buenos Aires,Ciudad Autonoma Buenos Aires,C1430EGF,,231,Estomba 1710
+1237,CDM,PPD,C16019,1-2PWBH5,,Argentina,"Centro de Educación Médica e Investigaciones Clínicas ""Norberto Quirno"" (CEMIC)",Buenos Aires,CABA,C1430FWO,,232,Elías Galván 4102
+1238,CDM,PPD,SHP620-302,1-22H8N3L,,Argentina,"Centro de Educación Médica e Investigaciones Clínicas ""Norberto Quirno"" (CEMIC)",Buenos Aires,Buenos Aires,C1431FWO,,233,Avenida Galvan 4102
+1244,CDM,PPD,C16021,1-8DTJB5,,Argentina,Hospital General de Agudos Dr Teodoro Alvarez,Ciudad Autónoma de BuenosAires,Buenos Aires,C1437IYP,,239,Profesor Dr. Pedro Chutro 3380
+1245,CDM,PPD,C16021,1-8B77DJ,,Argentina,Churruca Htal,Ciudad Autónoma de BuenosAires,Buenos Aires,C1437JCH,,240,Uspallata 3400
+1246,CDM,PRA,Brigatinib-3001,01003,1-1LR6PWB,Argentina,Centro Oncologico Riojano Integral,LA RIOJA,La Rioja,F5300COE,,241,Dorrego 269
+1248,CDM,PPD,GOS,1040,,Argentina,Centro Mayo de Onco hematologia y Hemoterapia,Santiago del Estero,Santiago del Estero,G4200AWI,,243,25 de Mayo 425
+1250,CDM,PPD,SHP675-301,1-78VGSGO,,Argentina,Sanatorio Pasteur,Córdoba,Catamarca,K4703AFI,,245,Chacabuco 675
+1251,CDM,PPD,TAK-788-3001,01001,,Argentina,Centro de Investigación Clínica – Clínica Viedma,Río Negro,Viedma,R8500ACE,,246,Sarmiento 253Oncology Department
+1252,CDM,PPD,C16021,1-8B77FT,,Argentina,Instituto CAICI,Santa Fe,Rosario,S2000 PBJ,,247,Mendoza 2612
+1253,CDM,PPD,SHP647-304,1-15FCJCM,,Argentina,Centro de Gastroenterología,Santa Fe,Rosario,S2000AMS,,248,Tucumán 1813
+1260,CDM,PPD,TAK-788-3001,01002,,Argentina,Sanatorio Britanico de Rosario,Santa Fe,Rosario,S2000CVB,,255,Paraguay 40
+1006,CDM,PPD,C16021,01104,,Argentina,Hospital Universitario Austral,Buenos Aires,Buenos Aires,01629,,1,Avenida Juan D. Peron 1500
+1007,CDM,IQVIA,NDMM-5002,032002,1-3BWCPYY,Argentina,FUNDALEU - Fundacion para combatir la Leucemia,Ciudad Autonoma Buenos Aires,Ciudad Autonoma Buenos Aires,1114,,2,José E.Uriburu 1450
+1008,CDM,IQVIA,CHL-5001,032006,1-3512RZ7,Argentina,Hospital Británico,CIUDAD AUTONOMA BUENOS AIRES,Ciudad Autonoma Buenos Aires,1134,,3,Solis 2171
+1009,CDM,PPD,TAK-788-3001,01004,,Argentina,Hospital Italiano de Buenos Aires,Ciudad Autónoma de BuenosAires,Ciudad Autonoma de Buenos Aires,1199,,4,Calle Tte Gral Juan Domingo Peron 4190Department of Oncology
+1010,CDM,IQVIA,161505,547,1-37YA0U6,Argentina,Hospital Britanico de Buenos Aires,Ciudad Autonoma Buenos Aires,Ciudad Autonoma Buenos Aires,1280,,5,Perdriel 74
+1264,CDM,PPD,C16019,01904,,Argentina,Sanatorio Parque de Rosario,Santa Fe,Rosario,S2000DSV,,259,Boulevard Oroño 860
+1012,CDM,IQVIA,161403,549,1-38XUOS5,Argentina,Complejo Medico de la Policia Federal Argentina Churruca Visca,Ciudad Autonoma Buenos Aires,Ciudad Autonoma Buenos Aires,1416,,7,Uspallata 3400
+1014,CDM,PPD,SHP647-304,1-15FCJJN,,Argentina,Centro Integral de Gastroenterología,Ciudad Autónoma de BuenosAires,Buenos Aires,1425,,9,Ecuador 1481Centro Integral de Gastroenterología
+1273,CDM,PPD,SHP647-304,1-15FCJN9,,Argentina,Instituto Médico de la Fundación Estudios Clínicos,Santa Fe,Rosario,S2000DTC,,268,Italia 428
+1020,CDM,PPD,Ponatinib-1501,1-5VVKG2V,,Argentina,Hospital de Ninos Ricardo Gutierrez,Ciudad Autónoma de BuenosAires,Buenos Aires,1426,,15,"Calle Gallo 1330, Division Promocion Y Proteccion De Lane SaludDivision Promocion Y Proteccion De Lane Salud"
+1021,CDM,PPD,SHP647-301,1-XYBH5K,,Argentina,Hospital Zonal General de Agudos Dr Carlos Bocalandro,Ciudad Autónoma de BuenosAires,Buenos Aires,1657,,16,Ruta 8 Km 20500Loma Hermosa
+1023,CDM,PPD,HOS,128,,Argentina,Hospital Nacional Alejandro Posadas,Buenos Aires,El Palomar,1684,,18,Illia S/n Y Marconi
