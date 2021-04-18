@@ -1,6 +1,6 @@
 #include<string.h>
 #include<stdio.h>
-#include <R.h>
+#include<R.h>
 
 int levenshtein_internal(const char *s, const char *t,
                      int ins_c, int del_c, int sub_c);
@@ -108,15 +108,12 @@ void levenshtein(char ** strvec_1, char ** strvec_2,
  *                        cases, but your mileage may vary.
  */
 
-int levenshtein_internal(const char *s, const char *t,
-                     int ins_c, int del_c, int sub_c)
+int levenshtein_internal(const char *s, const char *t, int ins_c, int del_c, int sub_c)
 {
-    int         m,
-                n;
+    int         m, n;
     int        *prev;
     int        *curr;
-    int         i,
-                j;
+    int         i, j;
     const char *x;
     const char *y;
 
@@ -159,7 +156,7 @@ int levenshtein_internal(const char *s, const char *t,
         /*
          * First cell must increment sequentially, as we're on the j'th row of
          * the (m+1)x(n+1) array.
-         */
+        */
         curr[0] = j * ins_c;
 
         for (x = s, i = 1; i < m; x++, i++)
