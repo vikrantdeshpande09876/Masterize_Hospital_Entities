@@ -1,9 +1,8 @@
 import time, numpy as np, pandas as pd, re, string, subprocess, os
 from subprocess import Popen, PIPE
-from config import Config
+import config as conf
 
     
-conf=Config()
 
 def write_df_to_csv(df, root_dir='', curr_country='', file_suffix='_temp.csv', index_flag=False):
     """
@@ -70,7 +69,7 @@ def deduplicate_dataset_R(rscript_command, script_name, args):
 
     if pipe.returncode==0:
         print('R OUTPUT:\n')
-        print(output)
+        print(output.decode())
     else:
         print('R OUTPUT:\n')
         print(output.decode())

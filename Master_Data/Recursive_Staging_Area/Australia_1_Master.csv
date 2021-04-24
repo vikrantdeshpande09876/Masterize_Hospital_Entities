@@ -1,0 +1,32 @@
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,rnum,CONCAT_ADDRESS
+1864,CDM,PPD,SHP607-202,1-15NDZI4,,Australia,university of western australia,western australia,crawley,6009,,550,35 stirling highwaycentre for neuromuscular and neurological disorders cnnd
+1865,CDM,IQVIA,MLN0002SC-3031,02012,1-1TO6UPY,Australia,fiona stanley hospital,murdoch,western australia,6150,,551,102118 murdoch driveharry perkins research institute
+1867,CDM,PRA,Vedolizumab-3035,02003,1-1LU3LNW,Australia,fiona stanley hospital,wa,murdoch,6150,,553,11 robin warren drive
+1869,CDM,PPD,SHP647-305,1-43MP4A1,,Australia,fiona stanley hospital,western australia,murdoch,6150,,555,11 robin warren drivedepartment of gastroenterology
+1875,CDM,PRA,TAK-041-2001,Hooper,1-1L8GD6U,Australia,office of stuart c hooper mbbs,tas,hobart,7000,,561,71 davey street
+1876,CDM,IQVIA,CHL-5001,036001,1-34Y4POB,Australia,royal hobart hospital,hobart,tasmania,7000,,562,48 liverpool street
+1877,CDM,PPD,TAK-007-2001,1-8DBWBSK,,Australia,royal hobart hospital,tasmania,hobart,7000,,563,24 campbell streetroyal hobart hospital
+1815,CDM,PRA,TAK-788-1004 DDI,02003,1-1NO0MJG,Australia,flinders medical centre,sa,bedford park,5042,,501,department of medical oncologyflinders medical center1 flinders drive
+1883,CDM,PPD,Pevonedistat-2001,1-D87N0H,,Australia,university of tasmania,tasmania,hobart,7005,,569,churchhill avenue sandy bayroyal hobart hospital
+1884,CDM,PPD,SHP647-301,1-16HDVFI,,Australia,calvary health care tasmania,tas,east launceston,7250,,570,24 lyttleton streetst lukes campus
+1820,CDM,PPD,TAK-788-3001,02004,,Australia,flinders medical centre,south australia,bedford park,5042,,506,1 flinders drive
+1889,CDM,PPD,MLN0002-3024,1-CRNNJC9,,Australia,john hunter hospital,new south wales,newcastle,nsw 2308,,575,university drivenephrology department
+1890,CDM,PPD,C16011,1-OR44HJ,,Australia,invalid account,north carolina,test city,test pc,,576,123 address not known
+1827,CDM,IQVIA,MLN0002SC-3031,02001,1-1TO6UQS,Australia,tennyson centre day hospital,bedford park,south australia,5042,,513,3 flinders drive department of respiratory  sleep medicineflinders medical centre level 6
+1828,CDM,PRA,TAK-041-2001,Galletly,1-1L8CYT6,Australia,the adelaide clinic,sa,gilberton,5081,,514,33 park terrace
+1829,CDM,PRA,TAK-041-2001,Liu,1-1L8CYUZ,Australia,lyell mcewin hospital,sa,elizabeth vale,5112,,515,department gastroenterology  hepatologyhaydown road
+1830,CDM,PPD,TAK-007-2001,1-8DBWBPM,,Australia,fiona stanley hospital,western australia,perth,6000,,516,wellington st
+1831,CDM,PPD,Pevonedistat-2001,1-D87MXO,,Australia,royal perth hospital,western australia,perth,6000,,517,wellington streethaematology department
+1832,CDM,PPD,SHP620-303,1-TI7BAB,,Australia,royal perth hospital,western australia,perth,6000,,518,wellington street
+1834,CDM,PPD,SHP607-202,1-1J5VPEL,,Australia,king edward memorial hospital for women,western australia,subiaco,6008,,520,374 bagot street
+1835,CDM,PPD,SHP643-301,1-2XB5EX1,,Australia,princess margaret hospital for children,western australia,subiaco,6008,,521,roberts roaddepartment of allergy and immunology
+1836,CDM,PPD,Pevonedistat-3001,1-16Q49WV,,Australia,royal perth hospital,western australia,perth,6008,,522,6 selby streetgoather clinical research unit
+1837,CDM,PPD,C16021,1-8DTJNU,,Australia,sir charles gairdner hospital,western australia,subiaco,6008,,523,25 mccourt street
+1838,CDM,PPD,SHP647-304,1-16D1OVX,,Australia,st john of god hospital subiaco,western australia,subiaco,6008,,524,12 salvado roadgastroenterology level 5 t block
+1846,CDM,IQVIA,MLN0002SC-3030,02016,1-2QBMHLK,Australia,st john of god subiaco hospital,subiaco,western australia,6008,,532,12 salvado roadharry perkins research institute
+1848,CDM,PPD,SHP607-202,1-15UA0VZ,,Australia,telethon kids institute,western australia,subiaco,6008,,534,100 roberts road
+1849,CDM,PPD,TAK-007-2001,1-8DNKYX3,,Australia,hollywood haematology,western australia,nedlands,6009,,535,85 monash ave
+1850,CDM,IQVIA,TAK-883-3001,300,1-4RCMT4W,Australia,institute for respiratory health inc,nedlands,western australia,6009,,536,sir charles gairdner hospital haematology care centrehospital avenueground floor e block
+1851,CDM,PPD,TAK-007-2001,1-BDFSEMR,,Australia,linear clinical research ltd,western australia,nedlands,6009,,537,hospital avehaematology trials comprehensive cancer centre
+1852,CDM,PPD,MLN0002-3024,1-7K1HL15,,Australia,perth children’s hospital,western australia,nedlands,6009,,538,15 hospital ave
+1855,CDM,PRA,Brigatinib-2002,02003,1-1KA4DH5,Australia,sir charles gairdner hospital,wa,nedlands,6009,,541,department of medical oncologyhospital avenue

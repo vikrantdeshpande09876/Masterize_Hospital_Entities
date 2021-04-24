@@ -1,179 +1,148 @@
-SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,CONCAT_ADDRESS
-1540,CDM,PPD,TAK-007-2001,1-BX0K5YC,,Australia,peter maccallum cancer centre,victoria,melbourne,3052,,grattan street parkvillemedical oncology level 2
-1541,CDM,PPD,MLN0002-3025,3025-02001,,Australia,royal childrens hospital melbourne  pin,victoria,parkville,3052,,50 flemington rd
-1553,CDM,PRA,Brigatinib-2002,02004,1-1KA4276,Australia,saint vincents hospital melbourne,vic,fitzroy,3065,,41 victoria parade
-1555,CDM,IQVIA,MLN0002SC-3030,02010,1-27YXAXT,Australia,sanzruth st vincents hospital melbourne,fitzroy,victoria,3065,,41 victoria parade pharmacy departmentlevel 2 healy wing
-1559,CDM,PPD,SHP647-301,1-XVZKRX,,Australia,st vincents hospital melbourne  ppds,vic,fitzroy,3065,,regent street ip pharmacy store loading dockdepartment of gastroenterology
-1561,CDM,PPD,SHP647-307,307-004,,Australia,st vincents hospital melbourne  ppds,victoria,fitzroy,3065,,35 victoria parade
-1566,CDM,PPD,SHP620-302,1-B8RE18O,,Australia,st vincents hospital melbourne  ppds,victoria,melbourne,3065,,41 victoria parade fitzroyhaematology trials unit
-1575,CDM,PPD,Pevonedistat-2001,1-D87MYR,,Australia,northern hospital,victoria,epping,3076,,185 cooper street
-1577,CDM,IQVIA,CHL-5001,036004,1-3C0R3MB,Australia,austin health,heidelberg heights,victoria,3081,,300 waterdale road heidelberg repatriation hospital
-1578,CDM,PRA,Vedolizumab-3035,02002,1-1LL83E1,Australia,austin health,vic,heidelberg,3084,,145 studley road
-1579,CDM,PPD,TAK-788-3001,1-507A3WB,,Australia,austin health,victoria,heidelberg,3084,,145 studley roadlvl 8 harold stokes buildingaustin health
-1588,CDM,ICON,C25003,,87177,Australia,austin hospital,vic,heidelberg,3084,,cancer clinical trials level 4austin hospital 145 studley roadpo box 5555
-1589,CDM,PPD,TAK-007-2001,1-8DNKYUV,,Australia,austin hospital,victoria,heidelberg,3084,,145 studley rdlevel 5 harold stokes buildinginstitute of breathing and sleep ibas
-1591,CDM,PPD,SHP647-301,1-XVZWRU,,Australia,austin hospital,victoria,heidelberg,3084,,145 studley road
-1601,CDM,PRA,TAK-041-2001,Stough,1-1L8GD83,Australia,swinburne university of technology,vic,hawthorn,3122,,brain sciences institute400 burwood road
-1602,CDM,IQVIA,TAK-883-3001,303,1-4TQYWJ2,Australia,box hill hospital,box hill,victoria,3128,,8 arnold street
-1605,CDM,PRA,Ponatinib-3001,02002,1-1KRDLJ6,Australia,box hill hospital,vic,box hill,3128,,ecru level 25 arnold street
-1606,CDM,PPD,TAK-007-2001,1-8DBWBUS,,Australia,box hill hospital,victoria,box hill,3128,,2832 arnold stecru oncology research
-1616,CDM,PRA,C31004,02005,1-1C4P6NL,Australia,cabrini hospital  malvern,vic,malvern,3144,,183 wattletree roadsuite 19 cabrini malvern
-1617,CDM,PPD,TAK-788-3001,1-507A44E,,Australia,cabrini hospital malvern,victoria,malven,3144,,183 wattletree rdcabrini hospital
-1628,CDM,PPD,TAK-788-3001,1-507A3VL,,Australia,monash medical centre  moorabbin campus,victoria,east bentleigh,3165,,823865 centre roadmedical oncology unit
-1629,CDM,IQVIA,MLN0002SC-3030,02002,1-27YXB2K,Australia,monash medical centre clayton,bentleigh east,victoria,3165,,823865 centre road
-1630,CDM,PPD,MLN0002-3024,1-7K1HL1H,,Australia,monash childrens hospital,victoria,clayton,3168,,246 clayton rd
-1632,CDM,PPD,SHP647-306,1-16CZMMJ,,Australia,monash health monash medical centre,vic,clayton,3168,,246 clayton road
-1640,CDM,PPD,MLN0002-3024,3024-02003,,Australia,monash health monash medical centre,victoria,clayton,3168,,246 clayton rd
-1646,CDM,PRA,C31004,02008,1-1C4P6TV,Australia,monash medical centre,vic,clayton,3168,,246 clayton road
-1649,CDM,IQVIA,CHL-5001,036002,1-34Y4PJ4,Australia,monash medical centre clayton,clayton,victoria,3168,,246 clayton roadst albansmonash health monash medical center
-1652,CDM,IQVIA,MLN0002SC-3030,02014,1-27YXB25,Australia,the alfred hospital,melbourne,victoria,3181,,the alfred airmed level 5 main ward block55 commercial road
-1654,CDM,PPD,SHP647-306,1-1G0SO3U,,Australia,the alfred hospital,vic,melbourne vic,3181,,commercial road  prahranintensive care unit
-1657,CDM,PRA,C31004,02005A,1-1JM5UZM,Australia,cabrini hospital  brighton,vic,brighton,3186,,243 new street
-1658,CDM,IQVIA,TAK-883-3001,304,1-4TQYWL4,Australia,frankston hospital,frankston,victoria,3199,,hastings road oncology day unitpeninsula heart centre
-1659,CDM,PPD,C16029,1-Y2R3J7,,Australia,frankston hospital,vic,frankston,3199,,525 mcclelland drive
-1660,CDM,PPD,C16021,02102,,Australia,frankston hospital,victoria,frankston,3199,,hastings road
-1661,CDM,PPD,SHP647-307,1-192HH2O,,Australia,frankston private day surgery,victoria,frankston,3199,,2428 frankstonflinders roadlevel 2
-1665,CDM,PRA,Brigatinib-2002,02002,1-1KA9GCQ,Australia,peninsula  south eastern haematology and oncology group,vic,frankston,3199,,frankston private2428 frankstonflinders road
-1667,CDM,PRA,TAK-788-1004 DDI,02001,1-1NO1DLC,Australia,peninsula and southeast oncology,vic,frankston,3199,,2428 frankstonflinders road
-1668,CDM,PPD,Pevonedistat-2001,1-D87N16,,Australia,peninsula health,victoria,frankston,3199,,hastings roadoncology day unit
-1670,CDM,PPD,TAK-007-2001,1-8DBWBPA,,Australia,andrew love cancer center,victoria,geelong,3220,,70 swanston st
-1671,CDM,PPD,TAK-788-3001,1-507A3VY,,Australia,barwon health,victoria,geelong,3220,,70 swanston streetandrew love cancer centre
-1672,CDM,PPD,SHP620-303,1-TI7BMH,,Australia,geelong hospital,victoria,geelong,3220,,po box 281
-1674,CDM,ICON,C25003,,87185,Australia,the geelong hospital,vic,geelong,3220,,the geelong hospital70 swanston st
-1675,CDM,IQVIA,MLN0002SC-3030,02008,1-27YXAU7,Australia,ballarat base hospital,ballarat,victoria,3350,,drummond street north
-1677,CDM,PPD,TAK-007-2001,1-8DBWBPY,,Australia,ballarat health services,victoria,ballarat central,3350,,drummond st
-1678,CDM,PPD,Brigatinib-1003,1-62G3ZI5,,Australia,ballarat oncology and haematology services,victoria,wendouree,3355,,po box 281
-1680,CDM,PRA,Vedolizumab-3035,02005,1-1LL83GJ,Australia,royal brisbane and womens hospital,qld,herston,4006,,ground floorbuilding 34butterfield street
-1681,CDM,PPD,TAK-007-2001,1-8DBWBV4,,Australia,royal brisbane  womens hospital,queensland,herston,4029,,34 butterfield streetclinical research unit cancer care services ground floor building
-1700,CDM,PRA,C31004,02001,1-1C4P69U,Australia,royal brisbane and womens hospital,qld,herston,4029,,butterfield street and bowen bridge road
-1702,CDM,PPD,SHP620-303,1-TI7BL7,,Australia,the university of queensland,queensland,herston,4029,,herston road
-1703,CDM,PPD,TAK-788-3001,1-50EVEFU,,Australia,prince charles hospital,queensland,chermside,4032,,rode road
-1704,CDM,IQVIA,TAK-883-3001,305,1-4RCMT7G,Australia,the prince charles hospital,chermside,queensland,4032,,the prince charles hospitalrode rd
-1705,CDM,PPD,Pevonedistat-2001,1-D87MYE,,Australia,haematology and oncology clinics of australasia research centre limited,queensland,milton,4064,,11 camford streetunit 13
-1707,CDM,PPD,TAK-788-3001,1-50EVEEG,,Australia,icon cancer foundation,queensland,milton,4064,,11 camford streetunit 13
-1710,CDM,ICON,C25003,,87182,Australia,haematology and oncology clinics of australia hoca,qld,south brisbane,4101,,icon cancer foundation619a stanley st
-1711,CDM,ICON,C25001,,4413,Australia,haematology and oncology clinics of australia hoca mater private hospital,queensland,south brisbane,4101,,level 5293 vulture street
-1712,CDM,PPD,Pevonedistat-3001,02003,,Australia,icon cancer care,queensland,south brisbane,4101,,22 cordelia streetcorporate officelevel 1
-1713,CDM,PPD,C16019,02906,,Australia,icon cancer care south brisbane,queensland,south brisbane,4101,,22 cordelia streethaematology  oncology clinics of australia pty ltd
-1717,CDM,PPD,Vedolizumab-4013,1-LR75TO,,Australia,mater adult hospital,qld,south brisbane,4101,,raymond terrace
-1719,CDM,PPD,TAK-788-3001,1-507A41Q,,Australia,mater adult hospital,queensland,south brisbane,4101,,level 3 augbigny place
-1724,CDM,PPD,SHP647-304,304-002,,Australia,mater hospital brisbane,queensland,south brisbane,4101,,raymond terracegastroenterology dpt lvl 4 salmon building
-1725,CDM,PPD,SHP647-307,307-002,,Australia,mater hospital brisbane,queensland,south brisbane,4101,,raymond terrace
-1729,CDM,IQVIA,MLN0002SC-3030,02006,1-27YXAZM,Australia,mater hospital brisbane,south brisbane,queensland,4101,,room 273 level 2 aubigny place raymond terrace
-1731,CDM,PPD,Brigatinib-1003,1-62G3ZC8,,Australia,queensland children’s hospital,queensland,brisbane,4101,,po box 3474
-1733,CDM,PPD,MLN0002-3024,3024-02004,,Australia,queensland children’s hospital,queensland,south brisbane,4101,,501 stanley streetchildren’s health queensland hospital and health service
-1739,CDM,PPD,SHP607-202,1-15UA0WB,,Australia,the university of queensland  mater research institute mri,queensland,south brisbane,4101,,aubigny place raymond terracelevel 3
-1740,CDM,PPD,SHP620-303,1-TI7BC3,,Australia,princess alexandra hospital,queensland,woolloongabba,4102,,199 ipswich road
-1749,CDM,PPD,SHP620-303,1-TI7BMU,,Australia,greenslopes private hospital,queensland,greenslopes,4120,,newdegate street
-1750,CDM,PPD,C16029,1-Y2R3JK,,Australia,gold coast university hospital,queensland,southport,4215,,1 hospital boulevard
-1754,CDM,PPD,TAK-007-2001,1-8DBWBUG,,Australia,university of the sunshine coast,queensland,sippy downs,4556,,9 ochre way
-1755,CDM,IQVIA,CHL-5001,036006,1-3C0R3LW,Australia,the townsville hospital,douglas,queensland,4814,,100 angus smith drive
-1758,CDM,IQVIA,NDMM-5002,036001,1-3AS05AA,Australia,royal adelaide hospital,adelaide,south australia,5000,,l9 east wingnorth terrace
-1763,CDM,PRA,AP24534-14-203,951,1-1FANDE2,Australia,royal adelaide hospital,sa,adelaide,5000,,haematology deptnorth terrace
-1764,CDM,ICON,C25001,,266140,Australia,royal adelaide hospital,south australia,adelaide,5000,,haematology and bone marrow transplant unitroyal adelaide hospitalnorth terrace
-1791,CDM,PPD,C16021,1-8DTJUH,,Australia,the queen elizabeth hospital,south australia,woodville south,5000,,28 woodville roaddepartment of hematology and bone marrow transplant unit
-1792,CDM,PPD,Brigatinib-1003,1-62G8TZ3,,Australia,womens and childrens hospital,south australia,north adelaide,5006,,72 king william road
-1800,CDM,PPD,TAK-007-2001,1-8DBWBS8,,Australia,the queen elizabeth hospital,south australia,woodville,5011,,28 woodville rdhaematology and medical oncology department
-1811,CDM,PPD,TAK-788-3001,1-507A441,,Australia,adelaide cancer centre,south australia,kurralta park,5037,,520 south rdtennyson centre
-1813,CDM,IQVIA,MLN0002SC-3030,02001,1-27YXAXE,Australia,tennyson centre day hospital,kurralta park,south australia,5037,,suite 10 first floor tennyson centre520 south roadflinders medical centre level 6
-1814,CDM,IQVIA,CHL-5001,036005,1-34Y56YV,Australia,flinders medical centre,bedford park,south australia,5042,,3 flinders drive department of respiratory  sleep medicinelevel 6 southern adelaide local health networkflinders medical centre level 6
-1815,CDM,PRA,TAK-788-1004 DDI,02003,1-1NO0MJG,Australia,flinders medical centre,sa,bedford park,5042,,department of medical oncologyflinders medical center1 flinders drive
-1820,CDM,PPD,TAK-788-3001,02004,,Australia,flinders medical centre,south australia,bedford park,5042,,1 flinders drive
-1315,CDM,PPD,SHP620-303,1-TI7BLU,,Australia,darwin hospital,northern territory,casuarina,0811,,rocklands drive tiwi
-1827,CDM,IQVIA,MLN0002SC-3031,02001,1-1TO6UQS,Australia,tennyson centre day hospital,bedford park,south australia,5042,,3 flinders drive department of respiratory  sleep medicineflinders medical centre level 6
-1828,CDM,PRA,TAK-041-2001,Galletly,1-1L8CYT6,Australia,the adelaide clinic,sa,gilberton,5081,,33 park terrace
-1829,CDM,PRA,TAK-041-2001,Liu,1-1L8CYUZ,Australia,lyell mcewin hospital,sa,elizabeth vale,5112,,department gastroenterology  hepatologyhaydown road
-1319,CDM,PPD,TAK-788-3001,1-50EM4A0,,Australia,kinghorn cancer centre,new south wales,darlinghurst,2010,,370 victoria street
-1830,CDM,PPD,TAK-007-2001,1-8DBWBPM,,Australia,fiona stanley hospital,western australia,perth,6000,,wellington st
-1831,CDM,PPD,Pevonedistat-2001,1-D87MXO,,Australia,royal perth hospital,western australia,perth,6000,,wellington streethaematology department
-1834,CDM,PPD,SHP607-202,1-1J5VPEL,,Australia,king edward memorial hospital for women,western australia,subiaco,6008,,374 bagot street
-1835,CDM,PPD,SHP643-301,1-2XB5EX1,,Australia,princess margaret hospital for children,western australia,subiaco,6008,,roberts roaddepartment of allergy and immunology
-1836,CDM,PPD,Pevonedistat-3001,1-16Q49WV,,Australia,royal perth hospital,western australia,perth,6008,,6 selby streetgoather clinical research unit
-1837,CDM,PPD,C16021,1-8DTJNU,,Australia,sir charles gairdner hospital,western australia,subiaco,6008,,25 mccourt street
-1320,CDM,PRA,AP26113-13-301,406,1-1F67BQH,Australia,saint vincents hospital sydney,nsw,darlinghurst,2010,,370 victoria street
-1832,CDM,PPD,SHP620-303,1-TI7BAB,,Australia,royal perth hospital,western australia,perth,6000,,wellington street
-1328,CDM,PRA,TAK-041-2001,Catts,1-1L8BCSJ,Australia,neuroscience research australia neura,nsw,randwick,2031,,po box 1165
-1322,CDM,PPD,SHP620-302,1-CFK5M2L,,Australia,st vincents hospital sydney,new south wales,darlinghurst,2010,,390 victoria streetpharmacy level 2
-1838,CDM,PPD,SHP647-304,1-16D1OVX,,Australia,st john of god hospital subiaco,western australia,subiaco,6008,,12 salvado roadgastroenterology level 5 t block
-1329,CDM,PPD,SHP647-301,1-XZDUO0,,Australia,prince of wales hospital,new south wales,randwick,2031,,avoca streetdiabetes centersuite 26
-1846,CDM,IQVIA,MLN0002SC-3030,02016,1-2QBMHLK,Australia,st john of god subiaco hospital,subiaco,western australia,6008,,12 salvado roadharry perkins research institute
-1848,CDM,PPD,SHP607-202,1-15UA0VZ,,Australia,telethon kids institute,western australia,subiaco,6008,,100 roberts road
-1849,CDM,PPD,TAK-007-2001,1-8DNKYX3,,Australia,hollywood haematology,western australia,nedlands,6009,,85 monash ave
-1850,CDM,IQVIA,TAK-883-3001,300,1-4RCMT4W,Australia,institute for respiratory health inc,nedlands,western australia,6009,,sir charles gairdner hospital haematology care centrehospital avenueground floor e block
-1339,CDM,PPD,C16019,TBA,,Australia,prince of wales hospital,nsw,randwick,2031,,barker street level 4seals department of haematology campus center building
-1851,CDM,PPD,TAK-007-2001,1-BDFSEMR,,Australia,linear clinical research ltd,western australia,nedlands,6009,,hospital avehaematology trials comprehensive cancer centre
-1340,CDM,IQVIA,CHL-5001,036003,1-34Y3HRK,Australia,prince of wales hospital,randwick,new south wales,2031,,barker street
-1852,CDM,PPD,MLN0002-3024,1-7K1HL15,,Australia,perth children’s hospital,western australia,nedlands,6009,,15 hospital ave
-1342,CDM,PPD,Brigatinib-1003,1-68J7BOD,,Australia,sydney childrens hospital,new south wales,randwick,2031,,high street
-1855,CDM,PRA,Brigatinib-2002,02003,1-1KA4DH5,Australia,sir charles gairdner hospital,wa,nedlands,6009,,department of medical oncologyhospital avenue
-1346,CDM,PPD,SHP647-305,1-XVZKP5,,Australia,centre for digestive diseases,new south wales,five dock,2046,,144 great north roadlevel 1
-1348,CDM,PPD,TAK-788-3001,1-59K00XF,,Australia,chris obrien lifehouse hospital,new south wales,camperdown,2050,,119143 missenden road
-1350,CDM,PPD,SHP647-304,1-4MT3C2P,,Australia,royal prince alfred hospital,new south wales,camperdown,2050,,50 missenden road
-1864,CDM,PPD,SHP607-202,1-15NDZI4,,Australia,university of western australia,western australia,crawley,6009,,35 stirling highwaycentre for neuromuscular and neurological disorders cnnd
-1865,CDM,IQVIA,MLN0002SC-3031,02012,1-1TO6UPY,Australia,fiona stanley hospital,murdoch,western australia,6150,,102118 murdoch driveharry perkins research institute
-1867,CDM,PRA,Vedolizumab-3035,02003,1-1LU3LNW,Australia,fiona stanley hospital,wa,murdoch,6150,,11 robin warren drive
-1869,CDM,PPD,SHP647-305,1-43MP4A1,,Australia,fiona stanley hospital,western australia,murdoch,6150,,11 robin warren drivedepartment of gastroenterology
-1875,CDM,PRA,TAK-041-2001,Hooper,1-1L8GD6U,Australia,office of stuart c hooper mbbs,tas,hobart,7000,,71 davey street
-1364,CDM,PPD,SHP620-303,1-TI7BBD,,Australia,the university of new south wales,new south wales,sydney,2052,,high streetthe kirby institute national centre in hiv epidemiology and clinical research
-1365,CDM,PPD,TAK-788-3001,02003,,Australia,genesiscare st leonards,new south wales,st leornards,2065,,38 pacific hwylevel 1
-1876,CDM,IQVIA,CHL-5001,036001,1-34Y4POB,Australia,royal hobart hospital,hobart,tasmania,7000,,48 liverpool street
-1877,CDM,PPD,TAK-007-2001,1-8DBWBSK,,Australia,royal hobart hospital,tasmania,hobart,7000,,24 campbell streetroyal hobart hospital
-1368,CDM,PPD,C16021,1-8DTJTD,,Australia,royal north shore hospital,new south wales,saint leonards,2065,,pacific highwayhaematology department level 5a acute services building
-1366,CDM,PPD,SHP647-305,1-XZKQ4W,,Australia,north shore private hospital,new south wales,saint leonards,2065,,1008 crows nest delivery centre
-1369,CDM,PPD,TAK-007-2001,1-8DBWBTR,,Australia,royal north shore hospital,new south wales,st leonards,2065,,level 3 e clinical administrationenal services unitdepartment of renal medicine
-1883,CDM,PPD,Pevonedistat-2001,1-D87N0H,,Australia,university of tasmania,tasmania,hobart,7005,,churchhill avenue sandy bayroyal hobart hospital
-1372,CDM,PRA,Ponatinib-3001,02004,1-1KRDLRM,Australia,royal north shore hospital,nsw,saint leonards,2065,,acute services buildingreserve roadlevel 5
-1884,CDM,PPD,SHP647-301,1-16HDVFI,,Australia,calvary health care tasmania,tas,east launceston,7250,,24 lyttleton streetst lukes campus
-1375,CDM,ICON,C25003,,87183,Australia,royal north shore hospital,nsw,st leonards,2065,,level 5 asbpacific hwy
-1377,CDM,PPD,TAK-788-3001,1-507A3ZS,,Australia,sydney adventist hospital,new south wales,wahroonga,2076,,185 fox valley roadclinical trials unit clinical services building
-1378,CDM,PPD,TAK-788-3001,02002,,Australia,st george hospital,new south wales,kogarah,2137,,gray streetmedical oncology department
-1889,CDM,PPD,MLN0002-3024,1-CRNNJC9,,Australia,john hunter hospital,new south wales,newcastle,nsw 2308,,university drivenephrology department
-1890,CDM,PPD,C16011,1-OR44HJ,,Australia,invalid account,north carolina,test city,test pc,,123 address not known
-1379,CDM,IQVIA,MLN0002SC-3030,02005,1-27YXB1A,Australia,concord repatriation general hospital,concord,new south wales,2139,,renal unit  4w  concord repatriation general hospital  hospital road
-1381,CDM,PPD,TAK-788-3001,1-50EVEG6,,Australia,concord repatriation general hospital,new south wales,concord,2139,,600 highland avenue
-1391,CDM,PPD,SHP647-301,301-006,,Australia,concord repatriation general hospital,nsw,concord,2139,,hospital roadgastroenterology and liver services
-1394,CDM,PPD,C16011,02004,,Australia,westmead hospital,new south wales,westmead,214,,hawkesbury roadhaematology department clinical trials officelevel 2 westmead hospital
-1395,CDM,PPD,MLN0002-3025,1-D2CXUC4,,Australia,childrens hospital at westmead,new south wales,westmead,2145,,corner of hawkesbury road and hainsworth streetkids research institute
-1402,CDM,PPD,SHP675-301,1-3P69UDY,,Australia,childrens hospital at westmead,nsw,westmead,2145,,hawkesbury roadgenetic metabolic disorders services
-1404,CDM,PPD,Pevonedistat-3001,1-1EO17G7,,Australia,westmead hospital,new south wales,westmead,2145,,corner of hawkesbury and darcy roadshaematology department clinical trials officelevel 2 ward c5a
-1411,CDM,ICON,C25003,,87176,Australia,westmead hospital,nsw,westmead,2145,,clinical trial office ward c5a
-1415,CDM,PRA,TAK-041-2001,Harris,1-1L8CYRX,Australia,westmead institute for medical research,nsw,westmead,2145,,corner of darcy and hawkesbury road
-1416,CDM,PPD,SHP620-302,1-D1WSEY0,,Australia,blacktown hospital,new south wales,blacktown,2148,,18 blacktown roadblock a level 3
-1417,CDM,PPD,SHP620-302,1-D1WSEYC,,Australia,westmead hospital,nsw,northmead,2152,,redbank road pharmacy distribution center gate 4 vdct dock 6centre for infectious disease and microbiology
-1420,CDM,PPD,SHP647-303,303-003,,Australia,liverpool hospital,new south wales,liverpool,2170,,corner of elizabeth and goulburn streetsdepartment of gastroenterology
-1432,CDM,PRA,C31004,02004,1-1C4P6GZ,Australia,saint george hospital,nsw,kogarah,2217,,clinical research unit ground floor pitney buildingst george hospitalgray street
-1435,CDM,PPD,TAK-007-2001,1-8DBWBOL,,Australia,st george hospital,new south wales,kogarah,2217,,50 montgomery streetrenal unit
-1440,CDM,PPD,SHP647-303,1-4MU8GN3,,Australia,gosford hospital,new south wales,north gosford,2250,,51418 jarrett street
-1441,CDM,PRA,AP26113-13-301,402,1-1F67B1O,Australia,gosford hospital,nsw,gosford,2250,,holden street
-1442,CDM,PPD,Pevonedistat-3001,1-18G0B67,,Australia,calvary mater newcastle,new south wales,newcastle,2298,,edith street
-1450,CDM,PPD,Brigatinib-1002,1-62G3ZEO,,Australia,john hunter childrens hospital,new south wales,new lambton heights,2305,,kookaburra circuit
-1452,CDM,PPD,SHP647-301,1-43IRL9Z,,Australia,john hunter hospital,new south wales,new lambton,2305,,lookout road
-1458,CDM,PPD,TAK-788-3001,1-507A3Z2,,Australia,port macquarie base hospital,new south wales,new south wales,2444,,wrights roadport macquarie base hospital
-1459,CDM,IQVIA,CHL-5001,036007,1-3H2HHU5,Australia,illawarra health and medical research institute ihmri,wollongong,new south wales,2500,,loftus streethaematology department
-1460,CDM,PPD,TAK-007-2001,1-8DBWBNX,,Australia,wollongong hospital,new south wales,wollongong,2500,,35 dudley streetrenal services
-1466,CDM,IQVIA,SHP643-303,226,1-4TVNMCK,Australia,campbelltown hospital,campbelltown,new south wales,2560,,149 therry roadcampbelltown hospital
-1468,CDM,PPD,IOS,183,,Australia,campbelltown hospital,new south wales,campbelltown,2560,,therry roaddepartment of medicine
-1469,CDM,PPD,TAK-007-2001,1-8DBWBQA,,Australia,the canberra hospital,act,canberra,2605,,yamba drivebuilding 15 level 2
-1470,CDM,PPD,SHP647-303,1-16D1OYT,,Australia,the canberra hospital,act,garran,2605,,yamba drivehaematology research unit
-1477,CDM,PPD,Vedolizumab-4013,02005,,Australia,the canberra hospital,australian capital territory,garran,2605,,yamba drive
-1479,CDM,PPD,TAK-007-2001,1-8DBWBQM,,Australia,border medical oncology,new south wales,albury,2640,,201239 borella roadborder medical oncology
-1480,CDM,IQVIA,MLN0002SC-3031,02015,1-1TO6UIL,Australia,nepean hospital,kingswood,new south wales,2747,,corner of derby and parker streets
-1482,CDM,PPD,SHP647-307,1-1917QAQ,,Australia,nepean hospital,new south wales,kingswood,2747,,derby street
-1488,CDM,PPD,Vedolizumab-4013,02006,,Australia,nepean hospital,nsw,kingswood,2747,,3665 derby street
-1489,CDM,ICON,C25003,,87184,Australia,nepean cancer centre  nepean hospital,nsw,penrith,2750,,somerset st
-1490,CDM,PPD,SHP620-303,1-TI7B99,,Australia,peter doherty institute for infection and immunity,victoria,melbourne,3000,,792 elizabeth street
-1491,CDM,PRA,C31004,02002,1-1C4P6CX,Australia,peter maccallum cancer centre,vic,melbourne,3000,,305 grattan street
-1495,CDM,IQVIA,MLN0002SC-3031,02013,1-1SCVBNP,Australia,royal melbourne hospital,melbourne,victoria,3000,,level 13 305 grattan stpeter maccallum cancer centre
-1497,CDM,PPD,Pevonedistat-2001,1-D87N1J,,Australia,peter maccallum cancer centre,victoria,east melbourne,3002,,saint andrews place
-1500,CDM,PRA,TAK-788-1004 DDI,02004,1-1O615N9,Australia,nucleus network,vic,melbourne,3004,,89 commercial road5th floor burnet tower amrep precinct
-1501,CDM,PPD,TAK-788-3001,1-5SXUL6Y,,Australia,nucleus network pty ltd,victoria,melbourne,3004,,89  commercial road
-1502,CDM,IQVIA,NDMM-5002,036002,1-3C9LAS6,Australia,the alfred hospital,melbourne,victoria,3004,,level 1 south blockwilliam buckland buildingcommercial road
-1503,CDM,PRA,Ponatinib-3001,02001,1-1L9OCQH,Australia,the alfred hospital,vic,melbourne,3004,,dept of clinical haematology55 commercial road
-1316,CDM,PPD,SHP647-301,1-XZFCUU,,Australia,liverpool hospital,new south wales,liverpool,1871,,elizabeth street locked bag 7103 university of new south walesdepartment of hematology
-1504,CDM,PPD,SHP647-303,303-007,,Australia,the alfred hospital,victoria,melbourne,3004,,55 commercial roaddepartment of gastroenterology
-1505,CDM,PPD,SHP647-301,301-007,,Australia,the alfred hospital,victoria,melbourne,3004,,55 commercial road
-1516,CDM,PPD,SHP647-303,1-190VDOP,,Australia,footscray hospital,victoria,footscray,3011,,gordon street
-1522,CDM,PRA,TAK-041-2001,Pantelis,1-1LFNTCG,Australia,melbourne neuropsychiatry centre,vic,st albans,3021,,sunshine hospital176 furlong roadlevel 3 western centre for health research and education  adult mental health rehabilitation unit
-1523,CDM,PRA,C31004,02003,1-1C4P6F3,Australia,sunshine hospital,vic,saint albans,3021,,176 furlong road
-1524,CDM,IQVIA,TAK-743-3001,227,1-553ENDH,Australia,royal melbourne hospital,parkville,victoria,3050,,300 grattan streetdementia trial level 4 norththe royal melbourne hospital city campus
-1526,CDM,PPD,SHP675-301,020,,Australia,royal melbourne hospital,vic,parkville,3050,,grattan street
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,rnum,CONCAT_ADDRESS
+1540,CDM,PPD,TAK-007-2001,1-BX0K5YC,,Australia,peter maccallum cancer centre,victoria,melbourne,3052,,226,grattan street parkvillemedical oncology level 2
+1541,CDM,PPD,MLN0002-3025,3025-02001,,Australia,royal childrens hospital melbourne  pin,victoria,parkville,3052,,227,50 flemington rd
+1553,CDM,PRA,Brigatinib-2002,02004,1-1KA4276,Australia,saint vincents hospital melbourne,vic,fitzroy,3065,,239,41 victoria parade
+1555,CDM,IQVIA,MLN0002SC-3030,02010,1-27YXAXT,Australia,sanzruth st vincents hospital melbourne,fitzroy,victoria,3065,,241,41 victoria parade pharmacy departmentlevel 2 healy wing
+1559,CDM,PPD,SHP647-301,1-XVZKRX,,Australia,st vincents hospital melbourne  ppds,vic,fitzroy,3065,,245,regent street ip pharmacy store loading dockdepartment of gastroenterology
+1561,CDM,PPD,SHP647-307,307-004,,Australia,st vincents hospital melbourne  ppds,victoria,fitzroy,3065,,247,35 victoria parade
+1566,CDM,PPD,SHP620-302,1-B8RE18O,,Australia,st vincents hospital melbourne  ppds,victoria,melbourne,3065,,252,41 victoria parade fitzroyhaematology trials unit
+1575,CDM,PPD,Pevonedistat-2001,1-D87MYR,,Australia,northern hospital,victoria,epping,3076,,261,185 cooper street
+1577,CDM,IQVIA,CHL-5001,036004,1-3C0R3MB,Australia,austin health,heidelberg heights,victoria,3081,,263,300 waterdale road heidelberg repatriation hospital
+1578,CDM,PRA,Vedolizumab-3035,02002,1-1LL83E1,Australia,austin health,vic,heidelberg,3084,,264,145 studley road
+1579,CDM,PPD,TAK-788-3001,1-507A3WB,,Australia,austin health,victoria,heidelberg,3084,,265,145 studley roadlvl 8 harold stokes buildingaustin health
+1588,CDM,ICON,C25003,,87177,Australia,austin hospital,vic,heidelberg,3084,,274,cancer clinical trials level 4austin hospital 145 studley roadpo box 5555
+1589,CDM,PPD,TAK-007-2001,1-8DNKYUV,,Australia,austin hospital,victoria,heidelberg,3084,,275,145 studley rdlevel 5 harold stokes buildinginstitute of breathing and sleep ibas
+1591,CDM,PPD,SHP647-301,1-XVZWRU,,Australia,austin hospital,victoria,heidelberg,3084,,277,145 studley road
+1601,CDM,PRA,TAK-041-2001,Stough,1-1L8GD83,Australia,swinburne university of technology,vic,hawthorn,3122,,287,brain sciences institute400 burwood road
+1602,CDM,IQVIA,TAK-883-3001,303,1-4TQYWJ2,Australia,box hill hospital,box hill,victoria,3128,,288,8 arnold street
+1605,CDM,PRA,Ponatinib-3001,02002,1-1KRDLJ6,Australia,box hill hospital,vic,box hill,3128,,291,ecru level 25 arnold street
+1606,CDM,PPD,TAK-007-2001,1-8DBWBUS,,Australia,box hill hospital,victoria,box hill,3128,,292,2832 arnold stecru oncology research
+1616,CDM,PRA,C31004,02005,1-1C4P6NL,Australia,cabrini hospital  malvern,vic,malvern,3144,,302,183 wattletree roadsuite 19 cabrini malvern
+1617,CDM,PPD,TAK-788-3001,1-507A44E,,Australia,cabrini hospital malvern,victoria,malven,3144,,303,183 wattletree rdcabrini hospital
+1628,CDM,PPD,TAK-788-3001,1-507A3VL,,Australia,monash medical centre  moorabbin campus,victoria,east bentleigh,3165,,314,823865 centre roadmedical oncology unit
+1629,CDM,IQVIA,MLN0002SC-3030,02002,1-27YXB2K,Australia,monash medical centre clayton,bentleigh east,victoria,3165,,315,823865 centre road
+1630,CDM,PPD,MLN0002-3024,1-7K1HL1H,,Australia,monash childrens hospital,victoria,clayton,3168,,316,246 clayton rd
+1632,CDM,PPD,SHP647-306,1-16CZMMJ,,Australia,monash health monash medical centre,vic,clayton,3168,,318,246 clayton road
+1640,CDM,PPD,MLN0002-3024,3024-02003,,Australia,monash health monash medical centre,victoria,clayton,3168,,326,246 clayton rd
+1646,CDM,PRA,C31004,02008,1-1C4P6TV,Australia,monash medical centre,vic,clayton,3168,,332,246 clayton road
+1649,CDM,IQVIA,CHL-5001,036002,1-34Y4PJ4,Australia,monash medical centre clayton,clayton,victoria,3168,,335,246 clayton roadst albansmonash health monash medical center
+1652,CDM,IQVIA,MLN0002SC-3030,02014,1-27YXB25,Australia,the alfred hospital,melbourne,victoria,3181,,338,the alfred airmed level 5 main ward block55 commercial road
+1654,CDM,PPD,SHP647-306,1-1G0SO3U,,Australia,the alfred hospital,vic,melbourne vic,3181,,340,commercial road  prahranintensive care unit
+1657,CDM,PRA,C31004,02005A,1-1JM5UZM,Australia,cabrini hospital  brighton,vic,brighton,3186,,343,243 new street
+1658,CDM,IQVIA,TAK-883-3001,304,1-4TQYWL4,Australia,frankston hospital,frankston,victoria,3199,,344,hastings road oncology day unitpeninsula heart centre
+1659,CDM,PPD,C16029,1-Y2R3J7,,Australia,frankston hospital,vic,frankston,3199,,345,525 mcclelland drive
+1660,CDM,PPD,C16021,02102,,Australia,frankston hospital,victoria,frankston,3199,,346,hastings road
+1661,CDM,PPD,SHP647-307,1-192HH2O,,Australia,frankston private day surgery,victoria,frankston,3199,,347,2428 frankstonflinders roadlevel 2
+1665,CDM,PRA,Brigatinib-2002,02002,1-1KA9GCQ,Australia,peninsula  south eastern haematology and oncology group,vic,frankston,3199,,351,frankston private2428 frankstonflinders road
+1667,CDM,PRA,TAK-788-1004 DDI,02001,1-1NO1DLC,Australia,peninsula and southeast oncology,vic,frankston,3199,,353,2428 frankstonflinders road
+1668,CDM,PPD,Pevonedistat-2001,1-D87N16,,Australia,peninsula health,victoria,frankston,3199,,354,hastings roadoncology day unit
+1670,CDM,PPD,TAK-007-2001,1-8DBWBPA,,Australia,andrew love cancer center,victoria,geelong,3220,,356,70 swanston st
+1671,CDM,PPD,TAK-788-3001,1-507A3VY,,Australia,barwon health,victoria,geelong,3220,,357,70 swanston streetandrew love cancer centre
+1672,CDM,PPD,SHP620-303,1-TI7BMH,,Australia,geelong hospital,victoria,geelong,3220,,358,po box 281
+1674,CDM,ICON,C25003,,87185,Australia,the geelong hospital,vic,geelong,3220,,360,the geelong hospital70 swanston st
+1675,CDM,IQVIA,MLN0002SC-3030,02008,1-27YXAU7,Australia,ballarat base hospital,ballarat,victoria,3350,,361,drummond street north
+1677,CDM,PPD,TAK-007-2001,1-8DBWBPY,,Australia,ballarat health services,victoria,ballarat central,3350,,363,drummond st
+1678,CDM,PPD,Brigatinib-1003,1-62G3ZI5,,Australia,ballarat oncology and haematology services,victoria,wendouree,3355,,364,po box 281
+1680,CDM,PRA,Vedolizumab-3035,02005,1-1LL83GJ,Australia,royal brisbane and womens hospital,qld,herston,4006,,366,ground floorbuilding 34butterfield street
+1681,CDM,PPD,TAK-007-2001,1-8DBWBV4,,Australia,royal brisbane  womens hospital,queensland,herston,4029,,367,34 butterfield streetclinical research unit cancer care services ground floor building
+1700,CDM,PRA,C31004,02001,1-1C4P69U,Australia,royal brisbane and womens hospital,qld,herston,4029,,386,butterfield street and bowen bridge road
+1702,CDM,PPD,SHP620-303,1-TI7BL7,,Australia,the university of queensland,queensland,herston,4029,,388,herston road
+1703,CDM,PPD,TAK-788-3001,1-50EVEFU,,Australia,prince charles hospital,queensland,chermside,4032,,389,rode road
+1704,CDM,IQVIA,TAK-883-3001,305,1-4RCMT7G,Australia,the prince charles hospital,chermside,queensland,4032,,390,the prince charles hospitalrode rd
+1705,CDM,PPD,Pevonedistat-2001,1-D87MYE,,Australia,haematology and oncology clinics of australasia research centre limited,queensland,milton,4064,,391,11 camford streetunit 13
+1707,CDM,PPD,TAK-788-3001,1-50EVEEG,,Australia,icon cancer foundation,queensland,milton,4064,,393,11 camford streetunit 13
+1710,CDM,ICON,C25003,,87182,Australia,haematology and oncology clinics of australia hoca,qld,south brisbane,4101,,396,icon cancer foundation619a stanley st
+1711,CDM,ICON,C25001,,4413,Australia,haematology and oncology clinics of australia hoca mater private hospital,queensland,south brisbane,4101,,397,level 5293 vulture street
+1712,CDM,PPD,Pevonedistat-3001,02003,,Australia,icon cancer care,queensland,south brisbane,4101,,398,22 cordelia streetcorporate officelevel 1
+1713,CDM,PPD,C16019,02906,,Australia,icon cancer care south brisbane,queensland,south brisbane,4101,,399,22 cordelia streethaematology  oncology clinics of australia pty ltd
+1717,CDM,PPD,Vedolizumab-4013,1-LR75TO,,Australia,mater adult hospital,qld,south brisbane,4101,,403,raymond terrace
+1719,CDM,PPD,TAK-788-3001,1-507A41Q,,Australia,mater adult hospital,queensland,south brisbane,4101,,405,level 3 augbigny place
+1724,CDM,PPD,SHP647-304,304-002,,Australia,mater hospital brisbane,queensland,south brisbane,4101,,410,raymond terracegastroenterology dpt lvl 4 salmon building
+1725,CDM,PPD,SHP647-307,307-002,,Australia,mater hospital brisbane,queensland,south brisbane,4101,,411,raymond terrace
+1729,CDM,IQVIA,MLN0002SC-3030,02006,1-27YXAZM,Australia,mater hospital brisbane,south brisbane,queensland,4101,,415,room 273 level 2 aubigny place raymond terrace
+1731,CDM,PPD,Brigatinib-1003,1-62G3ZC8,,Australia,queensland children’s hospital,queensland,brisbane,4101,,417,po box 3474
+1733,CDM,PPD,MLN0002-3024,3024-02004,,Australia,queensland children’s hospital,queensland,south brisbane,4101,,419,501 stanley streetchildren’s health queensland hospital and health service
+1739,CDM,PPD,SHP607-202,1-15UA0WB,,Australia,the university of queensland  mater research institute mri,queensland,south brisbane,4101,,425,aubigny place raymond terracelevel 3
+1740,CDM,PPD,SHP620-303,1-TI7BC3,,Australia,princess alexandra hospital,queensland,woolloongabba,4102,,426,199 ipswich road
+1749,CDM,PPD,SHP620-303,1-TI7BMU,,Australia,greenslopes private hospital,queensland,greenslopes,4120,,435,newdegate street
+1750,CDM,PPD,C16029,1-Y2R3JK,,Australia,gold coast university hospital,queensland,southport,4215,,436,1 hospital boulevard
+1754,CDM,PPD,TAK-007-2001,1-8DBWBUG,,Australia,university of the sunshine coast,queensland,sippy downs,4556,,440,9 ochre way
+1755,CDM,IQVIA,CHL-5001,036006,1-3C0R3LW,Australia,the townsville hospital,douglas,queensland,4814,,441,100 angus smith drive
+1758,CDM,IQVIA,NDMM-5002,036001,1-3AS05AA,Australia,royal adelaide hospital,adelaide,south australia,5000,,444,l9 east wingnorth terrace
+1763,CDM,PRA,AP24534-14-203,951,1-1FANDE2,Australia,royal adelaide hospital,sa,adelaide,5000,,449,haematology deptnorth terrace
+1764,CDM,ICON,C25001,,266140,Australia,royal adelaide hospital,south australia,adelaide,5000,,450,haematology and bone marrow transplant unitroyal adelaide hospitalnorth terrace
+1791,CDM,PPD,C16021,1-8DTJUH,,Australia,the queen elizabeth hospital,south australia,woodville south,5000,,477,28 woodville roaddepartment of hematology and bone marrow transplant unit
+1792,CDM,PPD,Brigatinib-1003,1-62G8TZ3,,Australia,womens and childrens hospital,south australia,north adelaide,5006,,478,72 king william road
+1800,CDM,PPD,TAK-007-2001,1-8DBWBS8,,Australia,the queen elizabeth hospital,south australia,woodville,5011,,486,28 woodville rdhaematology and medical oncology department
+1811,CDM,PPD,TAK-788-3001,1-507A441,,Australia,adelaide cancer centre,south australia,kurralta park,5037,,497,520 south rdtennyson centre
+1813,CDM,IQVIA,MLN0002SC-3030,02001,1-27YXAXE,Australia,tennyson centre day hospital,kurralta park,south australia,5037,,499,suite 10 first floor tennyson centre520 south roadflinders medical centre level 6
+1814,CDM,IQVIA,CHL-5001,036005,1-34Y56YV,Australia,flinders medical centre,bedford park,south australia,5042,,500,3 flinders drive department of respiratory  sleep medicinelevel 6 southern adelaide local health networkflinders medical centre level 6
+1315,CDM,PPD,SHP620-303,1-TI7BLU,,Australia,darwin hospital,northern territory,casuarina,0811,,1,rocklands drive tiwi
+1316,CDM,PPD,SHP647-301,1-XZFCUU,,Australia,liverpool hospital,new south wales,liverpool,1871,,2,elizabeth street locked bag 7103 university of new south walesdepartment of hematology
+1319,CDM,PPD,TAK-788-3001,1-50EM4A0,,Australia,kinghorn cancer centre,new south wales,darlinghurst,2010,,5,370 victoria street
+1320,CDM,PRA,AP26113-13-301,406,1-1F67BQH,Australia,saint vincents hospital sydney,nsw,darlinghurst,2010,,6,370 victoria street
+1322,CDM,PPD,SHP620-302,1-CFK5M2L,,Australia,st vincents hospital sydney,new south wales,darlinghurst,2010,,8,390 victoria streetpharmacy level 2
+1328,CDM,PRA,TAK-041-2001,Catts,1-1L8BCSJ,Australia,neuroscience research australia neura,nsw,randwick,2031,,14,po box 1165
+1329,CDM,PPD,SHP647-301,1-XZDUO0,,Australia,prince of wales hospital,new south wales,randwick,2031,,15,avoca streetdiabetes centersuite 26
+1339,CDM,PPD,C16019,TBA,,Australia,prince of wales hospital,nsw,randwick,2031,,25,barker street level 4seals department of haematology campus center building
+1340,CDM,IQVIA,CHL-5001,036003,1-34Y3HRK,Australia,prince of wales hospital,randwick,new south wales,2031,,26,barker street
+1342,CDM,PPD,Brigatinib-1003,1-68J7BOD,,Australia,sydney childrens hospital,new south wales,randwick,2031,,28,high street
+1346,CDM,PPD,SHP647-305,1-XVZKP5,,Australia,centre for digestive diseases,new south wales,five dock,2046,,32,144 great north roadlevel 1
+1348,CDM,PPD,TAK-788-3001,1-59K00XF,,Australia,chris obrien lifehouse hospital,new south wales,camperdown,2050,,34,119143 missenden road
+1350,CDM,PPD,SHP647-304,1-4MT3C2P,,Australia,royal prince alfred hospital,new south wales,camperdown,2050,,36,50 missenden road
+1364,CDM,PPD,SHP620-303,1-TI7BBD,,Australia,the university of new south wales,new south wales,sydney,2052,,50,high streetthe kirby institute national centre in hiv epidemiology and clinical research
+1365,CDM,PPD,TAK-788-3001,02003,,Australia,genesiscare st leonards,new south wales,st leornards,2065,,51,38 pacific hwylevel 1
+1366,CDM,PPD,SHP647-305,1-XZKQ4W,,Australia,north shore private hospital,new south wales,saint leonards,2065,,52,1008 crows nest delivery centre
+1368,CDM,PPD,C16021,1-8DTJTD,,Australia,royal north shore hospital,new south wales,saint leonards,2065,,54,pacific highwayhaematology department level 5a acute services building
+1369,CDM,PPD,TAK-007-2001,1-8DBWBTR,,Australia,royal north shore hospital,new south wales,st leonards,2065,,55,level 3 e clinical administrationenal services unitdepartment of renal medicine
+1372,CDM,PRA,Ponatinib-3001,02004,1-1KRDLRM,Australia,royal north shore hospital,nsw,saint leonards,2065,,58,acute services buildingreserve roadlevel 5
+1375,CDM,ICON,C25003,,87183,Australia,royal north shore hospital,nsw,st leonards,2065,,61,level 5 asbpacific hwy
+1377,CDM,PPD,TAK-788-3001,1-507A3ZS,,Australia,sydney adventist hospital,new south wales,wahroonga,2076,,63,185 fox valley roadclinical trials unit clinical services building
+1378,CDM,PPD,TAK-788-3001,02002,,Australia,st george hospital,new south wales,kogarah,2137,,64,gray streetmedical oncology department
+1379,CDM,IQVIA,MLN0002SC-3030,02005,1-27YXB1A,Australia,concord repatriation general hospital,concord,new south wales,2139,,65,renal unit  4w  concord repatriation general hospital  hospital road
+1381,CDM,PPD,TAK-788-3001,1-50EVEG6,,Australia,concord repatriation general hospital,new south wales,concord,2139,,67,600 highland avenue
+1391,CDM,PPD,SHP647-301,301-006,,Australia,concord repatriation general hospital,nsw,concord,2139,,77,hospital roadgastroenterology and liver services
+1394,CDM,PPD,C16011,02004,,Australia,westmead hospital,new south wales,westmead,214,,80,hawkesbury roadhaematology department clinical trials officelevel 2 westmead hospital
+1395,CDM,PPD,MLN0002-3025,1-D2CXUC4,,Australia,childrens hospital at westmead,new south wales,westmead,2145,,81,corner of hawkesbury road and hainsworth streetkids research institute
+1402,CDM,PPD,SHP675-301,1-3P69UDY,,Australia,childrens hospital at westmead,nsw,westmead,2145,,88,hawkesbury roadgenetic metabolic disorders services
+1404,CDM,PPD,Pevonedistat-3001,1-1EO17G7,,Australia,westmead hospital,new south wales,westmead,2145,,90,corner of hawkesbury and darcy roadshaematology department clinical trials officelevel 2 ward c5a
+1411,CDM,ICON,C25003,,87176,Australia,westmead hospital,nsw,westmead,2145,,97,clinical trial office ward c5a
+1415,CDM,PRA,TAK-041-2001,Harris,1-1L8CYRX,Australia,westmead institute for medical research,nsw,westmead,2145,,101,corner of darcy and hawkesbury road
+1416,CDM,PPD,SHP620-302,1-D1WSEY0,,Australia,blacktown hospital,new south wales,blacktown,2148,,102,18 blacktown roadblock a level 3
+1417,CDM,PPD,SHP620-302,1-D1WSEYC,,Australia,westmead hospital,nsw,northmead,2152,,103,redbank road pharmacy distribution center gate 4 vdct dock 6centre for infectious disease and microbiology
+1420,CDM,PPD,SHP647-303,303-003,,Australia,liverpool hospital,new south wales,liverpool,2170,,106,corner of elizabeth and goulburn streetsdepartment of gastroenterology
+1432,CDM,PRA,C31004,02004,1-1C4P6GZ,Australia,saint george hospital,nsw,kogarah,2217,,118,clinical research unit ground floor pitney buildingst george hospitalgray street
+1435,CDM,PPD,TAK-007-2001,1-8DBWBOL,,Australia,st george hospital,new south wales,kogarah,2217,,121,50 montgomery streetrenal unit
+1440,CDM,PPD,SHP647-303,1-4MU8GN3,,Australia,gosford hospital,new south wales,north gosford,2250,,126,51418 jarrett street
+1441,CDM,PRA,AP26113-13-301,402,1-1F67B1O,Australia,gosford hospital,nsw,gosford,2250,,127,holden street
+1442,CDM,PPD,Pevonedistat-3001,1-18G0B67,,Australia,calvary mater newcastle,new south wales,newcastle,2298,,128,edith street
+1450,CDM,PPD,Brigatinib-1002,1-62G3ZEO,,Australia,john hunter childrens hospital,new south wales,new lambton heights,2305,,136,kookaburra circuit
+1452,CDM,PPD,SHP647-301,1-43IRL9Z,,Australia,john hunter hospital,new south wales,new lambton,2305,,138,lookout road
+1458,CDM,PPD,TAK-788-3001,1-507A3Z2,,Australia,port macquarie base hospital,new south wales,new south wales,2444,,144,wrights roadport macquarie base hospital
+1459,CDM,IQVIA,CHL-5001,036007,1-3H2HHU5,Australia,illawarra health and medical research institute ihmri,wollongong,new south wales,2500,,145,loftus streethaematology department
+1460,CDM,PPD,TAK-007-2001,1-8DBWBNX,,Australia,wollongong hospital,new south wales,wollongong,2500,,146,35 dudley streetrenal services
+1466,CDM,IQVIA,SHP643-303,226,1-4TVNMCK,Australia,campbelltown hospital,campbelltown,new south wales,2560,,152,149 therry roadcampbelltown hospital
+1468,CDM,PPD,IOS,183,,Australia,campbelltown hospital,new south wales,campbelltown,2560,,154,therry roaddepartment of medicine
+1469,CDM,PPD,TAK-007-2001,1-8DBWBQA,,Australia,the canberra hospital,act,canberra,2605,,155,yamba drivebuilding 15 level 2
+1470,CDM,PPD,SHP647-303,1-16D1OYT,,Australia,the canberra hospital,act,garran,2605,,156,yamba drivehaematology research unit
+1477,CDM,PPD,Vedolizumab-4013,02005,,Australia,the canberra hospital,australian capital territory,garran,2605,,163,yamba drive
+1479,CDM,PPD,TAK-007-2001,1-8DBWBQM,,Australia,border medical oncology,new south wales,albury,2640,,165,201239 borella roadborder medical oncology
+1480,CDM,IQVIA,MLN0002SC-3031,02015,1-1TO6UIL,Australia,nepean hospital,kingswood,new south wales,2747,,166,corner of derby and parker streets
+1482,CDM,PPD,SHP647-307,1-1917QAQ,,Australia,nepean hospital,new south wales,kingswood,2747,,168,derby street
+1488,CDM,PPD,Vedolizumab-4013,02006,,Australia,nepean hospital,nsw,kingswood,2747,,174,3665 derby street
+1489,CDM,ICON,C25003,,87184,Australia,nepean cancer centre  nepean hospital,nsw,penrith,2750,,175,somerset st
+1490,CDM,PPD,SHP620-303,1-TI7B99,,Australia,peter doherty institute for infection and immunity,victoria,melbourne,3000,,176,792 elizabeth street
+1491,CDM,PRA,C31004,02002,1-1C4P6CX,Australia,peter maccallum cancer centre,vic,melbourne,3000,,177,305 grattan street
+1495,CDM,IQVIA,MLN0002SC-3031,02013,1-1SCVBNP,Australia,royal melbourne hospital,melbourne,victoria,3000,,181,level 13 305 grattan stpeter maccallum cancer centre
+1497,CDM,PPD,Pevonedistat-2001,1-D87N1J,,Australia,peter maccallum cancer centre,victoria,east melbourne,3002,,183,saint andrews place
+1500,CDM,PRA,TAK-788-1004 DDI,02004,1-1O615N9,Australia,nucleus network,vic,melbourne,3004,,186,89 commercial road5th floor burnet tower amrep precinct
+1501,CDM,PPD,TAK-788-3001,1-5SXUL6Y,,Australia,nucleus network pty ltd,victoria,melbourne,3004,,187,89  commercial road
+1502,CDM,IQVIA,NDMM-5002,036002,1-3C9LAS6,Australia,the alfred hospital,melbourne,victoria,3004,,188,level 1 south blockwilliam buckland buildingcommercial road
+1503,CDM,PRA,Ponatinib-3001,02001,1-1L9OCQH,Australia,the alfred hospital,vic,melbourne,3004,,189,dept of clinical haematology55 commercial road
+1504,CDM,PPD,SHP647-303,303-007,,Australia,the alfred hospital,victoria,melbourne,3004,,190,55 commercial roaddepartment of gastroenterology
+1505,CDM,PPD,SHP647-301,301-007,,Australia,the alfred hospital,victoria,melbourne,3004,,191,55 commercial road
+1516,CDM,PPD,SHP647-303,1-190VDOP,,Australia,footscray hospital,victoria,footscray,3011,,202,gordon street
+1522,CDM,PRA,TAK-041-2001,Pantelis,1-1LFNTCG,Australia,melbourne neuropsychiatry centre,vic,st albans,3021,,208,sunshine hospital176 furlong roadlevel 3 western centre for health research and education  adult mental health rehabilitation unit
+1523,CDM,PRA,C31004,02003,1-1C4P6F3,Australia,sunshine hospital,vic,saint albans,3021,,209,176 furlong road
+1524,CDM,IQVIA,TAK-743-3001,227,1-553ENDH,Australia,royal melbourne hospital,parkville,victoria,3050,,210,300 grattan streetdementia trial level 4 norththe royal melbourne hospital city campus
+1526,CDM,PPD,SHP675-301,020,,Australia,royal melbourne hospital,vic,parkville,3050,,212,grattan street
