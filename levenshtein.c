@@ -13,23 +13,22 @@ void levenshtein(char ** strvec_1, char ** strvec_2,
  * Arguments:
  * 	strvec_1, strvec_2		The character vectors to compare
  * 	length_1, length_2		Length of strvec_1 and strvec_2
- * 	ans										return vector, must hold max(length_1, length_2)
- * 												double numbers     
+ * 	ans						Return vector, must hold max(length_1, length_2) double numbers     
  */
 void levenshtein(char ** strvec_1, char ** strvec_2,
              int * length_1, int * length_2, int * ans)
 {
   int max_length= *length_1 > *length_2 ? *length_1 : *length_2;  
-  int str_ind;
-	for (str_ind=0; str_ind < max_length; str_ind++)
+  int i;
+  for (i=0; i < max_length; i++)
   {
-    char * str_1=strvec_1[str_ind % *length_1];
-    char * str_2=strvec_2[str_ind % *length_2];
+    char * str_1=strvec_1[i % *length_1];
+    char * str_2=strvec_2[i % *length_2];
    	int lev_dist=levenshtein_internal(str_1, str_2, 1, 1, 1);
-    ans[str_ind]=lev_dist;
+    ans[i]=lev_dist;
 // 		Rprintf("Vergleiche %s, %s\n",str_1, str_2); // Debug-Ausgabe
 // 		Rprintf("Levenshtein-Distanz: %d\n",lev_dist);   
-// 		Rprintf("Levenshtein-Distanz: %d\n",ans[str_ind]);   
+// 		Rprintf("Levenshtein-Distanz: %d\n",ans[i]);   
   }
 } 
 // 
