@@ -1,39 +1,501 @@
 SR_NUM,CONCAT_ADDRESS,SITE_NAME,STATE,CITY,POSTAL_CODE
-3121,avenida ipiranga 6690,hospital sao lucas da pontificia universidade catolica do rio grande do sul pucrs,rio grande do sul,porto alegre,90610000
-3122,avenida ipiranga 6690centro de pesquisa4th floor,hospital sao lucas da pontificia universidade catolica do rio grande do sul pucrs,rio grande do sul,porto alegre,90610000
-3123,avenida ipiranga 6690petrópolis,hospital sao lucas da pontificia universidade catolica do rio grande do sul pucrs,rio grande do sul,porto alegre,90610000
-3124,avenue ipiranga 669centro de pesquisa em oncologia,hospital sao lucas da pontificia universidade catolica do rio grande do sul pucrs,rio grande do sul,porto alegrers,90610000
-3125,rua francisco trein 596 1 andar sala 24 cristo redentor,hospital nossa senhora da conceição,rio grande do sul,porto alegre,91350200
-3126,rua lvares cabral 529,instituto da crianca com diabetes,rio grande do sul,porto alegre,91350250
-3127,rua francisco getúlio vargas 1130,instituto de pesquisas clínicas para estudos multicêntricos,rio grande do sul,caxias do sul,95070560
-3128,rua francisco getúlio vargas 1130ipcem504,universidade de caxias do sul,rio grande do sul,caxias do sul,95070560
-3129,rua francisco getúlio vargas 1130,universidade de caxias do sul,rio grande do sul,caxias do sul,95070560
-3130,rua professor antônio vignoli 255presidente vargasana rech,universidade de caxias do sul,rio grande do sul,caxias do sul,95070561
-3131,rua general osorio 235subsolo,hospital tacchini,rio grande do sul,bento gonçalves,95700084
-3132,av david josé martins 152departamento de oncologia,associação hospital de caridade ijuí,rio grande do sul,ijuí,98700000
-3133,avenida david josé martins 152departamento de oncologia,associação hospital de caridade ijuí,rio grande do sul,ijuí,98700000
-3134,avenida david josé martins 152 centro cacondepartamento de oncologia,associação hospital de caridade ijuí,rio grande do sul,ijuí,98700000
-3135,avenida david josé martins 152 centro cacondepartamento de oncologia,associação hospital de caridade ijuí,rio grande do sul,ijuí,98700000
-3136,avenida david josé martins 152 centro cacondepartamento de oncologia,associação hospital de caridade ijuí,rio grande do sul,ijuí,98700000
-3137,rua teixeira soares 808centro,hospital são vicente de paulo,passo fundo,rio grande do sul,99010080
-3138,rua teixeira soares 808centro,hospital são vicente de paulo,passo fundo,rio grande do sul,99010080
-3139,rua teixeira soares 808,hospital são vicente de paulo  ppds,rio grande do sul,passo fundo,99010080
-3140,rua teixeira soares 808,hospital são vicente de paulo  ppds,rio grande do sul,passo fundo,99010080
-3141,rua teixeira soares 808,hospital são vicente de paulo  ppds,rio grande do sul,passo fundo,99010080
-3142,rua teixeira soares 808,hospital são vicente de paulo  ppds,rio grande do sul,passo fundo,99010080
-3143,rua teixeira soares 808,hospital são vicente de paulo  ppds,rio grande do sul,passo fundo,99010080
-3144,rua teixeira soares 808,hospital são vicente de paulo  ppds,rio grande do sul,passo fundo,99010080
-3145,rua teixeira soares 808,hospital são vicente de paulo  ppds,rio grande do sul,passo fundo,99010080
-3146,rua teixeira soares 808,hospital são vicente de paulo  ppds,rio grande do sul,passo fundo,99010080
-3147,rua teixeira soares 808,hospital são vicente de paulo  ppds,rio grande do sul,passo fundo,99010080
-3148,rua tiradentes 295,hospital da cidade,rio grande do sul,passo fundo,99010260
-3149,rua tiradentes 295sector de oncologia,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260
-3150,rua tiradentes 295 sector de oncologiacentro de pesquisa em oncologia,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260
-3151,rua tiradentes 295 sector de oncologia,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260
-3152,rua tiradentes 295,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260
-3153,rua tiradentes 295,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260
-3154,rua tiradentes 295,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260
-3155,rua tiradentes 295,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260
-3156,rua tiradentes 295,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260
-3157,rua tiradentes 295,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260
-3158,rua tiradentes 295,hospital de clinicas de passo fundo,rio grande do sul,passo fundo,99010260
+29973,rua aurora 8583o andar,instituto do câncer arnaldo vieira de carvalho,são paulo,são paulo,01209000
+29974,rua marques de itu 503conj 31,ipec  instituto de pesquisa clínica,são paulo,são paulo,01223001
+29975,rua marques de itu 503conj 31,ipec  instituto de pesquisa clínica,são paulo,são paulo,01223001
+29976,rua marques de itu 503conj 31,ipec  instituto de pesquisa clínica,são paulo,são paulo,01223001
+29977,rua marques de itu 503conj 31,ipec  instituto de pesquisa clínica,são paulo,são paulo,01223001
+29978,rua marques de itu 503conj 31,ipec  instituto de pesquisa clínica,são paulo,são paulo,01223001
+29979,rua marques de itu 503conj 31,ipec  instituto de pesquisa clínica,são paulo,são paulo,01223001
+29980,rua marques de itu 503conj 31,ipec  instituto de pesquisa clínica,são paulo,são paulo,01223001
+29981,rua arnolfo de azevedo 121,instituto de ensino e pesquisa são lucas,são paulo,são paulo,01236030
+29982,rua arnolfo de azevedo 121,instituto de ensino e pesquisa são lucas,são paulo,são paulo,01236030
+29983,rua arnolfo de azevedo 121 pacaembupacaembusão paulo  sp,instituto de ensino e pesquisa são lucas,são paulo,são paulo,01236030
+29984,rua novo horizonte 94 ap 22 sender miszputen,hospital são paulo,são paulo,são paulo,01244020
+29985,rua novo horizonte 94 ap 22 sender miszputen,hospital são paulo,são paulo,são paulo,01244020
+29986,rua novo horizonte 94 ap 22 sender miszputen,hospital são paulo,são paulo,são paulo,01244020
+29987,rua novo horizonte 94 ap 22 sender miszputen,hospital são paulo,são paulo,são paulo,01244020
+29988,rua novo horizonte 94 ap 22 sender miszputen,hospital são paulo,são paulo,são paulo,01244020
+29989,avenida doutor arnaldo numero 251oncologia clinica pesquisa clinica,instituto do câncer do estado de são paulo octávio frias de oliveira,são paulo,são paulo,01246 000
+29990,rua drive arnaldo 251 5º andar,centro de oncologia inrad hcfmusp,são paulo,são paulo,01246000
+29991,avendia doutor arnaldo 251pesquisa clnicacerqueira cesar,hospital das clinicas da faculdade de medicina da universidade de sao paulo,sao paulo,sao paulo,01246000
+29992,avendia doutor arnaldo 251pesquisa clnicacerqueira cesar,instituto do cancer do estado de sao paulo,sao paulo,sao paulo,01246000
+29993,avenida doutor arnaldo 251  12º andar,instituto do câncer do estado de são paulo octávio frias de oliveira,rio de janeiro,são paulo,01246000
+29994,av dr arnaldo  455  cerqueira césar,faculdade de medicina da universidade de são paulo,são paulo,sao paulo,01246903
+29995,avenida arnolfo de azevedo 121,instituto de ensino e pesquisa são lucas,são paulo,são paulo,01248040
+29996,avenida arnolfo de azevedo 121,instituto de ensino e pesquisa são lucas,são paulo,são paulo,01248040
+29997,rua dona adma jafet 115,hospital sirio libanes,sao paulo,sao paulo,01308050
+29998,rua adma jafet 91bloco aterreo,hospital sírio libanês,são paulo,são paulo,01308050
+29999,rua adma jafet 91bloco aterreo,hospital sírio libanês,são paulo,são paulo,01308050
+30000,rua adma jafet 91bloco a,sociedade beneficente de senhoras hospital sirio libanes,são paulo,são paulo,01308050
+30001,rua adma jafet 91 bela vista,sociedade beneficente de senhoras hospital sirio libanes,são paulo,são paulo,01308050
+30002,rua adma jafet 91 bela vista,sociedade beneficente de senhoras hospital sirio libanes,são paulo,são paulo,01308050
+30003,rua adma jafet 91 bela vista,sociedade beneficente de senhoras hospital sirio libanes,são paulo,são paulo,01308050
+30004,rua adma jafet 91 bela vista,sociedade beneficente de senhoras hospital sirio libanes,são paulo,são paulo,01308050
+30005,rua adma jafet 91 bela vista,sociedade beneficente de senhoras hospital sirio libanes,são paulo,são paulo,01308050
+30006,rua adma jafet 91 bela vista,sociedade beneficente de senhoras hospital sirio libanes,são paulo,são paulo,01308050
+30007,rua adma jafet 91 bela vista,sociedade beneficente de senhoras hospital sirio libanes,são paulo,são paulo,01308050
+30008,rua prof daher cutait 69 – bela vista1º andar do prédio dos ambulatórios,hospital sirio libanes,são paulo,são paulo,01308060
+30009,rua maestro cardim 769,real e benemérita portuguesa de beneficência,são paulo,são paulo,01323001
+30010,rua joão julião 331 centro de pesquisa clícina instituto de ciências paraísobela vistasão paulo  sp,hospital alemão oswaldo cruz,são paulo,são paulo,01323903
+30011,rua professor antnio prudente 211liberdade,fundacao antonio prudente  accamargo cancer center,sao paulo,sao paulo,01509010
+30012,r professor antonio prudente 211 liberdade,fundação antônio prudente – ac camargo câncer center,são paulo,são paulo,01509010
+30013,rua professor antônio prudente 211aclimaçãosão paulo  sp,fundação antônio prudente – ac camargo câncer center,são paulo,são paulo,01509010
+30014,rua professor antonio prudente 211liberdade,fundacao antonio prudente  accamargo cancer center,sao paulo,sao paulo,01509900
+30015,rua professor antonio prudente 211,fundação antônio prudente – ac camargo câncer center,são paulo,são paulo,01509900
+30016,rua professor antonio prudente 211,fundação antônio prudente – ac camargo câncer center,são paulo,são paulo,01509900
+30017,rua professor antonio prudente 211,fundação antônio prudente – ac camargo câncer center,são paulo,são paulo,01509900
+30018,rua professor antonio prudente 211,fundação antônio prudente – ac camargo câncer center,são paulo,são paulo,01509900
+30019,rua professor antonio prudente 211,fundação antônio prudente – ac camargo câncer center,são paulo,são paulo,01509900
+30020,rua professor antonio prudente 211,fundação antônio prudente – ac camargo câncer center,são paulo,são paulo,01509900
+30021,rua professor antonio prudente 211,fundação antônio prudente – ac camargo câncer center,são paulo,são paulo,01509900
+30022,rua professor antonio prudente 211,fundação antônio prudente – ac camargo câncer center,são paulo,são paulo,01509900
+30023,r prof antonio prudente 211,hospital ac camargo  oncologia clinica,sp,sao paulo,01509900
+30024,avenida alcântara machadomoocasão paulo  sp,instituto brasileiro de controle do câncer ibcc,são paulo,são paulo,03102002
+30025,avenida alcntara machado 2576mooca,instituto brasileiro de controle do cancer,sao paulo,sao paulo,03102006
+30026,rua coronel lisboa 957instituto de genética e erros inatos do metabolismo centro de referência em erros inatos do metabol,universidade federal de são paulo,são paulo,vila clementino,04020041
+30027,rua sena madureira  1500  vila clementino,escola paulista de medicina da universidade federal de são paulo – epmunifesp,são paulo,sao paulo,04021001
+30028,rua pedro de toledo 5725º andar,graacc  grupo de apoio ao adolescente e à criança com câncer,são paulo,sao paulo,04023062
+30029,rua napoleão de barros 771 vila clementino 2ºandar,hospital são paulo,são paulo,são paulo,04024002
+30030,rua napoleão de barros 771 vila clementino 2ºandar,hospital são paulo,são paulo,são paulo,04024002
+30031,rua napoleao de barros 618bloco aterreo,universidade federal de são paulo,são paulo,sao paulo,04024002
+30032,rua napoleao de barros 618bloco aterreo,universidade federal de são paulo,são paulo,são paulo,04024002
+30033,rua dos açores 310 1 andar,escola paulista de medicina da universidade federal de são paulo – epmunifesp,são paulo,são paulo,04032060
+30034,rua doutor diogo de faria 816,universidade federal de sao paulo,são paulo,são paulo,04037002
+30035,rua doutor diogo de faria 816,universidade federal de sao paulo,são paulo,são paulo,04037002
+30036,rua diogo de faria 816,universidade federal de são paulo,são paulo,são paulo,04037002
+30037,rua dr diogo de faria 824hemocentro da unifesp,universidade federal de são paulo,são paulo,são paulo,04037002
+30038,rua pedro de toledo 572vila clementino,graacc grupo de apoio ao adolescente e a crianca com cancer,são paulo,são paulo,04039001
+30039,rua pedro de toledo 655vila clementino,hospital sao paulo,são paulo,sao paulo,04039032
+30040,rua loefgren 1350vila clementino,hospital sao paulo,são paulo,sao paulo,04040001
+30041,avenida santa catarinapediatria 2785são paulo  sp,hospital santa marcelina,são paulo,são paulo,04378500
+30042,rua comendador miguel calfat 217,clínica são germano,são paulo,são paulo,04537080
+30043,rua comendador miguel calfat 217,clínica são germano,são paulo,são paulo,04537080
+30044,rua comendador miguel calfat 217,clínica são germano,são paulo,são paulo,04537080
+30045,rua comendador miguel calfat 217,clínica são germano,são paulo,são paulo,04537080
+30046,avenida eneas de carvalho aguiarcentro de pesquisa,hospital das clínicas da faculdade de medicina da universidade de são paulo,são paulo,são paulo,05304000
+30047,avenida eneas de carvalho aguiarcentro de pesquisa,universidade federal de são paulo,são paulo,são paulo,05304000
+30048,avenida rebouças 381,faculdade de medicina do abc,são paulo,são paulo,05401000
+30049,avenida rebouças 381,faculdade de medicina do abc,são paulo,são paulo,05401000
+30050,avenida doutor enéas de carvalho aguiar 155predio dos ambulatorioshospital dia,hemocentro  fmusp,são paulo,são paulo,05403000
+30051,avenida dr eneas de carvalho aguiar 155,hemocentro  fmusp,são paulo,são paulo,05403000
+30052,avenida eneas de carvalho aguiaroncologia,hospital das clínicas da faculdade de medicina da universidade de são paulo,são paulo,cerqueira césar,05403000
+30053,avenida drive eneas de carvalho aguiar 155 2 andar bloco 11 predio dos ambdo prédio dos ambulatórios 1 andarsão paulo  sp,hospital das clínicas da faculdade de medicina da universidade de são paulo,são paulo,são paulo,05403000
+30054,avenida drive eneas de carvalho aguiar 155 2 andar bloco 11 predio dos amb4 andar  bloco 15,hospital das clínicas da faculdade de medicina da universidade de são paulo,são paulo,são paulo,05403000
+30055,avenida doutor enéas de carvalho aguiar 647instituto da criança,hospital das clínicas da faculdade de medicina de são paulo,são paulo,são paulo,05403000
+30056,avenida doutor enéas de carvalho aguiar 647cerqueira césar,icr  instituto da criança  hcfmusp,são paulo,sao paulo,05403000
+30057,av dr enéas carvalho de aguiar 155  1 andarprédio dos ambulatórios,universidade de sao paulo  hospital das clinicas da faculdade de medicina hcfmusp,sp,são paulo,05403000
+30058,avenida doutor eneas de carvalho aguiar 155 1 andarpredio dos ambulatorioshospital dia,hospital das clínicas da faculdade de medicina da universidade de são paulo,são paulo,são paulo,05403900
+30059,avenida albert einstein 627,hospital israelita albert einstein,são paulo,são paulo,05651901
+30060,avenida albert einstein 627,hospital israelita albert einstein,são paulo,são paulo,05651901
+30061,avenida albert einstein 627701,hospital israelita albert einstein,são paulo,são paulo,05651901
+30062,avenida albert einstein 627701centro de pesquisa clinica2º subsolo,hospital israelita albert einstein,são paulo,são paulo,05651901
+30063,avenida albert einstein 627701,hospital israelita albert einstein,são paulo,são paulo,05651901
+30064,avenida albert einstein 6277012º subsolo bloco a,hospital israelita albert einstein,são paulo,são paulo,05651901
+30065,hospital israelita albert einstein av albert einstein 627 sala 1009 flavio steinwurzcentro de pesquisa clinica2º subsolo,hospital israelita albert einstein,são paulo,são paulo,05651901
+30066,hospital israelita albert einstein av albert einstein 627 sala 1009 flavio steinwurz,hospital israelita albert einstein,são paulo,são paulo,05651901
+30067,hospital israelita albert einstein av albert einstein 627 sala 1009 flavio steinwurz,hospital israelita albert einstein,são paulo,são paulo,05651901
+30068,hospital israelita albert einstein av albert einstein 627 sala 1009 flavio steinwurz,hospital israelita albert einstein,são paulo,são paulo,05651901
+30069,hospital israelita albert einstein av albert einstein 627 sala 1009 flavio steinwurz,hospital israelita albert einstein,são paulo,são paulo,05651901
+30070,hospital israelita albert einstein av albert einstein 627 sala 1009 flavio steinwurz,hospital israelita albert einstein,são paulo,são paulo,05651901
+30071,hospital israelita albert einstein av albert einstein 627 sala 1009 flavio steinwurz,hospital israelita albert einstein,são paulo,são paulo,05651901
+30072,hospital israelita albert einstein av albert einstein 627 sala 1009 flavio steinwurz,hospital israelita albert einstein,são paulo,são paulo,05651901
+30073,avenida albert einstein 627701morumbi,albert einstein sociedade beneficente israelita brasiliera,são paulo,sao paulo,05652000
+30074,avenida albert einstein 627701morumbi,albert einstein sociedade beneficente israelita brasiliera,são paulo,sao paulo,05652000
+30075,avenida albert einstein 627centro de pesquisa clinica2º subsolo,hospital israelita albert einstein,são paulo,são paulo,05652900
+30076,avenida albert einstein 627701  morumbiiiep2º subsolo  bloco a,hospital israelita albert einstein,são paulo,são paulo,05652900
+30077,rua santa marcelina 177itaquera,hospital santa marcelina,sao paulo,sao paulo,08270070
+30078,rua santa marcelina 400,hospital santa marcelina,são paulo,curitiba,08270070
+30079,rua santa marcelina 91itaquera,hospital santa marcelina,são paulo,sao paulo,08270070
+30080,rua santa marcelina 177 itaquera,hospital santa marcelina,são paulo,são paulo,08270070
+30081,rua santa marcelina 177,hospital santa marcelina,são paulo,são paulo,08270270
+30082,rua santa marcelina 177,hospital santa marcelina,são paulo,são paulo,08270270
+30083,rua santa marcelina 177,hospital santa marcelina,são paulo,são paulo,08270270
+30084,rua santa marcelina 177centro de pesquisa clínica,hospital santa marcelina,são paulo,são paulo,08270270
+30085,av principe de gales 821 anexo iii  1º andar,centro de estudos e pesquisas de hematologia e oncologia da faculdade de medicina do abc,são paulo,santo andré,09060650
+30086,avenida príncipe de gales 821anexo iii,centro de estudos e pesquisas em hematologia e oncologia,são paulo,santo andré,09060650
+30087,rua princípe de gales 821,centro de estudos em gastroenterologia professor josé vicente martins campo,são paulo,santo andré,09060650
+30088,rua princípe de gales 821,centro de estudos em gastroenterologia professor josé vicente martins campo,são paulo,santo andré,09060650
+30089,avenida principe de gales 821,centro multidisciplinar de estudos clinicos – cemecfmabc,são paulo,santo andré,09060650
+30090,avenida principe de gales 821,centro multidisciplinar de estudos clinicos – cemecfmabc,são paulo,santo andré,09060650
+30091,avenida principe de gales 821,centro multidisciplinar de estudos clinicos – cemecfmabc,são paulo,santo andré,09060650
+30092,avenida principe de gales 821,centro multidisciplinar de estudos clinicos – cemecfmabc,são paulo,santo andré,09060650
+30093,avenida príncipe de gales 821vila príncipe de gales,faculdade de medicina do abc,santo andré,sao paulo,09060650
+30094,avenida príncipe de gales 821vila príncipe de gales,faculdade de medicina do abc,santo andré,sao paulo,09060650
+30095,av príncipe de gales no 821cepho  centro de estudos e pesquisas de hematologia e oncologia,faculdade de medicina do abc,são paulo,santo andré,09060650
+30096,av príncipe de gales no 821cepho  centro de estudos e pesquisas de hematologia e oncologia,faculdade de medicina do abc,são paulo,santo andré,09060650
+30097,avenida principe de gales 821prédio do cepes,faculdade de medicina do abc,são paulo,santo andré,09060650
+30098,avenida príncipe de gales 821,faculdade de medicina do abc,são paulo,santo andré,09060650
+30099,avenida príncipe de gales 821,faculdade de medicina do abc,são paulo,santo andré,09060650
+30100,rua princípe de gales 821,fundação do abc  faculdade de medicina do abc,são paulo,santo andré,09060650
+30101,rua princípe de gales 821,fundação do abc  faculdade de medicina do abc,são paulo,santo andré,09060650
+30102,rua princípe de gales 821,fundação do abc  faculdade de medicina do abc,são paulo,santo andré,09060650
+30103,rua princípe de gales 821,fundação do abc  faculdade de medicina do abc,são paulo,santo andré,09060650
+30104,av lauro gomes 2000  vila sacaduraprédio cepes,faculdade de medicina do abc,são paulo,santo andré,09060870
+30105,avenida principe de gales 821,faculdade de medicina do abc,são paulo,santo andré,09060870
+30106,avenue lauro gomes 2000 vila sacadura cabralunidade de referência em doenças infecciosas preveníveis  urdip,faculdade de medicina do abc,são paulo,santo andré,09060870
+30107,avenida gilda 106 vila gildarooms 82  83,cemec  centro multidisciplinar de estudos clínicos,são paulo,santo andré,09190510
+30108,rua doutor henrique calderazzo 321 paraíso,faculdade de medicina do abc,são paulo,santo andré,09190610
+30109,rua da beneficiência 7edificio de clínicas 12 andar,cettro  centro de câncer de brasília,distrito federal,lisboa,1050034
+30110,avenida dr cláudio luiz da costa 50jabaquara,irmandade da santa casa da misericórdia de santos,santos,sao paulo,11075900
+30111,avenida dr cláudio luiz da costa 50jabaquara,irmandade da santa casa da misericórdia de santos,santos,sao paulo,11075900
+30112,av conselheiro nébias 7031403,irmandade da santa casa da misericórdia de santos,são paulo,santos,11075900
+30113,av conselheiro nébias 7031403,irmandade da santa casa da misericórdia de santos,são paulo,santos,11075900
+30114,av conselheiro nébias 7031403,irmandade da santa casa da misericórdia de santos,são paulo,santos,11075900
+30115,av conselheiro nébias 7031403,irmandade da santa casa da misericórdia de santos,são paulo,santos,11075900
+30116,av conselheiro nébias 7031403,irmandade da santa casa da misericórdia de santos,são paulo,santos,11075900
+30117,av conselheiro nébias 7031403,irmandade da santa casa da misericórdia de santos,são paulo,santos,11075900
+30118,avenue claudio luiz da costa 50 jabaquara2o andar  ala isala da gastro,irmandade da santa casa da misericórdia de santos,são paulo,santos,11075900
+30119,cidade universitaria zefferino vaz sn barao geraldo,universidade estadual de campinas,são paulo,campinas,13024500
+30120,rua carlos chagas 480cidade universitria profesor zeferino vazdistrito de barao geraldo,hemocentro campinas unicamp,sao paulo,campinas,130383878
+30121,rua 14 bis 71 – castelo,qc prestação serviços médicos sc ltda,são paulo,campinas,13070040
+30122,rua 14 bis 71 – castelo,qc prestação serviços médicos sc ltda,são paulo,campinas,13070040
+30123,rua gabriel porto 1270,boldrinis childrens center,são paulo,são paulo,13083210
+30124,rua carlos chagas 480barrao geraldo,centro de hematologia e hemoterapia do piaui  hemopi,são paulo,campinas,13083878
+30125,rua tesalia vieira de camargo 126prédio hemocentro,unicamp universidade estadual de campinas,são paulo,campinas,13083878
+30126,rua carlos chagas 480cidade universitaria zeferino vaz,universidade estadual de campinas,são paulo,campinas,13083878
+30127,rua alexandre fleming 40 barão geraldo,universidade estadual de campinas,são paulo,campinas,13083881
+30128,rua alexandre fleming 40 barão geraldo,universidade estadual de campinas,são paulo,campinas,13083881
+30129,rua tessália vieira de camargo 126cidade universitária zeferino vaz,hospital das clínicas da faculdade de medicina da unicamp,campinas,sao paulo,13083887
+30130,rua tessália vieira de camargo 126,unicamp universidade estadual de campinas,são paulo,campinas,13083970
+30131,rua tessália vieira de camargo 126,unicamp universidade estadual de campinas,são paulo,campinas,13083970
+30132,rua alexandre fleming 40barão geraldo,universidade estadual de campinas,são paulo,campinas,13083970
+30133,rua carlos chagas 480prédio hemocentro,universidade estadual de campinas,são paulo,campinas,13083970
+30134,rua barão de teffé 594,instituto de oncologia de jundiaí,são paulo,jundiaí,13208761
+30135,rua joao juliao n 245 paraiso,hospital alemão oswaldo cruz,são paulo,são paulo,1323903
+30136,rua tibirica 1172,ceon centro especializado de oncologia,são paulo,ribeirao preto,14010000
+30137,rua bernadino de campos 145centro especializado de oncologia,instituto ribeirãopretano de combate ao câncer,são paulo,ribeirão preto  sp,14015130
+30138,avenida bandeirantes 3900,ribeirão preto school of medicine university of são paulo fmrpusp,são paulo,ribeirao preto,14040030
+30139,campus universitrio sn,hospital das clinicas da faculdade de medicina da riberao preto da universidade de sao paulo,sao paulo,ribeirao preto,14048900
+30140,avenida bandeirantes 39004º andar cirep,hospital das clinicas da faculdade de medicina da usp de ribeirao preto,são paulo,ribeirão preto,14048900
+30141,avenida bandeirantes 3900campus universitário,hospital das clinicas da faculdade de medicina de ribeirão preto  usp,são paulo,ribeirao preto,14048900
+30142,avenida bandeirantes 3900campus universitário,hospital das clinicas da faculdade de medicina de ribeirão preto  usp,são paulo,ribeirao preto,14048900
+30143,avenida bandeirantes 3900unidade de pesquisa clínica,hospital das clinicas da faculdade de medicina de ribeirão preto  usp,são paulo,ribeirão preto,14048900
+30144,avenida bandeirantes 3900,hospital das clinicas da faculdade de medicina de ribeirão preto  usp,são paulo,ribeirão preto,14048900
+30145,avenida bandeirantes 3900unidade de pesquisa clínicabloco g subsolo ii,hospital das clinicas da faculdade de medicina de ribeirão preto  usp,são paulo,ribeirão preto,14048900
+30146,avenida bandeirantes 3900unidade de pesquisa clínica,hospital das clinicas da faculdade de medicina de ribeirão preto  usp,são paulo,ribeirão preto,14048900
+30147,campus universitario sn – monte alegrecampus universitário monte alegre,hospital das clínicas fmrpusp,ribeirão preto,sao paulo,14048900
+30148,campus universitario sn – monte alegre,hospital das clínicas fmrpusp,ribeirão preto,sao paulo,14048900
+30149,rua tenente catão roxo 2701  monte alegre  campus universitáriobloco 3 subsolo,hospital das clinicas da faculdade de medicina de ribeirão preto  usp,são paulo,ribeirão preto,14051140
+30150,rua abrahão issa halach 980,faculdade de medicina centro universitário estácio de ribeirão preto,são paulo,ribeirão preto,14096160
+30151,rua 20 221pavilhão edson  hudson2º andar,fundação pio xii,são paulo,barretos,14780070
+30152,rua antenor duarte vilela 1331pavilhão edson  hudson2º andar,fundação pio xii,são paulo,barretos,14784400
+30153,rua antenor duarte villela 1331oncologia clínica,fundação pio xii,são paulo,barretos,14784400
+30154,rua antenor duarte villela 1331pavilhão edson  hudson2º andar,fundação pio xii,são paulo,barretos,14784400
+30155,cancer de barretos r antenor duarte villela 1331doutor paulo pratabarretos  sp,fundação pio xii hospital de câncer de barretos,são paulo,barretos,14784400
+30156,rua antenor duarte vilela 1331doutor paulo pratabarretos  sp,fundação pio xii hospital de câncer de barretos,são paulo,barretos,14784400
+30157,rua antenor duarte vilela 1331,fundação pio xii hospital de câncer de barretos,são paulo,barretos,14784400
+30158,rua antenor duarte villela 1331,fundação pio xii hospital de câncer de barretos,são paulo,barretos,14784400
+30159,rua antenor duarte vilela 1331,hospital de cancer de barretos,sao paulo,barretos,14784400
+30160,cancer de barretos r antenor duarte villela 1331doutor paulo pratabarretos  sp,hospital de câncer de barretos,são paulo,barretos,14784400
+30161,cancer de barretos r antenor duarte villela 1331,hospital de câncer de barretos,são paulo,barretos,14784400
+30162,rua antenor duarte villela 1331bairro dr paulo prata,hospital de câncer de barretos  fundação pio xii,barretos,sao paulo,14784400
+30163,rua xv de novembro 3975redentora,kaiser hospital dia,são paulo,são josé do rio preto,15015110
+30164,rua xv de novembro 3975redentora,kaiser hospital dia,são paulo,são josé do rio preto,15015110
+30165,rua xv de novembro 3975redentora,kaiser hospital dia,são paulo,são josé do rio preto,15015110
+30166,rua xv de novembro 3975redentora,kaiser hospital dia,são paulo,são josé do rio preto,15015110
+30167,rua xv de novembro 3975redentora,kaiser hospital dia,são paulo,são josé do rio preto,15015110
+30168,rua xv de novembro 3975redentora,kaiser hospital dia,são paulo,são josé do rio preto,15015110
+30169,rua xv de novembro 3975redentora,kaiser hospital dia,são paulo,são josé do rio preto,15015110
+30170,av brigadeiro faria lima2º andar centro integrado de pesquisa,fundação faculdade regional de medicina de são josé  do rio preto,sao jose do rio preto,sao paulo,15090000
+30171,avenida brigadeiro faria nbsp lima 5544 2º andarvila sao pedro,fundação faculdade regional de medicina de são josé  do rio preto,são josé do rio preto,sao paulo,15090000
+30172,avenida brigadeiro faria nbsp lima 5544 2º andarvila sao pedro,fundação faculdade regional de medicina de são josé  do rio preto,são josé do rio preto,sao paulo,15090000
+30173,avenida brigadeiro faria lima 5546vila são josé,fundação faculdade regional de medicina de são josé do rio preto,são paulo,são josé do rio preto,15090000
+30174,avenue brigadeiro faria lima 55442º andar,hospital de base da faculdade de medicina de são josé do rio preto,são paulo,são josé do rio preto,15090000
+30175,avenue brigadeiro faria lima 55442º andar,hospital de base da famerp,são paulo,são josé do rio preto,15090000
+30176,rua das palmeiras 122,hospital amaral carvalho,são paulo,jau,17201340
+30177,rua dona silvria 150,fundacao doutor amaral carvalho,sao paulo,jau,17210080
+30178,rua dona silvéria 150,hospital amaral carvalho,são paulo,jaú,17210080
+30179,rua dona silvéria 150,hospital amaral carvalho,são paulo,jaú,17210080
+30180,rua dona silveria 150,hospital amaral carvalho,são paulo,jaú,17210080
+30181,rua dona silveria 150,hospital amaral carvalho,são paulo,jaú,17210080
+30182,rua dona silvéria 150,fundação doutor amaral carvalho,jaú,sao paulo,17210120
+30183,rua das palmeiras 122,hospital amaral carvalho,são paulo,jaú,17210120
+30184,rua cônego januário barbosa 238,centro de estudos e pesquisas oncológicas de sorocaba ltda,são paulo,sorocaba,18030075
+30185,rua cônego januário barbosa 238,instituto de oncologia de sorocaba,são paulo,sorocaba,18030075
+30186,rua dos andradas 23,centro de estudos e pesquisas oncológicas de sorocaba ltda,são paulo,sorocaba,18030510
+30187,avenida são francisco 78 jardim santa rosália,clínica são francisco,são paulo,sorocaba,18095450
+30188,avenida são francisco 78 jardim santa rosália,clínica são francisco,são paulo,sorocaba,18095450
+30189,distrito de rubião junior sn,unesp  faculdade de medicina da universidade estadual paulista  campus botucatu,botucatu,sao paulo,18618970
+30190,distrito de rubião junior sn,unesp  faculdade de medicina da universidade estadual paulista  campus botucatu,botucatu,sao paulo,18618970
+30191,avenida bento lopesjardim santo inácio rubião juniorsão paulo  sp,universidade estadual paulista julio de mesquita filho faculdade de medicina campus de botucatu,são paulo,botucatu,18618970
+30192,avenida bento lopesjardim santo inácio rubião juniorsão paulo  sp,universidade estadual paulista julio de mesquita filho faculdade de medicina campus de botucatu,são paulo,botucatu,18618970
+30193,rua santa luzia 206 14a enfermaria  urologia castelo,santa casa de misericórdia do rio de janeiro,rio de janeiro,rio de janeiro,20020020
+30194,rua santa luzia 206 14a enfermaria  urologia castelo,santa casa de misericórdia do rio de janeiro,rio de janeiro,rio de janeiro,20020020
+30195,rua frei caneca 08,hemorio  unidade de pesquisa clínica,rio de janeiro,rio de janeiro,20211030
+30196,rua frei caneca 08sala 316,hemorio  unidade de pesquisa clínica,rio de janeiro,rio de janeiro,20211030
+30197,rua frei caneca 08,hemorio  unidade de pesquisa clínica,rio de janeiro,rio de janeiro,20211030
+30198,rua frei caneca 08centro,hemorio instituto estadual de hematologia,rio de janeiro,rio de janeiro,20211030
+30199,praça da cruz vermelha 23centro,inca  instituto nacional de câncer,rio de janeiro,rio do janeiro,20230130
+30200,rua andré cavalcante numero 37 centro,instituto nacional de câncer,rio de janeiro,rio de janeiro,20231050
+30201,rua andré cavalcante numero 37 centro6° andar prédio anexo,instituto nacional de câncer,rio de janeiro,rio de janeiro,20231050
+30202,rua andre cavalcanti 37,instituto nacional de câncer,rio de janeiro,rio de janeiro,20231050
+30203,rua andre cavalcanti 37 centro,instituto nacional de cancer inca,rio de janeiro,rio de janeiro,20231050
+30204,rua mariz e barros 775tijuca,hugg  hospital universitário gaffrée e guinle,rio de janeiro,rio do janeiro,20270004
+30205,rua mariz e barros 775tijuca,hugg  hospital universitário gaffrée e guinle,rio de janeiro,rio do janeiro,20270004
+30206,praca da cruz vermelha 23ambulatorio de oncologia clinica,inca instituto nacional de cancer,rio de janeiro,rio de janeiro,2030051
+30207,avenida 28 de setembro 77departamento de cardiologia2° andar,hospital universitário pedro ernesto,rio de janeiro,rio de janeiro,20551030
+30208,avenida 28 de setembro 77departamento de cardiologia2° andar,hospital universitário pedro ernesto,rio de janeiro,rio de janeiro,20551030
+30209,rua voluntários da pátria 455 sala 1410,universidade federal do rio de janeiro hospital universitário clementino fraga filho,rio de janeiro,rio de janeiro,21941590
+30210,rua voluntários da pátria 455 sala 1410,universidade federal do rio de janeiro hospital universitário clementino fraga filho,rio de janeiro,rio de janeiro,21941590
+30211,rua professor rodolpho paulo rocco 255,hospital universitário clementino fraga filho ufrj,rio de janeiro,rio de janeiro,21941913
+30212,rua professor rodolpho paulo rocco 255servico de hematologia,hospital universitário clementino fraga filho ufrj,rio de janeiro,rio de janeiro,21941913
+30213,rua rodolpho paulo roco 255cidade universitária  ilha do fundão,hucffufrj  hospital universitário clementino fraga filho  universidade federal do rio de janeiro,rio de janeiro,rio do janeiro,21941913
+30214,rua rodolpho paulo roco 255cidade universitária  ilha do fundão,hucffufrj  hospital universitário clementino fraga filho  universidade federal do rio de janeiro,rio de janeiro,rio do janeiro,21941913
+30215,rua professor rodolpho paulo rocco 255,universidade federal do rio de janeiro  ufrj,rio de janeiro,rio de janeiro,21941913
+30216,rua professor rodolpho paulo rocco 255,universidade federal do rio de janeiro  ufrj,rio de janeiro,rio de janeiro,21941913
+30217,rua professor rodolpho paulo rocco 255servico de hematologia,universidade federal do rio de janeiro  ufrj,rio de janeiro,rio de janeiro,21941913
+30218,rua professor rodolpho paulo rocco 255servico de hematologia,universidade federal do rio de janeiro  ufrj,rio de janeiro,rio de janeiro,21941913
+30219,avenida rui barbosa 716departamento de geneticabloco c,instituto fernandes figueira,rio de janeiro,rio de janeiro,22250020
+30220,praia botafogo 300 4° andarbotafogorio de janeiro  rj,centro de tratamento de tumores botafogo – cttb,rio de janeiro,rio de janeiro,22250040
+30221,rua voluntários da pátria 455 sala 1410,universidade federal do rio de janeiro hospital universitário clementino fraga filho,rio de janeiro,rio de janeiro,22270000
+30222,rua voluntários da pátria 455 sala 1410,universidade federal do rio de janeiro hospital universitário clementino fraga filho,rio de janeiro,rio de janeiro,22270000
+30223,rua voluntários da pátria 455 sala 1410,universidade federal do rio de janeiro hospital universitário clementino fraga filho,rio de janeiro,rio de janeiro,22270000
+30224,rua voluntários da pátria 455 sala 1410,universidade federal do rio de janeiro hospital universitário clementino fraga filho,rio de janeiro,rio de janeiro,22270000
+30225,rua voluntários da pátria 455 sala 1410,universidade federal do rio de janeiro hospital universitário clementino fraga filho,rio de janeiro,rio de janeiro,22270000
+30226,rua mena barreto 33botafogo,bioclinica rio  ppds,rio de janeiro,rio de janeiro,22271100
+30227,rua mena barreto 33botafogo,bioclinica rio  ppds,rio de janeiro,rio de janeiro,22271100
+30228,rua mena barreto 33departamento de cardiologia2° andar,ccbr brasil,rio de janeiro,rio de janeiro,22271100
+30229,rua mena barreto 33departamento de cardiologia2° andar,ccbr brasil,rio de janeiro,rio de janeiro,22271100
+30230,rua mena barreto 33departamento de cardiologia2° andar,ccbr brasil,rio de janeiro,rio de janeiro,22271100
+30231,rua mena barreto 33departamento de cardiologia2° andar,ccbr brasil,rio de janeiro,rio de janeiro,22271100
+30232,avenida armando lombardi 1000  barra da tijucasala 230 bloco 1,associação centro de estudos oncoclínica ceo,rio de janeiro,rio de janeiro,22640000
+30233,rua marquês de paraná 303  4º andarcentro,huap  uff  hospital universitario antonio pedro  universidade federal fluminense,niterói,rio do janeiro,24033900
+30234,rua marquês de paraná 303  4º andarcentro,huap  uff  hospital universitario antonio pedro  universidade federal fluminense,niterói,rio do janeiro,24033900
+30235,avenida presidente itamar franco 4001sala 803  torre lestecascatinha,eurolatino juiz de fora pesquisas medicas,minas gerais,juiz de fora,26033318
+30236,avenida marechal campos 1468nucleo de doenças infecciosas cbm,universidade federal do espirito santo – hospital universitário cassiano antônio de moraes – hucam,espírito santo,vitoria,29040091
+30237,rua joão da silva abreu 78  praia do canto pesquisa clínica,cedoes diagnóstico e pesquisa,espírito santo,vitória,29055450
+30238,rua joão da silva abreu 78  praia do canto pesquisa clínica,cedoes diagnóstico e pesquisa,espírito santo,vitória,29055450
+30239,rua joão da silva abreu 78  praia do canto pesquisa clínica,cedoes diagnóstico e pesquisa,espírito santo,vitória,29055450
+30240,rua joão da silva abreu 78  praia do canto pesquisa clínica,cedoes diagnóstico e pesquisa,espírito santo,vitória,29055450
+30241,rua joão da silva abreu 78  praia do canto pesquisa clínica,cedoes diagnóstico e pesquisa,espírito santo,vitória,29055450
+30242,rua joão da silva abreu 78  praia do canto pesquisa clínica,cedoes diagnóstico e pesquisa,espírito santo,vitória,29055450
+30243,rua joão da silva abreu 78  praia do canto pesquisa clínica,cedoes diagnóstico e pesquisa,espírito santo,vitória,29055450
+30244,rua padre rolim 120 santaefigênia,cenantron centro avançado de tratamento oncológico ltda,minas gerais,belo horizonte,30130090
+30245,av professor alfredo balena 110ala leste,hospital das clinicas da ufmg,minas gerais,belo horizonte,30130100
+30246,avenida prof alfredo balena 110216,hospital das clinicas da ufmg,minas gerais,belo horizonte,30130100
+30247,avenida alfredo balena 190 departamento de doencas infecciosas east parasitariascentrobelo horizonte  mg,hospital das clinicas da universidade federal de minas gerais,minas gerais,belo horizonte,30130100
+30248,avenida prof alfredo balena 110,hospital das clinicas da universidade federal de minas gerais,minas gerais,belo horizonte,30130100
+30249,avenue alfredo balena 110serviço de hematologia ambulatório borges da costa,hospital das clinicas da universidade federal de minas gerais,minas gerais,belo horizonte,30130100
+30250,rua alfredo balena 110 2o andar sala 216,hospital das clinicas da universidade federal de minas gerais,minas gerais,belo horizonte,30130100
+30251,av alfredo balena no 110centro de pesquisas do hospital,universidade federal de minas gerais,minas gerais,belo horizonte,30130100
+30252,avenida francisco sales 1111,santa casa de misericordia de belo horizonte,minas gerais,belo horizonte,30150221
+30253,avenida francisco sales 1111,santa casa de misericordia de belo horizonte,minas gerais,belo horizonte,30150221
+30254,avenida francisco sales 1111,santa casa de misericordia de belo horizonte,minas gerais,belo horizonte,30150221
+30255,avenida francisco sales 1111,santa casa de misericordia de belo horizonte,minas gerais,belo horizonte,30150221
+30256,avenida francisco sales 1111,santa casa de misericordia de belo horizonte,minas gerais,belo horizonte,30150221
+30257,avenida francisco sales 1111santa efigênia,santa casa de misericórdia de belo horizonte,belo horizonte,minas gerais,30150221
+30258,rua otoni numero 881 15º andar,hematologica clinica de diagnostico e tratamento de doencas do sangue,minas gerais,belo horizonte,30150270
+30259,rua otoni 881 15 andarsanta efigêniadas clínicas da ufmg,hematologica clinica de diagnostico e tratamento de doencas do sangue,minas gerais,belo horizonte,30150270
+30260,rua otoni 881 15 andarsanta efigêniabelo horizonte  mg,hematologica clinica de diagnostico e tratamento de doencas do sangue,minas gerais,belo horizonte,30150270
+30261,avenida bernardo monteiro 918,hospital das clinicas da universidade federal de minas gerais,minas gerais,belo horizonte,30150281
+30262,avenida bernardo monteiro 918,trymed biocancer centro de pesquisa clinica,minas gerais,belo horizonte,30150281
+30263,avenida bernardo monteiro 918santa efigênia,trymed biocancer centro de pesquisa clinica,minas gerais,belo horizonte,30150281
+30264,rua gentios nº 1350,instituto mario penna,minas gerais,belo horizonte,30380472
+30265,avenida presidente itamar franco 4001  803torre leste cascatinha,eurolatino juiz de fora pesquisas medicas ltda,minas gerais,juiz de fora,36033318
+30266,avenida presidente itamar franco 4001  803torre leste cascatinha,eurolatino juiz de fora pesquisas medicas ltda,minas gerais,juiz de fora,36033318
+30267,avenida presidente itamar franco 4001  803torre leste cascatinha,eurolatino juiz de fora pesquisas medicas ltda,minas gerais,juiz de fora,36033318
+30268,rua heitor guimarãesvitorino braga,universidade federal de juiz de fora,minas gerais,juiz de fora,36060210
+30269,avenida anselmo alves dos santos 900segismundo pereirauberlândia  mg,centro oncológico do triângulo ltda,minas gerais,uberlândia,38408150
+30270,praça conselheiro almeida couto 500serviço de oncologia adulto,santa casa de misericórdia da bahia,bahia,salvador,40050410
+30271,rua augusto viana snserviço de genética médica3º andar,universidade federal da bahia hospital universitário professor edgard santos,bahia,salvador,40110060
+30272,rua augusto viana snserviço de genética médica3º andar,universidade federal da bahia hospital universitário professor edgard santos,bahia,salvador,40110060
+30273,avenida araújo pinho 439,cehon  centro de hematologia e oncologia da bahia ltda,bahia,salvador,40110150
+30274,avenida araújo pinho 439,cehon  centro de hematologia e oncologia da bahia ltda,bahia,salvador,40110150
+30275,avenida araújo pinho 439,cehon  centro de hematologia e oncologia da bahia ltda,bahia,salvador,40110150
+30276,avenida araújo pinho 439,cehon  centro de hematologia e oncologia da bahia ltda,bahia,salvador,40110150
+30277,rua augusto viana sn canela3ºandar,hospital universitario prof edgar santos,bahia,salvador,40110160
+30278,rua augusto viana sn canela3ºandar,hospital universitario prof edgar santos,bahia,salvador,40110160
+30279,avenida adhemar de barros 123 edf gildete lessaondina,nucleo de oncologia da bahia,bahia,salvador,40170110
+30280,avenida garibaldi 2229loja 2,hospital jorge valente,bahia,bahia,40170130
+30281,avenida d joão vi 332 brotascentro médico iguatemisuites 409410,hospital aristides maltez liga bahiana contra o câncer,bahia,salvador,40285001
+30282,avenida bonfim 161centro de pesquisa clínica,associação obras sociais irmã dulce hospital santo antônio,bahia,salvador,40420000
+30283,avenida sao rafael 2152,hospital sao rafaelmonte tabor,bahia,salvador,41253
+30284,av sao rafael 2152 03 subsolo,hospital sao rafael,bahia,salvador,41253190
+30285,avenida sao rafael 2152,hospital são rafael,bahia,salvador,41253190
+30286,avenida são rafael 2152departamento de neurologia3ºandar,hospital são rafael,bahia,salvador,41253190
+30287,avenida são rafael 2152departamento de neurologia3ºandar,hospital são rafael,bahia,salvador,41253190
+30288,avenida são rafael 2152departamento de neurologia3ºandar,hospital são rafael,bahia,salvador,41253190
+30289,avenida são rafael 2152departamento de neurologia,hospital são rafael,bahia,salvador,41253190
+30290,avenida são rafael 21526º andar,hospital são rafael,bahia,salvador,41253190
+30291,avenida são rafael 2152departamento de neurologia3ºandar,hospital são rafael,bahia,salvador,41253190
+30292,avenida são rafael 2152canelasalvador  ba,hospital são rafael,bahia,salvador,41253190
+30293,avenida são rafael 21523ºandar,hospital são rafael,bahia,salvador,41253190
+30294,avenida são rafael 2152 6º andarsão marcos,hospital são rafael sa,salvador,bahia,41253190
+30295,rua conselheiro pedro luiz 189 rio vermelho,clinica amo,bahia,salvador,41950610
+30296,rua dos coelhos 300boa vista,imip  instituto de medicina integral professor fernando figueira,recife,pernambuco,50070550
+30297,avenue governador agamenon magalhães 4760  paissandu,instituto de ensino e pesquisa alberto ferreira da costa,pernambuco,recife,52010040
+30298,avenida dr eneas de carvalho aguiar 155,hospital das clínicas da faculdade de medicina da universidade de são paulo,são paulo,são paulo,5403000
+30299,avenida dr eneas de carvalho aguiar 155,hospital das clínicas da faculdade de medicina da universidade de são paulo,são paulo,são paulo,5403000
+30300,avenida dr eneas de carvalho aguiar 155,hospital de base da faculdade de medicina de são josé do rio preto,são paulo,são paulo,5403000
+30301,rua doutor jorge de lima 113 trapiche da barra,hospital universitario uncisal,alagoas,maceió,57010382
+30302,rua ponciano barbosa 282,centro de pesquisas clínicas de natal,rio grande do norte,natal,59025050
+30303,avenida miguel castro 1355 dixsept rosado,liga norte riograndense contra o cancer,rio grande do norte,natal,59040150
+30304,avenida miguel castro 1355dixtsept rosado 1355natal  rn,liga norte riograndense contra o cancer,rio grande do norte,natal,59075740
+30305,avenida miguel castro 1355,liga norte riograndense contra o cancer,rio grande do norte,natal,59075740
+30306,avenida miguel castro 1355cecan,liga norte riograndense contra o cancer,rio grande do norte,natal,59075740
+30307,rua capitão franciscon pedro sn,hospital unversitario walter cantidio,ceará,fortaleza,60430370
+30308,avenida dom lus 12337 andar  sala 710meireles,instituto de estudos e pesquisas clinicas do ceara,ceara,fortaleza,60160230
+30309,rua manoel jesuino 974 varjota,hospital unversitario walter cantidio,ceará,fortaleza,60175270
+30310,rua tertuliano sales 544 village union clinical research unit federal university of ceara,hospital infantil albert sabin,ceará,fortaleza,60410790
+30311,rua papi junior 12224º andarrodolfo teófilo,instituto do câncer do ceará icc,ceará,fortaleza,60430230
+30312,rua papi junior 1222,instituto do câncer do ceará icc,ceará,fortaleza,60430230
+30313,rua papi júnior 1222 4° andarpesquisa clínica4 andar,instituto do câncer do ceará icc,ceará,fostaleza,60430230
+30314,rua capitão francisco pedro 1290rodolfo teófilofortaleza  ce,hospital unversitario walter cantidio,ceará,fortaleza,60430370
+30315,rua capito francisco pedro 1290unidade de pesquisa clnica,hospital universitario walter cantidio  universidade federal do ceara,ceara,fortaleza,60430380
+30316,rua atilano de moura 530 guararapes,suporte nutricional e quimioterapia ltda  pronutrir,ceará,fortaleza,60810180
+30317,rua olavo bilac 2300,associação piauiense de combate ao câncer,piauí,teresina,64001160
+30318,rua olavo bilac 2300,hospital são marcos,piauí,teresina,64001160
+30319,rua olavo bilac 2300,hospital são marcos,piauí,teresina,64001160
+30320,rua olavo bilac 2300,hospital são marcos,piauí,teresina,64001160
+30321,rua olavo bilac 2300,hospital são marcos,piauí,teresina,64001160
+30322,rua olavo bilac 2300,hospital são marcos,piauí,teresina,64001160
+30323,rua olavo bilac 2300,hospital são marcos,piauí,teresina,64001160
+30324,rua olavo bilac 2300,hospital são marcos,piauí,teresina,64001160
+30325,rua dos mundurucus 4487guam  consultrio 02 east 031 andar,hospital universitario joao de barros barreto,para,belem,66073005
+30326,quadra sgas 613 614lot 95 conj easa sul,hospital sírio libanês – brasília,distrito federal,brasília,70200730
+30327,sgas 613614 lote 95 l2centro medicohospitalar 210,bioclinica brasília  ppds,distrito federal,brasilia,70200740
+30328,sgas 613conjunto ehospitalar 210,l2 ip  instituto de pesquisas clinicas ltda  me,distrito federal,brasília,70306000
+30329,sgas 613conjunto ehospitalar 210,l2 ip  instituto de pesquisas clinicas ltda  me,distrito federal,brasília,70306000
+30330,sgas 613conjunto ehospitalar 210,l2 ip  instituto de pesquisas clinicas ltda  me,distrito federal,brasília,70306000
+30331,sgas 613conjunto ehospitalar 210,l2 ip  instituto de pesquisas clinicas ltda  me,distrito federal,brasília,70306000
+30332,sgas 613conjunto ehospitalar 210,l2 ip  instituto de pesquisas clinicas ltda  me,distrito federal,brasília,70306000
+30333,hepatologia squares 111 bloco d asa suledificio de clínicas 12 andar,hospital de base do df universidade católica de brasília,distrito federal,brasilia,70374040
+30334,área especial 01 e 17setor esector c norte,hospital santa marta,distrito federal,brasília,72025110
+30335,rua qna 15 lote 15,instituto do câncer brasil,distrito federal,taguatinga,72100150
+30336,lote 07cettro centro de câncer de brasília,hospital de base do df universidade católica de brasília,distrito federal,brasília,72115610
+30337,rua 9b com avenue b n° 129 setor oeste sala 804 8° andar centro médico saulo lopes de moraes,hospital geral de goiânia,goiás,goiânia,74110120
+30338,rua 9b com avenue b n° 129 setor oeste sala 804 8° andar centro médico saulo lopes de moraes,hospital geral de goiânia,goiás,goiânia,74110120
+30339,rua 246 25coimbra,instituto goiano de gastroenterologia e endoscopia digestiva ltda,goiânia,goiás,74535170
+30340,rua 246 25coimbra,instituto goiano de gastroenterologia e endoscopia digestiva ltda,goiânia,goiás,74535170
+30341,rua 246 número 25 setor coimbra,instituto goiano de gastroenterologia e endoscopia digestiva ltda,goiás,goiânia,74535170
+30342,rua 246 número 25 setor coimbra,instituto goiano de gastroenterologia e endoscopia digestiva ltda,goiás,goiânia,74535170
+30343,rua 246 número 25 setor coimbra,instituto goiano de gastroenterologia e endoscopia digestiva ltda,goiás,goiânia,74535170
+30344,rua 246 número 25 setor coimbra,instituto goiano de gastroenterologia e endoscopia digestiva ltda,goiás,goiânia,74535170
+30345,rua 246 número 25 setor coimbra,instituto goiano de gastroenterologia e endoscopia digestiva ltda,goiás,goiânia,74535170
+30346,rua 246 número 25 setor coimbra,instituto goiano de gastroenterologia e endoscopia digestiva ltda,goiás,goiânia,74535170
+30347,rua 246 número 25 setor coimbra,instituto goiano de gastroenterologia e endoscopia digestiva ltda,goiás,goiânia,74535170
+30348,setor leste universitario 1avenida sn,universidade federal de goias,goiás,goiania,74605
+30349,primeira avenida 545setor universitario,hospital das clínicas da universidade federal de goiás,goiás,goiania,74605020
+30350,primeira avenida 545setor leste universitário,hospital das clínicas da universidade federal de goiás,goiás,goiânia,74605020
+30351,1 avenida snsetor leste universitário,hospital das clinicas de goiânia,goiás,goiânia,74605020
+30352,avenida primeira sn bloco adepartamento de pediatria,hospital das clínicas da universidade federal de goiás,goiás,goiânia,74605050
+30353,primeira avenida sn,hospital das clínicas da universidade federal de goiás,goiás,goiânia,74605050
+30354,rua 239 181setor universitário,hospital araujo jorge,goiás,goiania  go,74605070
+30355,alameda das espatodias qd 44 lt 9setor leste universitário,hospital das clinicas de goiânia,goiás,goiania,74680160
+30356,alameda das espatodias qd 44 lt 9setor leste universitário,hospital das clinicas de goiânia,goiás,goiania,74680160
+30357,avenida senador filinto muller 355cidade universitária,universidade federal de mato grosso do sul,mato grosso do sul,campo grandems,79080190
+30358,rua general carneiro 181 11 andar sala 1141,hospital de clínicas da universidade federal do paraná,paraná,curitiba,80060900
+30359,rua general carneiro 181alto da glóriacuritiba  pr,hospital de clínicas ufpr,paraná,curitiba,80060900
+30360,alameda dr carlos de carvalho 655 sala 603,cdc  centro digestivo de curitiba,paraná,curitiba,80430180
+30361,alameda dr carlos de carvalho 655 sala 603,cdc  centro digestivo de curitiba,paraná,curitiba,80430180
+30362,alameda dr carlos de carvalho 655 sala 603,cdc  centro digestivo de curitiba,paraná,curitiba,80430180
+30363,alameda dr carlos de carvalho 655 sala 603,cdc  centro digestivo de curitiba,paraná,curitiba,80430180
+30364,alameda dr carlos de carvalho 655 sala 603,cdc  centro digestivo de curitiba,paraná,curitiba,80430180
+30365,alameda dr carlos de carvalho 655 sala 603,cdc  centro digestivo de curitiba,paraná,curitiba,80430180
+30366,alameda dr carlos de carvalho 655 sala 603,cdc  centro digestivo de curitiba,paraná,curitiba,80430180
+30367,rua myltho anselmo da silva 870,instituto do cancer e transplante de curitiba,parana,curitiba,80510130
+30368,rua mates leme 2631b centro cívico centro de pesquisa,instituto de oncologia do paraná,paraná,curitiba,80530010
+30369,rua mateus leme 2631b,instituto de oncologia do paraná,paraná,curitiba,80530010
+30370,rua mateus leme 2631bcentro de pesquisa,instituto de oncologia do paraná,paraná,curitiba,80530010
+30371,rua mateus leme 2626b  bairro centro cívico,instituto de oncologia do paraná,paraná,curitiba,80530010
+30372,rua mateus leme 2631 b centro cívico,instituto de oncologia do paraná,paraná,curitiba,80530010
+30373,rua jeremias maciel perretto 300,instituto de neurologia de curitiba  hospital ecoville,curitiba,paraná,81210310
+30374,rua jeremias maciel perretto 300,instituto de neurologia de curitiba  hospital ecoville,curitiba,paraná,81210310
+30375,rua doctor ovande do amaral 201jardim das amricas,hospital erasto gaertner,parana,curitiba,81520060
+30376,rua doutor ovande do amaral 201jardim das américas,hospital erasto gaertner  liga paranaense de combate ao câncer,curitiba,paraná,81520060
+30377,jardim das americas,hospital erasto gaertner liga paranaense de combate ao cã¢ncer,parana,curitiba,81520060
+30378,rua doutor ovande do amaral 201liga paranaense de combate ao cancerjardim das américas,liga paranaense de combate ao cancer  hospital erasto gaertner,paraná,curitiba,81520060
+30379,rua doutor ovande do amaral 201,liga paranaense de combate ao cancer  hospital erasto gaertner,paraná,curitiba,81520060
+30380,rua doutor ovande do amaral 201,liga paranaense de combate ao cancer  hospital erasto gaertner,paraná,curitiba,81520060
+30381,rua doutor ovande do amaral 201,liga paranaense de combate ao cancer  hospital erasto gaertner,paraná,curitiba,81520060
+30382,rua doutor ovande do amaral 201,liga paranaense de combate ao cancer  hospital erasto gaertner,paraná,curitiba,81520060
+30383,rua doutor ovande do amaral 201,liga paranaense de combate ao cancer  hospital erasto gaertner,paraná,curitiba,81520060
+30384,rua dr ovande do amaral 201,liga paranaense de combate ao cancer  hospital erasto gaertner,paraná,curitiba,81520060
+30385,rua ovande do amaral 201,liga paranaense de combate ao cancer  hospital erasto gaertner,paraná,curitiba,81520060
+30386,lucilla ballalai 212  ld petropolis unidade de pesquisa clinica,instituto do cancer delondrina,paraná,londrina,86 015 520
+30387,rua julio estrela moreira 550bairro canaa,n3 clinica de neurologia neurocirurgia e neuropediatria de londrina ltda,londrina,paraná,86015070
+30388,avenida adhemar pereira de barros 679,proonco centro de tratamento oncológico,paraná,londrina,86050190
+30389,rua menino deus 63 salas 507508,instituto de medicina do sistema digestivo ilha de santa catarina,santa catarina,santa catarina,88020210
+30390,rua menino deus 63 salas 507508,instituto de medicina do sistema digestivo ilha de santa catarina,santa catarina,santa catarina,88020210
+30391,rua menino deus 63 salas 507508,instituto de medicina do sistema digestivo ilha de santa catarina,santa catarina,santa catarina,88020210
+30392,rua menino deus 63 salas 507508,instituto de medicina do sistema digestivo ilha de santa catarina,santa catarina,santa catarina,88020210
+30393,rua menino deus 63 salas 507508,instituto de medicina do sistema digestivo ilha de santa catarina,santa catarina,santa catarina,88020210
+30394,rua menino deus 63 salas 507508,instituto de medicina do sistema digestivo ilha de santa catarina,santa catarina,santa catarina,88020210
+30395,rua menino deus 63 salas 507508,instituto de medicina do sistema digestivo ilha de santa catarina,santa catarina,santa catarina,88020210
+30396,rodovia admar gonzaga 655  sc 404  km 05,centro de pesquisas oncológicas,santa catarina,florianópolis,88034000
+30397,rodovia admar gonzaga 655  sc 404  km 05,centro de pesquisas oncológicas,santa catarina,florianópolis,88034000
+30398,rodovia admar gonzaga 655  sc 404  km 05,centro de pesquisas oncológicas,santa catarina,florianópolis,88034000
+30399,rodovia admar gonzaga 655,centro de pesquisas oncológicas,santa catarina,florianopolis,88034000
+30400,rodovia admar gonzaga 655,centro de pesquisas oncológicas,santa catarina,florianópolis,88034000
+30401,rodovia admar gonzaga 655itacorubiflorianópolis  sc,centro de pesquisas oncológicas,santa catarina,florianópolis,88034000
+30402,rodovia admar gonzaga 655  itacorubi,centro de pesquisas oncológicas,santa catarina,florianópolis,88034000
+30403,rodovia admar gonzaga 6551ª andar,centro de pesquisas oncológicas,santa catarina,florianópolis,88034000
+30404,rua aderbal ramos da silvaoncologia 148itajaí  sc,clinica de neoplasias litoral,santa catarina,itajaí,88301220
+30405,90 sebastiao cruzcentro de pesquisas,clinica de oncologia reichow,santa catarina,blumenau,89010340
+30406,rua alexandre dohler 129,instituto joinvilense de hematologia e oncologia,santa catarina,joinville,89201260
+30407,rua alexandre dohler 129,instituto joinvilense de hematologia e oncologia,santa catarina,joinville,89201260
+30408,rua alexandre dohler 129 conjunto 706,instituto joinvilense de hematologia e oncologia,santa catarina,joinville,89201260
+30409,rua alexandre doehler 129 conjunto 706,instituto joinvilense de hematologia e oncologia,santa catarina,joinville,89201260
+30410,rua alexandre doehler 129 conjunto 706sala 1005,instituto joinvilense de hematologia e oncologia,santa catarina,joinville,89201260
+30411,rua alexandre dohler129  sala 1003centro medico uniao  centro,instituto joinvilense de hematologia e oncologia,santa catarina,joinville,89201260
+30412,rua placido gomes 500parte anita garibaldi de joinvillecepeville,centro de pesquisas clínicas de joinville cepeville,santa catarina,joinville,89202050
+30413,rua placido gomes 500parte anita garibaldi de joinvillecepeville,centro de pesquisas clínicas de joinville cepeville,santa catarina,joinville,89202050
+30414,rua plácido gomes 488sala 1005,hospital municipal são josé,santa catarina,joinville,89202050
+30415,rua professor annes dias 285,irmandade da santa casa de misericordia de porto alegre,rio grande do sul,porto alegre,90020090
+30416,ramiro barcelos 910,hospital moinhos de vento,rio grande do sul,porto alegre,90035001
+30417,rua ramiro barcelos 910,hospital moinhos de vento,rio grande do sul,porto alegre,90035001
+30418,rua ramiro barcelos 910,hospital moinhos de vento,rio grande do sul,porto alegre,90035001
+30419,grupo de pesquisa clinica em genetica medicarua ramiro barcelos 2350centro de pesquisa clínica 6º andar sala 21615,hospital de clã­nicas de porto alegre,rio grande do sul,porto alegre,90035003
+30420,rua ramiro barcelos 2350,hospital de clinicas de porto alegre,rio grande do sul,porto alegre,90035003
+30421,r  ramiro barcelos  2350urology,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035003
+30422,r ramiro barcelos 2350urology,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035003
+30423,rua ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035003
+30424,rua ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035003
+30425,ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30426,ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30427,rua ramiro barcelos 2350build 21 office 21308b,hospital de clínicas de porto alegre,porto alegre,rio grande do sul,90035903
+30428,rua ramiro barcelos 2350build 21 office 21308b,hospital de clínicas de porto alegre,porto alegre,rio grande do sul,90035903
+30429,rua ramiro barcelos 2350build 21 office 21308b,hospital de clínicas de porto alegre,porto alegre,rio grande do sul,90035903
+30430,rua ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30431,rua ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30432,rua ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30433,rua ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30434,rua ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30435,rua ramiro barcelos 2350predio 21 centro de pesquisa clinica3º andar  sala 21307,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30436,rua ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30437,rua ramiro barcelos 2350predio 21 centro de pesquisa clinica,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30438,rua ramiro barcelos 2350centro de pesquisa clínica cpc,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30439,rua ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30440,rua ramiro barcelos 2350predio 21 centro de pesquisa clinica,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30441,rua ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30442,rua ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30443,rua ramiro barcelos 2350,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30444,rua ramiro barcelos 2350centro de pesquisa clínica,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30445,rua ramiro barcelos 2350santanaporto alegre  rs,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30446,rua ramiro barcelos 2350centro de pesquisa clínica,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegre,90035903
+30447,rua sarmento leite 187,irmandade da santa casa de misericordia de porto alegre,rio grande do sul,porto alegre,90050170
+30448,rua sarmento leite 187nucleo de novos tratamentos em câncer,irmandade da santa casa de misericordia de porto alegre,rio grande do sul,porto alegre,90050170
+30449,rua sarmento leite 187,irmandade da santa casa de misericordia de porto alegre,rio grande do sul,porto alegre,90050170
+30450,rua sarmento leite 187novos tratamentos em câncer  ntc,irmandade da santa casa de misericordia de porto alegre,rio grande do sul,porto alegre,90050170
+30451,rua costa 30centro clínico mae de deus,hospital mae de deus,rio grande do sul,porto alegre,90110270
+30452,rua costa 30centro clínico mae de deus,hospital mae de deus,rio grande do sul,porto alegre,90110270
+30453,rua costa 40instituto do câncer,hospital mae de deus,rio grande do sul,porto alegre,90110270
+30454,rua costa 30  6º andarmenino deus,hospital mae de deus center,rs,porto alegre,90110270
+30455,avenida ipiranga 1801azenha,hospital ernesto dornelles,porto alegre,rio grande do sul,90160093
+30456,avenida ipiranga 1801azenha,hospital ernesto dornelles,porto alegre,rio grande do sul,90160093
+30457,rua mostardeiros 17bairro moinhos de vento,hospital femina,rio grande do sul,porto alegre,90430001
+30458,rua dona laura 228107,clínica de oncologia de porto alegre ss ltda,rio grande do sul,porto alegre,90430090
+30459,rua dona laura 228sala 103,clínica de oncologia de porto alegre ss ltda,rio grande do sul,porto alegre,90430090
+30460,rua dona laura 228conj 107,clinionco,rio grande do sul,porto alegre,90430090
+30461,rua dona laura 228107,clinionco,rio grande do sul,porto alegre,90430090
+30462,rua dona laura 228,clinionco,rio grande do sul,porto alegre,90430090
+30463,r ramiro barcelos 2350predio 21 centro de pesquisa clinica,hospital de clinicas de porto alegre hcpa  ppds,rio grande do sul,porto alegrers,90460030
+30464,rua soledade 569,hospital mae de deus,rio grande do sul,porto alegre,90470340
+30465,rua soledade 569,mãe de deus center – hospital giovanni battista,rio grande do sul,porto alegre,90470340
+30466,rua soledade 5697 andar  torre beta,mãe de deus center – hospital giovanni battista,rio grande do sul,porto alegre,90470340
+30467,avenida ipiranga 6690centro de pesquisa clinicasala 812,hospital sao lucas da pontificia universidade catolica do rio grande do sul pucrs,rio grande do sul,porto alegre,90610000
+30468,avenida ipiranga 6900,hospital sao lucas da pontificia universidade catolica do rio grande do sul pucrs,rio grande do sul,porto alegre,90610000
+30469,avenida ipiranga 6900,hospital sao lucas da pontificia universidade catolica do rio grande do sul pucrs,rio grande do sul,porto alegre,90610000
+30470,avenida ipiranga 6900hematologysala 812,hospital sao lucas da pontificia universidade catolica do rio grande do sul pucrs,rio grande do sul,porto alegre,90610000
+30471,avenida ipiranga 6900,hospital sao lucas da pontificia universidade catolica do rio grande do sul pucrs,rio grande do sul,porto alegre,90610000
+30472,avenida ipiranga 6900,hospital sao lucas da pontificia universidade catolica do rio grande do sul pucrs,rio grande do sul,porto alegre,90610000
