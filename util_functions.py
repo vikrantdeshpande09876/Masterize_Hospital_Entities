@@ -1,8 +1,10 @@
-import time, numpy as np, pandas as pd, re, string, subprocess, os
+import pyspark, time, numpy as np, pandas as pd, re, string, subprocess, os
+from pyspark.sql import SparkSession
 from subprocess import Popen, PIPE
 import config as conf
 
-    
+
+
 
 def write_df_to_csv(df, root_dir='', curr_country='', file_suffix='_temp.csv', index_flag=False):
     """
@@ -16,6 +18,44 @@ def write_df_to_csv(df, root_dir='', curr_country='', file_suffix='_temp.csv', i
         print('\nSuccessfully created \{}!'.format(abs_path))
     except:
         print('\nSomething went wrong while writing the file. Please check if it is currently in use.')
+
+
+
+def preformat_input_using_sparksql():
+    """
+        DOCSTRING:  Reads the raw csv of open-source data and wrangles it to a standardized format as per the algorithm's required structure.
+        INPUT:      
+        OUTPUT:     Dataframe csv at target-directory, or error.
+    """
+    try:
+        spark = SparkSession.builder.master('local[1]').appName('TempSession.com').getOrCreate()
+        df = spark.read.options(header=True, inferSchema=True).csv(conf._RAW_STATIC_FILE_NAME)
+        sparksql_view = 'DM_TEMP'
+        
+        df.createOrReplaceTempView(sparksql_view)
+        query = 'SELECT'
+        for raw_name, std_name in conf._RAW_TO_STD_COLS.items():
+            query += ' `{}` as {},'.format(raw_name, std_name)
+        query = query[:-1] + ' from {}'.format(sparksql_view)
+        df = spark.sql(query)
+        
+        df.createOrReplaceTempView(sparksql_view)
+        query = 'SELECT 100001+ROW_NUMBER() OVER (ORDER BY  POSTAL_CODE, STATE, CITY, SITE_NAME, ADDRESS_LINE_1) SR_NUM, "{}" as COUNTRY,'.format(conf._RAW_COUNTRY)
+        for col_name in conf._STD_COLS_ORDER:
+            query += ' {},'.format(col_name)
+        query = query[:-1] + ' from {}'.format(sparksql_view)
+        df = spark.sql(query)
+        df = df.toPandas()
+        write_df_to_csv(df=df, file_suffix=conf._STATIC_FILE_NAME)
+        spark.stop()
+        
+    except Exception as e:
+        print('\nSomething went wrong while pre-formatting the input data. Please check if the file is currently in use.')
+        print(e)
+        
+    finally:
+        print('\nStandardized the input data columns, and sorted them to ensure better compression-statistics!{} is now ready to be processed by the algorithm.'.format(conf._STATIC_FILE_NAME))
+
 
 
 def preprocess_dataframe(df):

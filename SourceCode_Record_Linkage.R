@@ -42,7 +42,7 @@ processDedupBatch <- function(country_df){
     
   },
   error=function(e){
-    print("Please check the size of incoming dataframe. We've seen issues with batch-size > 2000, since n(computations) will be ncols*[n(n-1)/2] !")
+    print("Please check the size of incoming dataframe. We've seen issues with batch-size > 4000, since n(computations) will be ncols*[n(n-1)/2] !")
     print(e)
   })
 }
@@ -94,7 +94,7 @@ processLinkageBatch <- function(country_df, country_df2){
     
   },
   error=function(e){
-    print("Please check the size of incoming dataframe. We've seen issues with batch-size > 2000, since n(computations) will be ncols*[n(n-1)/2] !")
+    print("Please check the size of incoming dataframe. We've seen issues with batch-size > 4000, since n(computations) will be ncols*[n(n-1)/2] !")
     print(e)
   })
 }

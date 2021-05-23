@@ -43,12 +43,12 @@
 
 
 ## Load Required Libraries and Scripts
-#require(RODBC)
-#require(dplyr)
-#require(RODBCDBI)
 #install.packages("RecordLinkage")
 #install.packages(c('DBI', 'RSQLite', 'ff', 'ffbase', 'e1071', 'ada', 'ipred', 'evd', 'data.table', 'xtable'))
 #install.packages("https://cran.r-project.org/src/contrib/Archive/RecordLinkage/RecordLinkage_0.4-11.2.tar.gz", repos = NULL, type="source")
+#require(RODBC)
+#require(dplyr)
+#require(RODBCDBI)
 #require(RecordLinkage)
 require(tools)
 
@@ -107,7 +107,6 @@ gc()
 # Deduplicate the incoming dataset, and create an output /Raw_Scores/country_Score_Features.csv file
 if (METHOD=="Dedup"){
   
-  # Replaced this character in notepad
   # Read the country-specific batch with columns for only relevant match-score
   country_df=read.csv(paste0(curr_country,'_country_df.csv'), encoding="UTF-8")
   country_df[is.na(country_df)]=""
@@ -136,7 +135,7 @@ if (METHOD=="Dedup"){
   
   FIRST_FILE=args[10][[1]]# First_dataset csv
   SECOND_FILE=args[11][[1]]# Second_dataset csv
-  # Replaced this character in notepad
+  
   # Read the country-specific batch with columns for only relevant match-score
   country_df=read.csv(FIRST_FILE, encoding="UTF-8")
   country_df[is.na(country_df)]=""

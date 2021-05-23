@@ -1,0 +1,901 @@
+SR_NUM,CONCAT_ADDRESS,SITE_NAME,STATE,CITY,POSTAL_CODE
+102002,404 southbradley street,bradley county medical center,ar,warren,71671
+102003,638 california avenue,ouachita county medical center,ar,camden,71701
+102004,2001 southmain,wadley regional medical center at hope,ar,hope,71801
+102005,451 west locke street,little river memorial hospital,ar,ashdown,71822
+102006,1910 malvern avenue,national park medical center,ar,hot springs,71901
+102007,3050 twinrivers drive,baptist health medical centerarkadelphia,ar,arkadelphia,71923
+102008,311 northmorrow street,mena regional health system,ar,mena,71953
+102009,1 medicalpark drive,saline memorial hospital,ar,benton,72015
+102010,100 rivendell drive,rivendell behavioral health services of arkansas,ar,benton,72019
+102011,2500 highway 65 south,ozark health,ar,clinton,72031
+102012,1555 exchange avenue,baptist health medical centerconway,ar,conway,72032
+102013,2255 sturgis road,conway behavioral health,ar,conway,72034
+102014,2302 college avenue,conway regional health system,ar,conway,72034
+102015,1641 whitehead drive,dewitt hospital  nursing home inc,ar,de witt,72042
+102016,1001 schneider drive,baptist health medical centerhot springs county,ar,malvern,72104
+102017,4 hospital drive,chi st vincent morrilton,ar,morrilton,72110
+102018,1601 murphy drive,united methodist behavioral hospital,ar,maumelle,72113
+102019,3333 springhill drive,baptist health medical center north little rock,ar,north little rock,72117
+102020,2215 wildwood avenue,st vincent medical centernorth,ar,sherwood,72120
+102021,1 childrens way slot 301,arkansas childrens hospital,ar,little rock,72202
+102022,305 s palmstreet,arkansas state hospital,ar,little rock,72205
+102023,9601 interstate,baptist health medical centerlittle rock,ar,little rock,72205
+102024,two st vincent circle,chist vincent infirmary,ar,little rock,72205
+102025,4301 westmarkham street mailslot 612,uams medical center,ar,little rock,72205
+102026,1701 s shackleford road,arkansas heart hospital llc,ar,little rock,72211
+102027,600 north7th street,woodridge behavioral center,ar,west memphis,72301
+102028,1520 n division street,great river medical center,ar,blytheville,72315
+102029,1601 newcastle road,forrest city medical center,ar,forrest city,72335
+102030,310 southfalls boulevard,crossridge community hospital,ar,wynne,72396
+102031,4800 eastjohnson avenue,nea baptist memorial hospital,ar,jonesboro,72401
+102032,225 e jackson,st bernards medical center,ar,jonesboro,72401
+102033,216 east main street,piggott community hospital,ar,piggott,72454
+102034,2801 medical centerdrive,five rivers medical center,ar,pocahontas,72455
+102035,214 carterstreet,mercy hospital berryville,ar,berryville,72616
+102036,24 norrisstreet,eureka springs hospital llc,ar,eureka springs,72632
+102037,3873 northparkviewdrive,northwest health physicians specialty hospital,ar,fayetteville,72703
+102038,4253 crossover road,vantage point of northwest arkansas,ar,fayetteville,72703
+102039,2710 southrife medical lane,mercy hospital northwest arkansas,ar,rogers,72758
+102040,603 northprogress avenue,siloam springs regional hospital,ar,siloam springs,72761
+102041,2601 genegeorge boulevard,arkansas childrens northwest inc,ar,springdale,72762
+102042,200 norththird street,dardanelle hospital,ar,dardanelle,72834
+102043,880 west main,mercy hospital booneville,ar,booneville,72927
+102044,801 west river street,mercy hospital turner memorial,ar,ozark,72949
+102045,102 northbroadway,carnegie tricounty municipal hospital,ok,carnegie,73015
+102046,4801 integris parkway,integris health edmond,ok,edmond,73034
+102047,1305 w cherokee street  highway 19 west,lindsay municipal hospital,ok,lindsay,73052
+102048,900 east main street,griffin memorial hospital,ok,norman,73070
+102049,901 n porter,norman regional,ok,norman,73070
+102050,501 n 14thst,stillwater medical  perry,ok,perry,73077
+102051,1500 northgreen avenue,purcell municipal hospital,ok,purcell,73080
+102052,3701 e main,weatherford regional hospital inc of weatherford,ok,weatherford,73096
+102053,1000 northlee avenue,ssm health st anthony hospital  oklahoma city,ok,oklahoma city,73101
+102054,1044 sw 44th suite350,onecore health,ok,oklahoma city,73109
+102055,9600 northbroadwayextension,mcbride orthopedic hospital,ok,oklahoma city,73114
+102056,11200 north portlandavenue,lakeside womens hospital a member of integris he,ok,oklahoma city,73120
+102057,100 southeast 59th street,surgical hospital of oklahoma llc,ok,oklahoma city,73129
+102058,5200 easti240 service road,oklahoma heart hospital south llc,ok,oklahoma city,73135
+102059,8100 southwalker bldg c,oklahoma center for orthopaedic  multisp,ok,oklahoma city,73139
+102060,6501 northeast 50thstreet,cedar ridge behavioral hospital,ok,oklahoma city,73141
+102061,3100 southwest 89thstreet,community hospital llc,ok,oklahoma city,73159
+102062,9417 n council road,integris community hospital  council crossing,ok,oklahoma city,73162
+102063,1011 fourteenth avenue northwest,mercy hospital ardmore inc,ok,ardmore,73401
+102064,3462 hospital rd,mercy hospital healdton inc,ok,healdton,73438
+102065,901 s 5thave,alliancehealth madill,ok,madill,73446
+102066,300 wandastreet,mercy health love county,ok,marietta,73448
+102067,1000 southbyrd,mercy hospital tishomingo,ok,tishomingo,73460
+102068,3401 westgore blvd,comanche county memorial hospital,ok,lawton,73505
+102069,5602 southwest lee boulevard,southwestern medical center,ok,lawton,73505
+102070,1515 lawrie tatum road,lawton indian hospital,ok,lawton,73507
+102071,1200 eastpecan st,jackson county memorial hospital authority,ok,altus,73521
+102072,1407 whisenant drive,duncan regional hospital inc,ok,duncan,73533
+102073,400 east chestnut street,harmon memorial hospital,ok,hollis,73550
+102074,intersection hyws 81 70,jefferson county hospital,ok,waurika,73573
+102075,100 north30th street,alliancehealth clinton,ok,clinton,73601
+102076,501 southl l malesavenue,roger mills memorial hospital,ok,cheyenne,73628
+102077,429 west elm street,elkview general hospital,ok,hobart,73651
+102078,809 ne highway 60,seiling municipal hospital,ok,seiling,73663
+102079,600 southmonroe,integris bass baptist health center,ok,enid,73701
+102080,800 sharedrive,share medical center,ok,alva,73717
+102081,207 east fstreet,okeene municipal hospital,ok,okeene,73763
+102082,1 mile east us highway 270,northwest center for behavioral health ncbh,ok,fort supply,73841
+102083,212 east 8th street,beaver county memorial hospital,ok,beaver,73932
+102084,101 southmoore ave,claremore indian hospital,ok,claremore,74017
+102085,1401 westpawnee,cleveland area hospital,ok,cleveland,74020
+102086,1027 eastcherry street,hillcrest hospital cushing,ok,cushing,74023
+102087,610 west bypass,drumright regional hospital,ok,drumright,74030
+102088,10502 north 110th east avenue,bailey medical center llc,ok,owasso,74055
+102089,12451 east100th street north,st john owasso,ok,owasso,74055
+102090,1323 west6th street,stillwater medical center,ok,stillwater,74076
+102091,2308 highway 66 west,stroud regional medical center,ok,stroud,74079
+102092,1619 east13th street,parkside inc,ok,tulsa,74120
+102093,744 west 9th street,oklahoma state university medical center,ok,tulsa,74127
+102094,10501 east91st street south,saint francis hospital south llc,ok,tulsa,74133
+102095,6161 southyale,saint francis hospital inc,ok,tulsa,74136
+102096,2408 east81st street suite 300,oklahoma surgical hospital llc,ok,tulsa,74137
+102097,735 northforeman street,saint francis hospital vinita inc,ok,vinita,74301
+102098,1001 east18th street,integris grove hospital,ok,grove,74344
+102099,200 secondavenue southwest,integris miami hospital,ok,miami,74355
+102100,111 northbailey street,hillcrest hospital pryor,ok,pryor,74361
+102101,300 rockefeller drive,saint francis hospital muskogee,ok,muskogee,74401
+102102,2401 w main,hillcrest hospital henryetta,ok,henryetta,74437
+102103,1401 morris drive,muscogee creek nation medical center,ok,okmulgee,74447
+102104,401 northwest h street,haskell county community hospital,ok,stigler,74462
+102105,1400 eastdowning street,northeastern health system,ok,tahlequah,74465
+102106,1200 westcherokee street,wagoner community hospital,ok,wagoner,74467
+102107,1101 eastmonroe,carl albert community mental health center,ok,mcalester,74501
+102108,1590 westliberty road,atoka county medical center,ok,atoka,74525
+102109,6 north covington,mary hurley hospital,ok,coalgate,74538
+102110,1900 north14th street,alliancehealth ponca city,ok,ponca city,74601
+102111,710 south13th street,blackwell regional hospital,ok,blackwell,74631
+102112,40 hospital road,fairfax community hospital,ok,fairfax,74637
+102113,1405 eastkirk road,choctaw memorial hospital,ok,hugo,74743
+102114,1102 w macarthur,ssm health st anthony hospital  shawnee,ok,shawnee,74804
+102115,1921 stonecipher blvd,chickasaw nation medical center,ok,ada,74820
+102116,430 northmonte vista,mercy hospital ada,ok,ada,74820
+102117,1000 rolling hills lane,rolling hills hospital llc,ok,ada,74820
+102118,1800 e coplin,creek nation community hospital,ok,okemah,74859
+102119,105 wall street,eastern oklahoma medical center,ok,poteau,74953
+102120,213 east redwood,sequoyah countycity of sallisaw hospital authorit,ok,sallisaw,74955
+102121,1401 westlocust,memorial hospital,ok,stilwell,74960
+102122,4343 northjosey lane,baylor scott and white medical center carrollton,tx,carrollton,75010
+102123,2225 parker road,carrollton springs,tx,carrollton,75010
+102124,5601 warren parkway,baylor medical center at frisco,tx,frisco,75034
+102125,6800 n macarthur blvd,medical city las colinas,tx,irving,75039
+102126,500 west main street,medical center of lewisville,tx,lewisville,75057
+102127,400 west interstate635 suite101,baylor surgical hospital at las colinas,tx,irving,75063
+102128,8000 w eldorado pkwybldg c suite c,methodist mckinney hospital,tx,mckinney,75070
+102129,3901 w 15th st,medical city plano,tx,plano,75075
+102130,6800 scenic dr,baylor scott and white medical center lake pointe,tx,rowlett,75088
+102131,3601 calais drive,baylor scott and white surgical hospital at sherma,tx,sherman,75090
+102132,500 n highland avenue,wilson n jones regional medical center,tx,sherman,75091
+102133,6020 w parker road,texas health center for diagnostics  surgery plan,tx,plano,75093
+102134,6200 w parker rd,texas health presbyterian hospital plano,tx,plano,75093
+102135,1100 allied drive,the heart hospital baylor plano,tx,plano,75093
+102136,4301 mapleshade lane,wellbridge healthcare of plano,tx,plano,75093
+102137,3201 westhighway 22,navarro regional hospital,tx,corsicana,75110
+102138,800 kirnwood drive,dallas behavioral healthcare hospital llc,tx,de soto,75115
+102139,2201 westlampasas street,ennis regional medical center,tx,ennis,75119
+102140,707 n waldrip st,texas general hospital vzrmc lp,tx,grand saline,75140
+102141,850 ed hall,texas health presbyterian hospital kaufman,tx,kaufman,75142
+102142,2600 westpleasant run road,crescent medical center lancaster,tx,lancaster,75146
+102143,1011 northgallowayavenue,dallas regional medical center,tx,mesquite,75149
+102144,1200 e brin street,terrell state hospital,tx,terrell,75160
+102145,231 southcollins road,baylor scott and white medical center sunnyvale,tx,sunnyvale,75182
+102146,2727 eastlemmon avenue building i,baylor scott and white medical center uptown,tx,dallas,75204
+102147,2222 welborn street,texas scottish rite hospital for children,tx,dallas,75219
+102148,7777 forest lane,medical city dallas,tx,dallas,75230
+102149,8200 walnut hill lane,texas health presbyterian hospital dallas,tx,dallas,75231
+102150,7 medicalparkway,dallas medical center,tx,dallas,75234
+102151,3500 w wheatland road,methodist charlton medical center,tx,dallas,75237
+102152,3500 gaston ave,baylor university medical center,tx,dallas,75246
+102153,7808 clodus fields drive,green oaks hospital,tx,dallas,75251
+102154,6201 harryhines blvd,ut southwestern university hospital,tx,dallas,75390
+102155,5151 harryhines blvd,ut southwestern university hospitalzale lipshy,tx,dallas,75390
+102156,504 lipscomb street,tmc bonham hospital,tx,bonham,75418
+102157,719 west coke road,christus mother frances hospital winnsboro,tx,winnsboro,75494
+102158,2600 st michael dr,christus st michael health system,tx,texarkana,75504
+102159,409 cottage rd,ut health east texas carthage hospital,tx,carthage,75633
+102160,300 wilsonstreet,ut health east texas henderson hospital,tx,henderson,75652
+102161,1814 roseland boulevard,baylor scott  white texas spine  joint hospital,tx,tyler,75701
+102162,800 east dawson,christus mother frances hospital,tx,tyler,75701
+102163,11937 us highway 271,university of texas health science center at tyler,tx,tyler,75708
+102164,501 s ragsdale,ut health east texas jacksonville hospital,tx,jacksonville,75766
+102165,1100 e loop 304,crockett medical center,tx,crockett,75835
+102166,1201 westfrank street,chi st lukes health memorial lufkin,tx,lufkin,75901
+102167,302 gobblers knob rd,oceans behavioral hospital of lufkin llc,tx,lufkin,75904
+102168,505 southjohn redditt drive,woodland heights medical center,tx,lufkin,75904
+102169,1275 marvin hancockdrive,christus jasper memorial hospital,tx,jasper,75951
+102170,1204 moundst,memorial hospital,tx,nacogdoches,75961
+102171,811 wrightstreet,texas health heart  vascular hospital arlington,tx,arlington,76012
+102172,3301 matlock road,medical city arlington,tx,arlington,76015
+102173,801 w interstate 20,usmd hospital at arlington l p,tx,arlington,76017
+102174,108 denvertrail,texas health harris methodist hospital azle,tx,azle,76020
+102175,1600 hospital parkway,texas health heb,tx,bedford,76022
+102176,12500 south freewaysuite 100,baylor scott and white emergency hospital burleson,tx,burleson,76028
+102177,11801 south freeway,texas health huguley hospital fort worth south,tx,burleson,76028
+102178,201 wallsdrive,texas health harris methodist hospital cleburne,tx,cleburne,76033
+102179,1310 paluxy rd,lake granbury medical center,tx,granbury,76048
+102180,1612 hursttown center drive,saint camillus medical center,tx,hurst,76054
+102181,2700 e broad street,methodist mansfield medical center,tx,mansfield,76063
+102182,400 southwest 25 ave,palo pinto general hospital,tx,mineral wells,76067
+102183,713 e anderson st,medical city weatherford,tx,weatherford,76086
+102184,1545 e southlake blvd,texas health harris methodist hospital southlake,tx,southlake,76092
+102185,801 seventh avenue,cook childrens medical center,tx,fort worth,76104
+102186,1301 pennsylvania avenue,texas health harris methodist fort worth,tx,fort worth,76104
+102187,1800 parkplace avenue,baylor scott and white surgical hospital fortworth,tx,fort worth,76110
+102188,5900 altamesa blvd,usmd hospital at fort worth lp,tx,fort worth,76132
+102189,3200 northtarrant parkway,wise health system,tx,fort worth,76177
+102190,4401 boothcallowayroad,medical city north hills,tx,north richland hills,76180
+102191,3000 n i35,texas health presbyterian hospital denton,tx,denton,76201
+102192,2026 westuniversitydrive,university behavioral health,tx,denton,76201
+102193,2801 southmayhill road,the heart hospital baylor denton,tx,denton,76208
+102194,3535 southi35 east,medical city denton,tx,denton,76210
+102195,26791 highway 380,baylor scott and white emergency hospital aubrey,tx,aubrey,76227
+102196,609 medical center drive,wise regional health system,tx,decatur,76234
+102197,1900 hospital blvd,north texas medical center,tx,gainesville,76240
+102198,10864 texas health trail,texas health harris methodist hospital alliance,tx,fort worth,76244
+102199,100 park road,nocona general hospital,tx,nocona,76255
+102200,2850 e state highway114,baylor medical center at trophy club,tx,trophy club,76262
+102201,1505 8th st,red river hospital,tx,wichita falls,76301
+102202,1600 11thstreet,united regional health care system,tx,wichita falls,76301
+102203,310 w south street,clay county memorial hospital,tx,henrietta,76365
+102204,920 hillcrest dr,wilbarger general hospital,tx,vernon,76384
+102205,10201 hwy16,comanche county medical center,tx,comanche,76442
+102206,304 s daugherty,eastland memorial hospital,tx,eastland,76448
+102207,215 chisholm trail,faith community hospital,tx,jacksboro,76458
+102208,2401 s 31st st,baylor scott  white clinic  temple,tx,temple,76508
+102209,2201 s clear creek road,adventhealth central texas,tx,killeen,76542
+102210,36000 darnall loop,darnall amc ft hood,tx,fort hood,76544
+102211,305 mallard,baylor scott  white medical center taylor,tx,taylor,76574
+102212,701 mcclintic drive,limestone medical center,tx,groesbeck,76642
+102213,322 coleman street,falls community hospital and clinic,tx,marlin,76661
+102214,6901 medical parkway,providence health center,tx,waco,76712
+102215,1501 burnet dr,brownwood regional medical center,tx,brownwood,76801
+102216,2008 nineroad,heart of texas memorial hospital,tx,brady,76825
+102217,614 eakerstreet,concho county hospital,tx,eden,76837
+102218,349 reid road,kimble hospital,tx,junction,76849
+102219,1636 hunters glen road,river crest hosp,tx,san angelo,76901
+102220,120 east harris avenue,shannon medical center,tx,san angelo,76903
+102221,3501 knickerbocker road,san angelo community medical center,tx,san angelo,76904
+102222,1300 n main avenue,reagan memorial hospital,tx,big lake,76932
+102223,308 hudspeth,lillian m hudspeth memorial hospital,tx,sonora,76950
+102224,1401 st joseph parkway,st joseph medical center,tx,houston,77002
+102225,1635 northloop west,memorial hermann hospital system,tx,houston,77008
+102226,2800 macgregor way,harris cty psychiatric ctr,tx,houston,77021
+102227,921 gessner,memorial hermann memorial city medical center,tx,houston,77024
+102228,7200 cambridge 11thfloor,chi st lukes health baylor college of medicine me,tx,houston,77030
+102229,6565 fannin,houston methodist hospital,tx,houston,77030
+102230,6621 fannin street,texas childrens hosp,tx,houston,77030
+102231,7601 fannin street,sun behavioral houston,tx,houston,77054
+102232,7600 fannin,womans hospital of texasthe,tx,houston,77054
+102233,9922 louetta rd,first texas hospital,tx,houston,77070
+102234,18220 tomball parkway,houston methodist willowbrook hospital,tx,houston,77070
+102235,6500 hornwood,west oaks hospital,tx,houston,77074
+102236,5314 dashwood suite200,behavioral hospital of bellaire,tx,houston,77081
+102237,2929 woodland park drive,healthbridge childrenss hospital of houston,tx,houston,77082
+102238,16750 redoak drive,providence hospital of north houston llc,tx,houston,77090
+102239,510 w tidwell,united memorial medical center,tx,houston,77091
+102240,18500 katyfreeway,houston methodist west hospital,tx,houston,77094
+102241,504 medical center blvd,hca houston healthcare conroe,tx,conroe,77304
+102242,22999 us hwy 59,hca houston healthcare kingwood,tx,kingwood,77325
+102243,1017 s travis ave,cleveland emergency hospital,tx,cleveland,77327
+102244,18951 memorial north,memorial hermann northeast hospital,tx,humble,77338
+102245,2001 ladbrook,kingwood pines hospital,tx,kingwood,77339
+102246,1717 hwy 59 bypass,memorial medical center livingston,tx,livingston,77351
+102247,9201 pinecroft,emil j freireich cancer center,tx,shenandoah,77380
+102248,17400 st lukes way,st lukes lakeside hospital,tx,the woodlands,77384
+102249,17201 interstate 45south,houston methodist the woodlands hospital,tx,the woodlands,77385
+102250,104 7th street,matagorda regional medical center,tx,bay city,77414
+102251,16303 grant road,lone star behavioral health cypress,tx,cypress,77429
+102252,455 park grove lane,oceans behavioral hospital of katy,tx,katy,77450
+102253,311 greenavenue,palacios community medical center,tx,palacios,77465
+102254,1705 jackson st,oakbend medical center,tx,richmond,77469
+102255,1317 lakepointe parkway,st lukes sugar land hospital,tx,sugar land,77478
+102256,16655 southwest freeway,houston methodist sugarland hospital,tx,sugar land,77479
+102257,17500 w grand parkway south,memorial hermann sugar land hospital,tx,sugar land,77479
+102258,16906 southwest freeway,sugar land surgical hospital llp,tx,sugar land,77479
+102259,23900 katyfreeway,memorial hermann katy hospital,tx,katy,77494
+102260,4301 b vista,surgery specialty hospitals of america se houston,tx,pasadena,77504
+102261,200 hospital drive,bayside community hospital,tx,anahuac,77514
+102262,1404 w baker road,altus baytown hospital,tx,baytown,77521
+102263,100 medical drive,brazosport regional health system,tx,lake jackson,77566
+102264,1150 devereux dr,devereux texas treatment network,tx,league city,77573
+102265,1353 n travis st,liberty dayton regional medical center,tx,liberty,77575
+102266,11100 shadow creek parkway,hca houston healthcare pearland,tx,pearland,77584
+102267,500 medical center blvd,hca houston healthcare clear lake,tx,webster,77598
+102268,333 n texas avenue,houston physicians hospital,tx,webster,77598
+102269,2555 jimmyjohnson blvd,the medical center of southeast texas,tx,port arthur,77640
+102270,3080 college street,baptist beaumont hospital,tx,beaumont,77701
+102271,2830 calder avenue,christus southeast texas st elizabeth,tx,beaumont,77702
+102272,2801 franciscan dr,st joseph regional health center,tx,bryan,77802
+102273,1604 rockprairie road,college station medical center,tx,college station,77842
+102274,3550 normand drive,rock prairie behavioral health,tx,college station,77845
+102275,506 e sanantonio st,detar healthcare system,tx,victoria,77902
+102276,2550 n esplanade,cuero regional hospital,tx,cuero,77954
+102277,1500 e houston hwy,christus spohn hospital beeville,tx,beeville,78102
+102278,555 creekside xing,resolute health hospital,tx,new braunfels,78130
+102279,1215 e court st,guadalupe regional medical center,tx,seguin,78155
+102280,111 dallasstreet,baptist medical center,tx,san antonio,78205
+102281,6711 s newbraunfelsave,san antonio state hospital,tx,san antonio,78223
+102282,2827 babcock road,christus santa rosa medical center,tx,san antonio,78229
+102283,3551 rogerbrooke drive,brooke army medical center ft sam houston,tx,fort sam houston,78234
+102284,9522 huebner road,foundation surgical hospital of san antonio,tx,san antonio,78240
+102285,8550 huebner road,san antonio behavioral healthcare hospital,tx,san antonio,78240
+102286,18600 north hardy oak blvd,south texas spine and surgical hospital,tx,san antonio,78258
+102287,17720 corporate woods drive,laurel ridge treatment center,tx,san antonio,78259
+102288,1311 eastgeneral cavazos blvd,christus spohn hospital kleberg,tx,kingsville,78363
+102289,107 swiftstreet,refugio county memorial hospital,tx,refugio,78377
+102290,600 elizabeth street,christus spohn hospital corpus christi,tx,corpus christi,78404
+102291,6629 woodridge road,corpus christi medical centerthe,tx,corpus christi,78414
+102292,6130 parkway drive,south texas surgical hospital,tx,corpus christi,78414
+102293,101 e ridge rd,rio grande regional hospital,tx,mcallen,78503
+102294,1040 w jefferson st,valley baptist medical center brownsville,tx,brownsville,78520
+102295,100 a alton gloor,valley regional medical center,tx,brownsville,78526
+102296,1102 w trenton road,south texas health system,tx,edinburg,78539
+102297,5501 southexpressway 77,harlingen medical center,tx,harlingen,78550
+102298,613 victoria lane,palms behavioral health,tx,harlingen,78550
+102299,1401 rangerville road,rio grande state center,tx,harlingen,78550
+102300,2101 peasest,vhs harlingen hospital company llc,tx,harlingen,78550
+102301,128 n fm rd 3167,starr county memorial hospital,tx,rio grande city,78582
+102302,1401 easteight street,knapp medical center,tx,weslaco,78596
+102303,highway 281 south,seton highland lakes,tx,burnet,78611
+102304,900 east whitestoneblvd,baylor scott  white emergency medical center at c,tx,cedar park,78613
+102305,3101 s austin avenue,georgetown behavioral health institute,tx,georgetown,78626
+102306,130 hays street,ascension seton edgar b davis,tx,luling,78648
+102307,2600 eastpflugerville parkway,baylor scott  white medical center pflugerville,tx,pflugerville,78660
+102308,300 university blvd,scott  white hospitalround rock,tx,round rock,78664
+102309,201 setonparkway,seton medical center williamson,tx,round rock,78664
+102310,1301 wonder world drive,central texas medical center,tx,san marcos,78666
+102311,1106 n ih35,oceans behavioral hospital of san marcos,tx,san marcos,78666
+102312,601 e 15thstreet,dell seton med center at the university of tx,tx,austin,78701
+102313,901 west ben white blvd,st davids south austin medical center,tx,austin,78704
+102314,1201 w 38th st,ascension seton medical center austin,tx,austin,78705
+102315,1025 east32nd street,austin lakes hospital,tx,austin,78705
+102316,919 e 32ndst,st davids medical center,tx,austin,78705
+102317,4900 mueller blvd,dell childrens medical center of central texas,tx,austin,78723
+102318,6818 austin ctr blvdsuite 100,northwest hills surgical hospital,tx,austin,78731
+102319,7900 fm 1826,seton southwest hospital,tx,austin,78737
+102320,1106 westdittmar rd,texas star recovery,tx,austin,78745
+102321,5656 bee caves roadsuite m302,the hospital at westlake medical center,tx,austin,78746
+102322,11113 research boulevard,ascension seton northwest,tx,austin,78759
+102323,1025 garner field road,uvalde memorial hospital,tx,uvalde,78801
+102324,704 hospital drive,dimmit regional hospital,tx,carrizo springs,78834
+102325,110 shultdr,columbus community hospital,tx,columbus,78934
+102326,310 west halsell street,plains memorial hospital,tx,dimmitt,79027
+102327,224 e second street,memorial hospital,tx,dumas,79029
+102328,1 medicalplaza,pampa regional medical center,tx,pampa,79065
+102329,3101 garrett drive,ochiltree general hospital,tx,perryton,79070
+102330,2601 dimmitt rd,covenant hospital plainview,tx,plainview,79072
+102331,539 southeast 2nd,swisher memorial hospital,tx,tulia,79088
+102332,1013 15thst,collingsworth general hospital,tx,wellington,79095
+102333,901 s sweetwater,parkview hospital,tx,wheeler,79096
+102334,1501 s coulter st,northwest texas hospital,tx,amarillo,79106
+102335,hwy 83 north,childress regional medical center,tx,childress,79201
+102336,320 northmain,w j mangold memorial hospital,tx,lockney,79241
+102337,402 mercerst,hardeman county memorial hospital,tx,quanah,79252
+102338,705 east felt street,brownfield regional medical center,tx,brownfield,79316
+102339,710 west main street,crosbyton clinic hospital,tx,crosbyton,79322
+102340,412 mustang avenue,yoakum county hospital,tx,denver city,79323
+102341,1500 s sunset,lamb healthcare center,tx,littlefield,79339
+102342,205 e grant street,cochran memorial hospital,tx,morton,79346
+102343,209 northwest 8th street,memorial hospital,tx,seminole,79360
+102344,2412 50thst,grace medical center,tx,lubbock,79412
+102345,101 avenuej,anson general hospital,tx,anson,79501
+102346,821 northbroadway,stonewall memorial hospital,tx,aspermont,79502
+102347,997 west i20,mitchell county hospital district,tx,colorado city,79512
+102348,1 north avenue n pobox 1117,haskell memorial hospital,tx,haskell,79521
+102349,774 statehighway 70n,fisher county hospital district,tx,rotan,79546
+102350,1700 cogdell blvd,cogdell memorial hospital,tx,snyder,79549
+102351,200 e arizona,rolling plains memorial hospital,tx,sweetwater,79556
+102352,7821 easthighway 153,north runnels hospital,tx,winters,79567
+102353,1900 pine,hendrick medical center,tx,abilene,79601
+102354,400 rosalind redferngrover parkway,midland memorial hospital,tx,midland,79701
+102355,3300 s fm1788,oceans behavioral hospital of permian basin,tx,midland,79706
+102356,720 hospital drive,permian regional medical center andrews county ho,tx,andrews,79714
+102357,1601 w 11th place,scenic mountain medical center a steward family h,tx,big spring,79720
+102358,1901 northhighway 87,big spring state hospital,tx,big spring,79721
+102359,1310 s alford st,crane county hospital district,tx,crane,79731
+102360,600 highway 349 north,iraan general hospital,tx,iraan,79744
+102361,821 jeffeedrive,winkler county memorial hospital,tx,kermit,79745
+102362,520 e 6thstreet,odessa regional medical center,tx,odessa,79761
+102363,1611 spur576,rankin hospital medical clinic,tx,rankin,79778
+102364,600 e interstate 20po box 640,martin county hospital district,tx,stanton,79782
+102365,eisenhowerroad andfm 2185,culberson hospital,tx,van horn,79855
+102366,1900 denver ave,el paso behavioral health system,tx,el paso,79902
+102367,1221 n cotton st 3rdfloor,el paso ltac hosptial,tx,el paso,79902
+102368,4845 alameda avenue,el paso childrens hospital,tx,el paso,79905
+102369,4815 alameda ave,university medical center of el paso,tx,el paso,79905
+102370,5005 n piedras st,william beaumont amg ft bliss,tx,el paso,79920
+102371,1416 george dieter,foundation surgical hospital of el paso,tx,el paso,79936
+102372,3280 joe battle blvd,the hospitals of providence east campus,tx,el paso,79938
+102373,1501 s potomac st,medical center of aurora the,co,aurora,80012
+102374,11820 destination drive,uchealth broomfield hospital,co,broomfield,80021
+102375,200 exempla circle,good samaritan medical center,co,lafayette,80026
+102376,2255 s 88th st,centennial peaks hospital,co,louisville,80027
+102377,100 healthpark dr,centura healthavista adventist hospital,co,louisville,80027
+102378,12605 e 16th ave,university of colorado hospital authority,co,aurora,80045
+102379,2350 meadows blvd,castle rock adventist hospital,co,castle rock,80109
+102380,8565 s poplar way,highlands behavioral health system,co,littleton,80130
+102381,9395 crowncrest blvd,parker adventist hospital,co,parker,80138
+102382,777 bannock st,denver health medical center,co,denver,80204
+102383,1400 jackson st,national jewish health,co,denver,80206
+102384,4567 e 9thave,rose medical center,co,denver,80220
+102385,11600 west2nd plc,centura healthst anthony hospital,co,lakewood,80228
+102386,11650 west2nd place,orthocolorado hospital at st anthony med campus,co,lakewood,80228
+102387,9191 grantst,north suburban medical center,co,thornton,80229
+102388,4747 arapahoe avenue,foothills hospital,co,boulder,80303
+102389,214 4th st,middle park medical center,co,kremmling,80459
+102390,1024 central park dr,uchealth yampa valley medical center,co,steamboat springs,80487
+102391,1950 mountain view ave,longmont united hospital,co,longmont,80501
+102392,1750 eastken prattboulevard,longs peak hospital,co,longmont,80504
+102393,555 prospect ave,estes park medical center,co,estes park,80517
+102394,1024 s lemay ave,poudre valley hospital,co,fort collins,80524
+102395,1801  16th st,north colorado medical center,co,greeley,80631
+102396,1000 lincoln st,colorado plains medical center,co,fort morgan,80701
+102397,2400 westedison street,east morgan county hospital,co,brush,80723
+102398,900 cedarst,sedgwick county memorial hospital,co,julesburg,80737
+102399,1000 w 8thave,yuma district hospital,co,yuma,80759
+102400,602 n 6thw st,keefe memorial hospital,co,cheyenne wells,80810
+102401,111 6th st,lincoln community hospital,co,hugo,80821
+102402,16420 westhighway 24,uchealth pikes peak regional hospital,co,woodland park,80863
+102403,5623 pulpit peak view,uchealth grandview hospital,co,colorado springs,80918
+102404,7353 sisters grove,peak view behavioral health,co,colorado springs,80923
+102405,400 w 16thst,parkview medical center inc,co,pueblo,81003
+102406,1008 minnequa ave,centura healthst mary corwin medical center,co,pueblo,81004
+102407,373 e tenth ave,southeast colorado hospital,co,springfield,81073
+102408,410 benedicta ave,mt san rafael hospital,co,trinidad,81082
+102409,23500 us hwy 160,spanish peaks regional health center,co,walsenburg,81089
+102410,19021 us highway 285,san luis valley health conejos county hospital,co,la jara,81140
+102411,1000 rushdr,heart of the rockies regional medical center,co,salida,81201
+102412,1338 phayavenue,centura healthst thomas more hospital,co,canon city,81212
+102413,1311 n mildred rd,southwest memorial hospital,co,cortez,81321
+102414,800 s 3rdst,montrose memorial hospital,co,montrose,81401
+102415,1501 e 3rdst,delta county memorial hospital,co,delta,81416
+102416,515 28 34rd,west springs hospital,co,grand junction,81501
+102417,2351 g road,community hospital,co,grand junction,81505
+102418,1906 blakeave,valley view hospital association,co,glenwood springs,81601
+102419,100 pioneers medicalcenter dr,pioneers medical center,co,meeker,81641
+102420,225 eaglecrest st,rangely district hospital,co,rangely,81648
+102421,2000 campbell drive,community hospital,wy,torrington,82240
+102422,2221 westelm street,memorial hospital of carbon county,wy,rawlins,82301
+102423,400 south15th street,washakie medical center,wy,worland,82401
+102424,707 sheridan avenue,cody regional health,wy,cody,82414
+102425,777 avenueh,powell valley hospital,wy,powell,82435
+102426,150 east arapahoe,hot springs county memorial hospital,wy,thermopolis,82443
+102427,2100 w sunset dr,sagewest health care,wy,riverton,82501
+102428,6350 e 2ndstreet,summit medical center,wy,casper,82609
+102429,2521 east15th street,wyoming behavioral institute,wy,casper,82609
+102430,1124 washington boulevard,weston county health services,wy,newcastle,82701
+102431,713 oak street,crook county hospital,wy,sundance,82729
+102432,4401 college drive,aspen mountain medical center,wy,rock springs,82901
+102433,1200 college drive,memorial hospital sweetwater county,wy,rock springs,82901
+102434,831 hwy 150 south,wyoming state hospital,wy,evanston,82931
+102435,625 east broadway,st johns medical center,wy,jackson,83001
+102436,901 adamsstreet,star valley medical center,wy,afton,83110
+102437,777 hospital way,portneuf medical center,id,pocatello,83201
+102438,551 highland drive,lost rivers medical center,id,arco,83213
+102439,98 poplarstreet,bingham memorial hospital,id,blackfoot,83221
+102440,350 northmeridian street,grove creek medical center,id,blackfoot,83221
+102441,164 southfifth street,bear lake memorial hospital,id,montpelier,83254
+102442,267 northcanyon dr,north canyon medical center,id,gooding,83330
+102443,709 northlincoln avenue,st lukes jerome,id,jerome,83338
+102444,100 hospital drive,st lukes wood river medical center,id,ketchum,83340
+102445,203 southdaisy street,steele memorial medical center,id,salmon,83467
+102446,415 sixthstreet,st joseph regional medical center,id,lewiston,83501
+102447,607 w mainstreet,syringa general hospital,id,grangeville,83530
+102448,301 cedarstreet,clearwater valley hospital  clinics,id,orofino,83544
+102449,1717 arlington street,west valley medical center,id,caldwell,83605
+102450,1202 eastlocust street,valor health,id,emmett,83617
+102451,1000 statestreet,st lukes mccall,id,burgdorf,83638
+102452,895 north6th east,st lukes elmore medical center,id,mountain home,83647
+102453,645 east 5th street,weiser memorial hospital,id,weiser,83672
+102454,4300 e flamingo ave,saint alphonsus medical center  nampa,id,nampa,83687
+102455,9850 w stlukes drive ste 250,st lukes nampa medical center,id,nampa,83687
+102456,303 northallumbaughstreet,intermountain hospital,id,boise,83704
+102457,8800 westemerald street,treasure valley hospital,id,boise,83704
+102458,6640 kaniksu street,boundary community hospital,id,bonners ferry,83805
+102459,2003 kootenai healthway,kootenai health,id,coeur dalene,83814
+102460,520 norththird avenue,bonner general hospital,id,sandpoint,83864
+102461,170 north1100 east,american fork hospital,ut,american fork,84003
+102462,630 east medical drive,lakeview hospital,ut,bountiful,84010
+102463,1600 westantelope drive,davis hospital and medical center,ut,layton,84041
+102464,7309 south180 west,highland ridge hospital,ut,midvale,84047
+102465,750 west 800 north,timpanogos regional hospital,ut,orem,84057
+102466,3741 west12600 south,riverton hospital,ut,riverton,84065
+102467,250 west 300 north,uintah basin medical center,ut,roosevelt,84066
+102468,2055 northmain street,mountain west medical center,ut,tooele,84074
+102469,9660 south1300 east,alta view hospital,ut,sandy,84094
+102470,1050 eastsouth temple,salt lake regional medical center,ut,salt lake city,84102
+102471,3802 south700 east,salt lake behavioral health,ut,salt lake city,84106
+102472,451 east bishop federal lane,marian center,ut,salt lake city,84115
+102473,8th avenueand c street,lds hospital,ut,salt lake city,84143
+102474,2380 north400 east,cache valley hospital,ut,north logan,84341
+102475,300 northhospital drive,castleview hospital,ut,price,84501
+102476,802 south200 west,blue mountain hospital,ut,blanding,84511
+102477,450 west williams way,moab regional hospital,ut,moab,84532
+102478,1034 north500 west,utah valley hospital,ut,provo,84604
+102479,1300 eastcenter street,utah state hospital,ut,provo,84605
+102480,126 southwhite sageavenue,delta community hospital,ut,delta,84624
+102481,674 southhighway 99,fillmore community hospital,ut,fillmore,84631
+102482,48 west 1500 north,central valley medical center  cah,ut,nephi,84648
+102483,1000 east100 north,mountain view hospital,ut,payson,84651
+102484,1000 northmain street,sevier valley hospital,ut,richfield,84701
+102485,1303 northmain street,cedar city hospital,ut,cedar city,84721
+102486,355 northmain street,kane county hospital,ut,kanab,84741
+102487,850 northmain street,milford valley memorial hospital,ut,milford,84751
+102488,1800 eastvan burenstreet,st lukes medical center,az,phoenix,85006
+102489,1800 eastvan buren,st lukes behavioral hospital lp,az,phoenix,85006
+102490,2500 eastvan burenstreet,arizona state hospital,az,phoenix,85008
+102491,2601 eastrooseveltstreet,valleywise health medical center,az,phoenix,85008
+102492,350 west thomas road,st josephs hospital and medical center,az,phoenix,85013
+102493,6501 north19th avenue,core institute specialty hospital the,az,phoenix,85015
+102494,3929 eastbell road,abrazo scottsdale campus,az,phoenix,85032
+102495,2050 westsouthern avenue,banner goldfield medical center,az,apache junction,85120
+102496,1400 southdobson road,banner desert medical center,az,mesa,85202
+102497,4620 eastbaseline road,arizona spine and joint hospital,az,mesa,85206
+102498,6644 eastbaywood avenue,banner baywood medical center,az,mesa,85206
+102499,1301 southcrismon road,mountain vista medical center lp,az,mesa,85209
+102500,2190 northgrace boulevard,oasis behavioral health hospital,az,chandler,85225
+102501,7575 eastearll drive,banner behavioral health hospital,az,scottsdale,85251
+102502,7400 eastosborn road,scottsdale osborn medical center,az,scottsdale,85251
+102503,7400 eastthompson peak parkway,scottsdale thompson peak medical center,az,scottsdale,85255
+102504,6350 southmaple avenue,aurora behavioral healthcaretempe,az,tempe,85283
+102505,3555 southval vistadrive,mercy gilbert medical center,az,gilbert,85297
+102506,5555 westthunderbird road,banner thunderbird medical center,az,glendale,85306
+102507,18701 north 67th avenue,abrazo arrowhead campus,az,glendale,85308
+102508,7171 south51st avenue,dignity health  arizona general hospital,az,laveen,85339
+102509,1200 westmohave road,la paz regional hospital,az,parker,85344
+102510,12033 agency road,parker indian health center,az,parker,85344
+102511,10401 westthunderbird boulevard,banner boswell medical center,az,sun city,85351
+102512,2400 southavenue a,yuma regional medical center,az,yuma,85364
+102513,520 rose lane,wickenburg community hospital,az,wickenburg,85390
+102514,13677 westmcdowellroad,abrazo west campus,az,goodyear,85395
+102515,450 southocotillo avenue,benson hospital,az,benson,85602
+102516,101 cole avenue,copper queen community hospital,az,bisbee,85603
+102517,highway 86 at topawa road,sells hospital,az,sells,85634
+102518,6050 northcorona road,sonora behavioral health hospital,az,tucson,85704
+102519,1400 northwilmot road,cornerstone behavioral health el dorado,az,tucson,85712
+102520,5301 eastgrant road,tucson medical center,az,tucson,85712
+102521,1551 easttangerineroad,oro valley hospital,az,oro valley,85755
+102522,2200 eastshow low lake road,summit healthcare regional medical center,az,show low,85901
+102523,118 southmountain avenue,white mountain regional medical center,az,springerville,85938
+102524,200 west hospital drive po box 860,whiteriver phs indian hospital,az,whiteriver,85941
+102525,1200 northbeaver street,flagstaff medical center,az,flagstaff,86001
+102526,2187 northvickey street,guidance center the,az,flagstaff,86004
+102527,highway 264 milepost 388,hopi health care center,az,polacca,86042
+102528,po box 600,tuba city regional health care corporation,az,tuba city,86045
+102529,1501 northwilliamson avenue,little colorado medical center,az,winslow,86047
+102530,1003 willow creek road,yavapai regional medical center,az,prescott,86301
+102531,269 southcandy lane,verde valley medical center,az,cottonwood,86326
+102532,2735 silver creek road,western arizona regional medical center,az,bullhead city,86442
+102533,us hwy 191 hospitalroad,chinle comprehensive health care facility,az,chinle,86503
+102534,po box 649,fort defiance indian hospital,az,fort defiance,86504
+102535,state route 264 south 191,sage memorial hospital,az,ganado,86505
+102536,exit 102off i40 12 mile south,dhhs usphs indian health services,nm,san fidel,87049
+102537,1100 central avenuese,presbyterian hospital,nm,albuquerque,87106
+102538,5400 gibson boulevard se 4thfloor box 8,haven behavioral hospital of albuquerque,nm,albuquerque,87108
+102539,4701 montgomery boulevard ne,lovelace womens hospital,nm,albuquerque,87109
+102540,10501 golfcourse road nw,lovelace westside hospital,nm,albuquerque,87114
+102541,3001 broadmoor blvdne,unm sandoval regional medical center,nm,rio rancho,87144
+102542,516 e nizhoni blvd,gallup indian medical center,nm,gallup,87301
+102543,1901 red rock drive,rehoboth mckinley christian health care services,nm,gallup,87301
+102544,junction of hwy 371,crownpoint healthcare facility,nm,crownpoint,87313
+102545,route 301north b street,zuni comprehensive community health center,nm,zuni,87327
+102546,us hwy 491north,northern navajo medical center,nm,shiprock,87420
+102547,1700 cerrillos road,santa fe phs indian hospital,nm,santa fe,87501
+102548,4801 beckner road,presbyterian santa fe medical center,nm,santa fe,87507
+102549,1397 weimer road,holy cross hospital a div of taos health systems,nm,taos,87571
+102550,104 legiondrive,alta vista regional hospital,nm,las vegas,87701
+102551,5065 mcnutt road bldgs b c d,peak behavioral health services llc,nm,santa teresa,88008
+102552,900 w ash,mimbres memorial hospital,nm,deming,88031
+102553,1313 e 32nd st,gila regional medical center,nm,silver city,88061
+102554,405 w country club road,eastern new mexico medical center,nm,roswell,88201
+102555,2430 westpierce street,carlsbad medical center,nm,carlsbad,88220
+102556,2669 northscenic drive,gerald champion regional medical center,nm,alamogordo,88310
+102557,211 sudderth drive,lincoln county medical center,nm,ruidoso,88345
+102558,301 east miel de luna avenue,dr dan c trigg memorial hospital,nm,tucumcari,88401
+102559,300 wilsonstreet,union county general hospital,nm,clayton,88415
+102560,901 adamsblvd,boulder city hospital,nv,boulder city,89005
+102561,700 n spring st box1010cadm bldg,grover c dils medical center,nv,caliente,89008
+102562,1050 westgalleria drive,henderson hospital,nv,henderson,89011
+102563,102 e lakemead dr,saint rose dominican hospitals  rose de lima,nv,henderson,89015
+102564,1550 w craig ranch,dignity health st rose dominican n l v campus,nv,north las vegas,89031
+102565,3021 w horizon ridgepkwy,seven hills behavioral institute,nv,henderson,89052
+102566,1800 w charleston blvd,university medical center,nv,las vegas,89102
+102567,3247 s maryland parkway,desert parkway behavioral healthcare hospital llc,nv,las vegas,89109
+102568,7000 westspring mountain road,spring mountain treatment center,nv,las vegas,89117
+102569,5400 southrainbow blvd,spring valley hospital medical center,nv,las vegas,89118
+102570,2075 eastflamingo road,desert springs hospital,nv,las vegas,89119
+102571,3100 n tenaya way,mountainview hospital,nv,las vegas,89128
+102572,6161 w charleston blvd,southern nevada adult mental health services,nv,las vegas,89146
+102573,8656 westpatrick lane,orthopedic specialty hospital of nevada,nv,las vegas,89148
+102574,9300 westsunset rd,southern hills hospital and medical center,nv,las vegas,89148
+102575,99 mdg 4700 las vegas blvd,99th medical group nellis afb,nv,nellis afb,89191
+102576,1500 avenue h,william bee ririe hospital,nv,ely,89301
+102577,801 east williams avenue,banner churchill community hospital,nv,fallon,89406
+102578,1107 highway 395,carson valley medical center,nv,gardnerville,89410
+102579,2375 e prater way,northern nevada medical center,nv,sparks,89434
+102580,118 east haskell street,humboldt general hospital,nv,winnemucca,89445
+102581,880 alderstreet,incline village health center,nv,incline village,89451
+102582,1155 millstreet,renown regional medical center,nv,reno,89502
+102583,1240 e ninth st,bhc west hills hospital,nv,reno,89512
+102584,10101 double r blvd,renown south meadows medical center,nv,reno,89521
+102585,1600 medical parkway,carson tahoe regional medical center,nv,carson city,89703
+102586,1401 southgrand avenue,california hospital medical center la,ca,los angeles,90015
+102587,3160 geneva street,shriners hospitals for children,ca,los angeles,90020
+102588,4060 whittier blvd,east los angeles doctors hospital,ca,los angeles,90023
+102589,4081 e olympic blvd,los angeles community hospital,ca,los angeles,90023
+102590,1711 westtemple street,l a downtown medical center,ca,los angeles,90026
+102591,1720 e cesar avenue,white memorial medical center,ca,los angeles,90033
+102592,6041 cadillac ave,kaiser foundation hospital  west la,ca,los angeles,90034
+102593,5900 westolympic boulevard,olympia medical center,ca,los angeles,90036
+102594,8700 beverly blvd,cedarssinai medical center,ca,los angeles,90048
+102595,2131 w 3rdst,saint vincent medical center,ca,los angeles,90057
+102596,1680 east120th street,martin luther king jr community hospital,ca,los angeles,90059
+102597,757 westwood plaza,ronald reagan u c l a medical center,ca,los angeles,90095
+102598,4650 lincoln blvd,cedarsinai marina del rey hospital,ca,marina del rey,90291
+102599,23700 camino del sol,del amo hospital,ca,torrance,90505
+102600,3330 lomita blvd,torrance memorial medical center,ca,torrance,90509
+102601,309 w beverly blvd,beverly hospital,ca,montebello,90640
+102602,13100 studerbaker road,coast plaza hospital,ca,norwalk,90650
+102603,100 fallscanyon road,catalina island medical center,ca,avalon,90704
+102604,25825 south vermontavenue,kaiser foundation hospital  south bay,ca,harbor city,90710
+102605,2801 atlantic ave,long beach memorial medical center,ca,long beach,90806
+102606,2801 atlantic avenue,memorial care miller childrens  womens hosp lb,ca,long beach,90806
+102607,2600 redondo avenuesuite 500,ocean view psychiatric health facility,ca,long beach,90806
+102608,300 w huntington dr,methodist hospital of southern ca,ca,arcadia,91006
+102609,2900 e delmar blvd,aurora las encinas hospital,ca,pasadena,91107
+102610,1420 s central ave,glendale mem hospital  hlth center,ca,glendale,91204
+102611,1509 e wilson terrace,glendale adventist medical center,ca,glendale,91206
+102612,1812 verdugo blvd,usc verdugo hills hospital,ca,glendale,91209
+102613,7300 medical centerdr,west hills hospital  medical center,ca,west hills,91307
+102614,18300 roscoe blvd,northridge hospital medical center,ca,northridge,91325
+102615,7150 tampaavenue,joyce eisenberg keefer medical center,ca,reseda,91335
+102616,14445 olive view drive,lacolive viewucla medical center,ca,sylmar,91342
+102617,15031 rinaldi st,providence holy cross medical center,ca,mission hills,91346
+102618,23845 mcbean pkwy,henry mayo newhall hospital,ca,valencia,91355
+102619,18321 clark street,providence tarzana medical center,ca,tarzana,91356
+102620,18646 oxnard street,tarzana treatment center,ca,tarzana,91356
+102621,5601 de soto avenue,kaiser foundation hospital  woodland hills,ca,woodland hills,91367
+102622,13652 cantara st,kaiser foundation hospital  panorama city,ca,panorama city,91402
+102623,14850 roscoe blvd,mission community hospital,ca,panorama city,91402
+102624,4929 van nuys blvd,sherman oaks hospital,ca,sherman oaks,91403
+102625,16237 ventura blvd,encino hospital medical center,ca,encino,91436
+102626,1011 baldwin park blvd,kaiser foundation hospital  baldwin park,ca,baldwin park,91706
+102627,5353 g street,canyon ridge hospital,ca,chino,91710
+102628,5451 walnut ave,chino valley medical center,ca,chino,91710
+102629,210 w sanbernardinoroad,emanate health intercommunity hospital,ca,covina,91723
+102630,250 s grand ave,emanate health foothill presbyterian hospital,ca,glendora,91740
+102631,525 n garfield ave,garfield medical center,ca,monterey park,91754
+102632,900 s atlantic blvd,monterey park hospital,ca,monterey park,91754
+102633,1798 n garey ave,pomona valley hospital medical center,ca,pomona,91767
+102634,4619 n rosemead blvd,bhc alhambra hosp,ca,rosemead,91770
+102635,1350 w covina blvd,san dimas community hospital,ca,san dimas,91773
+102636,438 w lastunas drive,san gabriel valley medical center,ca,san gabriel,91776
+102637,999 san bernardino road,san antonio regional hospital,ca,upland,91786
+102638,725 s orange ave,west covina medical center inc,ca,west covina,91790
+102639,751 medical center court,sharp chula vista medical center,ca,chula vista,91911
+102640,7050 parkway drive,alvarado parkway institute behavioral health syste,ca,la mesa,91942
+102641,2400 east4th st,paradise valley hospital,ca,national city,91950
+102642,354 santafe drive,scripps memorial hospital  encinitas,ca,encinitas,92024
+102643,555 east valley parkway,palomar health downtown campus,ca,escondido,92025
+102644,10666 north torrey pines road,scripps green hospital,ca,la jolla,92037
+102645,9888 genesee avenue,scripps memorial hospital la jolla,ca,la jolla,92037
+102646,200 mercycircle camp pendleton,nh camp pendleton,ca,camp pendleton,92055
+102647,4077 5th ave,scripps mercy hospital,ca,san diego,92103
+102648,200 west arbor drive,uc san diego health hillcrest  hillcrest med ctr,ca,san diego,92103
+102649,250 prospect place,sharp coronado hospital and hlthcr ctr,ca,coronado,92118
+102650,6655 alvarado road,alvarado hospital medical center,ca,san diego,92120
+102651,4647 zionave,kaiser foundation hospital  zion,ca,san diego,92120
+102652,11878 avenue of industry,aurora san diego,ca,san diego,92128
+102653,600 northhighland springs avenue,san gorgonio memorial hospital,ca,banning,92220
+102654,250 northfirst street,palo verde hospital,ca,blythe,92225
+102655,6601 whitefeather road,hidesert medical center,ca,joshua tree,92252
+102656,39000 bobhope drive,eisenhower medical center,ca,rancho mirage,92270
+102657,18300 highway 18,st mary medical center,ca,apple valley,92307
+102658,820 e mountain viewstreet,barstow community hospital,ca,barstow,92311
+102659,400 northpepper avenue,arrowhead regional medical center,ca,colton,92324
+102660,9961 sierra ave,kaiser foundation hospital fontana,ca,fontana,92335
+102661,29101 hospital road,mountains community hospital,ca,lake arrowhead,92352
+102662,11234 anderson st,loma linda university medical center,ca,loma linda,92354
+102663,1710 barton road,loma linda university behavioral med ctr,ca,redlands,92373
+102664,1805 medical centerdrive,community hospital of san bernardino,ca,san bernardino,92411
+102665,4445 magnolia avenue,riverside community hospital,ca,riverside,92501
+102666,3865 jackson street,doctors hospital of riverside,ca,riverside,92503
+102667,5900 brockton ave,pacific grove hospital,ca,riverside,92506
+102668,1117 eastdevonshire,hemet valley medical center,ca,hemet,92543
+102669,26520 cactus avenue,riverside university health systemmedical center,ca,moreno valley,92555
+102670,25500 medical centerdrive,southwest healthcare system,ca,murrieta,92562
+102671,28400 mccall b0ulevard,menifee global medical center,ca,sun city,92585
+102672,31700 temecula pkwy,temecula valley hospital,ca,temecula,92592
+102673,2501 harbor boulevard,fairview developmental center,ca,costa mesa,92626
+102674,301 victoria street,college hospital costa mesa,ca,costa mesa,92627
+102675,17772 beach blvd,huntington beach hospital,ca,huntington beach,92647
+102676,2701 s bristol st,south coast global medical center,ca,santa ana,92704
+102677,1001 northtustin avenue,orange county global medical center,ca,santa ana,92705
+102678,17100 euclid street,fountain valley regional hospital  medical center,ca,fountain valley,92708
+102679,9920 talbert avenue,memorialcare orange coast medical center,ca,fountain valley,92708
+102680,14662 newport ave,foothill regional medical center,ca,tustin,92780
+102681,1111 w lapalma avenue,ahmc anaheim regional medical center,ca,anaheim,92801
+102682,101 e valencia mesadrive,st jude medical center,ca,fullerton,92835
+102683,1201 w laveta ave,childrens hospital of orange county,ca,orange,92868
+102684,1100 weststewart dr,st joseph hospital,ca,orange,92868
+102685,2601 e chapman ave,chapman global medical center,ca,orange,92869
+102686,400 west pueblo,santa barbara cottage hospital,ca,santa barbara,93102
+102687,315 caminodel remedio,santa barbara county psychiatric health facility,ca,santa barbara,93110
+102688,351 s patterson ave,goleta valley cottage hospital,ca,santa barbara,93111
+102689,1191 phelps avenue,coalinga regional medical center,ca,coalinga,93210
+102690,1401 garces highway,delano regional medical center,ca,delano,93215
+102691,26501 avenue 140,porterville developmental center,ca,porterville,93257
+102692,465 w putnam ave,sierra view medical center,ca,porterville,93257
+102693,869 northcherry street,adventist health tulare,ca,tulare,93274
+102694,400 w mineral king ave,kaweah delta medical center,ca,visalia,93291
+102695,420 34th st,bakersfield memorial hospital,ca,bakersfield,93301
+102696,3001 sillect avenue,bakersfield heart hospital,ca,bakersfield,93308
+102697,901 olivedrive,good samaritan hospital,ca,bakersfield,93308
+102698,1911 johnson ave,french hospital medical center,ca,san luis obispo,93401
+102699,1010 murray st,sierra vista regional medical center,ca,san luis obispo,93405
+102700,1515 e ocean avenue,lompoc valley medical center,ca,lompoc,93436
+102701,150 pioneer lane,northern inyo hospital,ca,bishop,93514
+102702,501 east locust street,southern inyo hospital,ca,lone pine,93545
+102703,85 sierrapark roadpo box 660,mammoth hospital,ca,mammoth lakes,93546
+102704,1081 northchina lake blvd,ridgecrest regional hospital,ca,ridgecrest,93555
+102705,520 west ist,memorial hospital los banos,ca,los banos,93635
+102706,9300 valley childrens place,valley childrens hospital,ca,madera,93636
+102707,372 w cypress ave,adventist health reedley,ca,reedley,93654
+102708,1303 e herndon ave,saint agnes medical center,ca,fresno,93710
+102709,7300 northfresno st,kaiser foundation hospital  fresno,ca,fresno,93720
+102710,1441 constitution boulevard,natividad medical center,ca,salinas,93906
+102711,23625 w rholman highway,community hospital of the monterey peninsula,ca,monterey,93940
+102712,570 willowroad,menlo park surgical hospital,ca,menlo park,94025
+102713,2500 grantroad,el camino hospital,ca,mountain view,94040
+102714,1100 veterans boulevard,kaiser foundation hospital  redwood city,ca,redwood city,94063
+102715,1200 el camino real,kaiser foundation hospital  south san francisco,ca,south san francisco,94080
+102716,1101 van ness avenue,california pacific medical center van ness campus,ca,san francisco,94109
+102717,1001 potrero avenue,zuckerberg san francisco general hosp  trauma ctr,ca,san francisco,94110
+102718,2425 gearyblvd,kaiser foundation hospital  san francisco,ca,san francisco,94115
+102719,450 stanyan st,st marys medical center,ca,san francisco,94117
+102720,401 parnassus avenue,langley porter psychiatric institute,ca,san francisco,94143
+102721,725 welchroad,lucile salter packard childrens hsp at stanford,ca,palo alto,94304
+102722,300 pasteur drive,stanford health care,ca,stanford,94305
+102723,2070 clinton avenue,alameda hospital,ca,alameda,94501
+102724,2000 mowryave,washington hospital,ca,fremont,94538
+102725,2100 napavallejo highway,dept of state hospitals  napa,ca,napa,94558
+102726,1000 trancas st,queen of the valley medical center,ca,napa,94558
+102727,10 woodland road,adventist health st helena,ca,saint helena,94574
+102728,2050 fairmont drive,willow rock center,ca,san leandro,94578
+102729,6001 norris canyon road,san ramon regional medical center,ca,san ramon,94583
+102730,525 oregonst,adventist health vallejo,ca,vallejo,94590
+102731,1601 ygnacio valleyrd,john muir medical center  walnut creek campus,ca,walnut creek,94598
+102732,747 52nd street,childrens hospital  research center oakland,ca,oakland,94609
+102733,250 bon air road pobox 8010,marinhealth medical center,ca,greenbrae,94904
+102734,180 rowland way,novato community hospital,ca,novato,94945
+102735,400 n mcdowell blvd,petaluma valley hospital,ca,petaluma,94954
+102736,2250 soquel avenuesuite 150,santa cruz county psychiatric health facility,ca,santa cruz,95062
+102737,2900 chanticleer avenue,sutter maternity  surgery center of santa cruz,ca,santa cruz,95065
+102738,75 nielsonstreet,watsonville community hospital,ca,watsonville,95076
+102739,225 n jackson avenue,regional medical center of san jose,ca,san jose,95116
+102740,250 hospital parkway,kaiser foundation hospitalsan jose,ca,san jose,95119
+102741,2105 forest avenue,oconnor hospital,ca,san jose,95128
+102742,1800 n california st,st josephs medical center of stockton,ca,stockton,95204
+102743,500 w hospital road,san joaquin general hospital,ca,french camp,95231
+102744,975 s fairmont avenue,adventist health lodi memorial,ca,lodi,95240
+102745,768 mountain ranch rd,mark twain medical center,ca,san andreas,95249
+102746,333 mercyavenue,mercy medical center,ca,merced,95340
+102747,1441 florida avenue,doctors medical center,ca,modesto,95350
+102748,1700 coffee rd,memorial medical center,ca,modesto,95355
+102749,1000 greenley road,adventist health sonora,ca,sonora,95370
+102750,1420 northtracy blvd,sutter tracy community hospital,ca,tracy,95376
+102751,825 delbonave,emanuel medical center,ca,turlock,95382
+102752,401 bicentennial way,kaiser foundation hospitalsanta rosa,ca,santa rosa,95403
+102753,30 mark west springsroad,sutter santa rosa regional hospital,ca,santa rosa,95403
+102754,1165 montgomery dr,santa rosa memorial hospital,ca,santa rosa,95405
+102755,15630 18thave  hwy53,adventist health clearlake,ca,clearlake,95422
+102756,15000 arnold drive p o box 1493,sonoma developmental center,ca,eldridge,95431
+102757,1375 university avenue,healdsburg district hospital,ca,healdsburg,95448
+102758,5176 hillroad east,sutter lakeside hospital,ca,lakeport,95453
+102759,6501 coyleave,mercy san juan medical center,ca,carmichael,95608
+102760,1650 creekside drive,mercy hospital of folsom,ca,folsom,95630
+102761,1600 eureka road,kaiser foundation hospital  roseville,ca,roseville,95661
+102762,one medical plaza,sutter roseville medical center,ca,roseville,95661
+102763,1 qualitydrive,kaiser foundation hospital  vacaville,ca,vacaville,95688
+102764,2825 capitol avenue,sutter medical center sacramento,ca,sacramento,95816
+102765,2425 stockton boulevard,shriners hospitals for children northern calif,ca,sacramento,95817
+102766,7500 hospital drive,methodist hospital of sacramento,ca,sacramento,95823
+102767,2025 morseavenue,kaiser foundation hospital  sacramento,ca,sacramento,95825
+102768,7700 folsom blvd,sutter center for psychiatry,ca,sacramento,95826
+102769,199 e webster street,colusa medical center,ca,colusa,95932
+102770,155 glasson way,sierra nevada memorial hospital,ca,grass valley,95945
+102771,240 sprucestreet,orchard hospital,ca,gridley,95948
+102772,2767 olivehighway,oroville hospital,ca,oroville,95966
+102773,455 plumasblvd,sutter surgical hospital  north valley,ca,yuba city,95991
+102774,2175 rosaline ave clairmont hgts,mercy medical center redding,ca,redding,96001
+102775,1100 buttest,shasta regional medical center,ca,redding,96001
+102776,130 brentwood drive,seneca district hospital,ca,chester,96020
+102777,2550 sister mary columba drive,st elizabeth community hospital,ca,red bluff,96080
+102778,444 brucestreet,fairchild medical center,ca,yreka,96097
+102779,741 northmain street,surprise valley community hospital,ca,cedarville,96104
+102780,1800 spring ridge drive,banner lassen medical center,ca,susanville,96130
+102781,10121 pineave,tahoe forest hospital,ca,truckee,96161
+102782,912301 fort weaverroad,kahi mohala,hi,ewa beach,96706
+102783,1190 waianuenue avenue,hilo medical center,hi,hilo,96720
+102784,56117 pualalea street,kahuku medical center,hi,kahuku,96731
+102785,67 1125 mamalahoa highway,north hawaii community hospital,hi,kamuela,96743
+102786,791019 haukapila street,kona community hospital,hi,kealakekua,96750
+102787,628 7th street,lanai community hospital,hi,lanai city,96763
+102788,33420 kuhio highway,wilcox memorial hospital,hi,lihue,96766
+102789,1 kamani street,kau hospital,hi,pahala,96777
+102790,128 lehuastreet,wahiawa general hospital,hi,wahiawa,96786
+102791,100 keokeaplace,kula hospital,hi,kula,96790
+102792,4643 waimea canyon drive,kauai veterans memorial hospital,hi,waimea,96796
+102793,3288 moanalua rd,kaiser foundation hospital,hi,honolulu,96819
+102794,1319 punahou street,kapiolani medical center for women  children,hi,honolulu,96826
+102795,1 jarrettwhite rd,tripler amc ft shafter,hi,honolulu,96859
+102796,85o gov carlos g camacho road,guam memorial hospital authority,gu,tamuning,96913
+102797,133 route3,guam regional medical city,gu,dededo,96929
+102798,1700 e 19th street,midcolumbia medical center,or,the dalles,97058
+102799,2111 exchange street,columbia memorial hospital,or,astoria,97103
+102800,335 se 8thavenue,tuality community hospital,or,hillsboro,97123
+102801,2875 nw stucki ave,kaiser foundation hospital  westside,or,hillsboro,97124
+102802,2700 se stratus ave,willamette valley medical center,or,mcminnville,97128
+102803,1001 providence drive,providence newberg medical center,or,newberg,97132
+102804,725 s wahanna road,providence seaside hospital,or,seaside,97138
+102805,1000 thirdstreet,adventist health tillamook,or,tillamook,97141
+102806,4805 ne glisan street,providence portland medical center,or,portland,97213
+102807,10150 se 32nd avenue,providence milwaukie hospital,or,milwaukie,97222
+102808,10300 sw eastridge street,cedar hills hospital,or,portland,97225
+102809,2801 n gantenbein avenue,legacy emanuel medical center,or,portland,97227
+102810,3181 sw sam jacksonpark road,ohsu hospital and clinics,or,portland,97239
+102811,3101 sw sam jacksonpark road,shriners hospital for childrenportland,or,portland,97239
+102812,2600 center street ne,oregon state hospital distinct part,or,salem,97301
+102813,890 oak street se,salem hospital,or,salem,97301
+102814,1046 6th avenue sw,samaritan albany general hospital,or,albany,97321
+102815,3600 nw samaritan drive,good samaritan regional medical center,or,corvallis,97330
+102816,525 se washington street,salem health west valley,or,dallas,97338
+102817,930 sw abbey street,samaritan pacific community hospital,or,newport,97365
+102818,1255 hilyard street,sacred heart university district,or,eugene,97401
+102819,900 11th street se,southern coos hospital  health center,or,bandon,97411
+102820,1460 g street,mckenziewillamette medical center,or,springfield,97477
+102821,3333 riverbend drive,sacred heart medical center  riverbend,or,springfield,97477
+102822,1111 crater lake avenue,providence medford medical center,or,medford,97504
+102823,500 sw ramsey avenue,asante three rivers medical center,or,grants pass,97527
+102824,557 w washington street,harney district hospital,or,burns,97720
+102825,470 ne a street,st charles madras,or,madras,97741
+102826,1253 nw canal blvd,st charles redmond,or,redmond,97756
+102827,3325 pocahontas road,saint alphonsus medical center  baker city inc,or,baker city,97814
+102828,564 e pioneer drive,pioneer memorial hospital,or,heppner,97836
+102829,610 nw 11th street,good shepherd medical center,or,hermiston,97838
+102830,170 ford road,blue mountain hospital,or,john day,97845
+102831,900 sunsetdrive,grande ronde hospital,or,la grande,97850
+102832,351 sw 9thstreet,saint alphonsus medical center  ontario inc,or,ontario,97914
+102833,202 northdivision street plaza one,multicare auburn medical center,wa,auburn,98001
+102834,34515 9thavenue south,st francis community hospital,wa,federal way,98003
+102835,1035116thave ne,overlake hospital medical center,wa,bellevue,98004
+102836,1450 battersby avenue,st elizabeth hospital,wa,enumclaw,98022
+102837,12040 ne 128th street,evergreenhealth medical center,wa,kirkland,98034
+102838,400 s 43rdst,valley medical center,wa,renton,98055
+102839,925 senecast,virginia mason medical center,wa,seattle,98101
+102840,4800 sandpoint wayne po boxc5371,seattle childrens hospital,wa,seattle,98105
+102841,201  16thavenue east,kaiser permanente central hospital,wa,seattle,98112
+102842,500 17th avenue,swedish medical center  cherry hill,wa,seattle,98122
+102843,2600 southwest holden,navos,wa,seattle,98126
+102844,1550 north115th street,uw medicinenorthwest hospital,wa,seattle,98133
+102845,1211 24thstreet,island hospital,wa,anacortes,98221
+102846,2901 squalicum parkway,st joseph hospital,wa,bellingham,98225
+102847,1117 spring street,peacehealth peace island medical center,wa,friday harbor,98250
+102848,3955 156thst ne,smokey point behavioral hospital,wa,marysville,98271
+102849,3475 northsaratogastreet,nh oak harbor,wa,oak harbor,98277
+102850,2000 hospital drive,peacehealth united general medical center,wa,sedro woolley,98284
+102851,2520 cherry avenue,harrison memorial hospital,wa,bremerton,98310
+102852,530 bogachiel way,forks community hospital,wa,forks,98331
+102853,11567 canterwood boulevard nw,st anthony hospital,wa,gig harbor,98332
+102854,521 adamsstreet,arbor health morton hospital,wa,morton,98356
+102855,939 caroline st,olympic medical center,wa,port angeles,98362
+102856,834 sheridan street,jefferson healthcare,wa,port townsend,98368
+102857,315 s mlkjr way,tacoma general allenmore hospital,wa,tacoma,98405
+102858,317 martinluther king jr w box 5299,mary bridge childrens hospital,wa,tacoma,98415
+102859,9040 jackson avenue,madigan amc ft lewis,wa,tacoma,98431
+102860,413 lillyroad ne,providence st peter hospital,wa,olympia,98506
+102861,901 mt view drive,mason general hospital  family of clinics,wa,shelton,98584
+102862,174 firstavenue north,ocean beach hospital,wa,ilwaco,98624
+102863,400 ne mother josephplace,peacehealth southwest medical center,wa,vancouver,98668
+102864,820 northchelan avenue,confluence health wenatchee valley hosp  clinics,wa,wenatchee,98801
+102865,1201 southmiller street,central washington hospital,wa,wenatchee,98807
+102866,507 hospital way,three rivers hospital,wa,brewster,98812
+102867,503 east highland,lake chelan community hospital,wa,chelan,98816
+102868,200 nat washington way,columbia basin hospital,wa,ephrata,98823
+102869,817 commercial street,cascade medical center,wa,leavenworth,98826
+102870,810 jasmine street,mid valley hospital,wa,omak,98841
+102871,203 southwestern,north valley hospital,wa,tonasket,98855
+102872,110 southninth ave,astria regional medical center,wa,yakima,98902
+102873,2811 tieton drive,yakima valley memorial hospital,wa,yakima,98902
+102874,1016 tacoma avenue,astria sunnyside hospital,wa,sunnyside,98944
+102875,502 w fourth ave,astria toppenish hospital,wa,toppenish,98948
+102876,850 maplestreet  po box a,eastern state hospital,wa,medical lake,99022
+102877,500 east webster,providence st joseph hospital,wa,chewelah,99109
+102878,411 fortuyn road,coulee medical center,wa,grand coulee,99133
+102879,714 west pine street,newport community hospital,wa,newport,99156
+102880,835 s bishop blvd,pullman regional hospital,wa,pullman,99163
+102881,104 w 5thave,inland northwest behavioral health,wa,spokane,99204
+102882,5633 northlidgerwood,providence holy family hospital,wa,spokane,99208
+102883,12606 eastmission avenue,multicare valley hospital,wa,spokane,99216
+102884,1012 south3rd street,dayton general hospital,wa,dayton,99328
+102885,315 north14th avenue,othello community hospital,wa,othello,99344
+102886,66 north sixth street,garfield county memorial hospital,wa,pomeroy,99347
+102887,888 swiftblvd,kadlec regional medical center,wa,richland,99352
+102888,1175 carondelet drive,lourdes counseling center,wa,richland,99352
+102889,673 mdg 5955 zeamerave,673rd medical group joint base elmendorfrichardson,ak,jber,99506
+102890,2801 debarr road,alaska regional hospital,ak,anchorage,99508
+102891,2530 debarr rd,north star hospital,ak,anchorage,99508
+102892,3200 providence drive,providence alaska medical center,ak,anchorage,99508
+102893,po box 287,yukon kuskokwim delta reg hospital,ak,bethel,99559
+102894,p o box 130,kanakanak hospital,ak,dillingham,99576
+102895,4076 neelyroad,bassett ach ft wainwright,ak,fort wainwright,99703
+102896,7000 uulast,samuel simmonds memorial hospital,ak,barrow,99723
+102897,po box 43,maniilaq health center,ak,kotzebue,99752
+102898,po box 589,petersburg medical center,ak,petersburg,99833
+102899,222 tongass dr,mt edgecumbe hospital,ak,sitka,99835
+102900,209 mollerdrive,sitka community hospital,ak,sitka,99835
+102901,3100 tongass avenue,ketchikan medical center,ak,ketchikan,99901
