@@ -52,15 +52,6 @@
 #require(RecordLinkage)
 require(tools)
 
-## Create DB connections
-#print(paste("DB details", sql_dsn, sql_id , sql_pwd ))
-#db_conn <- odbcConnect(sql_dsn , uid=sql_id, pwd=sql_pwd , DBMSencoding="latin1")
-#print(db_conn)
-
-## Read data from DB
-#output <- sqlQuery(db_conn, "")
-
-
 
 # Remove all objects in current R Workspace
 rm(list = ls(all.names = TRUE))
@@ -108,9 +99,9 @@ if (!is.loaded(BINARIES_NAME)){
 
 
 # Experimental: To increase allocated RAM size and invoke garbage-collector
-# if (memory.limit()!=4000){
-#   memory.limit(size=4000)
-# }
+ if (memory.limit()!=4000){
+   memory.limit(size=4000)
+ }
 gc()
 
 # Deduplicate the incoming dataset, and create an output /Raw_Scores/country_Score_Features.csv file

@@ -3,7 +3,8 @@ import os
 
     
 ''' Environment Directory Config '''
-_STATIC_FILE_NAME="Site_Master_Extract.xlsx"
+#_STATIC_FILE_NAME="Site_Master_Extract.xlsx"
+_STATIC_FILE_NAME='hospital_account_info.csv'
 _RAW_SCORES_DIRECTORY='Raw_Scores'
 _CLEANED_SCORES_DIRECTORY='Cleaned_Scores'
 _MASTER_DATA_DIRECTORY='Master_Data'
@@ -17,7 +18,7 @@ _STAGING_AREA_DIRECTORY=os.path.join(_MASTER_DATA_DIRECTORY, 'Recursive_Staging_
 ''' Data_Fields Config '''
 _FIELDS_TO_CONCAT={ 'CONCAT_ADDRESS':   ['ADDRESS_LINE_1','ADDRESS_LINE_2','ADDRESS_LINE_3'] }
 _COLUMNS_TO_CLEAN=['ADDRESS_LINE_1','ADDRESS_LINE_2','ADDRESS_LINE_3','SITE_NAME','STATE','CITY','POSTAL_CODE']
-_MAXSIZE=500
+_MAXSIZE=2000
 
 
 
