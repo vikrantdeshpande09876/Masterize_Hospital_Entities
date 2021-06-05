@@ -31,14 +31,12 @@ def preformat_input_using_sparksql():
         spark = SparkSession.builder.master('local[1]').appName('TempSession.com').getOrCreate()
         df = spark.read.options(header=True, inferSchema=True).csv(conf._RAW_STATIC_FILE_NAME)
         sparksql_view = 'DM_TEMP'
-        
         df.createOrReplaceTempView(sparksql_view)
         query = 'SELECT'
         for raw_name, std_name in conf._RAW_TO_STD_COLS.items():
             query += ' `{}` as {},'.format(raw_name, std_name)
         query = query[:-1] + ' from {}'.format(sparksql_view)
         df = spark.sql(query)
-        
         df.createOrReplaceTempView(sparksql_view)
         query = 'SELECT 100001+ROW_NUMBER() OVER (ORDER BY  POSTAL_CODE, STATE, CITY, SITE_NAME, ADDRESS_LINE_1) SR_NUM, "{}" as COUNTRY,'.format(conf._RAW_COUNTRY)
         for col_name in conf._STD_COLS_ORDER:
@@ -48,13 +46,11 @@ def preformat_input_using_sparksql():
         df = df.toPandas()
         write_df_to_csv(df=df, file_suffix=conf._STATIC_FILE_NAME)
         spark.stop()
-        
     except Exception as e:
         print('\nSomething went wrong while pre-formatting the input data. Please check if the file is currently in use.')
         print(e)
-        
     finally:
-        print('\nStandardized the input data columns, and sorted them to ensure better compression-statistics!{} is now ready to be processed by the algorithm.'.format(conf._STATIC_FILE_NAME))
+        print('\nStandardized the input data columns, and sorted them to ensure better compression-statistics!\n{} is now ready to be processed by the algorithm.'.format(conf._STATIC_FILE_NAME))
 
 
 
@@ -71,6 +67,7 @@ def preprocess_dataframe(df):
             df_copy[colname]=df_copy[colname].apply(lambda x: x.replace(' ','_'))            
         df_copy[colname]=df_copy[colname].astype(str).apply(lambda x: x.strip())
     return df_copy
+
 
 
 def clean_dataframe(df, columns_to_clean=conf._COLUMNS_TO_CLEAN, fields_to_concat=conf._FIELDS_TO_CONCAT, replace_punctuations=True):
@@ -224,6 +221,7 @@ def replace_cyclic_dependencies_bkp(df, child_indicator='SR_NUM_1', master_indic
     return df
 
 
+
 def clean_score_features(curr_country, country_df, source_dir=conf._RAW_SCORES_DIRECTORY, target_dir=conf._CLEANED_SCORES_DIRECTORY, verbose=True):
     """
         DOCSTRING:  Reads the output of the Rscript command that is a csv of score_features having total-score greater than a total-threshold.
@@ -243,6 +241,7 @@ def clean_score_features(curr_country, country_df, source_dir=conf._RAW_SCORES_D
     write_df_to_csv(df=duplicates, root_dir=target_dir, curr_country=curr_country, file_suffix='_Cleaned_Feature_Scores.csv')
     print('\n"SR_NUM_2" will be the master record')
     return duplicates
+
 
 
 def get_deduplicated_master_records(normalized_duplicates, country_df):
@@ -268,6 +267,7 @@ def get_deduplicated_master_records(normalized_duplicates, country_df):
     no_match_set=country_set.difference(entire_duplicates_set)
     master_record_ids=no_match_set.union(a2)
     return master_record_ids
+
 
 
 def generate_deduplicated_master(country_df, master_record_ids, curr_country, target_dir=conf._MASTER_DATA_DIRECTORY, write_csv=True):
@@ -307,6 +307,7 @@ def generate_dummy_cross_refs_for_masters(master_record_ids, curr_country):
     return cross_ref_df
 
 
+
 def generate_final_cross_refs(cross_ref_df, normalized_duplicates, curr_country, target_dir=conf._MASTER_DATA_DIRECTORY, write_csv=True):
     """
         DOCSTRING:  Merges the dummy cross-reference of masters, with the cleaned-normalized-feature-scores.
@@ -336,7 +337,6 @@ def update_entire_country_cross_ref(new_depth_cross_ref_df, entire_country_cross
     entire_country_cross_ref_df.update(cross_refs_with_merges, join='left', overwrite=True)
     entire_country_cross_ref_df['SR_NUM_2']=entire_country_cross_ref_df['SR_NUM_2'].apply(pd.to_numeric)
     entire_country_cross_ref_df.reset_index(inplace=True)
-
 
 
 
