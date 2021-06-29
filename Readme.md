@@ -54,15 +54,13 @@ iv. Finally, from this list of cleaned-normalized-score-features, using basic se
 Union of 'SR_NUM_1' & 'SR_NUM_2' will be the universe of potential duplicates (UPD).
 Stand-alone records in the current minibatch, are those which do not fall in this universe of potential duplicates (Non-UPD).
 The final Master-records will be the union of Master-Ids and the Stand-alone Ids identified above.
-
-<img src="/Documentation/Research_Paper_Work/Set_Theory_equations.jpg" height="200" width="500" alt="Set_Theory_equations" />
-
+<p align="center">
+<img src="/Documentation/Research_Paper_Work/Set_Theory_equations.jpg" height="100" width="300" alt="Set_Theory_equations" />
 <img src="/Documentation/Research_Paper_Work/Set_Theory.jpg" height="400" width="600" alt="Set_Theory" />
-
+</p>
 
 v. A recursive algorithmic approach will first pass minibatches of a fixed size into the _dedup_ R-function and generate deduplicated master-datasets.
 These deduplicated master-datasets would be compared against each other using the _linkage_ R-function. This is similar to the conventional level-order traversal of a binary tree using a queue, but in reverse, until each record is compared against every other. The motivation here is to prevent overuse of RAM, due to in-memory candidate pair computations.
-
 ![Recursive_Approach_Formalized](/Documentation/Research_Paper_Work/Recursive_Approach_Formalized.jpg?raw=True)
 
 
