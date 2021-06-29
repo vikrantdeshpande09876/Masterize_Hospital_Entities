@@ -10,7 +10,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102408,USA,78229,christus santa rosa medical center,tx,san antonio,BEXAR,(210) 704-3342,Acute Care Hospitals,Voluntary non-profit - Church,73240,2827 babcock road
 102409,USA,78234,brooke army medical center ft sam houston,tx,fort sam houston,BEXAR,(210) 916-4141,Acute Care - Department of Defense,Department of Defense,90781,3551 rogerbrooke drive
 102410,USA,78240,foundation surgical hospital of san antonio,tx,san antonio,BEXAR,(210) 478-5400,Acute Care Hospitals,Proprietary,48789,9522 huebner road
-102411,USA,78240,san antonio behavioral healthcare hospital,tx,san antonio,BEXAR,(210) 541-5300,Psychiatric,Proprietary,90473,8550 huebner road
 102412,USA,78249,legent orthopedic  spine,tx,san antonio,BEXAR,(717) 620-2424,Acute Care Hospitals,Proprietary,55382,5330 northloop 1604west
 102413,USA,78258,south texas spine and surgical hospital,tx,san antonio,BEXAR,(210) 404-0800,Acute Care Hospitals,Government - Hospital District or Authority,90448,18600 north hardy oak blvd
 102414,USA,78259,laurel ridge treatment center,tx,san antonio,BEXAR,(512) 491-9400,Psychiatric,Proprietary,90654,17720 corporate woods drive
@@ -50,7 +49,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102448,USA,78746,the hospital at westlake medical center,tx,austin,TRAVIS,(512) 327-0000,Acute Care Hospitals,Proprietary,26739,5656 bee caves roadsuite m302
 102449,USA,78759,ascension seton northwest,tx,austin,TRAVIS,(512) 324-6000,Acute Care Hospitals,Voluntary non-profit - Private,87361,11113 research boulevard
 102450,USA,78801,uvalde memorial hospital,tx,uvalde,UVALDE,(830) 278-6251,Critical Access Hospitals,Government - Hospital District or Authority,93311,1025 garner field road
-102451,USA,78834,dimmit regional hospital,tx,carrizo springs,DIMMIT,(830) 876-2424,Critical Access Hospitals,Voluntary non-profit - Other,26887,704 hospital drive
 102452,USA,78934,columbus community hospital,tx,columbus,COLORADO,(979) 732-2371,Acute Care Hospitals,Voluntary non-profit - Private,56452,110 shultdr
 102453,USA,79027,plains memorial hospital,tx,dimmitt,CASTRO,(806) 647-2191,Critical Access Hospitals,Government - Hospital District or Authority,39534,310 west halsell street
 102454,USA,79029,memorial hospital,tx,dumas,MOORE,(806) 935-7171,Critical Access Hospitals,Government - Hospital District or Authority,49485,224 e second street
@@ -65,7 +63,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102463,USA,79241,w j mangold memorial hospital,tx,lockney,FLOYD,(806) 652-3373,Critical Access Hospitals,Government - Hospital District or Authority,36776,320 northmain
 102464,USA,79252,hardeman county memorial hospital,tx,quanah,HARDEMAN,(940) 663-2795,Critical Access Hospitals,Government - Hospital District or Authority,88688,402 mercerst
 102465,USA,79316,brownfield regional medical center,tx,brownfield,TERRY,(806) 637-3551,Acute Care Hospitals,Government - Hospital District or Authority,37484,705 east felt street
-102466,USA,79322,crosbyton clinic hospital,tx,crosbyton,CROSBY,(806) 675-2382,Critical Access Hospitals,Voluntary non-profit - Private,93206,710 west main street
 102467,USA,79323,yoakum county hospital,tx,denver city,YOAKUM,(806) 592-2121,Critical Access Hospitals,Government - Local,16763,412 mustang avenue
 102468,USA,79339,lamb healthcare center,tx,littlefield,LAMB,(806) 385-6411,Acute Care Hospitals,Government - Local,68227,1500 s sunset
 102469,USA,79346,cochran memorial hospital,tx,morton,COCHRAN,(806) 266-5565,Critical Access Hospitals,Government - Hospital District or Authority,16656,205 e grant street
@@ -83,7 +80,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102481,USA,79601,hendrick medical center,tx,abilene,TAYLOR,(325) 670-2000,Acute Care Hospitals,Voluntary non-profit - Private,32926,1900 pine
 102482,USA,79701,midland memorial hospital,tx,midland,MIDLAND,(432) 685-1111,Acute Care Hospitals,Government - Local,61114,400 rosalind redferngrover parkway
 102483,USA,79706,oceans behavioral hospital of permian basin,tx,midland,MIDLAND,(432) 561-5915,Psychiatric,Proprietary,57716,3300 s fm1788
-102484,USA,79714,permian regional medical center andrews county ho,tx,andrews,ANDREWS,(432) 523-2200,Acute Care Hospitals,Government - Hospital District or Authority,59514,720 hospital drive
 102485,USA,79720,scenic mountain medical center a steward family h,tx,big spring,HOWARD,(432) 263-1211,Acute Care Hospitals,Proprietary,93885,1601 w 11th place
 102486,USA,79721,big spring state hospital,tx,big spring,HOWARD,(432) 268-7222,Psychiatric,Government - State,54729,1901 northhighway 87
 102487,USA,79731,crane county hospital district,tx,crane,CRANE,(432) 558-3555,Critical Access Hospitals,Government - Hospital District or Authority,11381,1310 s alford st
@@ -92,12 +88,10 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102490,USA,79761,odessa regional medical center,tx,odessa,ECTOR,(432) 582-8340,Acute Care Hospitals,Proprietary,17446,520 e 6thstreet
 102491,USA,79778,rankin hospital medical clinic,tx,rankin,UPTON,(432) 693-2443,Critical Access Hospitals,Government - Hospital District or Authority,45761,1611 spur576
 102492,USA,79782,martin county hospital district,tx,stanton,MARTIN,(432) 756-3345,Critical Access Hospitals,Government - Hospital District or Authority,83032,600 e interstate 20po box 640
-102493,USA,79830,big bend regional medical center,tx,alpine,BREWSTER,(432) 837-3447,Critical Access Hospitals,Proprietary,15697,2600 highway 118 north
 102494,USA,79855,culberson hospital,tx,van horn,CULBERSON,(432) 283-2760,Critical Access Hospitals,Proprietary,15150,eisenhowerroad andfm 2185
 102495,USA,79902,el paso behavioral health system,tx,el paso,EL PASO,(915) 544-4000,Psychiatric,Proprietary,61509,1900 denver ave
 102496,USA,79902,el paso ltac hosptial,tx,el paso,EL PASO,(915) 496-9687,Acute Care Hospitals,Physician,34599,1221 n cotton st 3rdfloor
 102497,USA,79905,el paso childrens hospital,tx,el paso,EL PASO,(915) 521-7148,Childrens,Voluntary non-profit - Private,34640,4845 alameda avenue
-102498,USA,79905,university medical center of el paso,tx,el paso,EL PASO,(915) 521-7602,Acute Care Hospitals,Government - Hospital District or Authority,82988,4815 alameda ave
 102499,USA,79920,william beaumont amg ft bliss,tx,el paso,EL PASO,(915) 742-2121,Acute Care - Department of Defense,Department of Defense,28736,5005 n piedras st
 102500,USA,79936,foundation surgical hospital of el paso,tx,el paso,EL PASO,(915) 598-4240,Acute Care Hospitals,Proprietary,93945,1416 george dieter
 102501,USA,79938,the hospitals of providence east campus,tx,el paso,EL PASO,(915) 856-7349,Acute Care Hospitals,Proprietary,52202,3280 joe battle blvd
@@ -114,7 +108,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102512,USA,80206,national jewish health,co,denver,DENVER,(303) 388-4461,Acute Care Hospitals,Voluntary non-profit - Private,11300,1400 jackson st
 102513,USA,80220,rose medical center,co,denver,DENVER,(303) 320-2121,Acute Care Hospitals,Proprietary,11705,4567 e 9thave
 102514,USA,80228,centura healthst anthony hospital,co,lakewood,JEFFERSON,(720) 321-0000,Acute Care Hospitals,Voluntary non-profit - Church,26495,11600 west2nd plc
-102515,USA,80228,orthocolorado hospital at st anthony med campus,co,lakewood,JEFFERSON,(720) 321-5000,Acute Care Hospitals,Proprietary,41079,11650 west2nd place
 102516,USA,80229,north suburban medical center,co,thornton,ADAMS,(303) 451-7800,Acute Care Hospitals,Voluntary non-profit - Private,45834,9191 grantst
 102517,USA,80303,foothills hospital,co,boulder,BOULDER,(303) 415-7000,Acute Care Hospitals,Voluntary non-profit - Private,50701,4747 arapahoe avenue
 102518,USA,80459,middle park medical center,co,kremmling,GRAND,(970) 724-3442,Critical Access Hospitals,Government - Hospital District or Authority,76536,214 4th st
@@ -164,7 +157,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102562,USA,82729,crook county hospital,wy,sundance,CROOK,(307) 283-3501,Critical Access Hospitals,Government - Hospital District or Authority,33637,713 oak street
 102563,USA,82801,sheridan memorial hospital,wy,sheridan,SHERIDAN,(307) 672-1044,Acute Care Hospitals,Government - Local,25603,1401 w 5thst
 102564,USA,82901,aspen mountain medical center,wy,rock springs,SWEETWATER,(307) 448-2758,Acute Care Hospitals,Proprietary,86439,4401 college drive
-102565,USA,82901,memorial hospital sweetwater county,wy,rock springs,SWEETWATER,(307) 362-3711,Acute Care Hospitals,Government - Local,83424,1200 college drive
 102566,USA,82931,wyoming state hospital,wy,evanston,UINTA,(307) 789-3464,Psychiatric,Government - State,67218,831 hwy 150 south
 102567,USA,83001,st johns medical center,wy,jackson,TETON,(307) 733-3636,Acute Care Hospitals,Government - Hospital District or Authority,59667,625 east broadway
 102568,USA,83110,star valley medical center,wy,afton,LINCOLN,(307) 885-5800,Critical Access Hospitals,Government - Hospital District or Authority,93939,901 adamsstreet
@@ -193,7 +185,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102591,USA,83704,treasure valley hospital,id,boise,ADA,(208) 373-5000,Acute Care Hospitals,Proprietary,63165,8800 westemerald street
 102592,USA,83805,boundary community hospital,id,bonners ferry,BOUNDARY,(208) 267-4850,Critical Access Hospitals,Voluntary non-profit - Other,82887,6640 kaniksu street
 102593,USA,83814,kootenai health,id,coeur dalene,KOOTENAI,(208) 625-4000,Acute Care Hospitals,Government - Hospital District or Authority,13375,2003 kootenai healthway
-102594,USA,83843,gritman medical center,id,moscow,LATAH,(208) 882-4511,Critical Access Hospitals,Voluntary non-profit - Private,50004,700 southmain street
 102595,USA,83864,bonner general hospital,id,sandpoint,BONNER,(208) 263-1441,Critical Access Hospitals,Voluntary non-profit - Private,76986,520 norththird avenue
 102596,USA,84003,american fork hospital,ut,american fork,UTAH,(801) 855-3305,Acute Care Hospitals,Voluntary non-profit - Private,39995,170 north1100 east
 102597,USA,84010,lakeview hospital,ut,bountiful,DAVIS,(801) 299-2200,Acute Care Hospitals,Voluntary non-profit - Other,30700,630 east medical drive
@@ -201,7 +192,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102599,USA,84047,highland ridge hospital,ut,midvale,SALT LAKE,(801) 845-9544,Psychiatric,Proprietary,62814,7309 south180 west
 102600,USA,84057,timpanogos regional hospital,ut,orem,UTAH,(801) 714-6800,Acute Care Hospitals,Proprietary,76830,750 west 800 north
 102601,USA,84065,riverton hospital,ut,riverton,SALT LAKE,(801) 285-4000,Acute Care Hospitals,Voluntary non-profit - Private,26563,3741 west12600 south
-102602,USA,84066,uintah basin medical center,ut,roosevelt,DUCHESNE,(435) 722-4691,Acute Care Hospitals,Voluntary non-profit - Other,88281,250 west 300 north
 102603,USA,84074,mountain west medical center,ut,tooele,TOOELE,(435) 843-3700,Acute Care Hospitals,Proprietary,61695,2055 northmain street
 102604,USA,84094,alta view hospital,ut,sandy,SALT LAKE,(801) 501-2600,Acute Care Hospitals,Voluntary non-profit - Private,84543,9660 south1300 east
 102605,USA,84102,salt lake regional medical center,ut,salt lake city,SALT LAKE,(801) 350-4111,Acute Care Hospitals,Proprietary,58775,1050 eastsouth temple
@@ -211,22 +201,13 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102609,USA,84341,cache valley hospital,ut,north logan,CACHE,(435) 713-9580,Acute Care Hospitals,Proprietary,93098,2380 north400 east
 102610,USA,84403,mckay dee hospital,ut,ogden,WEBER,(801) 387-2800,Acute Care Hospitals,Voluntary non-profit - Private,14207,4401 harrison boulevard
 102611,USA,84501,castleview hospital,ut,price,CARBON,(435) 637-4800,Acute Care Hospitals,Proprietary,82452,300 northhospital drive
-102612,USA,84511,blue mountain hospital,ut,blanding,SAN JUAN,(435) 678-3993,Critical Access Hospitals,Voluntary non-profit - Private,34045,802 south200 west
 102613,USA,84532,moab regional hospital,ut,moab,GRAND,(435) 719-3500,Critical Access Hospitals,Voluntary non-profit - Private,49366,450 west williams way
-102614,USA,84535,san juan hospital,ut,monticello,SAN JUAN,(435) 587-2116,Critical Access Hospitals,Government - Local,55141,380 west 100 north
 102615,USA,84604,utah valley hospital,ut,provo,UTAH,(801) 373-7850,Acute Care Hospitals,Voluntary non-profit - Private,78656,1034 north500 west
 102616,USA,84605,utah state hospital,ut,provo,UTAH,(801) 344-4400,Psychiatric,Government - State,75658,1300 eastcenter street
 102617,USA,84624,delta community hospital,ut,delta,MILLARD,(435) 864-5591,Critical Access Hospitals,Proprietary,46697,126 southwhite sageavenue
 102618,USA,84631,fillmore community hospital,ut,fillmore,MILLARD,(435) 743-5591,Critical Access Hospitals,Voluntary non-profit - Private,93447,674 southhighway 99
-102619,USA,84648,central valley medical center  cah,ut,nephi,JUAB,(435) 623-3000,Critical Access Hospitals,Voluntary non-profit - Private,84161,48 west 1500 north
 102620,USA,84651,mountain view hospital,ut,payson,UTAH,(801) 465-7100,Acute Care Hospitals,Proprietary,29086,1000 east100 north
-102621,USA,84701,sevier valley hospital,ut,richfield,SEVIER,(435) 893-4100,Acute Care Hospitals,Voluntary non-profit - Private,36272,1000 northmain street
-102622,USA,84721,cedar city hospital,ut,cedar city,IRON,(435) 868-5800,Acute Care Hospitals,Voluntary non-profit - Private,43261,1303 northmain street
-102623,USA,84741,kane county hospital,ut,kanab,KANE,(435) 644-5811,Critical Access Hospitals,Government - Hospital District or Authority,84620,355 northmain street
-102624,USA,84751,milford valley memorial hospital,ut,milford,BEAVER,(435) 387-2411,Critical Access Hospitals,Government - Hospital District or Authority,22343,850 northmain street
 102625,USA,85006,st lukes medical center,az,phoenix,MARICOPA,(602) 251-8156,Acute Care Hospitals,Proprietary,52690,1800 eastvan burenstreet
-102626,USA,85006,st lukes behavioral hospital lp,az,phoenix,MARICOPA,(602) 251-8535,Psychiatric,Proprietary,22555,1800 eastvan buren
-102627,USA,85008,arizona state hospital,az,phoenix,MARICOPA,(602) 220-6000,Psychiatric,Government - State,82869,2500 eastvan burenstreet
 102628,USA,85008,valleywise health medical center,az,phoenix,MARICOPA,(602) 344-5011,Acute Care Hospitals,Government - Local,71447,2601 eastrooseveltstreet
 102629,USA,85013,st josephs hospital and medical center,az,phoenix,MARICOPA,(602) 406-5001,Acute Care Hospitals,Voluntary non-profit - Church,66785,350 west thomas road
 102630,USA,85015,core institute specialty hospital the,az,phoenix,MARICOPA,(602) 795-6020,Acute Care Hospitals,Physician,78622,6501 north19th avenue
@@ -274,7 +255,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102672,USA,86426,valley view medical center,az,fort mohave,MOHAVE,(928) 788-2273,Acute Care Hospitals,Proprietary,69760,5330 southhighway 95
 102673,USA,86442,western arizona regional medical center,az,bullhead city,MOHAVE,(928) 763-2273,Acute Care Hospitals,Proprietary,57273,2735 silver creek road
 102674,USA,86503,chinle comprehensive health care facility,az,chinle,APACHE,(928) 674-7001,Acute Care Hospitals,Government - Federal,67801,us hwy 191 hospitalroad
-102675,USA,86504,fort defiance indian hospital,az,fort defiance,APACHE,(928) 729-8000,Acute Care Hospitals,Government - Federal,93511,po box 649
 102676,USA,86505,sage memorial hospital,az,ganado,APACHE,(928) 755-4541,Critical Access Hospitals,Voluntary non-profit - Private,71730,state route 264 south 191
 102677,USA,87049,dhhs usphs indian health services,nm,san fidel,CIBOLA,(505) 552-5300,Acute Care Hospitals,Government - Federal,51917,exit 102off i40 12 mile south
 102678,USA,87106,presbyterian hospital,nm,albuquerque,BERNALILLO,(505) 724-8386,Acute Care Hospitals,Voluntary non-profit - Private,85771,1100 central avenuese
@@ -315,7 +295,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102713,USA,89118,spring valley hospital medical center,nv,las vegas,CLARK,(702) 853-3000,Acute Care Hospitals,Proprietary,71903,5400 southrainbow blvd
 102714,USA,89119,desert springs hospital,nv,las vegas,CLARK,(702) 369-7600,Acute Care Hospitals,Proprietary,62560,2075 eastflamingo road
 102715,USA,89128,mountainview hospital,nv,las vegas,CLARK,(702) 255-5065,Acute Care Hospitals,Proprietary,51268,3100 n tenaya way
-102716,USA,89146,southern nevada adult mental health services,nv,las vegas,CLARK,(702) 486-6000,Psychiatric,Government - State,29575,6161 w charleston blvd
 102717,USA,89148,orthopedic specialty hospital of nevada,nv,las vegas,CLARK,(702) 777-7100,Acute Care Hospitals,Voluntary non-profit - Private,49290,8656 westpatrick lane
 102718,USA,89148,southern hills hospital and medical center,nv,las vegas,CLARK,(702) 880-2100,Acute Care Hospitals,Voluntary non-profit - Private,79274,9300 westsunset rd
 102719,USA,89191,99th medical group nellis afb,nv,nellis afb,CLARK,(702) 653-2273,Acute Care - Department of Defense,Department of Defense,14039,99 mdg 4700 las vegas blvd
@@ -350,7 +329,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102748,USA,90704,catalina island medical center,ca,avalon,LOS ANGELES,(310) 510-0700,Critical Access Hospitals,Voluntary non-profit - Private,34988,100 fallscanyon road
 102749,USA,90710,kaiser foundation hospital  south bay,ca,harbor city,LOS ANGELES,(310) 325-5111,Acute Care Hospitals,Voluntary non-profit - Other,77133,25825 south vermontavenue
 102750,USA,90806,long beach memorial medical center,ca,long beach,LOS ANGELES,(562) 933-2000,Acute Care Hospitals,Voluntary non-profit - Other,24549,2801 atlantic ave
-102751,USA,90806,memorial care miller childrens  womens hosp lb,ca,long beach,LOS ANGELES,(562) 933-8001,Childrens,Voluntary non-profit - Other,28485,2801 atlantic avenue
 102752,USA,90806,ocean view psychiatric health facility,ca,long beach,LOS ANGELES,(714) 614-0474,Psychiatric,Proprietary,77145,2600 redondo avenuesuite 500
 102753,USA,91006,methodist hospital of southern ca,ca,arcadia,LOS ANGELES,(626) 445-4441,Acute Care Hospitals,Voluntary non-profit - Private,45912,300 w huntington dr
 102754,USA,91107,aurora las encinas hospital,ca,pasadena,LOS ANGELES,(866) 279-3709,Psychiatric,Proprietary,59914,2900 e delmar blvd
@@ -367,7 +345,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102765,USA,91356,tarzana treatment center,ca,tarzana,LOS ANGELES,(818) 996-1051,Psychiatric,Voluntary non-profit - Private,37909,18646 oxnard street
 102766,USA,91367,kaiser foundation hospital  woodland hills,ca,woodland hills,LOS ANGELES,(818) 719-3800,Acute Care Hospitals,Voluntary non-profit - Private,28167,5601 de soto avenue
 102767,USA,91402,kaiser foundation hospital  panorama city,ca,panorama city,LOS ANGELES,(818) 375-3333,Acute Care Hospitals,Voluntary non-profit - Private,14704,13652 cantara st
-102768,USA,91402,mission community hospital,ca,panorama city,LOS ANGELES,(818) 904-3100,Acute Care Hospitals,Voluntary non-profit - Private,24760,14850 roscoe blvd
 102769,USA,91403,sherman oaks hospital,ca,sherman oaks,LOS ANGELES,(818) 981-7111,Acute Care Hospitals,Voluntary non-profit - Private,54511,4929 van nuys blvd
 102770,USA,91436,encino hospital medical center,ca,encino,LOS ANGELES,(818) 995-5000,Acute Care Hospitals,Proprietary,51508,16237 ventura blvd
 102771,USA,91706,kaiser foundation hospital  baldwin park,ca,baldwin park,LOS ANGELES,(626) 851-1011,Acute Care Hospitals,Voluntary non-profit - Other,69360,1011 baldwin park blvd
@@ -411,13 +388,11 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102809,USA,92352,mountains community hospital,ca,lake arrowhead,SAN BERNARDINO,(909) 336-3651,Critical Access Hospitals,Government - Hospital District or Authority,43211,29101 hospital road
 102810,USA,92354,loma linda university medical center,ca,loma linda,SAN BERNARDINO,(909) 558-4000,Acute Care Hospitals,Voluntary non-profit - Private,75977,11234 anderson st
 102811,USA,92373,loma linda university behavioral med ctr,ca,redlands,SAN BERNARDINO,(909) 558-9200,Psychiatric,Voluntary non-profit - Private,14341,1710 barton road
-102812,USA,92411,community hospital of san bernardino,ca,san bernardino,SAN BERNARDINO,(909) 887-6333,Acute Care Hospitals,Voluntary non-profit - Private,57540,1805 medical centerdrive
 102813,USA,92501,riverside community hospital,ca,riverside,RIVERSIDE,(951) 788-3000,Acute Care Hospitals,Proprietary,18778,4445 magnolia avenue
 102814,USA,92503,doctors hospital of riverside,ca,riverside,RIVERSIDE,(951) 688-2211,Acute Care Hospitals,Voluntary non-profit - Private,75892,3865 jackson street
 102815,USA,92506,pacific grove hospital,ca,riverside,RIVERSIDE,(951) 275-8400,Psychiatric,Proprietary,67613,5900 brockton ave
 102816,USA,92543,hemet valley medical center,ca,hemet,RIVERSIDE,(951) 652-2811,Acute Care Hospitals,Physician,57203,1117 eastdevonshire
 102817,USA,92555,riverside university health systemmedical center,ca,moreno valley,RIVERSIDE,(951) 486-4000,Acute Care Hospitals,Government - Local,72910,26520 cactus avenue
-102818,USA,92562,southwest healthcare system,ca,murrieta,RIVERSIDE,(951) 696-6000,Acute Care Hospitals,Proprietary,56308,25500 medical centerdrive
 102819,USA,92585,menifee global medical center,ca,sun city,RIVERSIDE,(951) 679-8888,Acute Care Hospitals,Physician,56115,28400 mccall b0ulevard
 102820,USA,92592,temecula valley hospital,ca,temecula,RIVERSIDE,(951) 331-2200,Acute Care Hospitals,Proprietary,66132,31700 temecula pkwy
 102821,USA,92626,fairview developmental center,ca,costa mesa,ORANGE,(714) 957-5000,Acute Care Hospitals,Government - Local,19527,2501 harbor boulevard
@@ -530,7 +505,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102928,USA,96001,shasta regional medical center,ca,redding,SHASTA,(530) 244-5454,Acute Care Hospitals,Proprietary,49064,1100 buttest
 102929,USA,96020,seneca district hospital,ca,chester,PLUMAS,(530) 258-2121,Critical Access Hospitals,Voluntary non-profit - Other,38843,130 brentwood drive
 102930,USA,96080,st elizabeth community hospital,ca,red bluff,TEHAMA,(530) 529-8012,Acute Care Hospitals,Voluntary non-profit - Church,26490,2550 sister mary columba drive
-102931,USA,96097,fairchild medical center,ca,yreka,SISKIYOU,(530) 842-4121,Critical Access Hospitals,Voluntary non-profit - Other,20153,444 brucestreet
 102932,USA,96104,surprise valley community hospital,ca,cedarville,MODOC,(530) 279-6111,Critical Access Hospitals,Government - Local,39632,741 northmain street
 102933,USA,96130,banner lassen medical center,ca,susanville,LASSEN,(530) 252-2000,Critical Access Hospitals,Voluntary non-profit - Private,36864,1800 spring ridge drive
 102934,USA,96161,tahoe forest hospital,ca,truckee,NEVADA,(530) 587-6011,Critical Access Hospitals,Government - Hospital District or Authority,30430,10121 pineave
@@ -578,7 +552,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102977,USA,97477,sacred heart medical center  riverbend,or,springfield,LANE,(541) 222-7300,Acute Care Hospitals,Voluntary non-profit - Private,80445,3333 riverbend drive
 102978,USA,97504,providence medford medical center,or,medford,JACKSON,(541) 732-5050,Acute Care Hospitals,Voluntary non-profit - Church,92106,1111 crater lake avenue
 102979,USA,97527,asante three rivers medical center,or,grants pass,JOSEPHINE,(541) 472-7000,Acute Care Hospitals,Voluntary non-profit - Other,45149,500 sw ramsey avenue
-102980,USA,97720,harney district hospital,or,burns,HARNEY,(541) 573-7281,Critical Access Hospitals,Government - Hospital District or Authority,49451,557 w washington street
 102981,USA,97741,st charles madras,or,madras,JEFFERSON,(541) 475-3882,Critical Access Hospitals,Voluntary non-profit - Private,65265,470 ne a street
 102982,USA,97756,st charles redmond,or,redmond,DESCHUTES,(541) 548-8131,Acute Care Hospitals,Voluntary non-profit - Private,26408,1253 nw canal blvd
 102983,USA,97814,saint alphonsus medical center  baker city inc,or,baker city,BAKER,(541) 524-7744,Critical Access Hospitals,Voluntary non-profit - Church,54364,3325 pocahontas road
@@ -653,7 +626,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 103052,USA,99703,bassett ach ft wainwright,ak,fort wainwright,FAIRBANKS NORTH STAR,(907) 361-4000,Acute Care - Department of Defense,Department of Defense,23236,4076 neelyroad
 103053,USA,99723,samuel simmonds memorial hospital,ak,barrow,NORTH SLOPE BOROUH,(907) 852-4611,Critical Access Hospitals,Government - Federal,38261,7000 uulast
 103054,USA,99752,maniilaq health center,ak,kotzebue,NORTHWEST ARTIC BOROUGH,(907) 442-3321,Critical Access Hospitals,Tribal,47958,po box 43
-103055,USA,99833,petersburg medical center,ak,petersburg,PETERSBURG BOROUGH,(907) 772-4291,Critical Access Hospitals,Government - Local,46241,po box 589
 103056,USA,99835,mt edgecumbe hospital,ak,sitka,SITKA BOROUGH,(907) 966-2411,Critical Access Hospitals,Voluntary non-profit - Private,31448,222 tongass dr
 103057,USA,99835,sitka community hospital,ak,sitka,SITKA BOROUGH,(907) 747-3241,Critical Access Hospitals,Government - Local,76173,209 mollerdrive
 103058,USA,99901,ketchikan medical center,ak,ketchikan,KETCHIKAN GATEWAY,(907) 225-5171,Critical Access Hospitals,Voluntary non-profit - Church,37459,3100 tongass avenue
@@ -672,7 +644,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102014,USA,68978,brodstone memorial hosp,ne,superior,NUCKOLLS,(402) 879-3281,Critical Access Hospitals,Voluntary non-profit - Private,84571,p o box 187 520 east 10th st
 102015,USA,69001,community hospital,ne,mccook,RED WILLOW,(308) 344-2650,Critical Access Hospitals,Voluntary non-profit - Other,39952,p o box 1328 1301 east h st
 102016,USA,69022,tri valley health system,ne,cambridge,FURNAS,(308) 697-3329,Critical Access Hospitals,Voluntary non-profit - Private,79025,1305 westhighway 634
-102017,USA,69130,cozad community hospital,ne,cozad,DAWSON,(308) 784-2261,Critical Access Hospitals,Government - Hospital District or Authority,14861,p o box 108 300 east 12th st
 102018,USA,69140,perkins county health services,ne,grant,PERKINS,(308) 352-7200,Critical Access Hospitals,Government - Hospital District or Authority,52960,900 lincoln ave
 102019,USA,69145,kimball health services,ne,kimball,KIMBALL,(308) 235-1951,Critical Access Hospitals,Government - Local,16931,505 southburg st
 102020,USA,69153,ogallala community hospital,ne,ogallala,KEITH,(308) 284-4011,Critical Access Hospitals,Government - Hospital District or Authority,53365,2601 northspruce st
@@ -713,7 +684,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102055,USA,70507,vermilion behavioral health systems,la,lafayette,LAFAYETTE,(337) 234-5614,Psychiatric,Proprietary,58024,2520 n university avenue
 102056,USA,70508,compass behavioral center of lafayette,la,lafayette,LAFAYETTE,(337) 534-4655,Psychiatric,Proprietary,79020,312 youngsville highway
 102057,USA,70508,heart hospital of lafayette,la,lafayette,LAFAYETTE,(337) 521-1000,Acute Care Hospitals,Proprietary,58019,1105 kaliste saloomroad
-102058,USA,70508,lafayette surgical specialty hospital,la,lafayette,LAFAYETTE,(337) 769-4100,Acute Care Hospitals,Proprietary,61771,1101 kaliste saloomrd
 102059,USA,70508,our lady of lourdes regional medical center inc,la,lafayette,LAFAYETTE,(337) 470-2100,Acute Care Hospitals,Voluntary non-profit - Private,90287,4801 ambassador caffery parkway
 102061,USA,70510,abbeville general hospital,la,abbeville,VERMILION,(337) 893-5466,Acute Care Hospitals,Government - Hospital District or Authority,29897,118 n hospital dr
 102062,USA,70525,acadia st landry,la,church point,ACADIA,(337) 684-5435,Critical Access Hospitals,Government - Hospital District or Authority,47754,810 southbroadway street
@@ -752,9 +722,7 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102095,USA,71291,glenwood regional medical center,la,west monroe,OUACHITA,(318) 329-4600,Acute Care Hospitals,Proprietary,65301,503 mcmillan road
 102096,USA,71301,central louisiana surgical hospital,la,alexandria,RAPIDES,(318) 449-6400,Acute Care Hospitals,Physician,29942,651 northbolton ave
 102097,USA,71301,christus st frances cabrini hospital,la,alexandria,RAPIDES,(318) 487-1122,Acute Care Hospitals,Voluntary non-profit - Private,83050,3330 masonic drive
-102098,USA,71301,compass behavioral center of alexandria inc,la,alexandria,RAPIDES,(318) 442-3163,Psychiatric,Proprietary,32223,6410 masonic drive
 102099,USA,71303,longleaf hospital,la,alexandria,RAPIDES,(318) 445-5111,Psychiatric,Proprietary,52856,44 versailles blvd
-102100,USA,71303,oceans behavioral hospital of alexandria,la,alexandria,RAPIDES,(318) 448-8473,Psychiatric,Proprietary,26030,2621 northbolton avenue
 102101,USA,71322,beacon behavioral hospital  central,la,bunkie,AVOYELLES,(318) 346-3143,Psychiatric,Proprietary,34545,323 evergreen street
 102102,USA,71342,lasalle general hospital,la,jena,LASALLE,(318) 992-9200,Acute Care Hospitals,Government - Hospital District or Authority,30310,187 ninthsthwy 84west
 102103,USA,71351,avoyelles hospital,la,marksville,AVOYELLES,(318) 253-8611,Acute Care Hospitals,Proprietary,21488,4231 highway 1192
@@ -762,7 +730,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102105,USA,71446,byrd regional hospital,la,leesville,VERNON,(337) 239-9041,Acute Care Hospitals,Proprietary,89879,1020 fertitta blvd
 102106,USA,71457,natchitoches regional medical center,la,natchitoches,NATCHITOCHES,(318) 471-2628,Acute Care Hospitals,Government - Hospital District or Authority,36721,501 keyserave
 102107,USA,71459,baynejones ach ft polk,la,fort polk,VERNON,(337) 531-3118,Acute Care - Department of Defense,Department of Defense,21338,1585 3rd street fortpolk
-102108,USA,71463,oakdale community hospital,la,oakdale,ALLEN,(318) 335-3700,Acute Care Hospitals,Proprietary,69884,130 n hospital dr
 102109,USA,71483,winn parish medical center,la,winnfield,WINN,(318) 648-3000,Acute Care Hospitals,Proprietary,72630,301 w boundary ave
 102110,USA,71603,jefferson regional medical center,ar,pine bluff,JEFFERSON,(870) 541-7100,Acute Care Hospitals,Voluntary non-profit - Private,48400,1600 west40th avenue
 102111,USA,71639,delta memorial hospital,ar,dumas,DESHA,(870) 382-4303,Critical Access Hospitals,Voluntary non-profit - Private,45337,811 highway 65 south
@@ -776,7 +743,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102119,USA,71953,mena regional health system,ar,mena,POLK,(479) 394-6100,Acute Care Hospitals,Government - Local,29659,311 northmorrow street
 102120,USA,72015,saline memorial hospital,ar,benton,SALINE,(501) 776-6000,Acute Care Hospitals,Proprietary,26586,1 medicalpark drive
 102121,USA,72019,rivendell behavioral health services of arkansas,ar,benton,SALINE,(501) 316-1255,Psychiatric,Proprietary,18224,100 rivendell drive
-102122,USA,72031,ozark health,ar,clinton,VAN BUREN,(501) 745-7000,Critical Access Hospitals,Voluntary non-profit - Private,29805,2500 highway 65 south
 102123,USA,72032,baptist health medical centerconway,ar,conway,FAULKNER,(501) 585-2000,Acute Care Hospitals,Voluntary non-profit - Private,78126,1555 exchange avenue
 102124,USA,72034,conway behavioral health,ar,conway,FAULKNER,(501) 205-0011,Psychiatric,Proprietary,40998,2255 sturgis road
 102125,USA,72034,conway regional health system,ar,conway,FAULKNER,(501) 329-3831,Acute Care Hospitals,Voluntary non-profit - Private,43936,2302 college avenue
@@ -810,7 +776,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102153,USA,72761,siloam springs regional hospital,ar,siloam springs,BENTON,(479) 524-4141,Acute Care Hospitals,Voluntary non-profit - Other,66675,603 northprogress avenue
 102154,USA,72762,arkansas childrens northwest inc,ar,springdale,WASHINGTON,(479) 725-6800,Childrens,Voluntary non-profit - Private,69151,2601 genegeorge boulevard
 102155,USA,72801,st marys regional medical center,ar,russellville,POPE,(479) 968-2841,Acute Care Hospitals,Proprietary,12709,1808 westmain street
-102156,USA,72834,dardanelle hospital,ar,dardanelle,YELL,(479) 229-4677,Critical Access Hospitals,Proprietary,74749,200 norththird street
 102157,USA,72927,mercy hospital booneville,ar,booneville,LOGAN,(479) 675-2800,Critical Access Hospitals,Voluntary non-profit - Private,94514,880 west main
 102158,USA,72949,mercy hospital turner memorial,ar,ozark,FRANKLIN,(479) 667-4138,Critical Access Hospitals,Voluntary non-profit - Private,48348,801 west river street
 102159,USA,73015,carnegie tricounty municipal hospital,ok,carnegie,CADDO,(580) 654-1050,Critical Access Hospitals,Government - Hospital District or Authority,70661,102 northbroadway
@@ -821,7 +786,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102164,USA,73077,stillwater medical  perry,ok,perry,NOBLE,(580) 336-3541,Acute Care Hospitals,Government - Hospital District or Authority,45831,501 n 14thst
 102165,USA,73080,purcell municipal hospital,ok,purcell,MCCLAIN,(405) 527-6524,Acute Care Hospitals,Government - Local,24477,1500 northgreen avenue
 102166,USA,73096,weatherford regional hospital inc of weatherford,ok,weatherford,CUSTER,(580) 772-5551,Critical Access Hospitals,Government - Hospital District or Authority,27806,3701 e main
-102167,USA,73101,ssm health st anthony hospital  oklahoma city,ok,oklahoma city,OKLAHOMA,(405) 272-7000,Acute Care Hospitals,Voluntary non-profit - Church,49772,1000 northlee avenue
 102168,USA,73109,onecore health,ok,oklahoma city,OKLAHOMA,(405) 631-3085,Acute Care Hospitals,Voluntary non-profit - Other,22141,1044 sw 44th suite350
 102169,USA,73114,mcbride orthopedic hospital,ok,oklahoma city,OKLAHOMA,(405) 486-2100,Acute Care Hospitals,Physician,37948,9600 northbroadwayextension
 102170,USA,73120,lakeside womens hospital a member of integris he,ok,oklahoma city,OKLAHOMA,(405) 936-1500,Acute Care Hospitals,Physician,68009,11200 north portlandavenue
@@ -830,7 +794,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102173,USA,73135,oklahoma heart hospital south llc,ok,oklahoma city,OKLAHOMA,(405) 628-6000,Acute Care Hospitals,Physician,93412,5200 easti240 service road
 102174,USA,73139,oklahoma center for orthopaedic  multisp,ok,oklahoma city,OKLAHOMA,(405) 602-6500,Acute Care Hospitals,Proprietary,43316,8100 southwalker bldg c
 102175,USA,73141,cedar ridge behavioral hospital,ok,oklahoma city,OKLAHOMA,(405) 605-6111,Psychiatric,Proprietary,48191,6501 northeast 50thstreet
-102176,USA,73159,community hospital llc,ok,oklahoma city,OKLAHOMA,(405) 602-8100,Acute Care Hospitals,Physician,83569,3100 southwest 89thstreet
 102177,USA,73162,integris community hospital  council crossing,ok,oklahoma city,OKLAHOMA,(405) 550-3280,Acute Care Hospitals,Proprietary,35296,9417 n council road
 102178,USA,73401,mercy hospital ardmore inc,ok,ardmore,CARTER,(580) 223-5400,Acute Care Hospitals,Voluntary non-profit - Private,21648,1011 fourteenth avenue northwest
 102179,USA,73438,mercy hospital healdton inc,ok,healdton,CARTER,(580) 229-0701,Critical Access Hospitals,Voluntary non-profit - Private,69338,3462 hospital rd
@@ -864,13 +827,11 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102207,USA,74076,stillwater medical center,ok,stillwater,PAYNE,(405) 372-1480,Acute Care Hospitals,Voluntary non-profit - Other,87418,1323 west6th street
 102208,USA,74079,stroud regional medical center,ok,stroud,LINCOLN,(918) 968-3571,Critical Access Hospitals,Voluntary non-profit - Private,36862,2308 highway 66 west
 102209,USA,74104,hillcrest medical center,ok,tulsa,TULSA,(918) 579-1000,Acute Care Hospitals,Proprietary,88733,1120 southutica avenue
-102210,USA,74120,parkside inc,ok,tulsa,TULSA,(918) 582-2131,Psychiatric,Voluntary non-profit - Private,13643,1619 east13th street
 102211,USA,74127,oklahoma state university medical center,ok,tulsa,TULSA,(918) 599-1000,Acute Care Hospitals,Government - State,17450,744 west 9th street
 102212,USA,74133,saint francis hospital south llc,ok,tulsa,TULSA,(918) 307-6000,Acute Care Hospitals,Voluntary non-profit - Private,44434,10501 east91st street south
 102213,USA,74136,saint francis hospital inc,ok,tulsa,TULSA,(918) 494-2200,Acute Care Hospitals,Voluntary non-profit - Private,41937,6161 southyale
 102214,USA,74137,oklahoma surgical hospital llc,ok,tulsa,TULSA,(918) 477-5095,Acute Care Hospitals,Physician,48063,2408 east81st street suite 300
 102215,USA,74301,saint francis hospital vinita inc,ok,vinita,CRAIG,(918) 256-7551,Acute Care Hospitals,Voluntary non-profit - Private,59542,735 northforeman street
-102216,USA,74344,integris grove hospital,ok,grove,DELAWARE,(918) 786-2243,Acute Care Hospitals,Voluntary non-profit - Private,16693,1001 east18th street
 102217,USA,74355,integris miami hospital,ok,miami,OTTAWA,(918) 542-6611,Acute Care Hospitals,Voluntary non-profit - Other,14766,200 secondavenue southwest
 102218,USA,74361,hillcrest hospital pryor,ok,pryor,MAYES,(918) 825-1600,Acute Care Hospitals,Proprietary,90266,111 northbailey street
 102219,USA,74401,saint francis hospital muskogee,ok,muskogee,MUSKOGEE,(918) 682-5501,Acute Care Hospitals,Voluntary non-profit - Private,23597,300 rockefeller drive
@@ -883,7 +844,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102226,USA,74501,mcalester regional health center,ok,mcalester,PITTSBURG,(918) 426-1800,Acute Care Hospitals,Voluntary non-profit - Other,84925,one clarkbass boulevard
 102227,USA,74525,atoka county medical center,ok,atoka,ATOKA,(580) 889-3333,Critical Access Hospitals,Government - Hospital District or Authority,25157,1590 westliberty road
 102228,USA,74538,mary hurley hospital,ok,coalgate,COAL,(580) 927-2327,Critical Access Hospitals,Proprietary,81364,6 north covington
-102229,USA,74601,alliancehealth ponca city,ok,ponca city,KAY,(580) 765-3301,Acute Care Hospitals,Proprietary,37526,1900 north14th street
 102230,USA,74631,blackwell regional hospital,ok,blackwell,KAY,(580) 363-2311,Acute Care Hospitals,Voluntary non-profit - Private,44887,710 south13th street
 102231,USA,74637,fairfax community hospital,ok,fairfax,OSAGE,(918) 642-3291,Critical Access Hospitals,Voluntary non-profit - Other,58936,40 hospital road
 102232,USA,74743,choctaw memorial hospital,ok,hugo,CHOCTAW,(580) 317-9500,Acute Care Hospitals,Government - Hospital District or Authority,32380,1405 eastkirk road
@@ -908,7 +868,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102251,USA,75090,baylor scott and white surgical hospital at sherma,tx,sherman,GRAYSON,(903) 813-3728,Acute Care Hospitals,Physician,27669,3601 calais drive
 102252,USA,75091,wilson n jones regional medical center,tx,sherman,GRAYSON,(903) 870-4611,Acute Care Hospitals,Proprietary,18260,500 n highland avenue
 102253,USA,75093,texas health center for diagnostics  surgery plan,tx,plano,COLLIN,(972) 403-2700,Acute Care Hospitals,Proprietary,36283,6020 w parker road
-102254,USA,75093,texas health presbyterian hospital plano,tx,plano,COLLIN,(972) 981-8000,Acute Care Hospitals,Voluntary non-profit - Private,77634,6200 w parker rd
 102255,USA,75093,the heart hospital baylor plano,tx,plano,COLLIN,(469) 814-3278,Acute Care Hospitals,Proprietary,40837,1100 allied drive
 102256,USA,75093,wellbridge healthcare of plano,tx,plano,COLLIN,(972) 596-5445,Psychiatric,Proprietary,25746,4301 mapleshade lane
 102257,USA,75110,navarro regional hospital,tx,corsicana,NAVARRO,(903) 654-6800,Acute Care Hospitals,Government - Hospital District or Authority,66859,3201 westhighway 22
@@ -929,7 +888,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102272,USA,75246,baylor university medical center,tx,dallas,DALLAS,(214) 820-0111,Acute Care Hospitals,Voluntary non-profit - Church,11893,3500 gaston ave
 102273,USA,75251,green oaks hospital,tx,dallas,DALLAS,(972) 991-9504,Psychiatric,Voluntary non-profit - Other,54437,7808 clodus fields drive
 102274,USA,75390,ut southwestern university hospital,tx,dallas,DALLAS,(214) 633-5555,Acute Care Hospitals,Government - State,54165,6201 harryhines blvd
-102275,USA,75390,ut southwestern university hospitalzale lipshy,tx,dallas,DALLAS,(214) 879-3758,Acute Care Hospitals,Government - State,41541,5151 harryhines blvd
 102276,USA,75418,tmc bonham hospital,tx,bonham,FANNIN,(903) 640-7311,Critical Access Hospitals,Government - Hospital District or Authority,27523,504 lipscomb street
 102277,USA,75494,christus mother frances hospital winnsboro,tx,winnsboro,WOOD,(903) 342-5227,Critical Access Hospitals,Voluntary non-profit - Private,48820,719 west coke road
 102278,USA,75504,christus st michael health system,tx,texarkana,BOWIE,(903) 614-1000,Acute Care Hospitals,Voluntary non-profit - Church,23014,2600 st michael dr
@@ -992,7 +950,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102335,USA,76642,limestone medical center,tx,groesbeck,LIMESTONE,(254) 729-3281,Critical Access Hospitals,Government - Hospital District or Authority,54053,701 mcclintic drive
 102336,USA,76661,falls community hospital and clinic,tx,marlin,FALLS,(254) 803-3561,Acute Care Hospitals,Voluntary non-profit - Private,93698,322 coleman street
 102337,USA,76712,baylor scott  white medical center hillcrest,tx,waco,MC LENNAN,(254) 202-2000,Acute Care Hospitals,Voluntary non-profit - Private,36712,100 hillcrest medical blvd
-102338,USA,76712,providence health center,tx,waco,MC LENNAN,(254) 751-4000,Acute Care Hospitals,Voluntary non-profit - Private,50560,6901 medical parkway
 102339,USA,76801,brownwood regional medical center,tx,brownwood,BROWN,(325) 646-8541,Acute Care Hospitals,Proprietary,81719,1501 burnet dr
 102340,USA,76821,ballinger memorial hospital,tx,ballinger,RUNNELS,(325) 365-2531,Critical Access Hospitals,Government - Hospital District or Authority,15301,608 avenueb
 102341,USA,76825,heart of texas memorial hospital,tx,brady,MC CULLOCH,(325) 597-2901,Critical Access Hospitals,Voluntary non-profit - Private,83654,2008 nineroad
@@ -1010,7 +967,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102353,USA,77030,chi st lukes health baylor college of medicine me,tx,houston,HARRIS,(832) 355-1000,Acute Care Hospitals,Voluntary non-profit - Church,20050,7200 cambridge 11thfloor
 102354,USA,77030,houston methodist hospital,tx,houston,HARRIS,(713) 790-2221,Acute Care Hospitals,Voluntary non-profit - Private,94904,6565 fannin
 102355,USA,77030,texas childrens hosp,tx,houston,HARRIS,(832) 824-1000,Childrens,Voluntary non-profit - Private,11015,6621 fannin street
-102356,USA,77054,sun behavioral houston,tx,houston,HARRIS,(713) 795-5025,Psychiatric,Proprietary,24037,7601 fannin street
 102357,USA,77054,womans hospital of texasthe,tx,houston,HARRIS,(713) 790-1234,Acute Care Hospitals,Proprietary,47908,7600 fannin
 102358,USA,77070,first texas hospital,tx,houston,HARRIS,(844) 264-1435,Acute Care Hospitals,Proprietary,12954,9922 louetta rd
 102359,USA,77070,houston methodist willowbrook hospital,tx,houston,HARRIS,(281) 477-1000,Acute Care Hospitals,Voluntary non-profit - Private,80993,18220 tomball parkway
@@ -1021,7 +977,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102364,USA,77091,united memorial medical center,tx,houston,HARRIS,(713) 691-1111,Acute Care Hospitals,Physician,30774,510 w tidwell
 102365,USA,77094,houston methodist west hospital,tx,houston,HARRIS,(832) 522-1000,Acute Care Hospitals,Voluntary non-profit - Private,22907,18500 katyfreeway
 102366,USA,77304,aspire behavioral health of conroe llc,tx,conroe,MONTGOMERY,(936) 647-3500,Acute Care Hospitals,Physician,65170,2006 southloop 336west suite 500
-102367,USA,77304,hca houston healthcare conroe,tx,conroe,MONTGOMERY,(936) 539-1111,Acute Care Hospitals,Proprietary,48095,504 medical center blvd
 102368,USA,77325,hca houston healthcare kingwood,tx,kingwood,HARRIS,(281) 359-7500,Acute Care Hospitals,Proprietary,76524,22999 us hwy 59
 102369,USA,77327,cleveland emergency hospital,tx,cleveland,LIBERTY,(281) 592-5400,Acute Care Hospitals,Proprietary,11423,1017 s travis ave
 102370,USA,77338,memorial hermann northeast hospital,tx,humble,HARRIS,(281) 540-7700,Acute Care Hospitals,Voluntary non-profit - Private,15859,18951 memorial north
@@ -1038,8 +993,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 102381,USA,77478,st lukes sugar land hospital,tx,sugar land,FORT BEND,(281) 637-7000,Acute Care Hospitals,Voluntary non-profit - Private,37007,1317 lakepointe parkway
 102382,USA,77479,houston methodist sugarland hospital,tx,sugar land,FORT BEND,(281) 274-8000,Acute Care Hospitals,Voluntary non-profit - Private,56172,16655 southwest freeway
 102383,USA,77479,memorial hermann sugar land hospital,tx,sugar land,FORT BEND,(281) 725-5000,Acute Care Hospitals,Voluntary non-profit - Private,13210,17500 w grand parkway south
-102384,USA,77479,sugar land surgical hospital llp,tx,sugar land,FORT BEND,(281) 243-1000,Acute Care Hospitals,Physician,92815,16906 southwest freeway
-102385,USA,77494,memorial hermann katy hospital,tx,katy,FORT BEND,(281) 392-1111,Acute Care Hospitals,Voluntary non-profit - Private,76920,23900 katyfreeway
 102386,USA,77504,surgery specialty hospitals of america se houston,tx,pasadena,HARRIS,(713) 378-3000,Acute Care Hospitals,Proprietary,33419,4301 b vista
 102387,USA,77514,bayside community hospital,tx,anahuac,CHAMBERS,(409) 267-3143,Critical Access Hospitals,Government - Hospital District or Authority,71048,200 hospital drive
 102388,USA,77521,altus baytown hospital,tx,baytown,HARRIS,(281) 837-7600,Acute Care Hospitals,Physician,44577,1404 w baker road

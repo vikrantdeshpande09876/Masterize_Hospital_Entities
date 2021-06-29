@@ -4,8 +4,8 @@ import os
 
 ''' Environment Directory Config '''
 _RAW_STATIC_FILE_NAME = 'hospital_account_info_raw.csv'
-#_STATIC_FILE_NAME = 'hospital_account_info.csv'
-_STATIC_FILE_NAME = 'Site_Master_Extract.xlsx'
+_STATIC_FILE_NAME = 'hospital_account_info.csv'
+#_STATIC_FILE_NAME = 'Site_Master_Extract.xlsx'
 _RAW_SCORES_DIRECTORY = 'Raw_Scores'
 _CLEANED_SCORES_DIRECTORY = 'Cleaned_Scores'
 _MASTER_DATA_DIRECTORY = 'Master_Data'
