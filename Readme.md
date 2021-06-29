@@ -30,46 +30,6 @@ Most importantly, machine-learning techniques like clustering or classification 
 
 
 
-## Step-by-step guide to setup this data-pipeline
-
-1.	Install GIT (This repo used 2.25.1 on Windows-10): [Git](https://git-scm.com/downloads)
-
-2.	Install Python (This repo was built on 3.8.1 but is compatible with 2.5x): [Python](https://www.python.org/downloads/)
-
-3.	Set up Jupyter Notebook using [Anaconda](https://www.anaconda.com/products/individual) or [Visual Studio Code](https://code.visualstudio.com/download) (VS Code has a Jupyter Notebook extension now)
-
-4.	Set up Spark and Pyspark: [Apache PySpark for Windows 10](https://towardsdatascience.com/installing-apache-pyspark-on-windows-10-f5f0c506bea1)
-
-5.	Install R and R-studio (This repo was built on 4.0.4 but is compatible with 3.4x): [R](https://www.r-project.org/)
-
-6.	Download this repository: [Masterize_Hospital_Entities](https://github.com/vikrantdeshpande09876/Masterize_Hospital_Entities)
-
-7.	Create a virtual environment for making a copy of your system-wide Python interpreter, in the directory for this repo:
-```
-> python -m venv myvirtualenv
-```
-
-8.	Activate this virtual environment. You need not perform step#4 each time for execution:
-```
-> myvirtualenv\Scripts\activate
-```
-
-9.	Install the application-specific dependencies by executing:
-```
-> pip install -r requirements.txt
-```
-
-10.	Set up your input data in **_hospital_account_info_raw.csv_** with the expected structure.
-
-11.	Construct your thresholds for individual text-comparison within **_config.py_**
-
-12. Execute the **_Recursive_Python_Site_Master.py_** script:
-```
-> python Recursive_Python_Site_Master.py
-```
-
-
-
 ## Implementation notes:
 
 i. The output of these R-functions can be interpreted as the raw universe of potential duplicates for that minibatch; a DataFrame containing the following columns:
@@ -107,3 +67,43 @@ These deduplicated master-datasets would be compared against each other using th
 vi. The time taken for recursively processing a large batch is significantly lower than the time that would’ve been theoretically required for one-shot processing.
 The following observations were taken by considering minibatches of size 5,000, on an AWS EC2 instance m5.4xlarge (64 GB RAM, and 16 vCPUs- each a single thread on a 3.1 GHz Intel Xeon Platinum 8175M processor):
 ![Execution_stats_Tableau_output](/Documentation/Research_Paper_Work/Execution_stats_Tableau_output.jpg?raw=True)
+
+
+
+## Step-by-step guide to setup this data-pipeline
+
+1.	Install GIT (This repo used 2.25.1 on Windows-10): [Git](https://git-scm.com/downloads)
+
+2.	Install Python (This repo was built on 3.8.1 but is compatible with 2.5x): [Python](https://www.python.org/downloads/)
+
+3.	Set up Jupyter Notebook using [Anaconda](https://www.anaconda.com/products/individual) or [Visual Studio Code](https://code.visualstudio.com/download) (VS Code has a Jupyter Notebook extension now)
+
+4.	Set up Spark and Pyspark: [Apache PySpark for Windows 10](https://towardsdatascience.com/installing-apache-pyspark-on-windows-10-f5f0c506bea1)
+
+5.	Install R and R-studio (This repo was built on 4.0.4 but is compatible with 3.4x): [R](https://www.r-project.org/)
+
+6.	Download this repository: [Masterize_Hospital_Entities](https://github.com/vikrantdeshpande09876/Masterize_Hospital_Entities)
+
+7.	Create a virtual environment for making a copy of your system-wide Python interpreter, in the directory for this repo:
+```
+> python -m venv myvirtualenv
+```
+
+8.	Activate this virtual environment. You need not perform step#4 each time for execution:
+```
+> myvirtualenv\Scripts\activate
+```
+
+9.	Install the application-specific dependencies by executing:
+```
+> pip install -r requirements.txt
+```
+
+10.	Set up your input data in **_hospital_account_info_raw.csv_** with the expected structure.
+
+11.	Construct your thresholds for individual text-comparison within **_config.py_**
+
+12. Execute the **_Recursive_Python_Site_Master.py_** script:
+```
+> python Recursive_Python_Site_Master.py
+```
