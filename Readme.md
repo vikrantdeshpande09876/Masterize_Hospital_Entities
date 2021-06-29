@@ -54,13 +54,15 @@ iv. Finally, from this list of cleaned-normalized-score-features, using basic se
 Union of 'SR_NUM_1' & 'SR_NUM_2' will be the universe of potential duplicates (UPD).
 Stand-alone records in the current minibatch, are those which do not fall in this universe of potential duplicates (Non-UPD).
 The final Master-records will be the union of Master-Ids and the Stand-alone Ids identified above.
-![Set_Theory_equations](/Documentation/Research_Paper_Work/Set_Theory_equations.jpg?raw=True)
-![Set_Theory](/Documentation/Research_Paper_Work/Set_Theory.jpg?raw=True)
+
+<img src="/Documentation/Research_Paper_Work/Set_Theory_equations.jpg" height="50" width="50" alt="Set_Theory_equations" />
+
+<img src="/Documentation/Research_Paper_Work/Set_Theory.jpg" height="50" width="50" alt="Set_Theory" />
 
 
 v. A recursive algorithmic approach will first pass minibatches of a fixed size into the _dedup_ R-function and generate deduplicated master-datasets.
 These deduplicated master-datasets would be compared against each other using the _linkage_ R-function. This is similar to the conventional level-order traversal of a binary tree using a queue, but in reverse, until each record is compared against every other. The motivation here is to prevent overuse of RAM, due to in-memory candidate pair computations.
-![RECURSIVE PROCESSING](/Documentation/Research_Paper_Work/Recursive_Approach_Formalized.jpg?raw=True)
+![Recursive_processing](/Documentation/Research_Paper_Work/Recursive_Approach_Formalized.jpg?raw=True)
 
 
 vi. The time taken for recursively processing a large batch is significantly lower than the time that would’ve been theoretically required for one-shot processing.
