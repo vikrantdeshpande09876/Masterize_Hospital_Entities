@@ -55,7 +55,7 @@ Union of 'SR_NUM_1' & 'SR_NUM_2' will be the universe of potential duplicates (U
 Stand-alone records in the current minibatch, are those which do not fall in this universe of potential duplicates (Non-UPD).
 The final Master-records will be the union of Master-Ids and the Stand-alone Ids identified above.
 
-<img src="/Documentation/Research_Paper_Work/Set_Theory_equations.jpg" height="300" width="500" alt="Set_Theory_equations" />
+<img src="/Documentation/Research_Paper_Work/Set_Theory_equations.jpg" height="200" width="500" alt="Set_Theory_equations" />
 
 <img src="/Documentation/Research_Paper_Work/Set_Theory.jpg" height="400" width="600" alt="Set_Theory" />
 
@@ -63,12 +63,12 @@ The final Master-records will be the union of Master-Ids and the Stand-alone Ids
 v. A recursive algorithmic approach will first pass minibatches of a fixed size into the _dedup_ R-function and generate deduplicated master-datasets.
 These deduplicated master-datasets would be compared against each other using the _linkage_ R-function. This is similar to the conventional level-order traversal of a binary tree using a queue, but in reverse, until each record is compared against every other. The motivation here is to prevent overuse of RAM, due to in-memory candidate pair computations.
 
-![Recursive_processing](/Documentation/Research_Paper_Work/Recursive_processing.jpg?raw=True)
+![Recursive_Approach_Formalized](/Documentation/Research_Paper_Work/Recursive_Approach_Formalized.jpg?raw=True)
 
 
 vi. The time taken for recursively processing a large batch is significantly lower than the time that would’ve been theoretically required for one-shot processing.
 The following observations were taken by considering minibatches of size 5,000, on an AWS EC2 instance m5.4xlarge (64 GB RAM, and 16 vCPUs- each a single thread on a 3.1 GHz Intel Xeon Platinum 8175M processor):
-<img src="/Documentation/Research_Paper_Work/Execution_stats_Tableau_output.jpg" height="600" width="600" alt="Execution_stats_Tableau_output" />
+![Execution_stats_Tableau_output](/Documentation/Research_Paper_Work/Execution_stats_Tableau_output.jpg?raw=True)
 
 
 
