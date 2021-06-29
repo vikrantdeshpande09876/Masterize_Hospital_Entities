@@ -4,7 +4,8 @@ import os
 
 ''' Environment Directory Config '''
 _RAW_STATIC_FILE_NAME = 'hospital_account_info_raw.csv'
-_STATIC_FILE_NAME = 'hospital_account_info.csv'
+#_STATIC_FILE_NAME = 'hospital_account_info.csv'
+_STATIC_FILE_NAME = 'Site_Master_Extract.xlsx'
 _RAW_SCORES_DIRECTORY = 'Raw_Scores'
 _CLEANED_SCORES_DIRECTORY = 'Cleaned_Scores'
 _MASTER_DATA_DIRECTORY = 'Master_Data'
@@ -40,7 +41,7 @@ _COLUMNS_TO_CLEAN = [
             'ADDRESS_LINE_1','ADDRESS_LINE_2','ADDRESS_LINE_3',
             'SITE_NAME','STATE','CITY','POSTAL_CODE'
             ]
-_MAXSIZE=2000
+_MAXSIZE = 2000
 
 
 
@@ -56,8 +57,8 @@ _LINKAGE_METHOD = 'Linkage'
 _BINARIES_NAME = 'levenshtein'
 _BINARIES_EXTENSION = '.dll'
 #_BINARIES_EXTENSION = '.so'
-_THRESHOLD_FOR_INDIVIDUAL=0.95
-_THRESHOLD_FOR_ADDRESS_COMBINED=0.95
+_THRESHOLD_FOR_INDIVIDUAL=0.85
+_THRESHOLD_FOR_ADDRESS_COMBINED=0.75
 _THRESHOLDS_DICT = {
         'CONCAT_ADDRESS': _THRESHOLD_FOR_ADDRESS_COMBINED,
         'SITE_NAME': _THRESHOLD_FOR_INDIVIDUAL,

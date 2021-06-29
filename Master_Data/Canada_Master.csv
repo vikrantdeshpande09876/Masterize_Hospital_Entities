@@ -1,0 +1,753 @@
+SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,CONCAT_ADDRESS
+14339,CDM,PPD,FEB-1008,1-D1V3PB,,Canada,Montreal Children's Hospital,Quebec,Montreal,H3H 1P3,Disqualified,2300 Rue Tupper
+4,CDM,ICON,C16007,,,Canada,IMI Contact Address - TBD,,,,ACTIVE,
+14340,CDM,PPD,FEB-1008,1-D1V3PO,,Canada,Sainte Justine Hospital,Quebec,Montreal,H3T 1C5,Disqualified,"3175 Ch De Lane Côte-sainte-catherine, Pediatrics"
+6152,CDM,IQVIA,TAK-883-3001,203,1-4RTU1EU,Canada,Institut Universitaire de Cardiologie et de Pneumologie de Quebec,Quebec,Quebec,G1V 4G5,Dropped,"2725 Chemin Ste-Foy, U-1771"
+16398,CDM,PPD,C16029,1-YWQSNZ,,Canada,Windsor Regional Hospital,Ontario,Windsor,N8W 1L9,Disqualified,1995 Lens Avenue
+36887,CDM,PRA,TAK-981-1501,07001,8180,Canada,Jewish General Hospital,Quebec,Montreal,H3T 1E2,Active Enrolling,3755 Chemin de la CteSainteCatherine
+8215,CDM,PPD,C14023,1-41ZL995,,Canada,Tom Baker Cancer Centre,Alberta,Calgary,AB T2N 2T9,Disqualified,1403 29 Street Northwest
+34843,CDM,PPD,TMX-67_301,3519,,Canada,"Alpha Clinical Research, LLC",Quebec,Quebec,G3K 2P8,Closed,1147 boul Pie XI N
+18460,CDM,PPD,HGT-FIR-096,1-1KV34O,,Canada,McGill University Health Center,Quebec,Montreal,H3G 1A4,Disqualified,1650 Cedar Avenue
+34844,CDM,PPD,TMX-67_301,3520,,Canada,Groupe de Recherche en Maladies Osseuses Inc.,Quebec,Quebec City,G1V 3M7,Closed,1200 Avenue Germains Des Pres.
+8221,CDM,PPD,C14023,1-4204N9J,,Canada,Cancer Care Manitoba,Manitoba,Winnipeg,R3E 0V9,Void,675 McDermot Avenue
+38945,CDM,PPD,Vedolizumab-4005,1-V6HALX,,Canada,Vancouver General Hospital,British Columbia,Vancouver,V5Z 1M9,Disqualified,855 West 12th Avenue
+12321,CDM,PPD,C16014,1-E8Q6N,,Canada,Memorial University of Newfoundland,Newfoundland,Saint John's,A1B 3V6,Disqualified,300 Prince Philip Drive
+45091,CTMS,PRA,AP26113-13-201,,,Canada,,,,,,
+36908,CDM,PRA,AP26113-13-301,083,1-1F5KUQG,Canada,Princess Margaret Cancer Centre,ON,Toronto,M5G 2M9,Activated,610 University AvenueFloor 5207
+2099,CDM,IQVIA,C14018,7101,1-14CAU66,Canada,Centre de santé et de services sociaux Champlain-Charles-Le Moyne,,,,,
+41012,CTMS,PPD,C21005,07003,,Canada,Centre Hospitalier Universitaire de Sherbrooke-Hospital Fleurimont,,,,Closed,
+41013,CTMS,PPD,C21005,07010,,Canada,Southern Interior Medical Research Incorporated,,,,Closed,
+38968,CTMS,,C14005,07002,,Canada,Hopital Maisonneuve - Rosemont,,,,Closed,
+38971,CTMS,,C14005,AML11,,Canada,Northwest Alabama Cancer Center,,,,Under Consideration,
+38972,CTMS,,C14005,AML15,,Canada,Rush University Medical Center,,,,Under Consideration,
+45117,CTMS,PPD,C21012,1-1IDB9UG,,Canada,Urology Resource Centre,,,,Withdrawn,
+16446,CDM,PPD,HGT-FIR-096,1-1FOO0R,,Canada,Rockyview General Hospital,,Calgary,T2V 1,Disqualified,"7007 14th Street, Southwest"
+41028,CTMS,PPD,C21004,07004,,Canada,London Health Sciences Centre/University Hospital,,,,Closed,
+41029,CTMS,PPD,C21004,07006,,Canada,Guelph Urology Associates,,,,Closed,
+41030,CTMS,PPD,C21004,07008,,Canada,Dr Ken Jansz,,,,Closed,
+41031,CTMS,PPD,C21004,07026,,Canada,Sinkaf Incorporated,,,,Withdrawn,
+45127,CTMS,Quintiles,AALL07P1,11001,,Canada,Montreal Children's Hospital,,,,Active,
+12358,CDM,PPD,C16029,07002,,Canada,Lakeridge Health Center,Ontario,Oshawa,L1G 2B9,Closed,1 Hospital CourtLakeridge Health
+77,CDM,ICON,C16007,,,Canada,Laboratory Shipment Address - Princess Margaret Hospital,Ontario,Toronto,M5G 2C1,ACTIVE,620 University Ave.8th FloorRoom 206
+28758,CDM,PPD,SPD489-347,200,,Canada,Center for Pediatric Excellence,Ontario,Ottawa,K2G 1W2,Withdrawn,1647 Woodroffe Avenue
+28759,CDM,PPD,SPD489-347,202,,Canada,Foothills Medical Centre,Alberta,Calgary,T2N 4Z6,Withdrawn,3280 Hospital Drive Northwest
+92,CDM,ICON,C25001,07001,,Canada,BC Cancer Agency,British Columbia,Vancouver,V5Z 1H6,ACTIVE,600 West 10th Avenue
+22632,CDM,PPD,Pevonedistat-3001,07003,,Canada,University of Alberta,Alberta,Edmonton,T6G 2B7,Close-Out Ready,8440 112th Street
+16491,CDM,PPD,HGT-FIR-096,1-1EIP3W,,Canada,Montreal Heart Institute,,Montreal,H1T-1,Disqualified,5000 East Belair
+16492,CDM,PPD,HGT-FIR-096,1-1EIP4D,,Canada,Chest Clinic,British Columbia,Maple Ridge,V2X 2L5,Disqualified,308-22230 North Avenue
+16493,CDM,PPD,HGT-FIR-096,1-1EIP70,,Canada,Royal Victoria Regional Health Centre,Quebec,Montreal,H3A 1A1,Disqualified,687 Pine Avenue West
+4207,CDM,IQVIA,161403,107,1-4IMEH40,Canada,ECOGENE-21,Chicoutimi,Quebec,G7H 7K9,Dropped,"930, Jacques-Cartier Est, Bureau B-210"
+28785,CDM,PPD,SYR-322-309,1-IQE7VC,,Canada,Clinical Research Consultant Group,Quebec,Pointe Claire,H9R 3J1,Disqualified,269 Boulevard Saint Jean
+28786,CDM,PPD,SYR-322-309,1-IQE7WC,,Canada,The University of Western Ontario,Ontario,London,N6A 5C1,Disqualified,Clinical Skills Building
+118,CDM,ICON,C25003,,,Canada,Queen Elizabeth II Health Science Centre,Nova Scotia,Halifax,B3H 2Y9,ACTIVE,1276 South Park Street
+22647,CDM,PPD,Pevonedistat-3001,1-16Q6DBF,,Canada,Queen Elizabeth II Health Sciences Center,Nova Scotia,Halifax,B3H2E2,Disqualified,"5909 Jubilee Road, Ce Ii  C/o Laura Magennis"
+12409,CDM,PPD,C16027,1-1X1YAXV,,Canada,Princess Margaret Cancer Centre,Ontario,Toronto,M5G 1X5,Disqualified,700 University Avenue2nd Floor
+43130,CTMS,PPD,C21012,07025,,Canada,British Columbia Cancer Agency,,,,Closed,
+10362,CDM,PPD,C16014,1-E3N6O,,Canada,Grand River Hospital,Ontario,Kitchener,N2G1G3,Disqualified,835 King Street West
+39037,CTMS,,C14005,AML17,,Canada,Hopital de Brabois Adultes,,,,Not Selected,
+2176,CDM,ICON,C25003,07005,,Canada,"Sir Mortimer B. Davis, Jewish General Hospital",Quebec,Montreal,H3T 1E2,ACTIVE,"3755, rue Cote Ste-Catherine"
+2177,CDM,ICON,C25003,07010,,Canada,Saskatchewan Cancer Agency (SCA) - Saskatoon Cancer Centre (SCC),Saskatchewan,Saskatoon,S7N4H4,ACTIVE,20 Campus Drive
+39042,CTMS,,C14006,TBD-300288643,,Canada,London Health Sciences Centre/University Hospital,,,,Under Consideration,
+39043,CTMS,,C14006,TBD-300288932,,Canada,BC Cancer Agency,,,,Under Consideration,
+10370,CDM,PPD,C16014,1-E8Q9H,,Canada,Pierre Whitlock's Private Practice,New Brunswick,Moncton,E1C 8X3,Disqualified,37 Providence Street
+10371,CDM,PPD,C16014,1-E8Q9X,,Canada,London East Medical Centre,Ontario,London,N5W6A2,Disqualified,295 Saskatoon Street
+43142,CTMS,PPD,C21012,1-1IDB9YO,,Canada,Hopital Notre-Dame,,,,Withdrawn,
+43143,CTMS,PPD,C21012,1-1IDBA3I,,Canada,Centre Hospitalier Universitaire de Sherbrooke-Hospital Fleurimont,,,,Withdrawn,
+41096,CTMS,PPD,C21005,1-12J8GGW,,Canada,Can-Med Clinical Research Incorporated,,,,Declined Participation,
+41097,CTMS,PPD,C21005,1-12J913O,,Canada,Princess Margaret Hospital/ University Health Network,,,,Declined Participation,
+26755,CDM,PPD,SHP625-306,1-1K5S1Y5,,Canada,University of Alberta,Alberta,Edmonton,T6G 1C9,Disqualified,11405 87 Avenue Northwest
+16521,CDM,PPD,HGT-FIR-096,1-ZBZ8C,,Canada,JBN Medical Diagnostic Services Inc,Ontario,Burlington,L7M 4Y1,Disqualified,2951 Walker's Line
+8332,CDM,PPD,C14023,1-41ZL9A8,,Canada,University of Alberta,Alberta,Edmonton,T6G 2G3,Disqualified,11350 - 83 Avenue
+41104,CTMS,PPD,C21005,1-12K2JHO,,Canada,Male Health Centres,,,,Declined Participation,
+41105,CTMS,PPD,C21005,1-12K2P4G,,Canada,Dr Ken Jansz,,,,Declined Participation,
+41106,CTMS,PPD,C21005,1-12K30E2,,Canada,Joseph Brant Memorial Hospital,,,,Declined Participation,
+41108,CTMS,PPD,C21004,1-12J1SB7,,Canada,William Osler Health Centre,,,,Declined Participation,
+39064,CDM,PPD,Vedolizumab-4005,1-V6HAKT,,Canada,Centre Hospitalier de l'Universite de Montreal,Quebec,Montreal,H2X 0A9,Disqualified,"900 Rue St-Denis, Bureau R05-630"
+39065,CDM,PPD,Vedolizumab-4005,1-V6HALK,,Canada,Royal University Hospital,Saskatchewan,Saskatoon,S7N 0W8,Disqualified,103 Hospital Drive
+10395,CDM,PPD,C16014,07001,,Canada,MUHC-Glen Site,Quebec,Montreal,H4A 3J1,Active - No Longer Recruiting,1001 Boulevard Décarie
+10396,CDM,PPD,C16014,1-1693N0,,Canada,Sault Area Hospitals,Ontario,Sault Ste. Marie,P6B 0A8,Disqualified,750 Great Northern RoadAlgoma District Cancer Program
+10397,CDM,PPD,C16014,1-1693YF,,Canada,Northeast Cancer Centre,Ontario,Sudbury,P3E 5J1,Disqualified,41 Ramsey Lake Road
+2208,CDM,IQVIA,M1-1188_203,2004,1-17LKNQM,Canada,Stratica Medical,,,,,
+2209,CDM,IQVIA,M1-1188_203,2008,1-17LKNSY,Canada,"North Bay Dermatology Centre, Inc.",,,,,
+43169,CTMS,PPD,C21012,1-1IDB9N2,,Canada,London Health Sciences Centre/University Hospital,,,,Withdrawn,
+14497,CDM,PPD,C16021,07104,,Canada,Royal Victoria Regional Health Centre,Ontario,Barrie,L4M 6M2,Closed,201 Georgian Drive
+41124,CTMS,PPD,C21004,1-12YEYJT,,Canada,Uro Laval,,,,Declined Participation,
+8361,CDM,PPD,C14023,1-43XI3QZ,,Canada,Hopital Charles Le Moyne,Quebec,Greenfield Park,J4V 2H1,Disqualified,"Charles Lemoyne Hospital, 3120 Taschereau Boulevard"
+37036,CDM,PPD,TMX-67_301,1-4GKE55,,Canada,SKDS Research Inc,Ontario,Newmarket,L3Y 5G8,Disqualified,221-679 Davis Drive
+39084,CDM,PPD,Vedolizumab-4005,1-WW16L5,,Canada,McMaster University Medical Centre,Ontario,Hamilton,L8N 3Z5,Disqualified,1280 Main Street West
+41134,CTMS,PPD,C21004,1-15ANFAR,,Canada,British Columbia Cancer Agency,,,,Declined Participation,
+37042,CDM,PPD,TMX-67_301,1-4GKWFJ,,Canada,University of Calgary Medicine,Alberta,Calgary,T2N 4N1,Disqualified,3330 Hospital Drive Northwest
+6325,CDM,IQVIA,TAK-994-1501,07003,1-4V575IU,Canada,Toronto Sleep Institute,Toronto,Ontario,M4P 1P2,Ready for Initiation,586 Eglington Avenue EastSuite 208
+182,CDM,ICON,C25003,07005,,Canada,Mcgill University - Jewish General Hospital,Quebec,Montreal,H2W 1S6,ACTIVE,546 Pine West
+183,CDM,ICON,C25003,07006,,Canada,Manna Research Inc.,Ontario,Toronto,M9W 4L6,ACTIVE,2291 Kipling Avenue
+28856,CDM,PPD,SPD489-347,201,,Canada,The Kids Clinic,Ontario,Ajax,L1Z 0M1,Withdrawn,300 Rossland Road
+8395,CDM,PPD,Brigatinib-1002,1-62G3ZII,,Canada,Jewish General  Hospital,Quebec,Montreal,H3T 1E2,Disqualified,3755 Ch De La Cote-Sainte-CatherineLady Davis Institute for Medical Research
+6360,CDM,IQVIA,Vedolizumab-4014,07007,1-2ZJMPIJ,Canada,Dr. Jesse Siffledeen,Edmonton,Alberta,T6L 6K3,Enrollment Closed,"6203 28 Avenue, Suite #333"
+4312,CDM,IQVIA,SHP643-403,200,1-49SZBYD,Canada,Clinique Specialisee en Allergie de la Capitale,Québec,Quebec,G1V 4W2,Enrollment Open,2600 Boul. LaurierUnit 880
+28893,CDM,PPD,SHP616-300,1-FE1XQK,,Canada,Halifax Allergy and Asthma Associates,Nova Scotia,Halifax,B3J 3R4,Disqualified,5657 Spring Garden Road
+2273,CDM,IQVIA,MLN0002-3026,7006,1-1S8ZZIV,Canada,Royal University Hospital,,,,,
+2274,CDM,IQVIA,MLN0002-3026,7009,1-1S8ZZPY,Canada,Hotel Dieu Hospital,,,,,
+2277,CDM,IQVIA,MLN0002-3028,7024,1-1G0KPAL,Canada,(G.I.R.I.) GI Research Institute,,,,,
+28915,CDM,PPD,SHP616-302,,,Canada,University of Western Ontario,,,,Disqualified,
+16627,CDM,PPD,C21015,1-1B3PA8,,Canada,Urology South Shore Research,Quebec,Greenfield Park,J4V 2H3,Disqualified,3234 Boulevard Taschereau
+43255,CTMS,PPD,C21012,1-1IDBA8K,,Canada,Centre Hospitalier Universitaire de Quebec Hotel Dieu,,,,Withdrawn,
+12536,CDM,PPD,C16021,1-Y08DIW,,Canada,Centre Intégré de la santé et des services sociaux de l'Outaouais,Quebec,Gatineau,J8P 7H2,Disqualified,909 Boulevard de la Vérendrye
+41210,CDM,PRA,Ponatinib-3001,07001,1-1LY1KJY,Canada,Hopital Maisonneuve-Rosemont,QC,Montreal,H1T 2M4,Activated,5415 boulevard de lAssomption
+41211,CDM,PRA,Ponatinib-3001,07003,1-1LY1K9R,Canada,CancerCare Manitoba,MB,Winnipeg,R3E 0V9,Activated,675 McDermot Avenue
+30972,CDM,PPD,TAK-079-1005,1-5D7EOVO,,Canada,Centre Hospitalier Universitaire de Quebec,Quebec,Quebec City,G1L-3,Disqualified,"Pavillion Saint-francois D'assise, 10, Rue De L'espinay"
+4355,CDM,IQVIA,261203,190,1-29B50YS,Canada,McMaster University Health Sciences Center,Hamilton,Ontario,L8N 3Z5,Enrollment Open,1200 Main St. WestRoom 1K4
+43268,CTMS,INC Research,AP24534-10-201,,,Canada,,,,,,
+33027,CDM,PPD,SYR-322-309,1-JLZ84C,,Canada,University of Calgary Medicine,Alberta,Calgary,T2N 4Z6,Disqualified,3280 Hospital Drive Northwest
+8459,CDM,PPD,Brigatinib-1002,1-62I0K31,,Canada,Stollery Children's Hospital University of Alberta,Alberta,Edmonton,T6G 2B7,Disqualified,8440 112 St Nw
+8460,CDM,PPD,Brigatinib-1002,1-62I0K3R,,Canada,Centre Hospitalier de l'Université Laval,Quebec,Quebec,G1V 4G2,Disqualified,2705 Boul Laurier
+18707,CDM,PPD,HOS,091,,Canada,British Columbia Children's Hospital,,Vancouver,V6H 3N1,Active - Recruiting,4500 Oak StreetUniv. of British Columbia Medical Genetics
+41236,CTMS,,M120204-063,Legacy Enrollment Site,,Canada,Legacy,,,,Closed,
+30995,CDM,PPD,SHP647-222,1-5ZPJE8W,,Canada,McGill University Health Centre (MUHC) - The Montreal,Quebec,Montreal,H4A 3J1,Potential,1001 Decarie Blvd
+39199,CTMS,,C14004,TBD-300284913,,Canada,Vancouver General Hospital,,,,Declined Participation,
+8479,CDM,PPD,C14023,1-41ZQ9WI,,Canada,Hôpital Maisonneuve-Rosemont,Quebec,Montreal,H1T 2M4,Disqualified,5415 Boulevard De L'assomption
+2338,CDM,IQVIA,MLN0002SC-3030,07007,1-2A1W6LT,Canada,Hopital Maisonneuve-Rosemont d/b/a CIUSSS de l'Est-de-l'Île-de-Montréal,Montreal,Quebec,H1T 2M4,Dropped,5415 Boulevard L'Assomption
+39205,CTMS,,C14005,AML03,,Canada,Institut de Cancérologie de la Loire,,,,Not Selected,
+39206,CTMS,,C14005,AML21,,Canada,Hopital Necker - Enfants Malades,,,,Not Selected,
+39207,CTMS,,C14005,NHL/AML27,,Canada,Virginia Commonwealth University,,,,Declined Participation,
+39208,CTMS,,C14005,NHL/AML28,,Canada,"Center for Cancer and Blood Disorders - Fort Worth, TX",,,,Under Consideration,
+45353,CTMS,Univ. California San Diego,Vedolizumab-5001,,,Canada,,,,,,
+39209,CTMS,,C14005,NHL/AML31,,Canada,Burnaby Hospital Regional Cancer Centre,,,,Not Selected,
+37169,CDM,PPD,TMX-67_301,1-4GYMZU,,Canada,Arun Nayar MD,Saskatchewan,Saskatoon,S7K 3H3,Disqualified,750 Spadina Crescent East
+45368,CTMS,Quintiles,AALL07P1,11101,,Canada,Children's Hospital Of Eastern Ontario,,,,Active,
+8508,CDM,IQVIA,SHP633-304,0433,1-2RGQHMD,Canada,The Hospital for Sick Children,Toronto,Ontario,M5G 1X8,Enrollment Closed,"555 University AvenueRoom 4534, Hill"
+14656,CDM,PPD,FEB-1008,1-D1V3QE,,Canada,Royal University Hospital,Saskatchewan,Saskatoon,S7N 0W8,Disqualified,103 Hospital Drive
+33100,CDM,PPD,TAK-981-1501,07002,,Canada,Centre Hospitalier de l'Universite de Montreal,Quebec,Montreal,QC H2W,Active - Not Yet Recruiting,"3981 Saint Laurent, Comite D'ethique De Recherche Du, Pavillion Cooper"
+2382,CDM,IQVIA,MLN0002SC-3030,07004,1-2A1W6MP,Canada,McGill University Health Centre/Glen Site / Royal Victoria Hospital,Montreal,Quebec,H4A 3J1,Dropped,"1001 Boul. Decarie, Room C04.0119Research Institute, McGill University Health Center, Glen Site"
+335,CDM,ICON,C25003,07001,,Canada,UBC BCCA Research Ethics Board,British Columbia,Vancouver,V5Z IJ3,ACTIVE,"Fairmont Medical Building750 West Broadway, Ste 1315"
+334,CDM,ICON,C25003,07001,,Canada,"BC Cancer Agency, Vancouver Centre",British Columbia,Vancouver,V5Z 4E6,ACTIVE,"600 West 10th Ave,"
+29009,CDM,PPD,SYR-322-309,1-JLZ7YL,,Canada,Cheema Research Inc,Ontario,Mississauga,L5A 3V4,Disqualified,110 - 470 Hensall Circle
+338,CDM,ICON,C25003,07005,,Canada,McGill UHC-Center for Applied Ethics,Quebec,Montreal,H3H 2R9,ACTIVE,"2155 Guy St, Room 231"
+339,CDM,ICON,C25003,07005,,Canada,Royal Victoria Hospital (RVH) - McGill University Health Centre (MUHC),Quebec,Montreal,H3A 1A1,ACTIVE,687 Av Des Pins O
+16723,CDM,PPD,HGT-FIR-096,1-1EIPD6,,Canada,Hypertension Research Unit,Quebec,Sainte Foy,G1V 4G2,Disqualified,"2705 Blv Laurier, Cs-1201"
+341,CDM,ICON,C25003,07006,,Canada,Princess Margaret Cancer Centre,Ontario,Toronto,M5G 2M9,ACTIVE,"Department of Medical Oncology and Hematology620 University Avenue, 6-606"
+2383,CDM,IQVIA,MLN0002SC-3030,07005,1-2A1W6NJ,Canada,Zeidler Ledcor Centre - University of Alberta,Edmonton,Alberta,T6G 2X8,Enrollment Open,8440 - 112 StreetZeidler Ledcor Centre
+336,CDM,ICON,C25003,07003,,Canada,Cross Cancer Institute,Alberta,Edmonton,T6G 1Z2,ACTIVE,11560 University Avenue
+337,CDM,ICON,C25003,07005,,Canada,Jewish General Hospital - Oncology Pharmacy,Quebec,Montreal,H3T 1E2,ACTIVE,"3755 Côte Ste-Catherine, Pavillion E, 8th floor"
+340,CDM,ICON,C25003,07005,,Canada,Royal-Victoria Hospital- Study Coordinator's Office,Quebec,Montreal,H3A 1A1,ACTIVE,"687 Pine Avenue, Pavillion A, 3rd Floor,"
+342,CDM,ICON,C25003,07006,,Canada,University Health Network (UHN) - Princess Margaret Cancer Centre - Myeloma Clinic,Ontario,Toronto,M5G 2M9,ACTIVE,610 University Avenue
+16727,CDM,PPD,HGT-FIR-096,1-1FLN2L,,Canada,Mcgill University Royal Institution For The Advancement of Learning,Quebec,Montreal,H3G1A4,Disqualified,1650 Avenue Cedar
+16732,CDM,PPD,HGT-FIR-096,1-1EIPGH,,Canada,Victoria General Hospital,British Columbia,Victoria,V8Z 6R5,Disqualified,1 Hospital Way
+41308,CTMS,PPD,C21005,07015,,Canada,Urology South Shore Research,,,,Closed,
+41309,CTMS,PPD,C21005,07022,,Canada,Male and Females Health and Research Centres,,,,Withdrawn,
+41310,CTMS,PPD,C21005,07027,,Canada,Prostate Centre at VGH,,,,Withdrawn,
+16731,CDM,PPD,HGT-FIR-096,1-1EIPF2,,Canada,Saint Paul's Hospital,British Columbia,Vancouver,V6Z 1Y6,Disqualified,1081 Burrard Street
+353,CDM,ICON,C16007,,,Canada,Pharmacy - University Health Network,Ontario,Toronto,M5G 2M9,ACTIVE,610 University Ave.Room 4-115
+354,CDM,ICON,C16007,,,Canada,Princess Margaret Cancer Centre,Ontario,Toronto,M5G 2M9,ACTIVE,610 University Avenue
+355,CDM,ICON,C16007,,,Canada,University Health Network,Ontario,Toronto,M5G 2M9,ACTIVE,610 University Ave
+4453,CDM,IQVIA,SHP633-304,0440,1-2RGQHQA,Canada,British Columbia Childrens' & Women's Hospital Center,Vancouver,British Columbia,V6H 3V4,Dropped,"K4-218, 4480 Oak Street"
+31083,CDM,PPD,SHP643-301,1-2XB5EYG,,Canada,Clinique Spécialisée en Allergie de la Capitale,Quebec,Quebec City,G1V 4M6,Disqualified,"2600 Boulevard LaurierResearch Transition Facility, 4-016 RTF"
+26990,CDM,PPD,SHP621-302,1-H5VDZ9,,Canada,William Osler Health Centre,Ontario,Etobicoke,M9V 1R8,Void,101 Humber College Boulevard
+16753,CDM,PPD,HGT-FIR-096,1-ZC5CS,,Canada,Mount Sinai Hospital,Ontario,Toronto,M5G 1X5,Disqualified,600 University Avenue
+16754,CDM,PPD,HGT-FIR-096,1-ZC69D,,Canada,Grace Hospital,Manitoba,Winnepeg,R3J 3M7,Disqualified,300 Booth Drive
+4467,CDM,IQVIA,C14012,7002,1-AAHGJM,Canada,McGill University - Dept. Oncology Clinical Research Program,,,,,
+4468,CDM,IQVIA,C14012,7003,1-LCVB9,Canada,Princess Margaret Cancer Centre,,,,,
+41333,CTMS,,TAK-875_306,,,Canada,,,,,,
+10616,CDM,PPD,C16014,1-G0BR3,,Canada,Medical Oncology and Hematology Associates,Iowa,Des Moines,50314,Disqualified,411 Laurel Street
+45435,CTMS,Quintiles,MLN0002-3029,,,Canada,,,,,,
+6524,CDM,IQVIA,C27002,7205,1-15SGASX,Canada,LHSC - Victoria Hospital,,,,,
+6525,CDM,IQVIA,C27002,7206,1-15VB5N6,Canada,Capital District Health Authority,,,,,
+10619,CDM,PPD,C16014,1-GUV5J,,Canada,Ultra Medical Inc,Quebec,Pointe Claire,H9R 4S3,Disqualified,175 Stillview Road
+2439,CDM,ICON,C25003,,,Canada,Nova Scotia Health Authority Research Ethics Board,Nova Scotia,Halifax,B3H 1V7,ACTIVE,57090 University Ave
+37256,CDM,PRA,C34005,07002,1-1CZEW77,Canada,Nova Scotia Health Authority,NS,Halifax,B3H 2Y9,Closed,Department of Diagnostic Imaging1276 South Park StreetRoom 3016 South Victoria Building
+6540,CDM,IQVIA,SHP655-201,803,1-44X78CA,Canada,University Health Network,Toronto,Ontario,M5G 2N2,Dropped,585 University AvenueNC 11C-1256
+8603,CDM,PPD,C14023,1-4OE7525,,Canada,University of Calgary Medicine,Alberta,Calgary,T2N 4N2,Disqualified,1331 29th St NW
+22939,CDM,PPD,P2002,1-5J5J4VG,,Canada,Mount Sinai Hospital - Canada,Ontario,Toronto,M5G 1X5,Void,445-660 University Avenue
+29093,CDM,PPD,SYR-322-309,1-JLX00H,,Canada,Joanne F Liutkus Medicine Professional Corporation,Ontario,Cambridge,N1R 7L6,Disqualified,"73 Water Street North, Vascular Risk Modification Clinic"
+423,CDM,ICON,C25003,,,Canada,Odette Cancer Center-Sunnybrook Health Sciences Centre,Ontario,Toronto,M4N 3M5,ACTIVE,"2075 Bayview Avenue, 2nd Floor"
+424,CDM,ICON,C25003,,,Canada,Queen Elizabeth Ii Health Sciences Centre,Nova Scotia,Halifax,B3H 2Y9,ACTIVE,"1276 South Park St, Bethune Building"
+29098,CDM,PPD,SYR-322-309,1-JMFXGH,,Canada,Markham Stouffville,Ontario,Markham,L6B 1A1,Disqualified,381 Church Street
+25008,CDM,PPD,ROPP-2008-01,1-F01XCW,,Canada,Royal Alexandra Hospital,Alberta,Edmonton,T5H 3V9,Disqualified,10240 Kingsway Avenue
+41399,CTMS,PPD,C21005,1-13J5LT5,,Canada,Urotec,,,,Declined Participation,
+41408,CTMS,PPD,C21005,1-16U6AEL,,Canada,London Health Sciences Centre/University Hospital,,,,Declined Participation,
+2499,CDM,ICON,C25003,,,Canada,Sunnybrook Health Sciences Centre,Ontario,Toronto,M4N 3M5,ACTIVE,Odette Cancer Centre2075 Bayview Ave
+33229,CDM,PPD,TAK-007-2001,1-8DCY640,,Canada,Queen's University,Ontario,Kingston,K7L 3W6,Disqualified,Fleming Hall
+33230,CDM,PPD,TAK-007-2001,1-8DCY650,,Canada,Queen Elizabeth II Health Sciences Center,Ontario,Hamilton,L8N 4A6,Disqualified,50 Charlton SoutheastDepartment Of Medicine
+16858,CDM,PPD,HGT-FIR-096,1-ZC3XN,,Canada,Queen Elizabeth Hospital,Prince Edward Island,Charlottetown,C1A 8T5,Disqualified,60 Riverside Drive
+6618,CDM,IQVIA,TAK-101-2001,07003,1-51H1MPB,Canada,CHUM Centre de Recherche,Montreal,Quebec,H2L 4M1,Selected,"Pavillon Simard, 6e étage 2065Alexandre de Seve"
+10716,CDM,PPD,C16014,1-E3FKK,,Canada,British Columbia Cancer Agency,British Columbia,Victoria,V8R 6V5,Disqualified,2410 Lee AvenueVancouver Island Cancer Centre
+16868,CDM,PPD,HGT-FIR-096,1-ZC4VY,,Canada,University of Ottawa Heart Institute,Ontario,Ottawa,K1Y 4W7,Disqualified,40 Ruskin Street
+41445,CTMS,PPD,C21005,1-13I2SOZ,,Canada,"Quest Clinical Trials - Scarborough, ON",,,,Declined Participation,
+10728,CDM,PPD,Brigatinib-1002,1-62IQFA9,,Canada,McGill University Health Center,Quebec,Montreal,H4A 3J1,Disqualified,1001 Decarie BoulevardHematology/Oncology Division
+16872,CDM,PPD,HGT-FIR-096,1-ZC5DJ,,Canada,Toronto General Hospital,Ontario,Toronto,M5G 2C4,Disqualified,200 Elizabeth Street
+16874,CDM,PPD,HGT-FIR-096,1-ZC68M,,Canada,Health Sciences Centre - (Winnepeg),Manitoba,Winnepeg,R3A 1R9,Disqualified,820 Sherbrooke Street
+494,CDM,IQVIA,071102,190,1-2IMJ9WI,Canada,Children's & Women's Health Centre of British Columbia,Vancouver,British Columbia,V6H 3V4,Dropped,"4480 Oak Street, Rm. B315"
+43503,CTMS,PPD,C21004,07011,,Canada,Mor Urology Incorporated,,,,Closed,
+6639,CDM,IQVIA,MLN0002-3026,7011,1-1QTGVWX,Canada,McMaster University Health Sciences Center,,,,,
+41459,CTMS,PPD,C21004,07012,,Canada,Urology Resource Centre,,,,Closed,
+41460,CTMS,PPD,C21004,07013,,Canada,Mahoney Medicine Professional Corporation,,,,Closed,
+14836,CDM,PPD,FOS,159,,Canada,BC Women’s Hospital and Health Centre,British Columbia,Vancouver,V6Z 2K5,Disqualified,1190 Hornby StreetFacility of Medicine
+43513,CTMS,PPD,C21004,1-12J1SF5,,Canada,Chuq Pavillon Hotel-Dieu,,,,Declined Participation,
+506,CDM,ICON,C25003,07001,,Canada,BCCA Centre for Lymphoid Cancer,British Columbia,Vancouver,V5Z 4E6,ACTIVE,"600 West 10th Ave,"
+25083,CDM,PPD,SHP607-202,1-15MWYPI,,Canada,University of Calgary Medicine,Alberta,Calgary,T2N 4,Disqualified,2953 Health Sciences Center
+508,CDM,ICON,C25003,07005,,Canada,Gerald Bronfman Center for Clinical Research in Oncology,QC,Montreal,H2W 1S6,ACTIVE,546 Pine Avenue W
+509,CDM,ICON,C25003,07005,,Canada,Royal Victoria Hospital,Quebec,Montreal,H3A 1A1,ACTIVE,687 Pine Ave West
+29193,CDM,PPD,SYR-322-309,1-IV8BMX,,Canada,Richmond Hill Childrens Clinic,Ontario,Richmond Hill,L4C 9M7,Disqualified,250 Harding Boulevard West
+41482,CTMS,PPD,C21005,1-12J8GAM,,Canada,Prostate Cancer Institute,,,,Declined Participation,
+41483,CTMS,PPD,C21005,1-12J90SW,,Canada,Guelph Urology Associates,,,,Declined Participation,
+12813,CDM,PPD,C16014,07006,,Canada,Centre Hospitalier Universitaire de Sherbrooke CHUS,Quebec,Sherbrooke,J1H 5N4,Active - No Longer Recruiting,3001 12e Avenue North
+12815,CDM,PPD,C16014,07009,,Canada,Fraser Health Authority,British Columbia,Surrey,V3V 1Z2,Active - No Longer Recruiting,"13750, 96th Avenue"
+528,CDM,IQVIA,161403,103,1-29B10V8,Canada,University of Alberta Hospital,Edmonton,Alberta,T6G 2B7,Enrollment Open,8440 112th Street NW2C2.42 WMC
+529,CDM,IQVIA,161403,106,1-2SP6T5I,Canada,LHSC - University Hospital,London,Ontario,N6A 5A5,Enrollment Open,"339 Windemere Road, Room B7-140"
+33298,CDM,PPD,SYR-322-309,1-JLZ85F,,Canada,Medical Arts Health Research Group,British Columbia,Penticton,V2A 5C8,Disqualified,626 Main Street
+23068,CDM,PPD,P2002,07009,,Canada,Centre Integre de Sante et de Services Sociaux (CISSS) de la Monteregie-Centre,Quebec,Greenfield Park,J4V 2H1,Qualified,Monteregie Centre3120 Boul Taschereau
+29010,CDM,PPD,SYR-322-309,1-JLZ82N,,Canada,Clinic Source Unique,Ontario,Hawkesbury,K6A 1A1,Disqualified,219 Main Street
+2598,CDM,ICON,C25003,,,Canada,Capital District Health Authority -QEII HSC,Nova Scotia,"Halifax,",B3H 1V7,ACTIVE,Capital Health Centre for Clinical Research5790 University Avenue-Rm. 135
+41521,CDM,PRA,Vedolizumab-2005,07002,1-1BTOY06,Canada,Alberta Children's Hospital,AB,Calgary,T2N 1N7,Closed,2503 University Drive NorthwestCalgary Regional Health Authority
+10803,CDM,PPD,C16014,1-E8QAD,,Canada,Southlake Regional Health Centre,Ontario,Newmarket,L3Y 2P9,Disqualified,596 Davis Drive
+41531,CTMS,PPD,C21004,1-12J1RSL,,Canada,Brantford Urology Research,,,,Declined Participation,
+41533,CTMS,PPD,C21004,1-12J2MKH,,Canada,Alberta Urology Institute Research Centre,,,,Declined Participation,
+41534,CTMS,PPD,C21004,1-12J3AOH,,Canada,"Quest Clinical Trial - Markham, ON",,,,Declined Participation,
+35399,CDM,PPD,TAK-788-3001,07004,,Canada,Princess Margaret Hospital,Ontario,Ontario,M5G 2M9,Active - No Longer Recruiting,610 University Avenueprincess Margaret Cancer Centre
+19015,CDM,PPD,MACS-2014-100795,1-F0RXCX,,Canada,Anapharm,Quebec,Montreal,H3X 2H9,Potential,5160 Decarie Boulevard
+43600,CTMS,Quintiles,AALL07P1,11084,,Canada,Janeway Childrens Health & Rehabilitation Hospital,,,,Active,
+43601,CTMS,Quintiles,AALL07P1,11147,,Canada,CHU Sainte -Justine,,,,Active,
+12880,CDM,PPD,C16019,07902,,Canada,Gordon & Leslie Diamond Health Care Center - Hematology Administration,British Columbia,Vancouver,V5Z 1M9,Withdrawn,2775 Laurel StreetRoom 10149
+41557,CTMS,PPD,C21004,1-14E9JLI,,Canada,Peter Vlaovic Medical Professional Corporation,,,,Declined Participation,
+8794,CDM,PPD,C14023,1-43XI2QN,,Canada,Sir Mortimer B Davis Jewish General Hospital,Quebec,Pointe Claire,H9R 4S3,Disqualified,175 Stillview
+8797,CDM,PPD,C14023,1-46CW0CE,,Canada,Cancer Care Manitoba,Ontario,London,N6H 1E5,Disqualified,201 Riverside Drive
+2663,CDM,ICON,C25003,07005,,Canada,"Clinical Research Program, Mc Gill University",Quebec,Montreal,H2W 1S6,ACTIVE,"546 Pine Avenue West, , 2nd Floor, Rm 212"
+2665,CDM,ICON,C25003,07010,,Canada,Univ of Saskatchewan Bio-REB,Saskatchewan,Saskatoon,S7N 4J8,ACTIVE,1607-110 Gymnasium PlaceNRC-Plant Biotech Research Institute
+6762,CDM,IQVIA,C27002,7202,1-15SGAS3,Canada,BC Cancer Agency Vancouver Centre,,,,,
+21101,CDM,PPD,P2002,1-5J5J4P3,,Canada,University of Calgary Medicine,Alberta,Calgary,T2N 4Z6,Void,3280 Hospital Dr NwArnie Charbonneau Cancer Institute
+41582,CTMS,PPD,C21004,1-1D96C7G,,Canada,The Scarborough Hospital,,,,Declined Participation,
+17007,CDM,PPD,MACS-2014-100795,1-F0O9NA,,Canada,LMC Clinical Research Inc - Diabetes and Endocrinology - PPDS,Quebec,Saint Laurent,H4T 1Z9,Potential,6363 Transcanadienne
+43632,CTMS,PPD,TAK-935-2005,,,Canada,,,,,,
+21102,CDM,PPD,P2002,1-5J5J4PG,,Canada,University of Alberta,Alberta,Edmonton,T6G 2B7,Void,8440-112 Street NorthwestWalter C. Mackenzie Health Sciences Centre
+21104,CDM,PPD,P2002,1-5J5J4QJ,,Canada,Hamilton Health Sciences Corporation,Ontario,Hamilton,L8V 5C2,Disqualified,699 Concession StreetJuravinski Cancer Centre
+19060,CDM,PPD,HGT-FIR-096,1-152GES,,Canada,Alder Medical Centre,British Columbia,Campbell River,V9W 5Y4,Disqualified,277 Evergreen Road
+12916,CDM,PPD,C16014,1-1623VZ,,Canada,Kingston General Hospital,Ontario,Kingston,K7L5P9,Disqualified,25 King Street WestCancer Centre of Southeastern Ontario
+17023,CDM,PPD,MACS-2014-100795,1-F0O9NN,,Canada,Medicentres Canada Incorporated,Alberta,Edmonton,T5A 4L8,Potential,12747-50th Street
+17024,CDM,PPD,MACS-2014-100795,1-F0O9OQ,,Canada,Victoria Clinical Research Inc,,,,Potential,
+27265,CDM,PPD,SHP647-221,1-57RSQ5R,,Canada,Liver Care Centre Corporation,Ontario,Toronto,M6H 3M1,Disqualified,1664 Dufferin Street
+27266,CDM,PPD,SHP647-221,1-57RSQ76,,Canada,University of Manitoba,Manitoba,Winnepeg,R3A 1R9,Eligible for Participation,820 Sherbrook Street
+17028,CDM,PPD,MACS-2014-100795,1-F0RXED,,Canada,LMC Clinical Research Inc - Diabetes and Endocrinology - PPDS,Ontario,Thornhill,L4J 8L7,Potential,531 Atkinson Avenue
+41605,CDM,PRA,TAK-981-1501,07002,14602,Canada,Centre de Recherche du Centre Hospitalier de l'Universite de Montreal,Quebec,Montreal,H2X 0A9,Activated,900 Rue Saint Denis
+6796,CDM,IQVIA,C34002,7001,1-1DBIPAN,Canada,Queen Elizabeth II Health Sciences Centre,,,,,
+6797,CDM,IQVIA,C34002,7002,1-1DBIPBE,Canada,Princess Margaret Cancer Centre,,,,,
+2702,CDM,ICON,C25003,07003,,Canada,HREBA-Cancer Committee,Alberta,Edmonton,T5J 4A7,ACTIVE,10104-103 Street Ste 1500
+12940,CDM,PPD,C16029,1-Y3GEZL,,Canada,CHUM Notre Dame Hospital,Quebec,Montreal,K1H 8L6,Disqualified,1560 Sherbrooke Street East
+2704,CDM,ICON,C25003,07009,,Canada,Cancer Care Manitoba,Manitoba,Winnipeg,R2H 2A6,ACTIVE,409 Tache Avenue
+17042,CDM,PPD,MLN0002-3024,1-7JU6LUO,,Canada,Toronto Digestive Disease Associates Inc,Ontario,Toronto,M3N 2V7,Disqualified,2065 Finch Ave W
+35476,CDM,PPD,Vedolizumab-4005,1-RTS42Q,,Canada,London Health Sciences Centre,Ontario,London,N6A 4,Disqualified,"Gi Associates-victoria Campus, 375 South Street-po Box 5375"
+19093,CDM,PPD,MLN0002-3024,1-7JU6LV1,,Canada,Children's and Women's Health Centre of British Columbia,British Columbia,Vancouver,V6H 3V4,Void,B321-4480 Oak St
+19092,CDM,PPD,MLN0002-3024,1-7JU6LUD,,Canada,University of Montreal,Quebec,Montreal,H2X 0C2,Disqualified,1100 Rue Sanguinet
+6809,CDM,IQVIA,MLN0002-3028,7026,1-1G0KPEH,Canada,Queen Elizabeth II Health Sciences Centre,,,,,
+23196,CDM,PPD,P2002,1-5JAO1I6,,Canada,London Health Sciences Centre,Ontario,London,N6A 5A5,Disqualified,339 Windermere Road
+37533,CDM,PRA,Ponatinib-3001,07005,1-1QDXFJK,Canada,Vancouver General Hospital,BC,Vancouver,V5Z 1M9,Sponsor Approved,855 West 12th AvenueBlackmore Pavilion6th Floor LB6
+4766,CDM,IQVIA,M1-1188_202,5023,1-1A6DVO2,Canada,LMC Clinical Research dba Manna Research Inc. Toronto,,,,,
+27293,CDM,PPD,SHP634-101,402,,Canada,Bone Research and Education Centre,,Oakville,L6M 1M1,Closed,3075 Hospital Gate
+41637,CDM,PRA,Vedolizumab-3035,07002,1-1LLB2E7,Canada,CancerCare Manitoba,MB,Winnipeg,R3E 0V9,Activated,820 Sherbrook Street
+27303,CDM,PPD,SHP634-404,401,,Canada,Nova Scotia Health Authority (Capital District Health Authority),Nova Scotia,Halifax,B3H 1V7,Withdrawn,5790 Universtiy AvenueCentre for Clinical Research
+27304,CDM,PPD,SHP634-404,403,,Canada,CHU de Quebec-Universite Laval,Quebec,Quebec,G1V 4G2,Closed,2705 Boulevard Laurier
+4780,CDM,IQVIA,M1-1188_203,2003,1-17LKNPK,Canada,Probity Medical Research Inc.,,,,,
+17069,CDM,PPD,MACS-2020-08401,1-AIHNGAU,,Canada,Unity Health,Ontario,Toronto,M5C 2C5,Potential,36 Toronto StreetSuite 700
+25270,CDM,PPD,SHP616-300,1-FDP0JE,,Canada,Clinique Sp�cialis�e en Allergie de la Capitale,Quebec,Quebec City,G1V 4M6,Disqualified,"2590 Boulevard Laurier, 2e Étage, Bureau 225"
+25271,CDM,PPD,SHP616-300,1-FDP0JR,,Canada,Vancouver Allergy Clinic,,Vancouver,V6H 3K2,Disqualified,3195 Granville Street
+25272,CDM,PPD,SHP616-300,1-FDP0LD,,Canada,Gordon Sussman Clinical Research Inc,,Toronto,M4V 1R2,Withdrawn,202 St. Clair Avenue West
+41655,CTMS,,60129,60129,,Canada,The Hospital for Sick Children,,,,Active,
+37562,CDM,PRA,Brigatinib-2002,07001,1-1KA60NJ,Canada,Toronto University Health Network,ON,Toronto,M5G 2M9,Activated,610 University AvenueFloor 5207
+17085,CDM,PPD,MLN0002-3024,1-7K3BL7M,,Canada,University of Calgary,Alberta,Calgary,T3M 1M4,Disqualified,4448 Front StreetSouth Health Campus Pulmonary Diagnostics Clinic
+19135,CDM,PPD,MACS-2014-100795,1-F0RXDN,,Canada,LMC Clinical Research Inc - Diabetes and Endocrinology - PPDS,Alberta,Calgary,T2H 2G4,Potential,5940 Macleod Trail Southwest
+19143,CDM,PPD,MACS-2020-08401,1-AIHNGBU,,Canada,Alberta Health Services,Alberta,Calgary,T2N 4N1,Disqualified,3330-3330 Hospital Dr NW
+17097,CDM,PPD,MLN0002-3024,1-7JU6M1Z,,Canada,University of Ottawa Health Services,Ontario,Ottawa,K1H 8L6,Disqualified,501 Smyth Roaduniversity of Ottawa Eye INSTITUTE
+29390,CDM,PPD,SHP620-303,112,,Canada,St. Joseph's Healthcare Hamilton,Ontario,Hamilton,L8N 4A6,Close-Out Ready,50 Charlton Avenue East
+25298,CDM,PPD,SHP616-302,203,,Canada,University of Toronto,,Toronto,,Withdrawn,585 University Avenue
+37589,CDM,PPD,TMX-67_301,1-4GKKZQ,,Canada,Medical Arts Health Research Group,British Columbia,Kelowna,V1Y 3G8,Disqualified,1605 Gordon Drive
+726,CDM,ICON,C16007,,,Canada,Data Coordinator (including Safety Reports address),Ontario,Toronto,M5G 1Z6,ACTIVE,"700 University Ave2nd Floor, North SideWork Station # 27"
+728,CDM,ICON,C16007,,,Canada,University Health Network Research Ethics Board,Ontario,Toronto,M5G 1Z5,ACTIVE,Research Ethics Board700 University Ave.
+33497,CDM,PPD,TAK-079-1004,1-5QGG75Y,,Canada,Moncton Hospital,New Brunswick,Moncton,E1C 4B7,Void,100 Arden Street
+37593,CDM,PPD,TMX-67_301,1-4GN4RY,,Canada,Scimed Research Inc,British Columbia,Kelowna,V1Y 9L8,Disqualified,757 Klo Road
+37594,CDM,PPD,TMX-67_301,1-4GN4Y5,,Canada,Nova Scotia Health Authority (Capital District Health Authority),Nova Scotia,Halifax,B3H 3A7,Disqualified,1796 Summer Street
+31456,CDM,PPD,TAK-079-1005,1-5DAYTRH,,Canada,Kingston General Hospital,Ontario,Ontario,K7M 3J7,Potential,62 Barrie StreetCenter For Applied Urological Research
+10978,CDM,PPD,C16014,1-HB6WL,,Canada,Cancer Center for The Southern Interior,British Columbia,Kelowna,V1Y 5L3,Disqualified,399 Royal Avenue
+43747,CTMS,Quintiles,AALL07P1,11021,,Canada,Kingston General Hospital,,,,Active,
+27373,CDM,PPD,SHP647-221,1-57RSQDZ,,Canada,University of Alberta,Alberta,Edmonton,T6G 2X8,Eligible for Participation,130 University Campus
+752,CDM,IQVIA,161403,100,1-1JFCCM5,Canada,Toronto General Hospital,Toronto,Ontario,M5G 2C4,Enrollment Open,"200  Elizabeth StreetEaton North, 10th floor Room 243"
+19185,CDM,PPD,MACS-2020-08401,1-AIQN96C,,Canada,University of British Columbia (UBC) Hospital,British Columbia,Vancouver,V6T 2B5,Potential,2211 Wesbrook Mall
+41719,CTMS,PPD,C21005,1-13JAVHR,,Canada,Brantford Urology Research,,,,Declined Participation,
+8951,CDM,PPD,Brigatinib-1003,1-62H56KF,,Canada,University of Western Ontario,Ontario,London,N6A 5W9,Disqualified,800 Commissioners Road East
+2809,CDM,ICON,C25003,07005,,Canada,"Cedars Cancer Centre, McGill University Health Centre",Quebec,Montreal,H4A 3J1,ACTIVE,1001 Decarie Boulevard
+8954,CDM,PPD,Brigatinib-1003,1-62I0K6Y,,Canada,Saskatoon Cancer Center,Saskatchewan,Saskatoon,S7N 4H4,Disqualified,20 Campus Drive
+13047,CDM,PPD,C16014,07007,,Canada,London Health Sciences Centre,Ontario,London,N6A 4G5,Active - No Longer Recruiting,"Post Office Box 5375, Station Center Scs"
+17148,CDM,PPD,MLN0002-3024,1-D2H7LAO,,Canada,Centre Hospitalier Universitaire Sainte-Justine,Quebec,Montreal,,Disqualified,3175  Chemin Cote Sainte-Catherine
+35587,CDM,PPD,Vedolizumab-4005,1-V9AV5M,,Canada,CIUSSS-de-l�Est-de-l��le-de-Montréal,Quebec,Montreal,H1T 2M4,Disqualified,5415 Boulevard De L'assomption
+33541,CDM,PPD,TMX-67_301,1-4GN4RE,,Canada,Hydrostone Medical Centre,,,,Disqualified,
+17164,CDM,PPD,MLN0002-3024,1-7NFKZ04,,Canada,Hospital For Sick Children,,Toronto,M5g 1x8,Disqualified,555 University AvenueDepartment of Gastroenterology and Nutrition
+4884,CDM,IQVIA,MLN0002-3028,7025,1-1GISIJA,Canada,LHSC - University Hospital,,,,,
+13078,CDM,PPD,C16014,07016,,Canada,CHU L'hotel Dieu de Quebec,Quebec,Quebec City,G1R 3S3,Active - No Longer Recruiting,10 Macmahon Street
+791,CDM,ICON,C25003,,,Canada,Sunnybrook Health Sciences Centre Ethics Board,Ontario,Toronto,M4N 3M5,ACTIVE,"2075 Bayview Ave, Room C819"
+13079,CDM,PPD,C16014,07018,,Canada,Lakeridge Health Center,Ontario,Ottawa,L1G 2B9,Closed,1 Hospital CourtDurham Regional Cancer Centre
+8983,CDM,PPD,C14023,1-41ZL9AL,,Canada,Vancouver General Hospital,British Columbia,Vancouver,V5Z 1M9,Void,2775 Laurel Street
+4890,CDM,IQVIA,161403,105,1-2D7ZOX9,Canada,Health Sciences Centre Winnipeg,Winnipeg,Manitoba,R3A 1R9,Dropped,820 Sherbrook Street
+43803,CTMS,PPD,C21004,1-13I3ZA3,,Canada,Uro Services Incorporated,,,,Declined Participation,
+37661,CDM,PRA,C31004,07006,1-1C5M3UW,Canada,Juravinski Cancer Centre,ON,Hamilton,L8V 5C2,Dropped,699 Concession StreetRoom 393
+17182,CDM,PPD,MLN0002-3025,3025-07003,,Canada,University of Alberta Hospital,Alberta,Edmonton,AB T6G 2B7,Qualified,8440 - 112 Street NWWalter C. Mackenzie Health Sciences Centre (WMC)
+39719,CDM,PRA,AP24534-14-203,227,1-1FC7U29,Canada,Saskatchewan Cancer Agency,SK,Regina,S4T 7T1,Closed,4101 Dewdney Avenue
+31534,CDM,PPD,TAK-788-3001,1-4YSAK0C,,Canada,Institut Universitaire de Cardiologie et de Pneumologie,Quebec,Quebec City,G1V 4G5,Disqualified,2725 Chemin Sainte Foy
+27439,CDM,PPD,SHP643-301,1-2XB5EY3,,Canada,McMaster University Medical Centre,Ontario,West Hamilton,L8N 3Z5,Disqualified,1200 Main StreetHealth Sciences Centre HSC-3H1D
+27440,CDM,PPD,SHP643-301,1-2XB5EYT,,Canada,University of Alberta Hospital,Alberta,Edmonton,T6G 2V2,Disqualified,8308 114 Street
+41785,CTMS,PPD,C21005,07007,,Canada,"Ultra-Med, Inc",,,,Closed,
+41786,CTMS,PPD,C21005,07014,,Canada,Centre Hospitalier Universitaire de Quebec Hotel Dieu,,,,Closed,
+31550,CDM,PPD,SPD489-347,1-WEM2EA,,Canada,True North Clinical Research,Nova Scotia,Halifax,B3S 1M7,Disqualified,362 Lacewood Drive
+39743,CTMS,,TAK-875_310,,,Canada,,,,,,
+31555,CDM,PPD,SPD489-348,1-17YU2QO,,Canada,The Kids Clinic,Ontario,Whitby,L1N 2L1,Withdrawn,1615 Dundas Street East
+41801,CTMS,PPD,C21005,1-12J90M0,,Canada,Anthony Skehan Medicine Professionals Corporation,,,,Declined Participation,
+4938,CDM,IQVIA,MLN0002SC-3027,7007,1-1YW1EHE,Canada,Hopital Maisonneuve-Rosemont d/b/a CIUSSS de l'Est-de-l'Île-de-Montréal,,,,,
+4939,CDM,IQVIA,MLN0002SC-3027,7008,1-1SHF522,Canada,"Toronto Digestive Disease Associates, Inc.",,,,,
+4940,CDM,IQVIA,MLN0002SC-3027,7010,1-1RZC1WH,Canada,PerCuro Clinical Research Ltd.,,,,,
+845,CDM,ICON,C25003,07009,,Canada,Manitoba Cancer Treatment And Research Foundation,Manitoba,Winnipeg,R3E 0V9,ACTIVE,675 McDermot Avenue
+29516,CDM,PPD,SHP620-303,1-MCPQEK,,Canada,Centre Hospitalier De L'Universite De Montreal Hospital Notre Dame,Quebec,Montreal,H3C 1J4,Disqualified,2950 Chemin De PolytechniqueMarcelle-Coutu Pavilion
+15182,CDM,PPD,HGT-FIR-096,1-152GIS,,Canada,CorCare Centenary,Ontario,Scarborough,M1E 5E9,Disqualified,2863 Ellesmere Road
+843,CDM,ICON,C25003,07006,,Canada,Princess Margaret Hospital,Ontario,Toronto,M5G 2M9,ACTIVE,610 University Avenue
+844,CDM,ICON,C25003,07006,,Canada,Princess Margaret Hospital,Ontario,Toronto,M5G 1Z6,ACTIVE,"700 Bay Street, Lucliff Place"
+11083,CDM,PPD,C16017,1-FRLJYP,,Canada,Cambridge Memorial Hospital,Ontario,Cambridge,N1R 3G2,Disqualified,700 Coronation Boulevard
+31571,CDM,PPD,SYR-322-309,1-IQE7X1,,Canada,LMC Clinical Research Inc - Diabetes and Endocrinology - PPDS,Ontario,Etobicoke,M9R 4E1,Disqualified,2b - 1723 Kipling Avenue
+19282,CDM,PPD,MLN0002-3024,1-D2RHNCO,,Canada,McGill University Health Center,Quebec,Montreal,H4A 3J1,Disqualified,1001 Decarie BoulevardBlock E
+9046,CDM,IQVIA,SHP643-403,203,1-49SKPXB,Canada,CHUM Hôtel-Dieu,Montreal,Quebec,H2W 1R7,Ready for Initiation,110 avenue des Pins
+11094,CDM,PPD,C16019,07905,,Canada,University Health Network,Ontario,Toronto,M5G 2N2,Closed,"585 University Avenue, Toronto General Hospital"
+13146,CDM,PPD,C16029,1-Y3GF1R,,Canada,McGill University Health Center,Quebec,Montreal,V5Z 1M9,Disqualified,1001 Boulevard DécarieMUHC Glen Site Cedars Cancer Center
+2911,CDM,ICON,C25003,07005,,Canada,Jewish General Hospital,Quebec,Montreal,H3T 1E2,ACTIVE,3755 Chemin de la Cote-Sainte-Catherine
+2912,CDM,ICON,C25003,07005,,Canada,Ville-Marie Nuclear Imaging and PET/CT,QC,Montreal,H3H 2L9,ACTIVE,2345 Guy Street
+2914,CDM,ICON,C25003,07009,,Canada,"Univ of Manitoba, Biomedical Research Ethics Board",Manitoba,Winnipeg,R3E 0W3,ACTIVE,P126-770 Bannatyne Ave
+27494,CDM,PPD,SHP647-221,1-57RSQFC,,Canada,Centre Hospitalier de l'Universite de Montreal,Quebec,Montreal,H2X 3J4,Eligible for Participation,1058 St-Denis
+31597,CDM,PPD,SPD489-347,1-WEM2DX,,Canada,SKDS Research Inc,Ontario,Newmarket,L3Y 5G8,Disqualified,221-679 Davis Drive
+31598,CDM,PPD,SPD489-347,1-WEM2FO,,Canada,Atlantic ADHD Center,Nova Scotia,Dartmouth,B2Y 1H6,Disqualified,245 Pleasant Street
+21358,CDM,PPD,P2002,07003,,Canada,Ottawa Hospital,Ontario,Ottawa,K1Y 4E9,Active - Not Yet Recruiting,1503 Carling Avenue
+23412,CDM,PPD,SHP-001-801,1-3YX8B7,,Canada,Sainte Justine Hospital,Quebec,Montreal,H3T 1C5,Disqualified,3175 Chemin Cote Ste-catherine
+13176,CDM,PPD,C16014,1-FEX9P,,Canada,Nova Scotia Cancer Centre,Nova Scotia,Halifax,B3H 1,Disqualified,5820 University Avenue
+33659,CDM,PPD,TMX-67_301,1-4GYN8L,,Canada,Centre Hospitalier Pierre Le Gardeur,Quebec,Terrebonne,J6V 2H2,Disqualified,911 Montee Des Pionniers
+13183,CDM,PPD,C16014,1-FVD9M,,Canada,Sudbury Regional Hospital,Ontario,Sudbury,P3E 5J1,Disqualified,41 Ramsey Lake Road
+27525,CDM,PPD,SHP607-202,1-15NL02B,,Canada,Queen's University,Ontario,Kingston,K7L3N6,Disqualified,427 Princess StreetEthgrington Hall
+29575,CDM,PPD,SYR-322-309,1-JLX016,,Canada,Heart Health Research,Alberta,Calgary,T2E 7C5,Disqualified,803 1st Avenue North East
+29576,CDM,PPD,SYR-322-309,1-JLX01I,,Canada,Centre Medical Des Halles,Quebec,Quebec City,G1V 4P9,Disqualified,2880 Chemin Des Quatre Bourgeois
+37767,CDM,PPD,TMX-67_301,3538,,Canada,Topsail Road Medical Clinic,Newfoundland,Saint John's,A1E2E2,Closed,644 Topsail Road
+29577,CDM,PPD,SYR-322-309,1-JLX01U,,Canada,Hamilton General Hospital,Ontario,Hamilton,L8L 2X2,Disqualified,"237 Barton Street East, Mcmaster Clinic"
+29579,CDM,PPD,SYR-322-309,1-JLX038,,Canada,Arun Nayar MD,Saskatchewan,Saskatoon,S7K 3H3,Disqualified,750 Spadina Crescent East
+29580,CDM,PPD,SYR-322-309,1-JLZ7XL,,Canada,Keele Medical Place,Ontario,North York,M3M 3E5,Disqualified,2830 Keele Street
+29578,CDM,PPD,SYR-322-309,1-JLX02J,,Canada,Topsail Road Medical Clinic,Newfoundland,Saint John's,A1E2E2,Disqualified,644 Topsail Road
+11159,CDM,PPD,C16021,07102,,Canada,McGill University Health Center,Quebec,Montreal,H4A 3J1,Active - No Longer Recruiting,1001 Boulevard Décarie
+5025,CDM,IQVIA,MLN0002SC-3031,07009,1-20BQUOJ,Canada,Hotel Dieu Hospital,Kingston,Ontario,K7L 5G2,,166 Brock Street
+5026,CDM,IQVIA,MLN0002SC-3031,07010,1-1RZCC14,Canada,PerCuro Clinical Research Ltd.,Victoria,British Columbia,V8V 3M9,Closed,305-1120 Yates Street
+13237,CDM,PPD,C16014,1-E8Q8V,,Canada,Saint Paul's Hospital,British Columbia,Vancouver,V6K 2E1,Disqualified,2184 West  Broadway
+23479,CDM,PPD,ROPP-2008-01,16,,Canada,University of Western Ontario,,London,N6A 5W9,Withdrawn,800 Commissioners Rd E
+9145,CDM,PPD,C16014,07005,,Canada,Alberta Cancer Board,Alberta,Calgary,T2N 4N2,Active - No Longer Recruiting,"1331 - 29th Street Northwest, Alberta Health Services"
+37817,CDM,PRA,C31005,07001,1-1BVRRYB,Canada,CancerCare Manitoba,MB,Winnipeg,R3E 0V9,Closed,675 McDermot Avenue
+37818,CDM,PRA,C31005,07005,1-1BVRS81,Canada,Centre integre de sante et de services sociaux de la Monteregie-Centre,QC,Greenfield Park,J4V 2H1,Closed,3120 boulevard TaschereauSuite HS0054
+43967,CTMS,Quintiles,TAK-062-2001,,,Canada,,,,,,
+29635,CDM,PPD,SYR-322-309,1-UI77AS,,Canada,University of Alberta,Alberta,Edmonton,T6G 2J3,Disqualified,11402 University Avenue
+23495,CDM,PPD,ROPP-2008-01,1-F01XD8,,Canada,Alberta Childrens Hospital,Alberta,Calgary,T2N 1N4,Disqualified,2500 University Drive North West
+968,CDM,IQVIA,161505,104,1-384KPKV,Canada,Vancouver General Hospital,Vancouver,British Columbia,V5Z 3P1,Dropped,"2647 Willow Street, Room 100"
+5075,CDM,IQVIA,MLN1117-1501,7002,1-1KQU27A,Canada,The Ottawa Hospital Cancer Centre,,,,,
+17365,CDM,PPD,MACS-2014-100795,1-F0RXEQ,,Canada,Hotel Dieu de St Jerome,,Saint Jerome,JZZ 5,Potential,"Hotel - Dieu De Street Jerome, 290 Rus Montigny Street, Local D-040"
+19414,CDM,PPD,MLN0002-3024,1-ELP4FZ7,,Canada,Seashell Medical Centre,Ontario,Milton,L9T 7X1,Potential,330 Bronte Street South
+29656,CDM,PPD,SYR-322-309,1-KLM0UW,,Canada,Medical Arts Health Research Group,,Kelowna,VIY 3G8,Disqualified,1605 Gordon Drive
+9182,CDM,PPD,C16014,1-DX47H,,Canada,Eastern Health - Health Sciences Center- General Hospital,Newfoundland,Saint John's,A1B 3V6,Disqualified,300 Prince Philip Drive
+29664,CDM,PPD,SYR-322-309,1-TNAW0N,,Canada,Infant Child and Adolescent Nutrition Clinic,Ontario,Toronto,M2K 2W1,Disqualified,301 -1100 Sheppard Ave East
+39906,CDM,PRA,C31004,07002,1-1C5M41G,Canada,Centre Hospitalier de L'Universite de Montreal - Hopital Notre-Dame,QC,Montreal,H2X 3E4,Closed,1051 Sanguinet Street
+9187,CDM,PPD,C16014,1-E3FXA,,Canada,Cape Breton Regional Hospital,Nova Scotia,Sydney,B1P 1P3,Disqualified,1482 George Street
+7145,CDM,IQVIA,Vedolizumab-4014,07001,1-2QRVTML,Canada,CHUM Centre de Recherche,Montreal,Quebec,H2X 0A9,Dropped,"CHUM- Tour Viger900, rue St-Denis"
+7146,CDM,IQVIA,Vedolizumab-4014,07006,1-2YAGJDH,Canada,Taunton Surgical Centre,Oshawa,Ontario,L1H 7K4,Enrollment Closed,1300 Keith Ross Court
+7158,CDM,IQVIA,TAK-883-3001,201,1-4REWDB7,Canada,Inspiration Research Limited,Toronto,Ontario,M5T 3A9,Dropped,340 College StreetSuite 250
+44026,CTMS,Quintiles,C13008,,,Canada,,,,,,
+41979,CTMS,PPD,C21005,1-1D97OI0,,Canada,The Scarborough Hospital,,,,Declined Participation,
+39932,CDM,PRA,C34005,07001,1-1BRJR99,Canada,Jewish General Hospital,QC,Montreal,H3T 1E2,Closed,3755 chemin de la CteSainteCatherineE1031
+9219,CDM,PPD,C14023,1-4NASDCU,,Canada,Cancer Care Manitoba,Alberta,Edmonton,T6G2C8,Disqualified,8215-112 Street
+35844,CDM,PPD,Vedolizumab-4005,1-WW16KS,,Canada,McMaster University Medical Centre,Ontario,Hamilton,L8N 3Z5,Disqualified,1200 Main Street Wes
+27664,CDM,PPD,SHP607-202,1-15MWYP5,,Canada,University of Calgary Medicine,Alberta,Calgary,T2N 2T9,Disqualified,1403 29th Street NorthwestCumming School of Medicine
+44049,CTMS,PRA,TAK-954-2002,,,Canada,,,,,,
+27668,CDM,PPD,SHP647-221,1-5L92AMR,,Canada,LMC research Org,Ontario,London,N6A 5A5,Eligible for Participation,339 Windermere Road
+15382,CDM,PPD,C16021,1-8AYRKC,,Canada,Medical Cabinet Dr.Otiman Gabriela,Ontario,London,N6A 4L6,Disqualified,790 Commissioner's Road
+9244,CDM,PPD,C16014,07014,,Canada,Hopital Du Sacre Coeur de Montreal,Quebec,Montreal,H4J 1C5,Active - No Longer Recruiting,"5400 Gouin Boulevard West, Intensive Care Unit"
+9246,CDM,PPD,C16014,1-1623RZ,,Canada,Ottawa Hospital,Ontario,Ottawa,K1H 8L6,Disqualified,501 Smyth Road
+33824,CDM,PPD,TMX-67_301,1-4GN9FO,,Canada,Clinique Sante Cardio MC,Quebec,Montreal,H1T 3Y7,Disqualified,5700 East Sainte Zotique
+7200,CDM,IQVIA,M1-1188_203,2006,1-17LKNS6,Canada,The Centre for Dermatology,,,,,
+23586,CDM,PPD,ROPP-2008-01,1-8RKQKU,,Canada,Regina General Hospital,,Regina,S4P 0W5,Disqualified,1440 14th Avenue
+13347,CDM,PPD,C16029,1-Y3GEZ8,,Canada,Centre Hospitalier Universitaire de Quebec,Quebec,Quebec City,N6A 5W9,Disqualified,10 De L'espinay
+13349,CDM,PPD,C16029,1-Y3GF3K,,Canada,Queen Elizabeth II Health Sciences Center,Nova Scotia,Halifax,B3H 2Y9,Disqualified,1278 Tower Road
+23590,CDM,PPD,ROPP-2008-01,1-F01XCJ,,Canada,Sainte Justine Hospital,Quebec,Montreal,H3T 1C5,Disqualified,3175 Cote Sainte-Catherine
+27690,CDM,PPD,SHP675-301,071,,Canada,Queen Elizabeth II Health Sciences Center,Nova Scotia,Halifax,B3H 1V7,Qualified,5820 University Avenue
+15408,CDM,PPD,HGT-FIR-096,1-1EIPG0,,Canada,Toronto Western Hospital,Ontario,Toronto,M5T 2S8,Disqualified,"399 Bathurst Street, Fell Wing 6b"
+15411,CDM,PPD,HGT-FIR-096,1-1FKR4O,,Canada,Dr Saul Vizel Cardiac Research Office,Ontario,Cambridge,N1R 7R1,Disqualified,715 Coronation Boulevard
+17467,CDM,PPD,MLN0002-3024,1-D2RHNNB,,Canada,Windsor Regional Hospital,Ontario,Windsor,N9A 1E1,Potential,1030 Ouellette Avenueouellette Campus
+37956,CDM,PRA,MLN0002-2003,07009,1-1BTRCXP,Canada,IWK Health Centre,NS,Halifax,B3K 6R8,Closed,5850 University Avenue
+9288,CDM,PPD,C16014,1-DX455,,Canada,CHA/ Quebec Hospital,Quebec,Quebec City,G1J 1Z4,Disqualified,1401 18ieme Rue
+40009,CTMS,Parexel,Cx601-0303,,,Canada,,,,,,
+9289,CDM,PPD,C16014,1-E0IUM,,Canada,CHUM Notre Dame Hospital,Quebec,Montreal,H2L 4M1,Disqualified,1560 Sherbrooke East
+9290,CDM,PPD,C16014,1-E3NKA,,Canada,Kingston Regional Cancer Centre,Ontario,Kingston,K7L 5P9,Disqualified,25 King Street West
+7244,CDM,IQVIA,M1-1188_203,2007,1-17LKNTQ,Canada,Ultranova Skincare,,,,,
+7245,CDM,IQVIA,M1-1188_203,2010,1-181FBNG,Canada,Institute for Skin Advancement Inc.,,,,,
+42063,CTMS,PPD,C21004,07019,,Canada,Cross Cancer Institute,,,,Withdrawn,
+25680,CDM,PPD,SHP616-302,1-PPY5QE,,Canada,Pacific Nephrology Group,British Columbia,Vancouver,V6T1Z4,Void,1160 Burrard Street
+44113,CTMS,Quintiles,C13006,,,Canada,,,,,,
+27732,CDM,PPD,SHP675-301,1-3NF2FFS,,Canada,Medical Consultants of Western Newfoundland,Newfoundland and Labrador,Corner Brook,A2H 7E5,Disqualified,345 O'Connell Drive
+17498,CDM,PPD,MACS-2014-100795,1-F0RXAT,,Canada,LMC Clinical Research Inc - Diabetes and Endocrinology - PPDS,Ontario,Barrie,L4M 7G1,Potential,306 - 5 Quarry Ridge Road
+42075,CTMS,PPD,C21004,1-12J2M43,,Canada,Dr Bernard Goldfarb,,,,Declined Participation,
+29787,CDM,PPD,SHP620-303,1-TI7BGD,,Canada,Child and Family Research Institute,British Columbia,Vancouver,V5Z 4H4,Disqualified,950 28th Ave W
+17499,CDM,PPD,MACS-2014-100795,1-F0RXBJ,,Canada,Aggarwal and Associates Ltd,Ontario,Brampton,L6T 0G1,Potential,490 Bramalea Road
+17500,CDM,PPD,MACS-2014-100795,1-F0RXCL,,Canada,Diabetes Research Group,Manitoba,Winnepeg,R3C 0N2,Potential,425 Saint Mary Avenue
+29786,CDM,PPD,SHP620-303,1-TI7B7H,,Canada,General Hospital Health Sciences Centre,Newfoundland and Labrador,St. John's,A1B 3V6,Disqualified,300 Prince Philip Drive
+44134,CTMS,Quintiles,C13011,,,Canada,,,,,,
+42088,CTMS,PPD,C21004,1-13J5LRP,,Canada,Urotec,,,,Declined Participation,
+25706,CDM,PPD,SHP620-303,1-TI7BG0,,Canada,Vancouver ID Research & Care Centre Society,British Columbia,Vancouver,V6Z 2C7,Disqualified,1200 Burrard StreetVancouver Infectious Diseases Centre
+25707,CDM,PPD,SHP620-303,1-TI7BHC,,Canada,Hematology Research & Clinical Trials Unit & Thrombosis Program,British Columbia,Vancouver,V5Z 1M9,Disqualified,855 West 12th AvenueCentennial Pavillion
+25708,CDM,PPD,SHP620-303,1-TI7BHO,,Canada,University of Manitoba,Manitoba,Winnipeg,R3E 3P5,Disqualified,727 Mcdermot Avenue
+25709,CDM,PPD,SHP620-303,1-TI7BQY,,Canada,Brampton Civic Hospital,Ontario,Brampton,L6R 3J7,Disqualified,2100 Bovaird Drive East
+38004,CDM,PRA,Ponatinib-3001,07002,1-1KRADRQ,Canada,Hopital Charles-LeMoyne,QC,Greenfield Park,J4V 2H1,Activated,3120 boulevard Taschereau
+31865,CDM,PPD,SYR-322-309,1-JLX00U,,Canada,Oxford AIM Clinic,Ontario,London,N6A 5R9,Disqualified,300 -140 Oxford Street East
+31866,CDM,PPD,SYR-322-309,1-JLX02W,,Canada,Moran Medical Centre,Ontario,Collingwood,L9Y 1W3,Disqualified,344 Hume Street
+31868,CDM,PPD,SYR-322-309,1-JLZ7WV,,Canada,Centre Medical Acadie,,Toronto,M4T 1,Disqualified,60 Street Clair Avenue East
+31869,CDM,PPD,SYR-322-309,1-JLZ82B,,Canada,Anapharm,Ontario,Markham,L6C 1Y9,Disqualified,9255 Woodbine Avenue
+31870,CDM,PPD,SYR-322-309,1-JLZ83B,,Canada,Recherches Cliniques Theradev,Quebec,Granby,J2G 8Z9,Disqualified,4 Robinson North
+44161,CTMS,Quintiles,TAK-390MR_205,,,Canada,,,,,,
+40067,CTMS,PPD,C21004,07001,,Canada,Dr Cal Andreou Research,,,,Closed,
+40068,CTMS,PPD,C21004,07003,,Canada,Centre Hospitalier Universitaire de Sherbrooke-Hospital Fleurimont,,,,Closed,
+40069,CTMS,PPD,C21004,07007,,Canada,"Ultra-Med, Inc",,,,Closed,
+40070,CTMS,PPD,C21004,07014,,Canada,Centre Hospitalier Universitaire de Quebec Hotel Dieu,,,,Closed,
+40071,CTMS,PPD,C21004,07018,,Canada,Princess Margaret Hospital/ University Health Network,,,,Closed,
+40074,CDM,PRA,MLN0002-2003,07001,1-1BTOXW1,Canada,London Health Sciences Centre University Hospital,ON,London,N6A 5W9,Activated,800 Commissioners Raod EastRoom B1161B
+9355,CDM,PPD,C16014,07004,,Canada,Saint John Regional Hospital,New Brunswick,Saint John,E2M 3W5,Closed,640 Manawagonish Road
+38028,CDM,PRA,Vedolizumab-3035,07003,1-1LLB2AG,Canada,Saskatchewan Cancer Agency,SK,Saskatoon,S7N 4H4,Closed,20 Campus Drive
+44189,CTMS,PPD,C21004,1-16U6AC1,,Canada,London Health Sciences Centre/University Hospital,,,,Declined Participation,
+5279,CDM,IQVIA,C14012,7001,1-582E73,Canada,The Ottawa Hospital - General Campus,,,,,
+25760,CDM,PPD,Pevonedistat-3001,1-17QOUXF,,Canada,CHU de Quebec,Quebec,Quebec,G1J 1Z4,Disqualified,"1401, 18e RueHopital de 'Enfant-Jesus"
+38053,CDM,PPD,TMX-67_301,3513,,Canada,Canadian Centre For Clinical Trials,Ontario,Thornhill,L4J 1W3,Closed,8054 Yonge Street
+38054,CDM,PPD,TMX-67_301,3517,,Canada,London Road Diagnostic Clinic and Medical Centre,Ontario,Sarnia,N7T 4X3,Closed,481 London Road
+40103,CTMS,PPD,C21004,07002,,Canada,Moncton Hospital,,,,Declined Participation,
+38056,CDM,PPD,TMX-67_301,3524,,Canada,ALTA Clinical Research Inc,Alberta,Edmonton,T5A 4L8,Closed,12747-50th Street
+38057,CDM,PPD,TMX-67_301,3527,,Canada,Keele Medical Place,Ontario,North York,M3M 3E5,Closed,2830 Keele Street
+40104,CTMS,PPD,C21004,07005,,Canada,Bramalea Medical Centre,,,,Closed,
+40105,CTMS,PPD,C21004,07028,,Canada,COOL Comisión de Investigación y Etica Región Sanitaria 6,,,,Closed,
+25773,CDM,PPD,SHP620-303,1-TI7B5P,,Canada,McGill University Health Center,Quebec,Lachine,H8S 3N5,Disqualified,650 16e Avenue
+38062,CDM,PPD,TMX-67_301,3551,,Canada,Glover Medical Clinic,British Columbia,Langley,V3A 4H9,Closed,5796 Glover Road
+33968,CDM,PPD,TMX-67_301,3521,,Canada,Alfred Cividino's Private Practice,,Hamilton,L8N 2B6,Closed,187 Hughson Street South
+44211,CTMS,Quintiles,MLN0002-3023,,,Canada,,,,,,
+40117,CTMS,PPD,C21004,1-12J2M5D,,Canada,Sunnybrook and Womens' Health Sciences Centre,,,,Declined Participation,
+40118,CTMS,PPD,C21004,1-12J441H,,Canada,Medical Arts Health Research Group,,,,Declined Participation,
+21688,CDM,PPD,Pevonedistat-2001,,,Canada,Ottawa Hospital,,,,Disqualified,
+11455,CDM,PPD,C16017,1-FRLK01,,Canada,Royal Victoria Regional Health Centre,Quebec,Montreal,H3A1A1,Disqualified,687 Avenue De Pins Ouest
+5313,CDM,IQVIA,MLN0002SC-3031,07004,1-1TPLWPQ,Canada,McGill University Health Centre/Glen Site / Royal Victoria Hospital,Montreal,Quebec,H3A 1A1,Dropped,"687 Pine Avenue West, R2.38"
+33987,CDM,PPD,TMX-67_301,3647,,Canada,Centre de Recherche Musculo-Squelettique,Quebec,Trois-Rivieres,G8Z 1Y2,Closed,"1119, Ste-Marguerite"
+19654,CDM,PPD,MACS-2014-100795,1-F0O9OD,,Canada,St Michael's Hospital,Ontario,Toronto,M5C 2T2,Potential,61 Queen Street East
+19656,CDM,PPD,MACS-2014-100795,1-F0RXBV,,Canada,Cornwall Medical Centre,Prince Edward Island,Charlottetown,C1A 5Y9,Potential,30 Linden Avenue
+38090,CDM,PPD,TMX-67_301,3645,,Canada,Victoria Clinical Research Inc,,,,Closed,
+33997,CDM,PPD,TMX-67_301,3636,,Canada,Metropolitan Clinical Research Center,Quebec,Montreal,H2P 2M1,Closed,8127 St-Laurent
+23764,CDM,PPD,Pevonedistat-3001,1-18QG59Y,,Canada,Nova Scotia Health Authority (Capital District Health Authority),Nova Scotia,Halifax,B3H2Y9,Disqualified,1276 South Park StreetQEII HSC-VG Site Bethune Building
+36058,CDM,PPD,TAK-981-1501,07001,,Canada,Sir Mortimer B Davis Jewish General Hospital,Quebec,Montreal,H3T 1E2,Active - Recruiting,3755 Cote Sainte Catherine Road
+44261,CTMS,Quintiles,Vortioxetine-3003,,,Canada,,,,,,
+40174,CTMS,PPD,C21004,1-12J1S63,,Canada,Prostate Centre at UGH,,,,Declined Participation,
+40176,CTMS,PPD,C21004,1-12J2M8H,,Canada,Cape Breton Regional Hospital,,,,Declined Participation,
+11505,CDM,PPD,Brigatinib-1002,1-62GT8U6,,Canada,Kingston General Hospital,Ontario,Kingston,K7L 2V7,Disqualified,76 Stuart Street
+40178,CTMS,PPD,C21004,1-12J43Y9,,Canada,Ottawa,,,,Declined Participation,
+38131,CTMS,,C05002 (BAC) (PEAK),Legacy Enrollment Site,,Canada,Legacy,,,,Closed,
+13564,CDM,PPD,C16017,1-FRLK21,,Canada,Saskatoon Cancer Center,Saskatchewan,Regina,S4T-7T1,Disqualified,4101 Dewdney Avenue
+29951,CDM,PPD,SHP620-303,1-TI7B7T,,Canada,St Josephs Health Centre,Ontario,Toronto,M6R 1B5,Disqualified,30 The Queensway
+38144,CTMS,,C05005  (POINT I),Legacy Enrollment Site,,Canada,Legacy,,,,Closed,
+34050,CDM,PPD,TAK-079-1004,1-61GGO73,,Canada,St. Michaels Hospital,,Ontario,M5B1W8,Void,"30 Bond Street,16 Cardinal Carter"
+36100,CDM,PRA,AP24534-14-203,083,1-1FC7U5G,Canada,Princess Margaret Hospital - Toronto,ON,Toronto,M5G 2M9,Activated,610 University AvenueSuite 5106
+9477,CDM,IQVIA,Vedolizumab-4014,07008,1-2YAELWS,Canada,Brandon Medical Arts Clinic,Brandon,Manitoba,R7A 0N7,Closed,339 Princess Avenue
+29957,CDM,PPD,SHP620-303,1-TI7BRZ,,Canada,McMaster University Medical Centre,Ontario,Hamilton,L8S 4L8,Disqualified,20-1280 Main Street WestMichael G. DeGroote Institute for Infectious Disease Research (IIDR)
+34060,CDM,PPD,TAK-079-1005,1-5VCYKQY,,Canada,University of Saskatchewan,Saskatchewan,Saskatoon,S7N 4J8,Disqualified,"C/o Research Services, 5000 Retail Postal Outlet University"
+5388,CDM,IQVIA,471101,203,1-2BQACEV,Canada,CHUM Hôtel-Dieu,Montréal,Quebec,H2W 1T8,Dropped,3840 rue Saint UrbainHôtel-Dieu - Pavillion Vimont (Porte: 3-201)
+9487,CDM,IQVIA,SHP633-304,0436,1-2RGQHPL,Canada,Walter C. Mackenzie Health Science Centre,Edmonton,Alberta,T6G 1C9,Enrollment Closed,Stollery Childrens Hospital8440-112 St
+15636,CDM,PPD,HGT-FIR-096,1-152HYS,,Canada,Office of Dr MPJ Senaratne,Alberta,Edmonton,T6K 4C1,Disqualified,"2939 66th Street, Millwoods Cardiodiagnostics"
+11540,CDM,PPD,Brigatinib-1002,1-6EHNNYD,,Canada,Stollery Children's Hospital University of Alberta,Alberta,Edmonton,T6G 2R7,Potential,8440 112 Street Northwest
+1306,CDM,IQVIA,C14018,7102,1-17R6LHU,Canada,Hamilton Health Sciences Corporation,,,,,
+5405,CDM,IQVIA,C27002,7204,1-15VB5MR,Canada,CHU de Québec –Hôtel-Dieu de Québec,,,,,
+5406,CDM,IQVIA,C27002,7207,1-15SGAXN,Canada,Dr. G. Vrabec M.D. Inc.,,,,,
+9503,CDM,PPD,Brigatinib-1003,1-62GT8QJ,,Canada,McMaster Children's Hospital,Ontario,Hamilton,L8N 3Z5,Disqualified,1200 Main Street West
+32036,CDM,PPD,TAK-079-1004,1-5QGG7AJ,,Canada,The University of British Columbia,British Columbia,Vancouver,V6T 1Z4,Void,2329 West Mall
+32037,CDM,PPD,TAK-079-1004,1-5QGG7BL,,Canada,Shivinder Jolly Medicine,Ontario,Kitchener,N2H 5Z8,Void,18 Pine Street
+42280,CTMS,PPD,C21005,1-12K2CG4,,Canada,Cape Breton Regional Hospital,,,,Declined Participation,
+42281,CTMS,PPD,C21005,1-12K2P22,,Canada,"Quest Clinical Trial - Markham, ON",,,,Declined Participation,
+36142,CDM,PPD,Vedolizumab-4005,1-WW16LI,,Canada,Toronto Digestive Disease Associates Inc,Ontario,Vaughan,L4L 4Y7,Void,4600 Highway 7
+36143,CDM,PPD,Vedolizumab-4005,1-WW16LV,,Canada,Saint Josephs Healthcare System,Ontario,London,N6A 4V2,Disqualified,268 Grosvenor Street
+5427,CDM,IQVIA,161505,CPCAN,1-3ISYMOJ,Canada,Bayshore Specialty Rx Markham,Markham,Ontario,L3R 3W6,Enrollment Open,233 Alden Rd.
+7475,CDM,PPD,Brigatinib-1002,1-62IQFG2,,Canada,Hospital For Sick Children,Ontario,Toronto,M5G 1X8,Potential,555 University Avenue
+11579,CDM,PPD,C16006,07003,,Canada,Hopital de L'enfant Jesus,Quebec,Quebec City,G1J 1Z4,Closed,"1401, 18e Rue"
+42300,CTMS,PPD,C21005,1-14EA5JC,,Canada,Peter Vlaovic Medical Professional Corporation,,,,Declined Participation,
+25920,CDM,PPD,SHP620-303,1-TI7BFA,,Canada,North York General Hospital,Ontario,Toronto,M2K 1E1,Disqualified,4001 Leslie Street
+3399,CDM,IQVIA,281102,002,1-2W3VJ4W,Canada,CHU Sainte-Justine,Montréal,Quebec,H3T 1C5,Dropped,3175 chemin Côte Sainte-Catherine
+15689,CDM,PPD,HGT-FIR-096,1-152HSD,,Canada,Dalhousie University,Nova Scotia,Halifax,B3H 3A7,Disqualified,1796 Summer Street
+21834,CDM,PPD,Pevonedistat-2001,1-D87NFE,,Canada,Vancouver General Hospital,British Columbia,Vancouver,V5Z 4E3,Disqualified,950 West 10th Avenue
+15691,CDM,PPD,HGT-FIR-096,1-152HVO,,Canada,Walter C Mackenzie Health Sciences Centre (WCM),Alberta,Edmonton,T6G 2B7,Disqualified,8440- 112th Street
+32079,CDM,PPD,TAK-079-1005,1-5D7EP4J,,Canada,University of Calgary Medicine,Alberta,Calgary,T2N 4N1,Potential,3330 Hospital Drive Northwest
+15696,CDM,PPD,HGT-FIR-096,1-152I9Z,,Canada,University of Alberta Hospital,Alberta,Edmonton,T6G 2B7,Disqualified,"8440 112 Street Northwest, 4-71 Msb, Division Of Hematology/oncology"
+17759,CDM,PPD,MACS-2014-100795,1-F0RXB6,,Canada,Bailey Clinic,Alberta,Red Deer,T4N 6V7,Potential,3947-50 A Avenue
+23905,CDM,PPD,Pevonedistat-2001,1-D87NHX,,Canada,Hamilton Health Sciences Corporation,Ontario,Hamilton,L8V 1C3,Disqualified,711 Concession StreetHenderson (Juravinski) Hospital
+17765,CDM,PPD,MACS-2020-08401,1-AIHNGB5,,Canada,McMaster University Medical Centre,Ontario,Hamilton,L8N 3Z5,Disqualified,1280 Main Street West
+7526,CDM,IQVIA,MLN0002-3026,7004,1-1S8ZZDL,Canada,McGill University Health Centre/Glen Site / Royal Victoria Hospital,,,,,
+7529,CDM,PPD,Brigatinib-1002,1-62IQFH0,,Canada,Cancer Care Manitoba,Manitoba,Winnipeg,R3E 0V9,Disqualified,675 Mcdermot AveResearch Institute in Oncology and Hematology
+15723,CDM,PPD,HGT-FIR-096,1-1EIP4U,,Canada,St Josephs Health Centre,Ontario,London,N6A 4,Disqualified,2-268 Grosvenor Street
+15724,CDM,PPD,HGT-FIR-096,1-1EIP5S,,Canada,Royal Columbian Hospital,British Columbia,New Westminster,V3L 3W4,Disqualified,245 East Columbia Street
+15725,CDM,PPD,HGT-FIR-096,1-1EIPEL,,Canada,Q and T Research,Quebec,Chicoutimi,G7H7Y8,Disqualified,412 Boulevard Du Saguenay Est.
+7536,CDM,PPD,Brigatinib-1002,1-68AF4WX,,Canada,Childrens Hospital of Eastern Ontario,Ontario,Ottawa,K1H 8L1,Disqualified,401 Smyth Road
+9585,CDM,PPD,C14023,07001,,Canada,Saint John Regional Hospital,New Brunswick,Saint John,E2L 4L2,Withdrawn,400 University Avenue
+36211,CDM,PRA,Brigatinib-2002,07004,1-1KPS4MJ,Canada,McGill University Health Centre,QC,Montreal,H4A 3J1,Activated,1001 Decarie Boulevard
+36212,CDM,PRA,Brigatinib-2002,07006,1-1KADUCQ,Canada,Tom Baker Cancer Center,AB,Calgary,T2N 2T9,Activated,Dept of Clinical Neurosciences1402 29th Street Northwest
+1403,CDM,ICON,C25003,,,Canada,Local Laboratory,Nova Scotia,Halifax,Canada B3H 1V7,ACTIVE,5788 University Avenue
+1404,CDM,ICON,C25003,,,Canada,Queen Elizabeth Hsc-Vg Site Bethune Building,Nova Scotia,Halifax,B3H 2Y9,ACTIVE,"1278 Tower Road, Room 4-430"
+30076,CDM,PPD,TAK-079-1004,1-5QGG79W,,Canada,Sudbury Regional Hospital,Ontario,Sudbury,P3A 2T4,Void,960 Notre Dame Avenue
+34174,CDM,PPD,TAK-079-1004,1-641ZW9N,,Canada,Saint Paul's Hospital,British Columbia,Vancouver,V6E 1M7,Disqualified,505-1033 Davie Street
+44415,CTMS,PPD,Pevonedistat-2002,,,Canada,,,,,,
+9599,CDM,PPD,C14023,1-4204NCW,,Canada,London Health Sciences Centre,Ontario,London,N6A 5W9,Disqualified,800 Commissioners Road East
+42372,CTMS,PPD,C21005,07019,,Canada,Cross Cancer Institute,,,,Closed,
+42373,CTMS,PPD,C21005,07024,,Canada,Tom Baker Cancer Centre,,,,Closed,
+44423,CTMS,PPD,TAK-788-3002,,,Canada,,,,,,
+44428,CTMS,PPD,C21004,07009,,Canada,McMaster Institute of Urology,,,,Closed,
+44429,CTMS,PPD,C21004,07010,,Canada,COOL Comisión de Investigación y Etica Región Sanitaria 6,,,,Closed,
+44430,CTMS,PPD,C21004,07016,,Canada,Notre-Dame Hospital,,,,Closed,
+44431,CTMS,PPD,C21004,07020,,Canada,Todd Webster MD,,,,Closed,
+44432,CTMS,PPD,C21004,07021,,Canada,"Quest Clinical Trials - Scarborough, ON",,,,Closed,
+44433,CTMS,PPD,C21004,07023,,Canada,Dr Allan Abramovitch,,,,Closed,
+7568,CDM,IQVIA,MLN0002-3028,7027,1-1G0KPH3,Canada,LHSC - Victoria Hospital,,,,,
+7569,CDM,IQVIA,MLN0002-3028,7029,1-1G0KPGB,Canada,PerCuro Clinical Research Ltd.,,,,,
+5524,CDM,IQVIA,261203,193,1-29B1187,Canada,Stollery Children’s Hospital,Edmonton,Alberta,T6G 1C9,Enrollment Open,3-511 Edmonton Clinic Health Academy11405 87 Avenue
+13726,CDM,PPD,C16019,07904,,Canada,Foothills Medical Centre,Alberta,Calgary,T2N 2T9,Withdrawn,1403 29th Street Northwest
+42401,CTMS,PPD,C21005,1-12J90NY,,Canada,Dr Gary Steinhoff Clinical Research,,,,Declined Participation,
+44449,CTMS,PPD,TAK-935-2006,,,Canada,,,,,,
+42407,CTMS,PPD,C21005,1-12JVOD3,,Canada,Dr Cal Andreou Research,,,,Declined Participation,
+5544,CDM,IQVIA,SHP643-303,132,1-4X3PADL,Canada,Ottawa Allergy Research Corporation,Ottawa,Ontario,K1G 6C6,Initiated,110-2935 Conroy Road
+42409,CTMS,PPD,C21005,1-12K2CTS,,Canada,London Health Sciences Centre/University Hospital,,,,Declined Participation,
+44465,CTMS,Quintiles,AALL07P1,11011,,Canada,British Columbia's Children's Hospital,,,,Active,
+44466,CTMS,Quintiles,AALL07P1,11098,,Canada,The Hospital for Sick Children,,,,Active,
+44467,CTMS,Quintiles,AALL07P1,11120,,Canada,Saskatchewan Cancer Agency,,,,Active,
+5559,CDM,IQVIA,MLN1117-1501,7001,1-1LJC57V,Canada,SMBD Jewish General Hospital d/b/a Jewish General Hospital,,,,,
+5560,CDM,IQVIA,MLN1117-1501,7003,1-1LJC51R,Canada,Princess Margaret Cancer Centre,,,,,
+17847,CDM,PPD,MLN0002-3024,3024-07003,,Canada,University of Alberta Hospital,Alberta,Edmonton,T6G 2B7,Qualified,8440 112 St NW
+13752,CDM,PPD,C16029,1-YLMI9Z,,Canada,McGill University Health Center,Quebec,Montreal,H3A 1A1,Disqualified,1001 Decarie Boulevard
+30142,CDM,PPD,TAK-007-2001,1-8DBWC1L,,Canada,McGill University,Quebec,Montreal,H9K 1P6,Potential,546 Pine Avenue WestOncology Department
+30143,CDM,PPD,TAK-007-2001,1-8DBWC2A,,Canada,Princess Margaret Cancer Centre,Ontario,Toronto,MG 1Z6,Void,700 University AvenueHydro Place Building
+36293,CDM,PRA,Brigatinib-3001,07007,1-1LOC1UP,Canada,Queen Elizabeth II Health Sciences Centre,NS,Halifax,B3H 1V7,Activated,Nova Scotia Cancer Center5790 University Ave Building
+17861,CDM,PPD,MLN0002-3025,3025-07004,,Canada,"Winnipeg Children's Hospital, HSC-Winnipeg",Manitoba,Winnipeg,R3A 1S1,Withdrawn,840 Sherbrook St
+38345,CTMS,,C13002,Legacy Enrollment Site,,Canada,Legacy,,,,Closed,
+24010,CDM,PPD,Pevonedistat-2001,1-D8949S,,Canada,Foothills Medical Centre,Alberta,Calgary,AB T2N 2T9,Disqualified,1403 29 Street Northwest
+3533,CDM,IQVIA,C27002,7203,1-15SGAW4,Canada,Sunnybrook Health Sciences Cntr,,,,,
+42448,CTMS,PPD,C21005,1-13ECCPF,,Canada,Stanley Flax Medical Professional Corporation,,,,Declined Participation,
+9684,CDM,PPD,C16014,1-DX44P,,Canada,Vancouver General Hospital,British Columbia,Vancouver,V5Z 1,Disqualified,575 West 8th Avenue
+44501,CTMS,PPD,RO-2455-404-RD,,,Canada,,,,,,
+38358,CTMS,,C14004,TBD-300284907,,Canada,Cross Cancer Institute,,,,Declined Participation,
+38359,CTMS,,C14004,TBD-300284908,,Canada,Toronto-Sunnybrook Regional Cancer Centre,,,,Declined Participation,
+38360,CTMS,,C14004,TBD-300284912,,Canada,BC Cancer Agency,,,,Declined Participation,
+38361,CTMS,,C14004,TBD-300287313,,Canada,Jewish General Hospital,,,,Not Selected,
+9690,CDM,PPD,C16014,1-E3N8F,,Canada,Centre de Sante et de Services Sociaux de Laval,Quebec,Laval,H7M 3L9,Disqualified,1755 Boulevard Rene Laennec
+38362,CTMS,,C14005,07006,,Canada,CHUM - Hopital Notre-Dame,,,,Early Terminated,
+15835,CDM,PPD,HGT-FIR-096,1-1EIP3F,,Canada,AIM Healthgroup,Alabama,Binghamton,35233,Disqualified,1526 5th Avenue South
+38365,CTMS,,C14005,AML01,,Canada,"Bay Area Cancer Research Group -  Pleasant Hill, CA",,,,Under Consideration,
+38366,CTMS,,C14005,AML06,,Canada,Washington University Cancer Center Pharmacy,,,,Declined Participation,
+38367,CTMS,,C14005,AML10,,Canada,McGill University / Jewish General Hospital,,,,Declined Participation,
+38368,CTMS,,C14005,AML22,,Canada,Charleston Cancer Center,,,,Declined Participation,
+38369,CTMS,,C14005,NHL/AML32,,Canada,Columbus CCOP,,,,Declined Participation,
+38370,CTMS,,C14005,NHL/AML34,,Canada,South Texas Institute of Cancer,,,,Under Consideration,
+15837,CDM,PPD,HGT-FIR-096,1-1EIPGY,,Canada,George Zimakuss Private Practice,Ontario,Niagara,L2E 6K2,Disqualified,5546 Portage Road
+9691,CDM,PPD,C16014,1-E3NHC,,Canada,Hotel Dieu de Levis,Quebec,Levis,G6V 3Z1,Disqualified,143 Rue Wolfe
+38373,CTMS,,C14004,TBD-300284910,,Canada,"McPhaden, John MD",,,,Declined Participation,
+28134,CDM,PPD,SHP607-202,1-15UA0QM,,Canada,Women's Hospital,Manitoba,Winnipeg,R3E OL8,Disqualified,735 Notre Dame Avenue
+38374,CTMS,,C14004,TBD-300287314,,Canada,Royal Victoria Medical Center,,,,Not Selected,
+44520,CTMS,Quintiles,C13007,,,Canada,,,,,,
+9705,CDM,PPD,C16014,1-G0BRJ,,Canada,Heritage Physician Group Oncology,Arkansas,Hot Springs,71913,Disqualified,100 Mcgowan Court
+36330,CDM,PRA,Brigatinib-3001,07001,1-1L6LZXR,Canada,Toronto University Health Network,ON,Toronto,M5G 2M9,Activated,610 University AvenueFloor 5207
+38379,CTMS,,C14005,AML02,,Canada,Fred Hutchinson Cancer Research Center,,,,Not Selected,
+38380,CTMS,,C14005,AML07,,Canada,Hopital Hautepierre - CHU Strasbourg,,,,Not Selected,
+38381,CTMS,,C14005,AML20,,Canada,University of Maryland,,,,Declined Participation,
+38382,CTMS,,C14005,NHL/AML29,,Canada,New York Medical College,,,,Not Selected,
+38383,CTMS,,C14005,NHL/AML30,,Canada,Cape Breton Cancer Ctr,,,,Not Selected,
+40428,CTMS,Dobbs Consulting,C16001,002,,Canada,Princess Margaret Hospital/ University Health Network,ON,TORONTO,M5G 2M9,Closed,610 UNIVERSITY AVE
+9709,CDM,PPD,C16014,1-HAHJE,,Canada,Windsor Regional Cancer Center Clinical Trials,Ontario,Windsor,N8W 2X3,Disqualified,2220 Kildare Road
+11759,CDM,PPD,C16011,07002,,Canada,Tom Baker Cancer Centre,Alberta,Calgary,T2N 4N2,Active - No Longer Recruiting,1331 - 29th Street NorthwestClinical Trials Unit
+30208,CDM,PPD,TAK-079-1004,1-5QGG7DM,,Canada,Lawson Health Research Institute,Ontario,London,N6C 2R5,Disqualified,750 Base Line Road East
+30209,CDM,PPD,TAK-079-1004,1-5QGXB9H,,Canada,Dalhousie University,Nova Scotia,Halifax,B3H 4H6,Void,6299 South Street
+44546,CTMS,PPD,C21005,07005,,Canada,Jonathan Giddens Medicine Professional Corporation,,,,Closed,
+44547,CTMS,PPD,C21005,07011,,Canada,Mor Urology Incorporated,,,,Closed,
+44548,CTMS,PPD,C21005,07026,,Canada,Sinkaf Incorporated,,,,Withdrawn,
+44556,CTMS,PPD,C21004,1-12J0FDP,,Canada,Saint Joseph's Health Centre,,,,Declined Participation,
+44557,CTMS,PPD,C21004,1-12J0FMV,,Canada,Can-Med Clinical Research Incorporated,,,,Declined Participation,
+44558,CTMS,PPD,C21004,1-12J2M21,,Canada,Probity Medical Research Incorporated,,,,Declined Participation,
+44559,CTMS,PPD,C21004,1-12J2MHP,,Canada,Tom Baker Cancer Centre,,,,Declined Participation,
+44560,CTMS,PPD,C21004,1-12J3B73,,Canada,Bruce W Palmer Urology Incorporated,,,,Declined Participation,
+44561,CTMS,PPD,C21004,1-12J43WF,,Canada,Northern Urology Center,,,,Declined Participation,
+38417,CDM,PPD,Vedolizumab-4005,1-RTPOTO,,Canada,Toronto Digestive Disease Associates Inc,Ontario,Vaughan,L4L 4Y7,Disqualified,4600 Highway 7
+3603,CDM,IQVIA,M1-1188_203,2002,1-17LKNOI,Canada,Lynderm Research Inc.,,,,,
+38418,CDM,PPD,Vedolizumab-4005,1-RTS420,,Canada,McMaster University Medical Centre,Ontario,Hamilton,L8N 3Z5,Disqualified,1200 Main Street West
+38419,CDM,PPD,Vedolizumab-4005,1-RTS433,,Canada,Hotel Dieu Hospital,Ontario,Kingston,K7L 5G2,Disqualified,166 Brock Street
+9747,CDM,PPD,C16014,1-E8Q73,,Canada,Moncton Hospital,New Brunswick,Moncton,E1C 6Z8,Disqualified,135 Macbeath Avenue
+5603,CDM,IQVIA,SHP643-403,202,1-4AG29UO,Canada,St. Michael's Hospital,Toronto,Ontario,M5B 1W8,Selected,"80 Bond StreetRoom 6-049, Bond Wing"
+1570,CDM,IQVIA,M1-1188_203,2001,1-17LJBTN,Canada,Centre de Recherche Dermatologique du Quebec Metropolitain,,,,,
+1571,CDM,IQVIA,M1-1188_203,2009,1-17LKNW4,Canada,"Dermatrials Research, Inc.",,,,,
+34342,CDM,PPD,TAK-079-1005,1-5VEVLZP,,Canada,University of Toronto,Ontario,Scarborough,M1C 1A4,Potential,1265 Military Trail
+7720,CDM,IQVIA,MLN0002SC-3031,07002,1-1T7KT8U,Canada,Queen Elizabeth II Health Sciences Centre,Halifax,Nova Scotia,B3H 3A7,Dropped,4464-1796 Summer Street
+32297,CDM,PPD,SYR-322-309,1-IQE7VO,,Canada,Markham Stouffville,,,,Disqualified,
+9776,CDM,IQVIA,SHP643-403,204,1-4LPPQHE,Canada,University of Calgary - Heritage Medical Research Clinic,Calgary,Alberta,T2N 2T9,Enrollment Open,1403-29th St NWRm 681 Foothills Medical Center
+34352,CDM,PPD,TMX-67_301,3643,,Canada,Entralogix Clinical Group,Ontario,Brampton,L6T 3J1,Closed,40 Finchgate Boulevard
+9783,CDM,PPD,C16014,1-E7UXA,,Canada,Saint Michael's Hospital,Ontario,Toronto,M5B 1W8,Disqualified,30 Bond Street
+44608,CTMS,Quintiles,AALL07P1,11117,,Canada,McMaster Children's Hospital,,,,Active,
+7749,CDM,PPD,Brigatinib-1002,1-62G3ZAF,,Canada,IWK Health Center,Nova Scotia,Halifax,B3K 6R8,Disqualified,5850-5980 University Avenue
+36426,CDM,PRA,Brigatinib-2002,07005,1-1KADUGE,Canada,Cross Cancer Institute,AB,Edmonton,T6G 1Z2,Activated,11560 University Avenue Northwest
+30286,CDM,PPD,TAK-079-1004,1-5QHJUZO,,Canada,Abbotsford Regional Hospital and Cancer Care Centre,British Columbia,Abbotsford,V2S 0C2,Disqualified,32900 Marshall RoadAbbotsford Centre
+3664,CDM,IQVIA,MLN0002-3026,7002,1-1QTGVW3,Canada,Queen Elizabeth II Health Sciences Centre,,,,,
+34387,CDM,PPD,Vedolizumab-4005,1-RTS41N,,Canada,University of Alberta,Alberta,Edmonton,ABT68 2X8,Disqualified,"Zeidler Ledcor Center, University Of Alberta, 130 University Campus"
+1634,CDM,IQVIA,071301,192,1-2G2M4BZ,Canada,Hamilton Health Sciences Centre,Hamilton,Ontario,L8N 3Z5,Enrollment Closed,1200 Main St. W
+9826,CDM,PPD,C16014,1-HAHIT,,Canada,Toronto East General Hospital,Ontario,Toronto,M4C 5M5,Disqualified,650 Sammon Avenue
+9688,CDM,PPD,C16014,1-E3FSL,,Canada,Burnaby Hospital,British Columbia,Burnaby,V5G 2X6,Disqualified,3935 Kincaid Street
+26218,CDM,PPD,SHP607-202,1-15MGMTQ,,Canada,Montreal Children's Hospital,Quebec,Montreal,H4A 3J1,Disqualified,1001 Boulevard Décarie
+1643,CDM,IQVIA,161403,101,1-1JFCCT3,Canada,Montreal Neurological Institute Clinical Research Unit,Montréal,Quebec,H3A 2B4,Closed,3801 University Street#207-J
+36463,CDM,PRA,C31004,07004,1-1C5LCQK,Canada,Tom Baker Cancer Center,AB,Calgary,T2N 2T9,Closed,Dept of Clinical Neurosciences1402 29th Street Northwest
+9847,CDM,PPD,C16014,1-HAHJU,,Canada,Queen Elizabeth II Health Sciences Center,Nova Scotia,Halifax,B3H 1V7,Disqualified,5790 University AvenueQEII Health Sciences Centre
+36473,CDM,PRA,C31004,07001,1-1C5O0SM,Canada,Victoria Hospital,ON,London,N6A 4L6,Closed,London Regional Cancer Program790 Commissioners Road East
+1664,CDM,IQVIA,MLN0002-3026,7001,1-1QTENJ6,Canada,LHSC - University Hospital,,,,,
+1668,CDM,IQVIA,MLN0002-3028,7028,1-1HREWQ2,Canada,Vancouver General Hospital,,,,,
+3721,CDM,IQVIA,MLN0002-3026,7008,1-1QTENAA,Canada,"Toronto Digestive Disease Associates, Inc.",,,,,
+42635,CTMS,,C14005,07005,,Canada,Hopital Charles Lemoyne,,,,Early Terminated,
+3725,CDM,IQVIA,MLN0002-3028,7023,1-1G0KP92,Canada,"Toronto Digestive Disease Associates, Inc.",,,,,
+36493,CDM,PRA,C31005,07003,1-1BVLNGY,Canada,Cross Cancer Institute,AB,Edmonton,T6G 1Z2,Closed,11560 University Avenue Northwest
+42639,CTMS,,C14005,AML09,,Canada,Baptist Regional Cancer Center,,,,Under Consideration,
+44688,CTMS,PPD,C21005,1-12K2P6S,,Canada,Hamilton District Urology Association,,,,Declined Participation,
+42640,CTMS,,C14005,AML12,,Canada,Saint Luke's Hospital of Kansas City,,,,Under Consideration,
+42641,CTMS,,C14005,AML13,,Canada,Dana Farber Cancer Institute,,,,Declined Participation,
+42642,CTMS,,C14005,AML14,,Canada,Washington Cancer Institute - Medstar Health,,,,Under Consideration,
+42643,CTMS,,C14005,AML16,,Canada,Hopital Jean Minjoz - CHU de Besançon,,,,Not Selected,
+42644,CTMS,,C14005,NHL/AML35,,Canada,Virginia Crosson Cancer Ctr,,,,Under Consideration,
+42645,CTMS,,C14005,TBD-300287713,,Canada,Hôpital du Sacré-Coeur de Montréal,,,,Under Consideration,
+16019,CDM,PPD,C21015,07028,,Canada,Comisión de Investigación y Etica Región Sanitaria 6,Ontario,Oakville,L6H 3P1,Withdrawn,1235 Trafalgar Road North
+36504,CDM,PRA,C34004,07003,1-1CWRPN4,Canada,Hopital de l'Enfant-Jesus,QC,Quebec,G1J 1Z4,Closed,Hpital de lEnfantJsus HEJ1401 18me rue
+18068,CDM,PPD,FOS,411,,Canada,Eastern Health - Health Sciences Center- General Hospital,Newfoundland and Labrador,St. John's,A1B 3V6,Active - Recruiting,300 Prince Philip DriveProvincial Medical Genetics Program
+13980,CDM,PPD,C21015,07010,,Canada,Southern Interior Medical Research Inc,British Columbia,Kelowna,V1W 4V5,Withdrawn,3320 Richter Street
+13982,CDM,PPD,C21015,07022,,Canada,Male and Females Health and Research Centres,Ontario,Barrie,L4M 7G1,Withdrawn,1 Quarry Ridge
+9699,CDM,PPD,C16014,1-F3YWH,,Canada,British Columbia Cancer Agency,British Columbia,Vancouver,V5Z 4E6,Disqualified,600 West 10th Avenue
+44704,CTMS,PPD,C21005,1-13I4L8F,,Canada,Uro Services Incorporated,,,,Declined Participation,
+11936,CDM,PPD,C16021,1-Y08DIJ,,Canada,Fraser Valley Centre British Columbia Cancer Agency,British Columbia,Surrey,V3V 1Z2,Disqualified,13750 96th Avenue
+40611,CTMS,,C14005,AML08,,Canada,Hopital Haut-Leveque,,,,Declined Participation,
+40612,CTMS,,C14005,AML18,,Canada,McMaster University Health Sciences CTR,,,,Declined Participation,
+40613,CTMS,,C14005,AML19,,Canada,CHUM - Hopital Notre-Dame,,,,Not Selected,
+40614,CTMS,,C14005,NHL/AML36,,Canada,Sparrow Regional Cancer Center,,,,Under Consideration,
+44712,CTMS,PPD,C21005,1-14IFFS9,,Canada,Mahoney Medicine Professional Corporation,,,,Declined Participation,
+32425,CDM,PPD,SYR-322-309,1-JLWZZU,,Canada,Medical Phase Canada Inc,Ontario,Newmarket,L3Y 8E4,Disqualified,"17215 Leslie Street, Unit C"
+32426,CDM,PPD,SYR-322-309,1-JLX04A,,Canada,Kelowna Cardiology Research,British Columbia,Kelowna,V1Y 1V6,Disqualified,2606 Pandosy Street
+32427,CDM,PPD,SYR-322-309,1-JLZ82Z,,Canada,Centre de Rechere Clinique de Laval,Quebec,Laval,H7T 2P5,Disqualified,3030 Boulevard Le Carrefour
+40617,CTMS,,C14006,TBD-300288933,,Canada,Jewish General Hospital,,,,Under Consideration,
+36526,CDM,PRA,C34008,07002,1-1HHCJ96,Canada,Hopital Maisonneuve-Rosemont,QC,Montreal,H1T 2M4,Closed,5415 Boulevard de lAssomption
+36529,CDM,PRA,MLN0002-2003,07005,1-1BTOY4B,Canada,Toronto Hospital for Sick Children,ON,Toronto,M5G 1X8,Closed,555 University Avenue
+36530,CDM,PRA,MLN0002-2003,07006,1-1BTOY6Z,Canada,University of Alberta,AB,Edmonton,T6G 1C9,Closed,1140587 Avenue Northwest
+7866,CDM,IQVIA,MLN0002SC-3027,7003,1-1TDN7GL,Canada,LHSC - Victoria Hospital,,,,,
+7867,CDM,IQVIA,MLN0002SC-3027,7004,1-1TPLKTE,Canada,McGill University Health Centre/Glen Site / Royal Victoria Hospital,,,,,
+11965,CDM,PPD,C14023,07002,,Canada,CHUM,Quebec,Montreal,H2X 1P1,Withdrawn,264 Boul Rene-Levesque East
+9918,CDM,IQVIA,TAK-101-2001,07004,1-4YMNTCR,Canada,Recherche Médicale St-Jérôme Inc.,St-Jérôme,Quebec,J7Z 5T3,Selected,290 rue MontignyBloc F
+9919,CDM,IQVIA,TAK-101-2001,07005,1-4YMGBK9,Canada,South Edmonton Gastroenterology,Edmonton,Alberta,T6W 3G7,Selected,200. 6203-28 Ave SW
+26306,CDM,PPD,SHP607-202,1-15MGMWV,,Canada,The University of British Columbia,British Columbia,Vancouver,V6H 3V4,Disqualified,4480 Oak Street
+11979,CDM,PPD,C14023,1-4204NB9,,Canada,Hôpital Maisonneuve-Rosemont,Quebec,Montréal,H3T 1J4,Disqualified,2900 Boulevard Edouard-Montpetit
+16075,CDM,PPD,C16029,1-Y3GEWI,,Canada,British Columbia Cancer Agency,British Columbia,Victoria,L8V 5C2,Disqualified,2410 Lee Avenue
+42704,CTMS,,TAK-875_309,,,Canada,,,,,,
+38608,CTMS,,M34103-058,Legacy Enrollment Site,,Canada,Legacy,,,,Closed,
+7889,CDM,PPD,Brigatinib-1002,1-62GT8YO,,Canada,British Columbia Children's Hospital,British Columbia,Vancouver,V6H 3V4,Disqualified,4480 Oak Street
+7899,CDM,PPD,Brigatinib-1002,1-69Q487M,,Canada,Alberta Childrens Hospital,Alberta,Calgary,T3B 6A8,Disqualified,28 Oki Drive NW
+14046,CDM,PPD,C21015,1-1B36SA,,Canada,Brantford Urology Research,Ontario,Brantford,N3R 4N3,Disqualified,353 Saint Paul Avenue
+22241,CDM,PPD,Pevonedistat-3001,1-16Q6DDJ,,Canada,Alberta Cancer Board,Alberta,Edmonton,T5J 3N4,Disqualified,10405 Jasper Avenue
+22242,CDM,PPD,Pevonedistat-3001,1-16Q6DDW,,Canada,Hamilton Health Sciences Corporation,Ontario,Hamilton,L8L 2X2,Disqualified,237 Barton Street EastMcMaster Clinic
+16097,CDM,PPD,C16029,1-Y3GF1E,,Canada,William Osler Health Centre,Ontario,Brampton,V3V 1Z2,Disqualified,2100 Bovaird Drive East
+22243,CDM,PPD,Pevonedistat-3001,1-16Q6DFC,,Canada,Nova Scotia Health Authority (Capital District Health Authority),Nova Scotia,Halifax,B3H 2E1,Disqualified,5955 Veterans Memorial Lane
+26346,CDM,PPD,SHP-001-801,1-3YXKRG,,Canada,Institut ORL de Montreal,Quebec,Mont-Royal,H3P 2H7,Disqualified,1361 Avenue Beaumont
+42735,CTMS,,C14005,AML04,,Canada,Hôpital Claude Huriez,,,,Not Selected,
+42736,CTMS,,C14005,AML05,,Canada,CH de Mulhouse - Hopital Emile Muller,,,,Not Selected,
+42737,CTMS,,C14005,AML23,,Canada,Institut Bergonié - Centre Régional de lutte contre le cancer de Bordeaux et Sud-Ouest,,,,Not Selected,
+42738,CTMS,,C14005,NHL/AML33,,Canada,Jewish General Hospital,,,,Not Selected,
+42739,CTMS,,C14005,NHL/AML37,,Canada,Kalamazoo Hematology and Oncology,,,,Under Consideration,
+42740,CTMS,,C14005,TBD-300019618,,Canada,McGill University Health Centre-Dept Oncology,,,,Not Selected,
+3831,CDM,IQVIA,161505,102,1-2O29RLZ,Canada,"Recherche Sepmus, Inc.",Greenfield Park,Quebec,J4V 2J2,Closed,4896 Taschereau BoulevardSuite 230
+32505,CDM,PPD,SPD489-347,1-WEWOWD,,Canada,Windsor Health Centre,Ontario,Windsor,N8X 4W2,Disqualified,600 Tecumseh Road East
+1790,CDM,IQVIA,MLN0002SC-3027,7005,1-1US5Q92,Canada,Zeidler Ledcor Centre - University of Alberta,,,,,
+40702,CTMS,PPD,C21004,07015,,Canada,Urology South Shore Research,,,,Closed,
+40703,CTMS,PPD,C21004,07017,,Canada,Dr Gary Steinhoff Clinical Research,,,,Withdrawn,
+40704,CTMS,PPD,C21004,07022,,Canada,Male and Females Health and Research Centres,,,,Withdrawn,
+40705,CTMS,PPD,C21004,07027,,Canada,Prostate Centre at VGH,,,,Withdrawn,
+7945,CDM,IQVIA,MLN1117-1501,7004,1-1OQ0HC4,Canada,Cross Cancer Institute,,,,,
+7946,CDM,IQVIA,MLN1117-1501,7005,1-1LN84UO,Canada,Allan Blair Cancer Centre,,,,,
+40713,CTMS,PPD,C21004,1-12J0FFR,,Canada,Prostate Cancer Institute,,,,Declined Participation,
+40714,CTMS,PPD,C21004,1-12J0FP7,,Canada,Anthony Skehan Medicine Professionals Corporation,,,,Declined Participation,
+40716,CTMS,PPD,C21004,1-12J2MJ7,,Canada,Male Health Center,,,,Declined Participation,
+40717,CTMS,PPD,C21004,1-12J3B8L,,Canada,Humber River Regional Hospital,,,,Declined Participation,
+1807,CDM,IQVIA,C27002,7201,1-151NP4R,Canada,CHUM Centre de Recherche,,,,,
+12046,CDM,PPD,C16014,1-E3FNR,,Canada,G. Kenneth Jansz Medicine Professional Corporation,Ontario,Burlington,L7N 3V2,Disqualified,3155 Harvester Road
+12047,CDM,PPD,C16014,1-E3FU2,,Canada,Cancer Care Manitoba,Manitoba,Winnepeg,R3A 1R9,Disqualified,820 Sherbrooke Street
+12056,CDM,PPD,C16014,1-E7UWB,,Canada,Vancouver Hospital and HSC,British Columbia,Vancouver,V5Z 3J5,Disqualified,"D9-2733 Heather Street, Heather Pavillion"
+36633,CDM,PRA,C31004,07003,1-1C5M432,Canada,The Ottawa Hospital Cancer Centre,ON,Ottawa,K1H 8L6,Closed,501 Smyth Road
+36634,CDM,PRA,C31004,07005,1-1C5M3X2,Canada,Princess Margaret Cancer Centre,ON,Toronto,M5G 2M9,Activated,610 University AvenueRoom 5110
+32538,CDM,PPD,TAK-788-3001,1-4YRY4LG,,Canada,Centre Hospitalier Universitaire de Sherbrooke CHUS,Quebec,Sherbrooke,J1H 5H3,Disqualified,3001 12 Ave N
+40738,CTMS,PPD,C21004,1-13ECCND,,Canada,Stanley Flax Medical Professional Corporation,,,,Declined Participation,
+5926,CDM,IQVIA,TAK-883-3001,204,1-4SVMSJY,Canada,Synergy Respiratory & Cardiac Care,Sherwood Park,Alberta,T8H 0N2,Dropped,501 Bethel Drive
+28457,CDM,PPD,SHP616-302,,,Canada,St Michael's Hospital,,,,Disqualified,
+5933,CDM,IQVIA,TAK-994-1501,07002,1-50QU7BH,Canada,Somni Research Inc. Calgary,Calgary,Alberta,T2X 2A8,Selected,300-295 Midpark Way SE
+36655,CDM,PRA,C31005,07006,1-1D5WM0S,Canada,McMaster University,ON,Hamilton,L8N 4A6,Closed,50 Charlton Avenue East3rd FloorRoom G344
+32568,CDM,PPD,SYR-322-309,1-IV5TFA,,Canada,"Office of David B. Miller, MD",Alberta,Victoria,V8R 1J8,Disqualified,"2335 Richmond Avenue, Memorial Pavillion, Kenning Wing 1"
+44858,CTMS,PPD,C21005,07002,,Canada,Moncton Hospital,,,,Closed,
+44859,CTMS,PPD,C21005,07016,,Canada,Notre-Dame Hospital,,,,Closed,
+44860,CTMS,PPD,C21005,07020,,Canada,Todd Webster MD,,,,Closed,
+44861,CTMS,PPD,C21005,07025,,Canada,British Columbia Cancer Agency,,,,Closed,
+30527,CDM,PPD,TAK-079-1004,1-5QGG7BY,,Canada,Thunder Bay Regional Health Sciences Centre,Ontario,Thunder Bay,P7B 6V4,Void,980 Oliver Road
+10051,CDM,IQVIA,TAK-994-1501,07001,1-4V575LR,Canada,Jodha Tishon Inc.,Toronto,Ontario,M5S 3A3,Initiated,1033 Bay StreetRoom 318-319
+36677,CDM,PRA,TAK-676-1002,07001,26575,Canada,Princess Margaret Cancer Centre,Ontario,Toronto,M5G 2M9,Activated,610 University Avenue
+32586,CDM,PPD,SYR-322-309,1-IQE7UZ,,Canada,Manitoba Institute of Child Health,,,,Disqualified,
+3915,CDM,IQVIA,MLN0002SC-3027,7001,1-1RZC1W2,Canada,LHSC - University Hospital,,,,,
+3916,CDM,IQVIA,MLN0002SC-3027,7009,1-20BQJ3H,Canada,Hotel Dieu Hospital,,,,,
+14157,CDM,PPD,C21015,07030,,Canada,Urology Associates Urologic Medical Research,,,,Withdrawn,
+14159,CDM,PPD,C21015,1-10VCEL,,Canada,Todd Webster MD,Ontario,Owen Sound,N4K 2J1,Disqualified,1101 2nd Avenue East
+36688,CDM,PRA,C34008,07001,1-1HHBL74,Canada,Jewish General Hospital,QC,Montreal,H3T 1E2,Closed,3755 chemin de la CteSainteCatherineE1031
+36690,CDM,PRA,MLN0002-2003,07002,1-1BTOXYU,Canada,Alberta Children's Hospital,AB,Calgary,T2N 1N7,Closed,2503 University Drive NorthwestCalgary Regional Health Authority
+28499,CDM,PPD,SHP616-302,1-KZT8EP,,Canada,Hotel Dieu Du Centre Hospitalier de L'universite de Montreal,Quebec,Montreal,H3C 1J4,Disqualified,2950 Chemin De Polytechnique
+36691,CDM,PRA,MLN0002-2003,07003,1-1BTOY1I,Canada,Centre Hospitalier Universitaire Sainte-Justine,QC,Montreal,H3T 1C5,Closed,3175 Chemin de la CoteSainteCatherine
+28502,CDM,PPD,SHP616-302,1-P4GBJK,,Canada,Vancouver General Hospital,British Columbia,Vancouver,,Disqualified,899 12th Avenue West
+18264,CDM,PPD,FOS,158,,Canada,University of Alberta,Alberta,Edmonton,T6G 2H7,Active - Recruiting,8440-112 Street NorthwestDepartment of Medical Genetics
+40794,CTMS,Dobbs Consulting,C16002,005,,Canada,McGill University / Jewish General Hospital,,,,Active,
+1890,CDM,IQVIA,M1-1188_202,5022,1-1A91DL5,Canada,The Medical Arts Health Research Group,,,,,
+44900,CTMS,PPD,C21005,1-12JVOLB,,Canada,Saint Joseph's Health Centre,,,,Declined Participation,
+36709,CDM,PRA,Ponatinib-3001,07004,1-1P8SRUB,Canada,The Ottawa Hospital,ON,Ottawa,K1H 8L6,Activated,501 Smyth Road
+44901,CTMS,PPD,C21005,1-12K2210,,Canada,Probity Medical Research Incorporated,,,,Declined Participation,
+40807,CTMS,INC Research,AP24534-15-303,,,Canada,,,,,,
+1900,CDM,IQVIA,M1-1188_203,2005,1-17LKNRE,Canada,SKiN Centre for Dermatology,,,,,
+16236,CDM,PPD,GOS,1102,,Canada,Mount Sinai Hospital - Canada,Ontario,Toronto,M5T 3L9,Active - No Longer Recruiting,60 Murray Street
+12144,CDM,PPD,C16021,07103,,Canada,William Osler Health Centre,Ontario,Brampton,L6R 3J7,Active - No Longer Recruiting,2100 Bovaird Drive EastBrampton Civic Hospital Campus
+44913,CTMS,PPD,C21005,1-12YEYL1,,Canada,Uro Laval,,,,Declined Participation,
+44917,CTMS,PPD,C21005,1-13JAURZ,,Canada,Male Health Center,,,,Declined Participation,
+44918,CTMS,PPD,C21005,1-13L99PR,,Canada,Dr Allan Abramovitch,,,,Declined Participation,
+14199,CDM,PPD,C21015,1-1B36NH,,Canada,Stanley Flax Medical Professional Corporation,Ontario,North York,M2J 1V1,Disqualified,1333 Sheppard Avenue East
+28537,CDM,PPD,SYR-322-309,1-IQE7UN,,Canada,Canadian Centre For Research On Diabetes,Ontario,Smiths Falls,K7A4W8,Disqualified,218 Percy Street
+18308,CDM,PPD,HGT-FIR-096,1-1EIP69,,Canada,Surrey Memorial Hospital,British Columbia,Surrey,V3V 1N1,Disqualified,13798 94a Avenue
+18309,CDM,PPD,HGT-FIR-096,1-1EIPFJ,,Canada,Hotel-Dieu Grace Hospital,Ontario,Ajax,L1S 7J5,Disqualified,306-230 Westney Road South
+18313,CDM,PPD,HGT-FIR-096,1-1KV347,,Canada,Cardiologues Associes,Quebec,Chicoutimi,G7H 6B9,Disqualified,874 Boul De L'universite E
+18314,CDM,PPD,HGT-FIR-096,1-1KXN4L,,Canada,Hamilton General Hospital,Ontario,Hamilton,L8L 2X2,Disqualified,237 Barton Street
+3979,CDM,IQVIA,161403,104,1-26DJWFV,Canada,Vancouver General Hospital,Vancouver,British Columbia,V5Z 1M9,Prematurely Closed,"2775 Laurel Street, Suite 8232, 8th Floor"
+44939,CTMS,PPD,C21012,1-1IDBUHK,,Canada,The Ottawa Hospital Cancer Centre,,,,Declined Participation,
+6028,CDM,IQVIA,C14018,7103,1-18GSMJT,Canada,Cross Cancer Institute,,,,,
+40861,CTMS,Mapi,MLN-0002_401,,,Canada,,,,,,
+12195,CDM,PPD,C16021,1-8E1YD1,,Canada,Toronto East General Hospital,Ontario,Toronto,M4C 3E7,Disqualified,825 Coxwell Avenue
+38823,CTMS,,Vedolizumab-3001,,,Canada,,,,,,
+4007,CDM,IQVIA,MLN0002SC-3031,07003,1-1TDNFG7,Canada,LHSC - Victoria Hospital,London,Ontario,N6A 5W9,Closed,"Children’s Hospital, London Heath Sciences Centre - c/o Research Pharmacy"
+4008,CDM,IQVIA,MLN0002SC-3031,07008,1-1SHCV2O,Canada,"Toronto Digestive Disease Associates, Inc.",Vaughan,Ontario,L4L 4Y7,Closed,4600 Highway 7 Unit 225
+1965,CDM,IQVIA,MLN0002-3026,7003,1-1QTGVWI,Canada,LHSC - Victoria Hospital,,,,,
+1966,CDM,IQVIA,MLN0002-3026,7005,1-1S8ZZIG,Canada,University of Alberta,,,,,
+1967,CDM,IQVIA,MLN0002-3026,7007,1-1S8WRRS,Canada,Hopital Maisonneuve-Rosemont d/b/a CIUSSS de l'Est-de-l'Île-de-Montréal,,,,,
+28595,CDM,PPD,SHP616-302,1-EF75OD,,Canada,Ottawa Hospital,,Ottawa,K1H7W9,Disqualified,1967 Riverside Drive
+8120,CDM,PPD,Brigatinib-1003,1-62H56F5,,Canada,Juravinski Cancer Centre,Ontario,Hamilton,L8V 5C2,Disqualified,699 Concession Steet
+8123,CDM,PPD,Brigatinib-1003,1-62I0K68,,Canada,Memorial University of Newfoundland,Newfoundland and Labrador,Halifax,,Disqualified,300 Prince Philip Drive
+38844,CTMS,,C13001,Legacy Enrollment,,Canada,Legacy,,,,Closed,
+44991,CTMS,Quintiles,TAK-114-2001,,,Canada,,,,,,
+38849,CTMS,,C14004,TBD-300287524,,Canada,Hopital Charles Lemoyne,,,,Not Selected,
+36803,CDM,PRA,AP24534-14-203,129,1-1FC7U3T,Canada,Jewish General Hospital,QC,Montreal,H3T 1E2,Closed,3755 chemin de la CteSainteCatherineE1031
+38855,CTMS,,C14005,AML24,,Canada,Hôpital Lapeyronie,,,,Not Selected,
+16332,CDM,PPD,FEB-1008,1-D1V3Q1,,Canada,Centre Hospitalier Universitaire de Quebec,Quebec,Quebec,G1V 4G2,Disqualified,2705 Boulevard Laurier
+8144,CDM,PPD,C14023,1-4204NA9,,Canada,Centre Hospitalier Universitaire de Quebec,Quebec,Levis,G6V 3Z1,Disqualified,143 Rue Wolfe
+8145,CDM,PPD,C14023,1-4204NAM,,Canada,CHU L'hotel Dieu de Quebec,,Porto,4099-001,Void,Largo Professor Abel Salazar
+8146,CDM,PPD,C14023,1-4204NBM,,Canada,Hôpital Maisonneuve-Rosemont,Quebec,Quebec City,G1R 2J6,Void,"11, Cote Du Palais"
+10196,CDM,PPD,C16014,07011,,Canada,Abbotsford Regional Hospital and Cancer Care Centre,British Columbia,Abbotsford,V2S 3N5,Closed,2051 Mccallum Road
+30677,CDM,PPD,TAK-079-1005,07502,,Canada,Vancouver General Hospital (VGH),British Columbia,Vancouver,V5Z 1M9,Qualified,"8th Floor, 2775 Laurel StreetGordon & Leslie Diamond Health Care Centre"
+10199,CDM,PPD,C16014,1-1623I9,,Canada,Allan Blair Cancer Centre,Saskatchewan,Regina,S4T 1A5,Disqualified,4101 Dewdney Avenue
+18396,CDM,PPD,HGT-FIR-096,201,,Canada,Queen Elizabeth II Health Sciences Center,Nova Scotia,Halifax,B3H 3A7,Closed,3021-1796  Summer St
+4063,CDM,IQVIA,471101,201,1-1OXW09Y,Canada,Inspiration Research Limited,Toronto,Ontario,M5T 2S8,Dropped,399 Bathurst StreetSuite 1E-425
+16351,CDM,PPD,HGT-FIR-096,1-152GBG,,Canada,Canadian Heart Research Centre,Ontario,Toronto,M2J 0B5,Disqualified,259 Yorkland Road
+34791,CDM,PPD,TMX-67_301,1-4GYRYL,,Canada,Niagara Peninsula Arthritis Center,Ontario,St. Catharines,L2N 7E4,Disqualified,2 Lakeshore Road
+26600,CDM,PPD,SHP465-307,1-19H6R6J,,Canada,"Universit� de Montr�al, Pavillon Roger-Gaudry",Quebec,Montréal,H3C 3J7,Disqualified,"C.P. 6128, succursale Centre-ville"
+12273,CDM,PPD,C16021,1-Y08DJL,,Canada,CIUSSS-de-l’Est-de-l’Île-de-Montréal,Quebec,Montreal,H1T 2M4,Disqualified,5415 Boulevard De L'assomption
+10226,CDM,PPD,C16017,1-FRLK0Y,,Canada,Centre Hospitalier Universitaire de Quebec,Quebec,Quebec City,G1J 1Z4,Disqualified,1401 18ieme Rue
