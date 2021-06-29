@@ -12,7 +12,7 @@ A ‘single version of truth’ maintained for associated entities across the en
 
 This repo focuses on masterizing clinical data in terms of hospitals/sites, that the pharmaceutical client managed. The datasets used in this repository are open-sourced and available for free at [pbpython: Master Data](https://github.com/chris1610/pbpython/tree/master/data).
 For example- the same site “Kadlec Regional Medical Center”, might be reported differently as “Kadlec Clinic Hematology and Oncology” but with the same address, across the client’s source systems. Our goal is to identify a golden entity (Master Record) to which other duplicate records can be matched, and maintain their source-to-master linkage (Cross-Reference). Although industry-standard tools are available (Informatica, Oracle, SAP, etc.) that can be used with third-party collaborators like Address-Doctor-Service, or Dun&Bradstreet to retrieve the standardized asset data, this repo was intended to prove that open-source code and libraries can produce near-standardized results.
-<img src="/Documentation/Research_Paper_Work/Basic_deduplication_example.jpg" height="150" width="150" alt="Basic_deduplication_example" />
+![Basic_deduplication_example](/Documentation/Research_Paper_Work/Basic_deduplication_example.jpg?raw=True)
 
 
 
@@ -55,19 +55,19 @@ Union of 'SR_NUM_1' & 'SR_NUM_2' will be the universe of potential duplicates (U
 Stand-alone records in the current minibatch, are those which do not fall in this universe of potential duplicates (Non-UPD).
 The final Master-records will be the union of Master-Ids and the Stand-alone Ids identified above.
 
-<img src="/Documentation/Research_Paper_Work/Set_Theory_equations.jpg" height="150" width="150" alt="Set_Theory_equations" />
+<img src="/Documentation/Research_Paper_Work/Set_Theory_equations.jpg" height="400" width="400" alt="Set_Theory_equations" />
 
-<img src="/Documentation/Research_Paper_Work/Set_Theory.jpg" height="150" width="150" alt="Set_Theory" />
+<img src="/Documentation/Research_Paper_Work/Set_Theory.jpg" height="300" width="500" alt="Set_Theory" />
 
 
 v. A recursive algorithmic approach will first pass minibatches of a fixed size into the _dedup_ R-function and generate deduplicated master-datasets.
 These deduplicated master-datasets would be compared against each other using the _linkage_ R-function. This is similar to the conventional level-order traversal of a binary tree using a queue, but in reverse, until each record is compared against every other. The motivation here is to prevent overuse of RAM, due to in-memory candidate pair computations.
-<img src="/Documentation/Research_Paper_Work/Recursive_processing.jpg" alt="Recursive_processing" />
+![Recursive_processing](/Documentation/Research_Paper_Work/Recursive_processing.jpg?raw=True)
 
 
 vi. The time taken for recursively processing a large batch is significantly lower than the time that would’ve been theoretically required for one-shot processing.
 The following observations were taken by considering minibatches of size 5,000, on an AWS EC2 instance m5.4xlarge (64 GB RAM, and 16 vCPUs- each a single thread on a 3.1 GHz Intel Xeon Platinum 8175M processor):
-<img src="/Documentation/Research_Paper_Work/Execution_stats_Tableau_output.jpg" height="150" width="150" alt="Execution_stats_Tableau_output" />
+<img src="/Documentation/Research_Paper_Work/Execution_stats_Tableau_output.jpg" height="400" width="400" alt="Execution_stats_Tableau_output" />
 
 
 
