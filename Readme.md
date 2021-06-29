@@ -95,6 +95,7 @@ Union of 'SR_NUM_1' & 'SR_NUM_2' will be the universe of potential duplicates (U
 Stand-alone records in the current minibatch, are those which do not fall in this universe of potential duplicates (Non-UPD).
 The final Master-records will be the union of Master-Ids and the Stand-alone Ids identified above.
 [Set_Theory_equations](/Documentation/Research_Paper_Work/Set_Theory_equations.jpg?raw=True)
+
 [Set_Theory](/Documentation/Research_Paper_Work/Set_Theory.jpg?raw=True)
 
 
