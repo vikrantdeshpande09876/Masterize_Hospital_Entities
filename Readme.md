@@ -70,7 +70,8 @@ The following observations were taken by considering minibatches of size 5,000, 
 
 
 
-### For additional notes on the project and repository, please refer to: ![Masterize_data_Text_similarity_scores](/Documentation/Research_Paper_Work/Masterize_data_Text_similarity_scores.pdf)
+### For additional notes on the project and repository, please refer to: 
+[Masterize_data_Text_similarity_scores](/Documentation/Research_Paper_Work/Masterize_data_Text_similarity_scores.pdf)
 
 
 
