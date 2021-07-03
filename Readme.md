@@ -90,14 +90,12 @@ The following observations were taken by considering minibatches of size 5,000, 
 	Note- We'll use the x86 version of R within R-Studio; reason mentioned in the following step.
 
 6.	Set up R-tools for working with binaries of the levenshtein.c for fast text-comparison: [Rtools40](https://cran.r-project.org/bin/windows/Rtools/)
-	Note- To generate the binaries from the levenshtein.c file, you need to switch into the 32-bit mode of R (x86), and then run the following:
+	Note- To generate the binaries from the levenshtein.c file, you need to switch into the 32-bit mode of R (x86), and then run the following first command in shell.
+	Then the R-script will be able to load the binary file during runtime as follows:
 ```
-	R CMD SHLIB levenshtein.c
-```
+> R CMD SHLIB levenshtein.c
 
-	You can now use the .dll or .so file into your R environment using:
-```
-	dyn.load('levenshtein.dll') for Windows		or		dyn.load('levenshtein.so') for Linux
+>> dyn.load('levenshtein.dll') for Windows or '.so' for Linux
 ```
 
 7.	Download this repository: [Masterize_Hospital_Entities](https://github.com/vikrantdeshpande09876/Masterize_Hospital_Entities)
