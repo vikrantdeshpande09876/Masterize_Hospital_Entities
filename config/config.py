@@ -1,13 +1,14 @@
 import os
 
 ''' Environment Directory Config '''
-_RAW_STATIC_FILE_NAME = 'hospital_account_info_raw.csv'
-_STATIC_FILE_NAME = 'hospital_account_info.csv'
-#_STATIC_FILE_NAME = 'Site_Master_Extract.xlsx'
-_RAW_SCORES_DIRECTORY = 'Raw_Scores'
-_CLEANED_SCORES_DIRECTORY = 'Cleaned_Scores'
-_MASTER_DATA_DIRECTORY = 'Master_Data'
-_STAGING_AREA_DIRECTORY=os.path.join(_MASTER_DATA_DIRECTORY, 'Recursive_Staging_Area')
+_DATA_FILES_DIRECTORY = 'Data_Files'
+_RAW_STATIC_FILE_NAME = os.path.join(_DATA_FILES_DIRECTORY, 'hospital_account_info_raw.csv')
+_STATIC_FILE_NAME = os.path.join(_DATA_FILES_DIRECTORY, 'hospital_account_info.csv')
+#_STATIC_FILE_NAME = os.path.join(_DATA_FILES_DIRECTORY, 'Site_Master_Extract.xlsx')
+_RAW_SCORES_DIRECTORY = os.path.join(_DATA_FILES_DIRECTORY, 'Raw_Scores')
+_CLEANED_SCORES_DIRECTORY = os.path.join(_DATA_FILES_DIRECTORY, 'Cleaned_Scores')
+_MASTER_DATA_DIRECTORY = os.path.join(_DATA_FILES_DIRECTORY, 'Master_Data')
+_STAGING_AREA_DIRECTORY = os.path.join(_MASTER_DATA_DIRECTORY, 'Recursive_Staging_Area')
 
 
 
@@ -44,8 +45,8 @@ _MAXSIZE = 2000
 
 
 ''' R_Code Config '''
-_RSCRIPT_CMD = 'C:/Program Files/R/R-4.1.0/bin/i386/Rscript'
-_SCRIPT_NAME = 'Site_Master_Record_Linkage.R'
+_RSCRIPT_CMD = 'C:/Program Files/R/R-4.1.0/bin/i386/Rscript' # Use the x86 version of R-environment for the purposes of dyn.load('levenshtein.dll')
+_SCRIPT_NAME = 'Masterize_Data_Record_Linkage.R'
 _DEDUP_METHOD = 'Dedup'
 _LINKAGE_METHOD = 'Linkage'
 
@@ -55,8 +56,8 @@ _LINKAGE_METHOD = 'Linkage'
 _BINARIES_NAME = 'levenshtein'
 _BINARIES_EXTENSION = '.dll'
 #_BINARIES_EXTENSION = '.so'
-_THRESHOLD_FOR_INDIVIDUAL=0.75
-_THRESHOLD_FOR_ADDRESS_COMBINED=0.60
+_THRESHOLD_FOR_INDIVIDUAL=0.60
+_THRESHOLD_FOR_ADDRESS_COMBINED=0.50
 _THRESHOLDS_DICT = {
         'CONCAT_ADDRESS': _THRESHOLD_FOR_ADDRESS_COMBINED,
         'SITE_NAME': _THRESHOLD_FOR_INDIVIDUAL,

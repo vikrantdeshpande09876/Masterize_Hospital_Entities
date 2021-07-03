@@ -70,6 +70,10 @@ The following observations were taken by considering minibatches of size 5,000, 
 
 
 
+### For additional notes on the project and repository, please refer to: ![Masterize_data_Text_similarity_scores](/Documentation/Research_Paper_Work/Masterize_data_Text_similarity_scores.pdf)
+
+
+
 ## Step-by-step guide to setup this data-pipeline
 
 1.	Install GIT (This repo used 2.25.1 on Windows-10): [Git](https://git-scm.com/downloads)
@@ -89,6 +93,7 @@ The following observations were taken by considering minibatches of size 5,000, 
 ```
 	R CMD SHLIB levenshtein.c
 ```
+
 	You can now use the .dll or .so file into your R environment using:
 ```
 	dyn.load('levenshtein.dll') for Windows		or		dyn.load('levenshtein.so') for Linux
@@ -117,5 +122,5 @@ The following observations were taken by considering minibatches of size 5,000, 
 
 13. Execute the **_Recursive_Python_Site_Master.py_** script:
 ```
-> python Recursive_Python_Site_Master.py
+> python Recursive_Python_Site_Master.py > Recursive_Python_Site_Master.log
 ```

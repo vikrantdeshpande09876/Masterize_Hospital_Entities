@@ -19,8 +19,6 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 100022,USA,32237,hospital of douglas gardens,fl,miami florida,MIAMI,(305) 751-8626,Acute Care Hospitals,Voluntary non-profit - Private,85882,5200 ne 2nd ave
 100023,USA,32821,central florida behavioral hospital,fl,orlando,ORANGE,(407) 370-0111,Psychiatric,Proprietary,25482,6601 central floridaparkway
 100025,USA,33853,adventhealth lake wales,fl,lake wales,POLK,(863) 676-1433,Acute Care Hospitals,Proprietary,82422,410 s 11thst
-100026,USA,34210,suncoast behavioral health center,fl,bradenton,MANATEE,(941) 792-2222,Psychiatric,Proprietary,22662,4480 51stst w
-100027,USA,34210,suncoast psychiatric center,fl,bradenton,MANATEE,(941) 792-2222,Psychiatric,Proprietary,63051,4480 51ststreet west
 100029,USA,36925,hill hospital of sumter county,al,york,SUMTER,(205) 392-5263,Acute Care Hospitals,Voluntary non-profit - Other,52770,751 derbydrive
 100030,USA,39530,81st medical group keesler afb,ms,biloxi,HARRISON,(228) 377-6393,Acute Care - Department of Defense,Department of Defense,45484,81 mdg 301fisher st suite 109
 100031,USA,39735,choctaw regional medical center,ms,ackerman,CHOCTAW,(662) 285-4400,Critical Access Hospitals,Government - Local,93392,8613 ms hwy 12
@@ -29,18 +27,15 @@ SR_NUM,COUNTRY,POSTAL_CODE,SITE_NAME,STATE,CITY,COUNTY_NAME,PHONE_NUM,SITE_TYPE,
 100035,USA,46947,four county counseling center,in,logansport,CASS,(574) 722-5151,Psychiatric,Voluntary non-profit - Private,88102,1015 michigan ave
 100036,USA,47025,highpoint health,in,lawrenceburg,DEARBORN,(812) 537-1010,Acute Care Hospitals,Government - Local,40531,600 wilsoncreek rd
 100037,USA,50126,hansen family hospital,ia,iowa falls,HARDIN,(641) 648-4631,Critical Access Hospitals,Government - Local,88959,920 southoak street
-100038,USA,52537,davis county hospital,ia,bloomfield,DAVIS,(641) 664-2145,Critical Access Hospitals,Government - Local,44961,509 northmadison street
 100039,USA,55102,st josephs hospital,mn,saint paul,RAMSEY,(651) 232-3000,Acute Care Hospitals,Voluntary non-profit - Private,24483,45 west 10th street
 100040,USA,59230,frances mahon deaconess hospital,mt,glasgow,VALLEY,(406) 228-3500,Critical Access Hospitals,Voluntary non-profit - Private,52262,621 3rd sts
 100041,USA,60629,holy cross hospital,il,chicago,COOK,(773) 884-9000,Acute Care Hospitals,Voluntary non-profit - Private,90454,2701 w 68th street
 100042,USA,60970,iroquois memorial hospital,il,watseka,IROQUOIS,(815) 432-5201,Acute Care Hospitals,Voluntary non-profit - Private,15601,200 fairman street
 100043,USA,62906,choate mental health  development ctr,il,anna,UNION,(618) 833-5161,Psychiatric,Government - State,50857,1000 n main st
-100045,USA,62930,ferrell hospital community foundations,il,eldorado,SALINE,(618) 273-3361,Critical Access Hospitals,Voluntary non-profit - Private,23953,1201 pinestreet
 100046,USA,63110,st louis childrens hospital,mo,saint louis,ST. LOUIS CITY,(314) 454-6000,Childrens,Voluntary non-profit - Other,21955,one childrens place
 100048,USA,67735,goodland regional medical center,ks,goodland,SHERMAN,(785) 890-3625,Critical Access Hospitals,Government - Local,28392,220 west second street
 100050,USA,70508,compass behavioral center of lafayette,la,lafayette,LAFAYETTE,(337) 534-4655,Psychiatric,Proprietary,79020,312 youngsville highway
 100051,USA,72301,woodridge behavioral center,ar,west memphis,CRITTENDEN,(870) 394-4113,Psychiatric,Proprietary,70116,600 north7th street
-100052,USA,72501,woodridge psychotherapy cntr,ar,w memphis,CRITTENDEN,(870) 394-4113,Psychiatric,Proprietary,86720,600 n7th st
 100053,USA,73573,jefferson county hospital,ok,waurika,JEFFERSON,(580) 228-2344,Critical Access Hospitals,Voluntary non-profit - Private,59571,intersection hyws 81 70
 100054,USA,77338,memorial hermann northeast hospital,tx,humble,HARRIS,(281) 540-7700,Acute Care Hospitals,Voluntary non-profit - Private,15859,18951 memorial north
 100055,USA,79714,permian regional medical center andrews county ho,tx,andrews,ANDREWS,(432) 523-2200,Acute Care Hospitals,Government - Hospital District or Authority,59514,720 hospital drive
