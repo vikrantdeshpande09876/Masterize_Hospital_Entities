@@ -1,6 +1,0 @@
-SR_NUM,SOURCE_IDENTIFIER,DATA_SOURCE_NAME,PROTOCOL_NUMBER,SITE_NUM,UNIQUE_SITE_ID,COUNTRY,SITE_NAME,STATE,CITY,POSTAL_CODE,SITE_STATUS,CONCAT_ADDRESS
-13946,CDM,PPD,Pevonedistat-3001,1-18ZBSTB,,United_Kingdom,university hospital waterford,dublin,waterford,9,,dunmore road
-13947,CDM,PPD,SHP647-302,1-17ZZS7W,,United_Kingdom,aberdeen royal infirmary  ppds,,aberdeen,ab25 2za,,foresterhill road
-13949,CDM,ICON,C25003,,91095.0,United_Kingdom,aberdeen royal infirmary,scotland,aberdeen,ab25 2zn,,haematology day unitforesterhill road
-13950,CDM,PPD,SHP647-304,304-349,,United_Kingdom,aberdeen royal infirmary  ppds,aberdeen city,,ab25 2zn,,
-13951,CDM,PPD,SHP647-307,307-349,,United_Kingdom,aberdeen royal infirmary  ppds,aberdeen city,,ab25 2zn,,

@@ -2,7 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.log
+masterdataenv/
 
 # C output binaries
 *.o
 *.dll
+
+# R-history logs
+.Rhistory

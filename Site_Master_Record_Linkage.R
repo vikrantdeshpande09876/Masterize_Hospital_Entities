@@ -21,7 +21,7 @@
 #     - R version 3.4.4 (2018-03-15)
 
 # SCRIPT VERSION:
-#     - 1.0
+#     - 2.0
 
 # CREATED ON:
 #     - 2021-03-17
@@ -30,7 +30,7 @@
 #     - Vikrant Deshpande
 
 # LAST UPDATED ON:
-#     - 2021-03-28
+#     - 2021-07-01
 
 # LAST UPDATED BY:
 #     - Vikrant Deshpande
@@ -43,13 +43,6 @@
 
 
 ## Load Required Libraries and Scripts
-#install.packages("RecordLinkage")
-#install.packages(c('DBI', 'RSQLite', 'ff', 'ffbase', 'e1071', 'ada', 'ipred', 'evd', 'data.table', 'xtable'))
-#install.packages("https://cran.r-project.org/src/contrib/Archive/RecordLinkage/RecordLinkage_0.4-11.2.tar.gz", repos = NULL, type="source")
-#require(RODBC)
-#require(dplyr)
-#require(RODBCDBI)
-#require(RecordLinkage)
 require(tools)
 
 
@@ -87,21 +80,21 @@ TOTAL_MATCHES_THRESHOLD=as.numeric(args[8][[1]])# 4
 METHOD=args[9][[1]]# Dedup or Linkage
 
 # Load the utility functions
-source("SourceCode_Record_Linkage.R")
+source(paste("utils","SourceCode_Record_Linkage.R",sep="//"))
 
 # Experimental: If the levenshtein C function is not loaded already, load the pre-compiled binaries to which it belongs.
 if (!is.loaded(BINARIES_NAME)){
   print(paste0("Loading ",BINARIES_NAME,BINARIES_EXTENSION," !"))
-  dyn.load(paste0(BINARIES_NAME, BINARIES_EXTENSION))
+  dyn.load(paste0(paste("utils", BINARIES_NAME, sep = "//"), BINARIES_EXTENSION))
 }else {
   print(paste0(BINARIES_NAME,BINARIES_EXTENSION," is already loaded !"))
 }
 
 
 # Experimental: To increase allocated RAM size and invoke garbage-collector
- if (memory.limit()!=4000){
-   memory.limit(size=4000)
- }
+if (memory.limit()!=4000){
+  memory.limit(size=4000)
+}
 gc()
 
 # Deduplicate the incoming dataset, and create an output /Raw_Scores/country_Score_Features.csv file

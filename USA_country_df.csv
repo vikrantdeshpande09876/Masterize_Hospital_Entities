@@ -1,526 +1,65 @@
 SR_NUM,CONCAT_ADDRESS,SITE_NAME,STATE,CITY,POSTAL_CODE
-100,carretera129 km1 avenida sanluis,hospital dr cayetano coll y toste,pr,arecibo,613
-101,calle isaac gonzalezesquina ledesma,hospital metropolitano de la montana,pr,bda nueva,641
-102,marginal carretera no 2 km 477,doctors center hospital inc,pr,manati,674
-103,calle hernandez carrion urb atenas,manati medical center dr otero lopez,pr,manati,674
-104,15 dr basora street,hospital perea,pr,mayaguez,681
-105,road number 2 km 1734 cain alto,hospital de la concepcion,pr,san german,683
-106,road 128 km 10,hospital metropolitano dr tito mattei,pr,yauco,698
-107,calle josec vasquezbo caonillas,mennonite general hospital inc,pr,aibonito,705
-108,ave luis munoz marin,hima san pablocaguas,pr,caguas,725
-109,carr 172 exit 21 urbturabo gardens,hospital menonita caguas inc,pr,caguas,725
-110,calle guadalupe 184antiguo hospital san lucas,inspira behavior care corp,pr,ponce,733
-111,tito castro ave 917,san lukes memorial hospital inc,pr,ponce,733
-112,bo rinconsector las lomas km31 carr 14,hospital menonita de cayey,pr,cayey,737
-113,general valero ave44,himasan pablo fajardo,pr,fajardo,738
-114,state road787 km 15,first hospital panamericano,pr,cidra,739
-115,carr 506 km 1 0,hospital san cristobal,pr,coto laurel,780
-116,ave pedroalbizu campos urbla hacienda,hospital menonita guayama,pr,guayama,785
-117,355 ave font martelo,ryder memorial hospital inc,pr,humacao,791
-118,9048 sugarestate,roy lester schneider hospitalthe,vi,st thomas,801
-119,4007 estdiamond ruby christiansted,gov juan f luis hospital  medical ctr,vi,st croix,820
-120,1451 ashford avenue,presbyterian community hosp,pr,san juan,907
-121,pda 20 csan rafael  1395,doctors center hospital san juan,pr,fernandez juncos,909
-122,calle profesor augusto rodriguez 1462,hospital pavia santurce,pr,fernandez juncos,910
-123,carretera21 1785 urb las lomas,metropolitan hospital,pr,san juan,915
-124,ponce de leon avenuestop 37 12,auxilio mutuo hospital,pr,hato rey,918
-125,ave poncede leon 435,hospital pavia hato rey inc,pr,hato rey,919
-126,371 de diego ave,hospital san francisco,pr,san juan,923
-127,carr 877 km 1 6 camino las lomas rr2,san juan capestrano hospital inc,pr,rio piedras,928
-128,carr 844 km 5 cupeybajo,hima san pablo cupey,pr,san juan,928
-129,bo monacillos carr22 centromedico de puerto ric,hospital oncologico dr isaac gonzalez martinez,pr,san juan,935
-130,avenida americo miranda entrada principal cm,centro cardiovascular,pr,rio piedras,936
-131,laurel avesanta juanita 100,hospital universitario dr ruiz arnau,pr,bayamon,956
-132,carretera2 km 11 7,hospital hermanos melendez inc,pr,bayamon,960
-133,edif jesust pineiroave fernandez juncos bo puebl,doctor center hospital san fernando de la carolina,pr,carolina,979
-134,30 locuststreet,cooley dickinson hospital incthe,ma,northampton,1060
-135,40 wrightstreet,baystate wing hospital and medical centers,ma,palmer,1069
-136,115 west silver street,baystate noble hospital,ma,westfield,1085
-137,271 carewstreet,mercy medical ctr,ma,springfield,1104
-138,725 northstreet,berkshire medical center inc  1,ma,pittsfield,1201
-139,29 lewis avenue,fairview hospital,ma,great barrington,1230
-140,164 high street,baystate franklin medical center,ma,greenfield,1301
-141,2033 mainstreet,athol memorial hospital,ma,athol,1331
-142,242 greenstreet,heywood hospital ,ma,gardner,1440
-143,100 southstreet,harrington memorial hospital1,ma,southbridge,1550
-144,107 lincoln street,adcare hospital of worcester inc,ma,worcester,1605
-145,123 summerstreet,st vincent hospital,ma,worcester,1608
-146,115 lincoln street,metrowest medical center,ma,framingham,1701
-147,76 summerstreet,whittier pavilion,ma,haverhill,1830
-148,one general street,lawrence general hospital,ma,lawrence,1842
-149,41 highland avenue,winchester hospital,ma,winchester,1890
-150,85 herrickstreet,beverly hospital corporation,ma,beverly,1915
-151,45 clapboardtree street,westwood pembroke health systems,ma,westwood,2090
-152,800 washington street,tufts medical center,ma,boston,2111
-153,243 charles street,massachusetts eye and ear infirmary ,ma,boston,2114
-154,51 blossomstreet,shriners hospital for children  boston the,ma,boston,2114
-155,1 boston medical center place,boston medical center corporation,ma,boston,2118
-156,85 east newton street,dr solomon carter fuller mental health center,ma,boston,2118
-157,125 parkerhill avenue,new england baptist hospital,ma,boston,2120
-158,1153 centre street,brigham and womens faulkner hospital,ma,boston,2130
-159,1493 cambridge street,cambridge health alliance,ma,cambridge,2138
-160,330 mountauburn street,mount auburn hospital,ma,cambridge,2138
-161,199 reedsdale road,beth israel deaconess hospitalmilton inc,ma,milton,2186
-162,330 brookline avenue,beth israel deaconess medical center,ma,boston,2215
-163,680 centerstreet,signature healthcare brockton hospital,ma,brockton,2302
-164,275 sandwich street,beth israel deaconess hospital  plymouth,ma,plymouth,2360
-165,227 babcock street,arbour human resource institute,ma,brookline,2446
-166,2014 washington street,newtonwellesley hospital,ma,newton,2462
-167,300 southstreet,bournewood hospital,ma,boston college,2467
-168,148 chestnut street,beth israel deaconess hospital  needham,ma,needham,2494
-169,830 countyroad,cape cod  islands community mental health center,ma,pocasset,2559
-170,363 highland avenue,southcoast hospital group inc,ma,fall river,2720
-171,795 middlestreet,saint annes hospital,ma,fall river,2721
-172,581 fauncecorner road,southcoast behavioral health,ma,dartmouth,2747
-173,88 washington street,morton hospital,ma,taunton,2780
-174,60 hodgesavenue box 151,taunton state hospital,ma,taunton,2780
-175,11 friendship street,newport hospital,ri,newport,2840
-176,455 toll gate rd,kent county memorial hospital,ri,warwick,2886
-177,25 wells street,westerly hospital,ri,westerly,2891
-178,593 eddy street,rhode island hospital,ri,providence,2903
-179,200 high service avenue,our lady of fatima hospital,ri,north providence,2904
-180,345 blackstone blvd,butler hospital,ri,providence,2906
-181,164 summitavenue,the miriam hospital,ri,providence,2906
-182,8 prospectstreet,southern nh medical center,nh,nashua,3060
-183,172 kinsley st,st joseph hospital,nh,nashua,3060
-184,100 mcgregor street,catholic medical center,nh,manchester,3102
-185,1 elliot way,elliot hospital,nh,manchester,3103
-186,15 aiken avenue,franklin regional hospital,nh,franklin,3235
-187,36 clintonstreet,new hampshire hosppsych unit,nh,concord,3301
-188,580 courtstreet,cheshire medical center,nh,keene,3431
-189,452 old street road,monadnock community hospital,nh,peterborough,3458
-190,181 corliss lane,upper connecticut valley hospital,nh,colebrook,3576
-191,173 middlestreet,weeks medical center,nh,lancaster,3584
-192,10 alice peck day drive,alice peck day memorial hospital,nh,lebanon,3766
-193,5 alumni drive,exeter hospital inc,nh,exeter,3833
-194,3073 whitemountainhighway,memorial hospital the,nh,north conway,3860
-195,240 southmain street,huggins hospital,nh,wolfeboro,3894
-196,1 medicalcenter drive,southern maine health care,me,biddeford,4005
-197,123 medical center drive,mid coast hospital,me,brunswick,4011
-198,123 andover road,spring harbor hospital,me,westbrook,4092
-199,22 bramhall st,maine medical center,me,portland,4102
-200,300 main street,central maine medical center,me,lewiston,4240
-201,93 campusavenue  po box 291,st marys regional medical center,me,lewiston,4243
-202,181 main street,stephens memorial hospital,me,norway,4268
-203,656 statestreet,dorothea dix psychiatric center,me,bangor,4401
-204,268 stillwater ave,northern light acadia hospital,me,bangor,4401
-205,360 broadway,st joseph hospital,me,bangor,4401
-206,897 west main street,mayo regional hospital,me,dover foxcroft,4426
-207,po box 1129,charles a dean memorial hospital,me,greenville,4441
-208,35 miles street,lincoln health,me,damariscotta,4543
-209,10 waymanlane po box 8,mount desert island hospital,me,bar harbor,4609
-210,57 water street,northern light blue hill memorial hospital,me,blue hill,4614
-211,24 hospital lane,calais regional hospital,me,calais,4619
-212,20 hartford street,houlton regional hospital,me,houlton,4730
-213,po box 151,northern light a r gould hospital,me,presque isle,4769
-214,6 glen cove drive,penobscot bay medical center,me,rockport,4856
-215,118 northport ave,waldo county general hospital,me,belfast,4915
-216,111 franklin healthcommons,franklin memorial hospital,me,farmington,4938
-217,46 fairview ave po box 468,redington fairview general hospital,me,skowhegan,4976
-218,44 south main street,gifford medical center,vt,randolph,5060
-219,po box 2003,springfield hospital,vt,springfield,5156
-220,anna marshlane po box 803,brattleboro retreat,vt,brattleboro,5301
-221,po box 216,grace cottage hospital,vt,townshend,5353
-222,133 fairfield street,northwestern medical center inc,vt,saint albans,5478
-223,box 547,central vermont medical center,vt,barre,5641
-224,160 allenst,rutland regional medical center,vt,rutland,5701
-225,115 porterdrive,porter hospital inc,vt,middlebury,5753
-226,1315 hospital drive,northeastern vermont regional hospital,vt,saint johnsbury,5819
-227,brewster rd,bristol hospital,ct,bristol,6010
-228,100 grandstreet,hospital of central connecticut the,ct,new britain,6050
-229,50 hospital hill road,sharon hospital,ct,sharon,6069
-230,201 chestnut hill road,johnson memorial hospital,ct,stafford springs,6076
-231,114 woodland street,st francis hospital  medical center,ct,hartford,6105
-232,1 abrahmsboulevard,hebrew home and hospital inc,ct,west hartford,6117
-233,112 mansfield avenue,windham comm mem hosp  hatch hosp,ct,willimantic,6226
-234,189 storrsrd,natchaug hospital,ct,mansfield center,6250
-235,320 pomfret street,day kimball hospital,ct,putnam,6260
-236,365 montauk ave,lawrence  memorial hospital,ct,new london,6320
-237,326 washington st,william w backus hospital,ct,norwich,6360
-238,100 doublebeach road,connecticut hospice incthe,ct,branford,6405
-239,435 lewisavenue,midstate medical center,ct,meriden,6450
-240,22 masonicave,masonicare health center,ct,wallingford,6492
-241,20 york st,yalenew haven hospital,ct,new haven,6504
-242,34 park street,connecticut mental health center,ct,new haven,6508
-243,2800 mainst,st vincents medical center,ct,bridgeport,6606
-244,267 grantstreet,bridgeport hospital,ct,bridgeport,6610
-245,56 franklin steet,saint marys hospital,ct,waterbury,6706
-246,540 litchfield st,charlotte hungerford hospital,ct,torrington,6790
-247,5 perryridge rd,greenwich hospital association ,ct,greenwich,6830
-248,29 east 29th st,carepoint health  bayonne medical center,nj,bayonne,7002
-249,204 groveavenue,essex county hospital center,nj,cedar grove,7009
-250,300 central ave,east orange general hospital,nj,east orange,7018
-251,7600 riverrd,palisades medical center,nj,north bergen,7047
-252,865 stonest,robert wood johnson university hospital at rahway,nj,rahway,7065
-253,595 countyavenue,hudson county meadowview psychiatric h,nj,secaucus,7094
-254,55 meadowlands pkwy,hudson regional hospital,nj,secaucus,7094
-255,111 central avenue,saint michaels medical center,nj,newark,7102
-256,201 lyonsave,newark beth israel medical center,nj,newark,7112
-257,355 grandstreet,jersey city medical center,nj,jersey city,7302
-258,176 palisade ave,carepoint healthchrist hospital,nj,jersey city,7306
-259,97 west parkway,chilton medical center,nj,pompton plains,7444
-260,223 n vandien avenue,valley hospital,nj,ridgewood,7450
-261,301 sicomac ave,ramapo ridge psych hosp,nj,wyckoff,7481
-262,350 englest,englewood hospital and medical center,nj,englewood,7631
-263,250 old hook road,hackensack meridian health pascack valley medical,nj,westwood,7675
-264,one riverview plaza,riverview medical center,nj,red bank,7701
-265,901 west main street,centrastate medical center,nj,freehold,7728
-266,727 n beers st,bayshore medical center,nj,holmdel,7733
-267,1945 rte 33,jersey shore university medical center,nj,neptune,7754
-268,25 poconoroad,saint clares hospital denville campus,nj,denville,7834
-269,175 high st,newton medical center,nj,newton,7860
-270,19 prospect st,summit oaks hospital,nj,summit,7901
-271,99 beauvoir avenue,overlook medical center,nj,summit,7902
-272,40 watchung way,cornerstone behavioral health hospital of union co,nj,berkeley heights,7922
-273,59 koch avenue,greystone park psych hosp,nj,greystone park,7950
-274,200 trenton road,deborah heart and lung center,nj,browns mills,8015
-275,ancora branch,ancora psych hosp,nj,hammonton,8037
-276,100 bowmandrive,virtua west jersey hospitals voorhees,nj,voorhees,8043
-277,218a sunset road,virtua willingboro hospital,nj,willingboro,8046
-278,1140 rt 72w,southern ocean medical center,nj,manahawkin,8050
-279,600 pembertonbrownsmills road,aspen hills healthcare center,nj,pemberton,8068
-280,310 woodstown road,salem medical center,nj,salem,8079
-281,509 n broad st,inspira medical center woodbury,nj,woodbury,8096
-282,two stoneharbor blvd,cape regional medical center inc,nj,cape may court house,8210
-283,100 medical center way,shore medical center,nj,somers point,8244
-284,1505 w sherman ave,inspira medical center vineland,nj,vineland,8360
-285,1925 pacific avenue,atlanticare regional medical center  city campus,nj,atlantic city,8401
-286,252 route601,hackensack meridian health carrier clinic,nj,belle mead,8502
-287,one capital way,capital health medical center  hopewell,nj,pennington,8534
-288,station a,trenton psychiatric hosp,nj,trenton,8625
-289,600 riverave,monmouth medical centersouthern campus,nj,lakewood,8701
-290,65 james street,jfk medical ctr  anthony m yelencsics community,nj,edison,8818
-291,2100 wescott drive,hunterdon medical center,nj,flemington,8822
-292,671 hoes lane west,university behavioral health care,nj,piscataway,8854
-293,530 new brunswick ave,raritan bay medical center perth amboy division,nj,perth amboy,8861
-294,185 roseberry st,st lukes warren hospital,nj,phillipsburg,8865
-295,200 somerset street,childrens specialized hospital,nj,new brunswick,8901
-296,first avenue at 16thstreet,mount sinai beth israel,ny,new york,10003
-297,230 secondave,n y eye and ear infirmary,ny,new york,10003
-298,550 firstavenue,nyu langone hospitals,ny,new york,10016
-299,535 east 70th street,hospital for special surgery,ny,new york,10021
-300,1230 yorkavenue,rockefeller university hospital,ny,new york,10021
-301,1901 firstavenue,metropolitan hospital center,ny,new york,10029
-302,one gustave l levy place,mount sinai hospital,ny,new york,10029
-303,722 w 168th st,new york state psychiatric institute,ny,new york,10032
-304,wards island,manhattan psychiatric center,ny,new york,10035
-305,506 lenoxavenue,harlem hospital center,ny,new york,10037
-306,525 east 68th street,new yorkpresbyterian hospitalnew york weill corn,ny,new york,10065
-307,777 seaview ave,south beach psychiatric center,ny,staten island,10305
-308,475 seaview avenue,staten island university hospital,ny,staten island,10305
-309,1276 fulton avenue,bronxlebanon hospital center,ny,bronx,10456
-310,1500 waters place,bronx psychiatric center,ny,bronx,10461
-311,1400 pelham parkwaysouth,jacobi medical center,ny,bronx,10461
-312,111 east 210th street,montefiore medical center,ny,bronx,10467
-313,3424 kossuth avenue 210th street,north central bronx hospital,ny,bronx,10467
-314,670 stoneleigh avenue,putnam hospital center,ny,carmel,10512
-315,800 crossriver rd,four winds,ny,katonah,10536
-316,400 east main street,northern westchester hospital,ny,mount kisco,10549
-317,95 bradhurst avenue,blythedale childrens hospital,ny,valhalla,10595
-318,41 east post r0ad,white plains hospital center,ny,white plains,10601
-319,976 northbroadway,st johns riverside hospital,ny,yonkers,10701
-320,16 guion place,montefiore new rochelle hospital,ny,new rochelle,10802
-321,707 east main street,orange regional medical center,ny,middletown,10940
-322,box 158 route 17m,mid hudson forensic psychiatric ctr,ny,new hampton,10958
-323,160 northmidland avenue,nyack hospital,ny,nyack,10960
-324,2 first ave,rockland childrens psychiatric center,ny,orangeburg,10962
-325,15 maple avenue 19,st anthony community hospital,ny,warwick,10990
-326,900 washington rd,keller ach west point,ny,west point,10996
-327,300 community drive,north shore university hospital,ny,manhasset,11030
-328,121 dekalbavenue,brooklyn hospital center  downtown campus,ny,brooklyn,11201
-329,451 clarkson avenue,kings county hospital center,ny,brooklyn,11203
-330,445 lenoxroad,university hospital of brooklyn  downstate ,ny,brooklyn,11203
-331,760 broadway,woodhull medical  mental health center,ny,brooklyn,11206
-332,1 brookdale plaza,brookdale hospital medical center,ny,brooklyn,11212
-333,1545 atlantic avenue,interfaith medical center,ny,brooklyn,11213
-334,506 sixthstreet,new yorkpresbyterian brooklyn methodist hospital,ny,brooklyn,11215
-335,4802 tenthavenue,maimonides medical center,ny,brooklyn,11219
-336,2525 kingshighway,new york community hospital of brooklyn inc,ny,brooklyn,11229
-337,374 stockholm street,wyckoff heights medical center,ny,brooklyn,11237
-338,45th avenue and parsons boulevard,flushing hospital medical center,ny,flushing,11355
-339,89th avenue and vanwyck expressway,jamaica hospital medical center,ny,jamaica,11418
-340,8268 164th street,queens hospital center,ny,jamaica,11432
-341,259 firststreet,nyu winthrop hospital,ny,mineola,11501
-342,2201 hempstead turnpike,nassau university medical center,ny,east meadow,11554
-343,1000 northvillage avenue,mercy medical center,ny,rockville centre,11570
-344,one healthy way,mount sinai south nassau,ny,oceanside,11572
-345,327 beach19th street,st johns episcopal hospital at south shore,ny,far rockaway,11691
-346,301 east main street,southside hospital,ny,bay shore,11706
-347,998 crooked hill road,pilgrim psychiatric center,ny,west brentwood,11717
-348,101 hospital road,long island community hospital,ny,patchogue,11772
-349,75 north country road,john t mather memorial hospital of port jefferson,ny,port jefferson,11777
-350,50 route 25a,st catherine of siena hospital,ny,smithtown,11787
-351,health sciences center suny,stony brook university hospital,ny,stony brook,11794
-352,1000 montauk highway,good samaritan hospital medical center,ny,west islip,11795
-353,427 guy park avenue,st marys healthcare,ny,amsterdam,12010
-354,178 grandview drive,cobleskill regional hospital,ny,cobleskill,12043
-355,2215 burdett avenue,samaritan hospital,ny,troy,12180
-356,1300 massachusetts avenue,samaritan hospitalst marys campus,ny,troy,12180
-357,43 new scotland avenue mail code 34,albany medical center hospital,ny,albany,12208
-358,315 southmanning boulevard,st peters hospital,ny,albany,12208
-359,1101 nottstreet,ellis hospital,ny,schenectady,12308
-360,396 broadway,healthalliance hospital broadway campus,ny,kingston,12401
-361,10 healthyway,ellenville regional hospital,ny,ellenville,12428
-362,42084 state highway28,margaretville memorial hospital,ny,margaretville,12455
-363,71 prospect avenue,columbia memorial hospital,ny,hudson,12534
-364,70 duboisstreet,st lukes cornwall hospital,ny,newburgh,12550
-365,6511 springbrook avenue,northern dutchess hospital,ny,rhinebeck,12572
-366,68 harrisbushvilleroad,catskill regional medical center,ny,harris,12742
-367,160 east main street,bon secours community hospital,ny,port jervis,12771
-368,30 crescent ave,four winds of saratoga,ny,saratoga springs,12866
-369,75 beekmanstreet,champlain valley physicians hospital medical ctr,ny,plattsburgh,12901
-370,75 park street,elizabethtown community hospital,ny,elizabethtown,12932
-371,133 park street,alice hyde medical center,ny,malone,12953
-372,17 lansingstreet,auburn community hospital,ny,auburn,13021
-373,134 homeravenue,guthrie cortland regional medical center,ny,cortland,13045
-374,736 irvingavenue,crouse hospital,ny,syracuse,13210
-375,620 madison street,hutchings psychiatric ctr,ny,syracuse,13210
-376,750 east adams street,university hospital s u n y health science center,ny,syracuse,13210
-377,150 broadstreet,community memorial hospital inc,ny,hamilton,13346
-378,140 burwell street,little falls hospital,ny,little falls,13365
-379,7785 northstate street,lewis county general hospital,ny,lowville,13367
-380,321 genesee street,oneida health hospital,ny,oneida,13421
-381,1500 northjames street,rome memorial hospital inc,ny,rome,13440
-382,1400 noyesst,mohawk valley psychiatric center,ny,utica,13502
-383,1656 champlin avenue,faxtonst lukes healthcare,ny,utica,13503
-384,830 washington street,samaritan medical center,ny,watertown,13601
-385,4 fuller street,river hospital clinics,ny,alexandria bay,13607
-386,77 west barney street,gouverneur hospital,ny,gouverneur,13642
-387,214 king street,claxtonhepburn medical center,ny,ogdensburg,13669
-388,50 leroy street,cantonpotsdam hospital,ny,potsdam,13676
-389,one nortonavenue,aurelia osborn fox memorial hospital,ny,oneonta,13820
-390,1 titus place,delaware valley hospital inc,ny,walton,13856
-391,425 robinson st,greater binghamton health center,ny,binghamton,13901
-392,169 riverside drive,our lady of lourdes memorial hospital inc,ny,binghamton,13905
-393,529 central avenue,brooks memorial hospital,ny,dunkirk,14048
-394,5300 military road,mount st marys hospital and health center,ny,lewiston,14092
-395,224 east main street,bertrand chaffee hospital,ny,springville,14141
-396,100 high street,kaleida health,ny,buffalo,14210
-397,2157 mainstreet,sisters of charity hospital,ny,buffalo,14214
-398,462 griderstreet,erie county medical center,ny,buffalo,14215
-399,565 abbottroad,mercy hospital of buffalo,ny,buffalo,14220
-400,1010 east west road,western ny childrens psychiatric center,ny,west seneca,14224
-401,621 tenthstreet,niagara falls memorial medical center,ny,niagara falls,14302
-402,350 parrish street,f f thompson hospital,ny,canandaigua,14424
-403,2 coulterroad,clifton springs hospital and clinic,ny,clifton springs,14432
-404,111 clarabarton street,nicholas h noyes memorial hospital,ny,dansville,14437
-405,1000 southavenue,highland hospital,ny,rochester,14620
-406,435 east henrietta road,monroe community hospital,ny,rochester,14620
-407,1600 southave,rochester psychiatric center,ny,rochester,14620
-408,1555 longpond road,unity hospital of rochester,ny,rochester,14626
-409,140 west main street,cuba memorial hospital inc,ny,cuba,14727
-410,515 main street,olean general hospital,ny,olean,14760
-411,7571 stateroute 54,ira davenport memorial hospital inc,ny,bath,14810
-412,1 guthriedrive,corning hospital,ny,corning,14830
-413,101 datesdrive,cayuga medical center at ithaca,ny,ithaca,14850
-414,220 steuben street,schuyler hospital inc,ny,montour falls,14865
-415,191 northmain street,jones memorial hospital,ny,wellsville,14895
-416,washingtonst,elmira psych center,ny,elmira,14901
-417,600 roe avenue,arnot ogden medical center,ny,elmira,14905
-418,1000 dutchridge road,heritage valley beaver,pa,beaver,15009
-419,25 heckelroad,ohio valley general hospital,pa,mckees rocks,15136
-420,2570 haymaker road,forbes hospital,pa,monroeville,15146
-421,320 east north avenue,allegheny general hospital,pa,pittsburgh,15212
-422,300 halketstreet,magee womens hospital of upmc health system,pa,pittsburgh,15213
-423,200 lothrop street,upmc presbyterian shadyside,pa,pittsburgh,15213
-424,815 freeport road,upmc st margaret,pa,pittsburgh,15215
-425,1400 locust street,upmc mercy,pa,pittsburgh,15219
-426,225 penn avenue 2ndfloor,lifecare behavioral health hospital,pa,pittsburgh,15221
-427,one childrens hospital drive,upmc childrens hospital of pittsburgh,pa,pittsburgh,15224
-428,4800 friendship avenue,west penn hospital,pa,pittsburgh,15224
-429,100 trichdrive,advanced surgical hospital,pa,washington,15301
-430,350 bonaravenue,washington health system greene,pa,waynesburg,15370
-431,225 southcenter avenue,upmc somerset,pa,somerset,15501
-432,10455 lincoln highway,upmc bedford memorial,pa,everett,15537
-433,200 hospital drive,conemaugh meyersdale medical center,pa,meyersdale,15552
-434,532 west pittsburghstreet,excela health westmoreland hospital,pa,greensburg,15601
-435,one mellonway,excela health latrobe hospital,pa,latrobe,15650
-436,508 southchurch street,excela health frick hospital,pa,mount pleasant,15666
-437,81 hillcrest drive,punxsutawney area hospital,pa,punxsutawney,15767
-438,100 hospital road,penn highlands brookville,pa,brookville,15825
-439,1086 franklin street,conemaugh memorial medical center,pa,johnstown,15905
-440,110 northmain street,upmc horizon,pa,greenville,16125
-441,631 northbroad street ext,grove city medical center,pa,grove city,16127
-442,740 east state street,sharon regional health system,pa,sharon,16146
-443,one noltedrive,acmh hospital,pa,kittanning,16201
-444,751 liberty street,meadville medical center,pa,meadville,16335
-445,100 fairfield drive,upmc northwest,pa,seneca,16346
-446,965 shamrock lane,lecom health corry memorial hospital,pa,corry,16407
-447,5515 peachstreet,millcreek community hospital,pa,erie,16509
-448,232 west 25th street,saint vincent hospital,pa,erie,16544
-449,201 statestreet,upmc hamot,pa,erie,16550
-450,620 howardavenue,upmc altoona,pa,altoona,16601
-451,290 haidaavenue,conemaugh miners medical center,pa,hastings,16646
-452,1225 warmsprings ave,penn highlands huntindon,pa,huntingdon,16652
-453,105 nasondrive,conemaugh nason medical center,pa,roaring spring,16673
-454,1800 eastpark ave,mount nittany medical center,pa,state college,16803
-455,3236 central avenue,upmc susquehanna soldiers  sailors,pa,wellsboro,16901
-456,1001 eastsecond street,upmc cole,pa,coudersport,16915
-457,275 guthrie drive,troy community hospital,pa,troy,16947
-458,503 north21st street,holy spirit hospital,pa,camp hill,17011
-459,500 university drive,milton s hershey medical center,pa,hershey,17033
-460,283 southbutler road,philhaven hospital,pa,mt gretna,17064
-461,2501 norththird street,pennsylvania psychiatric institute,pa,harrisburg,17110
-462,112 northseventh street,chambersburg hospital,pa,chambersburg,17201
-463,601 roxbury road,roxbury treatment center,pa,shippensburg,17257
-464,501 east main st,waynesboro hospital,pa,waynesboro,17268
-465,147 gettysstreet,gettysburg hospital,pa,gettysburg,17325
-466,1861 powder mill rd,oss orthopaedic hospital,pa,york,17402
-467,1701 innovation drive,upmc memorial,pa,york,17408
-468,169 martinavenue,wellspan ephrata community hospital,pa,ephrata,17522
-469,1500 highlands drive,upmc lititz,pa,lititz,17543
-470,333 harrisburg avenue,lancaster behavioral health hospital,pa,lancaster,17603
-471,700 high street,williamsport regional medical center,pa,williamsport,17701
-472,215 east water street,upmc susquehanna muncy,pa,muncy,17756
-473,1001 pinestreet,bucktail medical center,pa,renovo,17764
-474,549 east fair street,geisingerbloomsburg hospital,pa,bloomsburg,17815
-475,50 kirkbride drive,danville state hospital,pa,danville,17821
-476,one hospital drive,evangelical community hospital,pa,lewisburg,17837
-477,801 ostrumstreet,st lukes hospital bethlehem,pa,bethlehem,18015
-478,2310 highland avenue,coordinated health orthopedic hospital,pa,bethlehem,18017
-479,1872 st lukes blvd,st lukes hospital  anderson campus,pa,easton,18045
-480,135 lafayette avenue,palmerton hospital,pa,palmerton,18071
-481,1200 southcedar crest boulevard,lehigh valley hospital,pa,allentown,18105
-482,700 east broad street,lehigh valley hospital  hazleton,pa,hazleton,18201
-483,206 east brown street,lehigh valley hospital  pocono,pa,east stroudsburg,18301
-484,100 st lukes lane,st lukes hospital  monroe campus,pa,stroudsburg,18360
-485,1451 hillside drive,clarks summit state hospital,pa,clarks summit,18411
-486,746 jefferson avenue,regional hospital of scranton,pa,scranton,18501
-487,700 quincyavenue,moses taylor hospital,pa,scranton,18510
-488,5950 stateroute 6 west,tyler memorial hospital,pa,tunkhannock,18657
-489,562 wyoming avenue,first hospital of wyoming valley,pa,kingston,18704
-490,1000 eastmountain boulevard,geisinger wyoming valley medical center,pa,wilkes barre,18711
-491,2872 turnpike street,barneskasson county hospital,pa,susquehanna,18847
-492,1021 parkavenue,st lukes quakertown hospital,pa,quakertown,18951
-493,700 lawn avenue,grand view hospital,pa,sellersville,18960
-494,1200 old york road,abington memorial hospital,pa,abington,19001
-495,722 east butler pike,horsham clinic,pa,ambler,19002
-496,501 bath road,lower bucks hospital,pa,bristol,19007
-497,130 southbryn mawrave,main line hospital bryn mawr campus,pa,bryn mawr,19010
-498,one medical center boulevard,crozer chester medical center,pa,upland,19013
-499,501 northlansdowneave,delaware county memorial hospital,pa,drexel hill,19026
-500,7170 lafayette avenue,brooke glen behavioral hospital,pa,fort washington,19034
-501,1648 huntingdon pike,holy redeemer hospital and medical center,pa,meadowbrook,19046
-502,280 middletown road,barix clinics of pennsylvania,pa,langhorne,19047
-503,230 northbroad street,hahnemann university hospital,pa,philadelphia,19102
-504,34th st civic center blvd,childrens hospital of philadelphia,pa,philadelphia,19104
-505,34th  spruce sts,hospital of univ of pennsylvania,pa,philadelphia,19104
-506,51 north 39th street,penn presbyterian medical center,pa,philadelphia,19104
-507,3551 n broad street,shriners hospitals for children  philadelphia,pa,philadelphia,19104
-508,111 south11th street,thomas jefferson university hospital,pa,philadelphia,19107
-509,840 walnutstreet,wills eye hospital,pa,philadelphia,19107
-510,7600 central avenue,jeanes hospital,pa,philadelphia,19111
-511,136 w diamond street,kensington hospital,pa,philadelphia,19122
-512,561 fairthorne avenue,fairmount behavioral health system,pa,philadelphia,19128
-513,5800 ridgeave,roxborough memorial hospital,pa,philadelphia,19128
-514,3301 scotts lane four falls building,haven behavioral hospital of philadelphia,pa,philadelphia,19129
-515,3401 northbroad street,temple university hospital,pa,philadelphia,19140
-516,5501 old york road,albert einstein medical center,pa,philadelphia,19141
-517,2601 holmeave,nazareth hospital,pa,philadelphia,19152
-518,201 reeceville road,brandywine hospital,pa,coatesville,19320
-519,701 east marshall street,chester county hospital,pa,west chester,19380
-520,1001 sterigere street,norristown state hospital,pa,norristown,19401
-521,2701 dekalb pike,suburban community hospital,pa,norristown,19401
-522,559 west germantownpike,einstein medical center montgomery,pa,east norriton,19403
-523,50 beech drive,montgomery county emergency service inc,pa,norristown,19403
-524,100 medical campus drive,lansdale hospital,pa,lansdale,19446
-525,140 nutt road,phoenixville hospital,pa,phoenixville,19460
-526,454 enterprise drive,physicians care surgical hospital,pa,royersford,19468
-527,160 main street,wernersville state hospital,pa,wernersville,19565
-528,2500 bernville road,st joseph medical center,pa,reading,19605
-529,2752 century boulevard,surgical institute of reading,pa,wyomissing,19610
-530,420 s 5thavenue,reading hospital,pa,west reading,19611
-531,4755 ogletownstanton road,christiana care health services inc,de,newark,19718
-532,1901 n dupont highway,delaware psychiatric center,de,new castle,19720
-533,7th and clayton sts,st francis hospital,de,wilmington,19805
-534,1600 rockland rd pobox 269,alfred i dupont hospital for children,de,wilmington,19899
-535,725 horsepond road,dover behavioral health system,de,dover,19901
-536,21655 biden avenue,sun behavioral delaware llc,de,georgetown,19947
-537,100 wellness way,bayhealth hospital sussex campus,de,milford,19963
-538,801 middleford rd,nanticoke memorial hospital,de,seaford,19973
-539,110 irvingst nw,medstar washington hospital center,dc,washington,20010
-540,4228 wisconsin avenue nw,psychiatric institute of washington dc,dc,washington,20016
-541,5255 loughboro rd nw,sibley memorial hospital,dc,washington,20016
-542,1310 southern avenuese,united medical center,dc,washington,20032
-543,900 23rd st nw,george washington univ hospital,dc,washington,20037
-544,8700 sudley rd,novant health uva prince william medical center,va,manassas,20110
-545,24440 stone springsboulevard,stonesprings hospital center,va,dulles,20166
-546,7300 van dusen road,university of md laurel regional hospital,md,laurel,20707
-547,3001 hospital drive,umd prince georges hospital ctr,md,cheverly,20785
-548,9901 medical centerdrive,adventist healthcare shady grove medical center,md,rockville,20850
-549,12100 plumorchard drive,adventist healthcare white oak medical center,md,silver spring,20904
-550,1500 forest glen road,holy cross hospital,md,silver spring,20910
-551,5755 cedarlane,howard county general hospital,md,columbia,21044
-552,5401 old court road,northwest hospital center,md,randallstown,21133
-553,827 lindenavenue,university of md medical center midtown campus,md,baltimore,21201
-554,301 saintpaul place,mercy medical center inc,md,baltimore,21202
-555,7601 oslerdrive,university of md st joseph medical center,md,towson,21204
-556,707 northbroadway,kennedy krieger institute,md,baltimore,21205
-557,2434 westbelvedereavenue,levindale hebrew geriatric center and hospital,md,baltimore,21209
-558,1708 westrogers avenue,mount washington pediatric hospital,md,baltimore,21209
-559,201 east universityparkway,medstar union memorial hospital,md,baltimore,21218
-560,2000 w baltimore street,bon secours hospital,md,baltimore,21223
-561,4940 eastern avenue,johns hopkins bayview medical center,md,baltimore,21224
-562,3001 southhanover street,medstar harbor hospital,md,baltimore,21225
-563,5601 lochraven boulevard,medstar good samaritan hospital,md,baltimore,21239
-564,600 northwolfe street,johns hopkins hospital the,md,baltimore,21287
-565,2001 medical parkway,anne arundel medical center,md,annapolis,21401
-566,10102 country club road postoffice box 1722,thomas b finan center,md,cumberland,21502
-567,251 northfourth street,garrett county memorial hospital,md,oakland,21550
-568,219 southwashingtonstreet,umd shore medical center at easton,md,easton,21601
-569,post office box 800,eastern shore hospital center,md,cambridge,21613
-570,100 brownstreet,umd shore medical ctr at chestertown,md,chestertown,21620
-571,13215 brook lane drive,brook lane health services,md,hagerstown,21742
-572,11116 medical campusroad,meritus medical center,md,hagerstown,21742
-573,6655 sykesville road,springfield hospital center,md,sykesville,21784
-574,100 east carroll avenue,peninsula regional medical center,md,salisbury,21801
-575,9733 healthway drive,atlantic general hospital,md,berlin,21811
-576,201 hall highway,edward mccready memorial hospital,md,crisfield,21817
-577,3600 joseph siewickdrive,inova fair oaks hospital,va,fairfax,22033
-578,2300 opitzboulevard,sentara northern virginia medical center,va,woodbridge,22191
-579,1701 northgeorge mason drive,virginia hospital center,va,arlington,22205
-580,2501 parkers lane,inova mount vernon hospital,va,alexandria,22306
-581,1001 sam perry boulevard,mary washington hospital inc,va,fredericksburg,22401
-582,4600 spotsylvania parkway,spotsylvania regional medical center,va,fredericksburg,22408
-583,101 harrisroad,rappahannock general hospital,va,kilmarnock,22482
-584,101 hospital centerboulevard,stafford hospital llc,va,stafford,22554
-585,1840 amherst st,winchester medical center,va,winchester,22601
-586,2010 health campus drive,sentara rmh medical center,va,harrisonburg,22801
-587,500 marthajeffersondrive,martha jefferson hospital,va,charlottesville,22911
-588,78 medicalcenter drive,augusta health,va,fishersville,22939
-589,7519 hospital road,riverside walter reed hospital,va,gloucester,23061
-590,13710 st francis boulevard,bon secours st francis medical center,va,midlothian,23114
-591,9407 cumberland road,cumberland hospital llc,va,new kent,23124
-592,5483 mooretown road,the pavilion at williamsburg place,va,williamsburg,23188
-593,1602 skipwith road,henrico doctors hospital,va,richmond,23229
-594,7101 jahnke road,cjw medical center,va,richmond,23235
-595,20480 market street,riverside shore memorial hospital,va,onancock,23417
-596,2800 godwin boulevard,sentara obici hospital,va,suffolk,23439
-597,601 childrens lane,childrens hospital of the kings daughters inc,va,norfolk,23507
-598,600 gresham dr,sentara norfolk general hospital,va,norfolk,23507
-599,500 j clyde morris blvd,riverside regional medical center,va,newport news,23601
-600,633 mdg 77nealy ave,1st medical group langley afb,va,langley,23665
-601,3000 coliseum drive,sentara careplex hospital,va,hampton,23666
-602,3636 highstreet,bon secours maryview medical center,va,portsmouth,23707
-603,620 john paul jonescircle,nmc portsmouth,va,portsmouth,23708
-604,350 poplardrive pobox 3060,poplar springs hospital,va,petersburg,23805
-605,200 medical park boulevard,southside regional medical center,va,petersburg,23805
-606,411 west randolph road,john randolph medical center,va,hopewell,23860
-607,800 oak street,southside community hospital inc,va,farmville,23901
-608,1755 northmecklenburg avenue,community memorial hospital,va,south hill,23970
-609,1906 belleview avenue se,carilion roanoke memorial hospital,va,roanoke,24014
-610,180 floydavenue,carilion franklin memorial hospital,va,rocky mount,24151
-611,16000 johnston memorial drive,johnston memorial hospital,va,abingdon,24211
-612,2400 lee highway,lewisgale hospital pulaski,va,pulaski,24301
-613,245 medical park drive,smyth county community hospital,va,marion,24354
-614,340 bagleycircle,southwestern virginia mental health institute,va,marion,24354
-615,1301 richmond road,western state hospital,va,staunton,24402
-616,106 park drive po drawer z,bath community hospital,va,hot springs,24445
-617,1 health circle,carilion stonewall jackson hospital,va,lexington,24450
-618,one arh lane  po box 7,lewisgale hospital alleghany,va,low moor,24457
-619,1901 tatesprings road,centra health inc,va,lynchburg,24501
-620,382 taylordrive,southern virginia mental health institute,va,danville,24541
-621,142 southmain street,sovah health danville,va,danville,24541
-622,1535 slatecreek road,buchanan general hospital,va,grundy,24614
-623,6801 governor gc perry highway,clinch valley medical center,va,richlands,24641
-624,388 ben bolt avenue,carilion tazewell community hospital,va,tazewell,24651
+100002,371 de diego ave,hospital san francisco,pr,san juan,923
+100003,36 clintonstreet,new hampshire hosppsych unit,nh,concord,3301
+100004,36 clintonstreet,new hampshire hosppsych unit,nh,concord,3301
+100005,36 clintonst,new hampshire psychiatric hospital,mh,concordia,3304
+100006,36 clintonst,new hampshire psychiatric hospital,mh,concordia,3304
+100007,123 andover road,spring harbor hospital,me,westbrook,4092
+100008,123 andover road,spring harbor hospital,me,westbrook,4092
+100009,189 storrsrd,natchaug hospital,ct,mansfield center,6250
+100010,201 lyonsave,newark beth israel medical center,nj,newark,7112
+100011,140 nutt road,phoenixville hospital,pa,phoenixville,19460
+100012,2500 bernville road,st joseph medical center,pa,reading,19605
+100013,12100 plumorchard drive,adventist healthcare white oak medical center,md,silver spring,20904
+100014,1708 westrogers avenue,mount washington pediatric hospital,md,baltimore,21209
+100015,post office box 800,eastern shore hospital center,md,cambridge,21613
+100016,po box 59,maria parham medical center,nc,henderson,27536
+100017,617 doctors street,alleghany county memorial hospital,nc,sparta,28675
+100018,caller boxc268,cherokee indian hospital authority,nc,cherokee,28719
+100019,400 palmetto healthparkway,prisma health baptist parkridge,sc,columbia,29212
+100020,302 university parkway,aiken regional medical center,sc,aiken,29801
+100021,4480 51west street,suncoast health center,fl,brandenton,32130
+100022,5200 ne 2nd ave,hospital of douglas gardens,fl,miami florida,32237
+100023,6601 central floridaparkway,central florida behavioral hospital,fl,orlando,32821
+100024,5200 ne 2nd ave,douglas gardens hospital,fl,miami,33137
+100025,410 s 11thst,adventhealth lake wales,fl,lake wales,33853
+100026,4480 51stst w,suncoast behavioral health center,fl,bradenton,34210
+100027,4480 51ststreet west,suncoast psychiatric center,fl,bradenton,34210
+100028,4480 51ststreet west,suncoast psychiatric center,fl,bradenton,34210
+100029,751 derbydrive,hill hospital of sumter county,al,york,36925
+100030,81 mdg 301fisher st suite 109,81st medical group keesler afb,ms,biloxi,39530
+100031,8613 ms hwy 12,choctaw regional medical center,ms,ackerman,39735
+100032,8613 ms hwy 12,choctaw regional medical center,ms,ackerman,39735
+100033,100 medical center drive,hazard arh regional medical center,ky,hazard,41701
+100034,1 perkinssquare,akron childrens hospital,oh,akron,44308
+100035,1015 michigan ave,four county counseling center,in,logansport,46947
+100036,600 wilsoncreek rd,highpoint health,in,lawrenceburg,47025
+100037,920 southoak street,hansen family hospital,ia,iowa falls,50126
+100038,509 northmadison street,davis county hospital,ia,bloomfield,52537
+100039,45 west 10th street,st josephs hospital,mn,saint paul,55102
+100040,621 3rd sts,frances mahon deaconess hospital,mt,glasgow,59230
+100041,2701 w 68th street,holy cross hospital,il,chicago,60629
+100042,200 fairman street,iroquois memorial hospital,il,watseka,60970
+100043,1000 n main st,choate mental health  development ctr,il,anna,62906
+100044,1000 n main st,choate mental health  development ctr,il,anna,62906
+100045,1201 pinestreet,ferrell hospital community foundations,il,eldorado,62930
+100046,one childrens place,st louis childrens hospital,mo,saint louis,63110
+100047,one childrens place,st louis childrens hospital,mo,saint louis,63110
+100048,220 west second street,goodland regional medical center,ks,goodland,67735
+100049,220 west second street,goodland regional medical center,ks,goodland,67735
+100050,312 youngsville highway,compass behavioral center of lafayette,la,lafayette,70508
+100051,600 north7th street,woodridge behavioral center,ar,west memphis,72301
+100052,600 n7th st,woodridge psychotherapy cntr,ar,w memphis,72501
+100053,intersection hyws 81 70,jefferson county hospital,ok,waurika,73573
+100054,18951 memorial north,memorial hermann northeast hospital,tx,humble,77338
+100055,720 hospital drive,permian regional medical center andrews county ho,tx,andrews,79714
+100056,303 northallumbaughstreet,intermountain hospital,id,boise,83704
+100057,303 northallumbaughstreet,intermountain hospital,id,boise,83704
+100058,8800 westemerald street,treasure valley hospital,id,boise,83704
+100059,state route 264 south 191,sage memorial hospital,az,ganado,86505
+100060,state rt264 south 191,the sage memorial hsp,az,ganado,86505
+100061,300 wilsonstreet,union county general hospital,nm,clayton,88415
+100062,2801 atlantic avenue,memorial care miller childrens  womens hosp lb,ca,long beach,90806
+100063,564 e pioneer drive,pioneer memorial hospital,or,heppner,97836
+100064,3955 156thst ne,smokey point behavioral hospital,wa,marysville,98271
+100065,3475 northsaratogastreet,nh oak harbor,wa,oak harbor,98277

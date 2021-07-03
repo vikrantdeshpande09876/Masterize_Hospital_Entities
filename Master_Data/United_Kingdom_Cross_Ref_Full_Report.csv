@@ -1,7 +1,0 @@
-SR_NUM_1,SR_NUM_2,SITE_NAME_1,SITE_NAME_2,SITE_NAME_COMPARISON_SCORE,STATE_1,STATE_2,STATE_COMPARISON_SCORE,CITY_1,CITY_2,CITY_COMPARISON_SCORE,CONCAT_ADDRESS_1,CONCAT_ADDRESS_2,CONCAT_ADDRESS_COMPARISON_SCORE,POSTAL_CODE_1,POSTAL_CODE_2,POSTAL_CODE_COMPARISON_SCORE,NUM_OF_MATCHES_FOUND
-13946,13946,University Hospital Waterford,University Hospital Waterford,1.0,Dublin,Dublin,1.0,Waterford,Waterford,1.0,Dunmore Road,Dunmore Road,3.0,9,9,1.0,7.0
-13947,13947,Aberdeen Royal Infirmary - PPDS,Aberdeen Royal Infirmary - PPDS,1.0,,,1.0,Aberdeen,Aberdeen,1.0,Foresterhill Road,Foresterhill Road,3.0,AB25 2ZA,AB25 2ZA,1.0,7.0
-13948,13947,Aberdeen Royal Infirmary - PPDS,Aberdeen Royal Infirmary - PPDS,1.0,,,0.0,Aberdeen,Aberdeen,1.0,Foresterhill Road,Foresterhill Road,3.0,AB25 2ZA,AB25 2ZA,1.0,6.0
-13949,13949,Aberdeen Royal Infirmary,Aberdeen Royal Infirmary,1.0,Scotland,Scotland,1.0,Aberdeen,Aberdeen,1.0,Haematology day unitForesterhill Road,Haematology day unitForesterhill Road,3.0,AB25 2ZN,AB25 2ZN,1.0,7.0
-13950,13950,Aberdeen Royal Infirmary - PPDS,Aberdeen Royal Infirmary - PPDS,1.0,Aberdeen City,Aberdeen City,1.0,,,1.0,,,3.0,AB25 2ZN,AB25 2ZN,1.0,7.0
-13951,13951,Aberdeen Royal Infirmary - PPDS,Aberdeen Royal Infirmary - PPDS,1.0,Aberdeen City,Aberdeen City,1.0,,,1.0,,,3.0,AB25 2ZN,AB25 2ZN,1.0,7.0
