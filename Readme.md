@@ -71,7 +71,7 @@ The following observations were taken by considering minibatches of size 5,000, 
 
 
 ### For additional notes on the project and repository, please refer to: 
-[Masterize_data_Text_similarity_scores](/Documentation/Research_Paper_Work/Masterize_data_Text_similarity_scores.pdf)
+[Masterize_data_Text_similarity_scores.pdf](/Documentation/Research_Paper_Work/Masterize_data_Text_similarity_scores.pdf)
 
 
 
@@ -81,24 +81,24 @@ The following observations were taken by considering minibatches of size 5,000, 
 
 2.	Install Python (This repo was built on 3.8.1 but is compatible with 2.5x): [Python](https://www.python.org/downloads/)
 
-3.	Set up Jupyter Notebook using [Anaconda](https://www.anaconda.com/products/individual) or [Visual Studio Code](https://code.visualstudio.com/download) (VS Code has a Jupyter Notebook extension now)
+3.	Download this repository: [Masterize_Hospital_Entities](https://github.com/vikrantdeshpande09876/Masterize_Hospital_Entities)
 
-4.	Set up Spark and Pyspark: [Apache PySpark for Windows 10](https://towardsdatascience.com/installing-apache-pyspark-on-windows-10-f5f0c506bea1)
+4.	Set up Jupyter Notebook using [Anaconda](https://www.anaconda.com/products/individual) or [Visual Studio Code](https://code.visualstudio.com/download) (VS Code has a Jupyter Notebook extension now)
+
+5.	Set up Spark and Pyspark: [Apache PySpark for Windows 10](https://towardsdatascience.com/installing-apache-pyspark-on-windows-10-f5f0c506bea1)
 	Note- There seems to be a known issue with Apache Spark and latest Java versions, I have used OpenJDK 13.0.2
 
-5.	Install R and R-studio (This repo was built on 4.0.4 but is compatible with 3.4x): [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/)
+6.	Install R and R-studio (This repo was built on 4.0.4 but is compatible with 3.4x): [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/)
 	Note- We'll use the x86 version of R within R-Studio; reason mentioned in the following step.
 
-6.	Set up R-tools for working with binaries of the levenshtein.c for fast text-comparison: [Rtools40](https://cran.r-project.org/bin/windows/Rtools/)
-	Note- To generate the binaries from the levenshtein.c file, you need to switch into the 32-bit mode of R (x86), and then run the following first command in shell.
+7.	Set up R-tools for working with binaries of the levenshtein.c for fast text-comparison: [Rtools40](https://cran.r-project.org/bin/windows/Rtools/)
+	Note- To generate the binaries from the levenshtein.c file, you need to switch into the 32-bit mode of R (x86), and then run the first command in shell.
 	Then the R-script will be able to load the binary file during runtime as follows:
 ```
 > R CMD SHLIB levenshtein.c
 
 >> dyn.load('levenshtein.dll') for Windows or '.so' for Linux
 ```
-
-7.	Download this repository: [Masterize_Hospital_Entities](https://github.com/vikrantdeshpande09876/Masterize_Hospital_Entities)
 
 8.	Create a virtual environment for making a copy of your system-wide Python interpreter, in the directory for this repo:
 ```
