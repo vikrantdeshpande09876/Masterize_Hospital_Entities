@@ -77,64 +77,54 @@ The following observations were taken by considering minibatches of size 5,000, 
 
 ## Step-by-step guide to setup this data-pipeline
 
-<ol>
-<li>Install GIT (This repo used 2.25.1 on Windows-10): [Git](https://git-scm.com/downloads)</li>
+1.	Install GIT (This repo used 2.25.1 on Windows-10): [Git](https://git-scm.com/downloads)
 
-<li>Install Python (This repo was built on 3.8.1 but is compatible with 2.5x): [Python](https://www.python.org/downloads/)</li>
+2.	Install Python (This repo was built on 3.8.1 but is compatible with 2.5x): [Python](https://www.python.org/downloads/)
 
-<li>Download this repository: [Masterize_Hospital_Entities](https://github.com/vikrantdeshpande09876/Masterize_Hospital_Entities)</li>
+3.	Download this repository: [Masterize_Hospital_Entities](https://github.com/vikrantdeshpande09876/Masterize_Hospital_Entities)
 
-<li>Set up Jupyter Notebook using [Anaconda](https://www.anaconda.com/products/individual) or [Visual Studio Code](https://code.visualstudio.com/download) (VS Code has a Jupyter Notebook extension now)</li>
+4.	Set up Jupyter Notebook using [Anaconda](https://www.anaconda.com/products/individual) or [Visual Studio Code](https://code.visualstudio.com/download) (VS Code has a Jupyter Notebook extension now)
 
-<li>Set up Spark and Pyspark: [Apache PySpark for Windows 10](https://towardsdatascience.com/installing-apache-pyspark-on-windows-10-f5f0c506bea1)
-	Note- There seems to be a known issue with Apache Spark and latest Java versions, I have used OpenJDK 13.0.2</li>
+5.	Set up Spark and Pyspark: [Apache PySpark for Windows 10](https://towardsdatascience.com/installing-apache-pyspark-on-windows-10-f5f0c506bea1)
+	Note- There seems to be a known issue with Apache Spark and latest Java versions, I have used OpenJDK 13.0.2
 
-<li>Install R and R-studio (This repo was built on 4.0.4 but is compatible with 3.4x): [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/)
-	Note- We'll use the x86 version of R within R-Studio; reason mentioned in the following step.</li>
+6.	Install R and R-studio (This repo was built on 4.0.4 but is compatible with 3.4x): [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/)
+	Note- We'll use the x86 version of R within R-Studio; reason mentioned in the following step.
 
-<li>
-    <ul>
-    <li>Set up R-tools for working with binaries of the levenshtein.c for fast text-comparison: [Rtools40](https://cran.r-project.org/bin/windows/Rtools/)</li>
-	<li>Note- To generate the binaries from the levenshtein.c file, you need to switch into the 32-bit mode of R (x86), and then run the first command in shell.</li>
-    <li>Then the R-script will be able to load the binary file during runtime as follows:</li>
-    </ul>
-</li>
+7.	Set up R-tools for working with binaries of the levenshtein.c for fast text-comparison: [Rtools40](https://cran.r-project.org/bin/windows/Rtools/)
+	Note- To generate the binaries from the levenshtein.c file, you need to switch into the 32-bit mode of R (x86), and then run the first command in shell.
+	Then the R-script will be able to load the binary file during runtime as follows:
 ```
 > R CMD SHLIB levenshtein.c
 
 >> dyn.load('levenshtein.dll') for Windows or '.so' for Linux
 ```
 
-
-<li>Create a virtual environment for making a copy of your system-wide Python interpreter, in the directory for this repo:</li>
+8.	Create a virtual environment for making a copy of your system-wide Python interpreter, in the directory for this repo:
 ```
 > python -m venv masterdataenv
 ```
 
-<li>Activate this virtual environment. You need not perform step#4 each time for execution:</li>
+9.	Activate this virtual environment. You need not perform step#4 each time for execution:
 ```
 > masterdataenv\Scripts\activate
 ```
 
-<li>Install the application-specific dependencies by executing:</li>
+10.	Install the application-specific dependencies by executing:
 ```
 > pip install -r requirements.txt
 ```
 
+11.	Set up your input data in **_hospital_account_info_raw.csv_** with the expected structure.
 
-<li>Set up your input data in **_hospital_account_info_raw.csv_** with the expected structure.
-</li>
-
-<li>Changes within within **_config.py_**:
+12.	Changes within within **_config.py_**:
 <ul>
     <li>Construct your thresholds for individual text-comparison.</li>
     <li>Point the x86 version of R-environment to enable execution of dyn.load('levenshtein.dll') on line #48.</li>
     <li>Switch the binary-extension value on line #57 / #58 based on your system being Windows/Unix.</li>
 </ul>
-</li>
 
-<li>Execute the **_Recursive_Python_Site_Master.py_** script: </li>
+13. Execute the **_Recursive_Python_Site_Master.py_** script:
 ```
 > python Recursive_Python_Site_Master.py > Recursive_Python_Site_Master.log
 ```
-</ol>
