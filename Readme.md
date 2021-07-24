@@ -117,7 +117,7 @@ The following observations were taken by considering minibatches of size 5,000, 
 
 11.	Set up your input data in **_hospital_account_info_raw.csv_** with the expected structure.
 
-12.	Changes within within **_config.py_**:
+12.	Changes within **_config.py_**:
 <ul>
     <li>Construct your thresholds for individual text-comparison.</li>
     <li>Point the x86 version of R-environment to enable execution of dyn.load('levenshtein.dll') on line #48.</li>
