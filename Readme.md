@@ -56,7 +56,7 @@ Stand-alone records in the current minibatch, are those which do not fall in thi
 The final Master-records will be the union of Master-Ids and the Stand-alone Ids identified above.
 <p align="center">
 <img src="/Documentation/Research_Paper_Work/Set_Theory_equations.jpg" height="150" width="300" alt="Set_Theory_equations" />
-<img src="/Documentation/Research_Paper_Work/Set_Theory.jpg" height="400" width="600" alt="Set_Theory" />
+<img src="/Documentation/Research_Paper_Work/Set_Theory.jpg" height="350" width="600" alt="Set_Theory" />
 </p>
 
 v. A recursive algorithmic approach will first pass minibatches of a fixed size into the _dedup_ R-function and generate deduplicated master-datasets.
@@ -118,6 +118,8 @@ The following observations were taken by considering minibatches of size 5,000, 
 11.	Set up your input data in **_hospital_account_info_raw.csv_** with the expected structure.
 
 12.	Construct your thresholds for individual text-comparison within **_config.py_**
+    Point the x86 version of R-environment to enable execution of dyn.load('levenshtein.dll') on line #48.
+    Switch the binary-extension value on line #57 / #58 based on your system being Windows/Unix.
 
 13. Execute the **_Recursive_Python_Site_Master.py_** script:
 ```
