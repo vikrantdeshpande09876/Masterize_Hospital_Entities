@@ -115,7 +115,7 @@ The following observations were taken by considering minibatches of size 5,000, 
 > pip install -r requirements.txt
 ```
 
-11.	Set up your input data in **_hospital_account_info_raw.csv_** with the expected structure.
+11.	Set up your input data in /Data_Files/**_hospital_account_info_raw.csv_** with the expected structure.
 
 12.	Changes within **_config.py_**:
 <ul>
@@ -124,7 +124,8 @@ The following observations were taken by considering minibatches of size 5,000, 
     <li>Switch the binary-extension value on line #57 / #58 based on your system being Windows/Unix.</li>
 </ul>
 
-13. Execute the **_Recursive_Python_Site_Master.py_** script:
+13.	Execute the **_Recursive_Python_Site_Master.py_** script:
 ```
 > python Recursive_Python_Site_Master.py > Recursive_Python_Site_Master.log
 ```
+14.	Your final **Cross-Reference Report** and **Master-Data Report**, both will be created in /Data_Files/Master_Data/ directory.
