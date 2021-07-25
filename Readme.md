@@ -90,7 +90,7 @@ The following observations were taken by considering minibatches of size 5,000, 
 
 5.	Set up Spark and Pyspark: [Apache PySpark for Windows 10](https://towardsdatascience.com/installing-apache-pyspark-on-windows-10-f5f0c506bea1)
 <ul>
-	<li>**Note**- There seems to be a known issue with Apache Spark and latest Java versions, I have used OpenJDK 13.0.2</li>
+	<li><b>Note</b>- There seems to be a known issue with Apache Spark and latest Java versions, I have used OpenJDK 13.0.2</li>
 </ul>
 	
 6.	Install R and R-studio (This repo was built on 4.0.4 but is compatible with 3.4x): [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/)
@@ -98,7 +98,7 @@ The following observations were taken by considering minibatches of size 5,000, 
 
 7.	Set up R-tools for working with binaries of the levenshtein.c for fast text-comparison: [Rtools40](https://cran.r-project.org/bin/windows/Rtools/)
 <ul>
-	<li>**Note**- To generate the binaries from the levenshtein.c file, you need to switch into the 32-bit mode of R (x86), and then run the first command in shell.</li>
+	<li><b>Note</b>- To generate the binaries from the levenshtein.c file, you need to switch into the 32-bit mode of R (x86), and then run the first command in shell.</li>
 	<li>Then the R-script will be able to load the binary file during runtime as follows:</li>
 </ul>
 ```
