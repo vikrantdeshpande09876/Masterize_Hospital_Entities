@@ -83,17 +83,24 @@ The following observations were taken by considering minibatches of size 5,000, 
 
 3.	Download this repository: [Masterize_Hospital_Entities](https://github.com/vikrantdeshpande09876/Masterize_Hospital_Entities)
 
-4.	Set up Jupyter Notebook using [Anaconda](https://www.anaconda.com/products/individual) or [Visual Studio Code](https://code.visualstudio.com/download) (VS Code has a Jupyter Notebook extension now)
+4.	Set up Jupyter Notebook using [Anaconda](https://www.anaconda.com/products/individual) or [Visual Studio Code](https://code.visualstudio.com/download)
+<ul>
+	<li>VS Code has a Jupyter Notebook extension now</li>
+</ul>
 
 5.	Set up Spark and Pyspark: [Apache PySpark for Windows 10](https://towardsdatascience.com/installing-apache-pyspark-on-windows-10-f5f0c506bea1)
-	Note- There seems to be a known issue with Apache Spark and latest Java versions, I have used OpenJDK 13.0.2
-
+<ul>
+	<li>**Note**- There seems to be a known issue with Apache Spark and latest Java versions, I have used OpenJDK 13.0.2</li>
+</ul>
+	
 6.	Install R and R-studio (This repo was built on 4.0.4 but is compatible with 3.4x): [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/)
 	Note- We'll use the x86 version of R within R-Studio; reason mentioned in the following step.
 
 7.	Set up R-tools for working with binaries of the levenshtein.c for fast text-comparison: [Rtools40](https://cran.r-project.org/bin/windows/Rtools/)
-	Note- To generate the binaries from the levenshtein.c file, you need to switch into the 32-bit mode of R (x86), and then run the first command in shell.
-	Then the R-script will be able to load the binary file during runtime as follows:
+<ul>
+	<li>**Note**- To generate the binaries from the levenshtein.c file, you need to switch into the 32-bit mode of R (x86), and then run the first command in shell.</li>
+	<li>Then the R-script will be able to load the binary file during runtime as follows:</li>
+</ul>
 ```
 > R CMD SHLIB levenshtein.c
 
@@ -128,4 +135,5 @@ The following observations were taken by considering minibatches of size 5,000, 
 ```
 > python Recursive_Python_Site_Master.py > Recursive_Python_Site_Master.log
 ```
+
 14.	Your final **Cross-Reference Report** and **Master-Data Report**, both will be created in /Data_Files/Master_Data/ directory.
