@@ -101,6 +101,7 @@ The following observations were taken by considering minibatches of size 5,000, 
 	<li><b>Note</b>- To generate the binaries from the levenshtein.c file, you need to switch into the 32-bit mode of R (x86), and then run the first command in shell.</li>
 	<li>Then the R-script will be able to load the binary file during runtime as follows:</li>
 </ul>
+
 ```
 > R CMD SHLIB levenshtein.c
 
