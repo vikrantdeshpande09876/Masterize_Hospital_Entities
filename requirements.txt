@@ -42,7 +42,7 @@ matplotlib==3.3.3
 matplotlib-inline==0.1.2
 mccabe==0.6.1
 nltk==3.6.6
-numpy==1.19.3
+numpy==1.21.0
 oauthlib==3.1.0
 openpyxl==3.0.3
 opt-einsum==3.3.0
